@@ -1,0 +1,1 @@
+../../../lib/hooks/post-subsidiarity-prompt.sh

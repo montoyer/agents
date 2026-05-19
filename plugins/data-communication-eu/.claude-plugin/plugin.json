@@ -1,0 +1,21 @@
+{
+  "id": "data-communication-eu",
+  "name": "Data & Communication",
+  "version": "1.0.0",
+  "description": "Eurostat data analysis, scoreboard design, press releases, Commissioner speeches, and Commission lines to take.",
+  "claude_md": "CLAUDE.md",
+  "skills": [
+    { "id": "cold-start-interview",   "path": "skills/cold-start-interview/SKILL.md",   "description": "Personalise this plugin to your DG, communication audiences, and data focus areas" },
+    { "id": "data-analyst",           "path": "skills/data-analyst/SKILL.md",           "description": "Eurostat data extraction, indicator design, scoreboards, data notes, visualisation" },
+    { "id": "communication-officer",  "path": "skills/communication-officer/SKILL.md",  "description": "Press releases, lines to take, Commissioner speeches, social media, briefings" },
+    { "id": "lines-to-take-drafter", "path": "skills/lines-to-take-drafter/SKILL.md", "description": "Draft complete LTT packages — friendly/neutral/hostile Q&A, no-go zones, background facts, clearance tracking" }
+  ],
+  "hooks": {
+    "post_output": "hooks/post-output-disclaimer.sh"
+  },
+  "connectors": [
+    "eurostat",
+    "rapid",
+    "eu-open-data-portal"
+  ]
+}

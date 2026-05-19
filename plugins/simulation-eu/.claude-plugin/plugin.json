@@ -1,0 +1,26 @@
+{
+  "id": "simulation-eu",
+  "name": "EU Institutional Simulation",
+  "version": "1.0.0",
+  "description": "Multi-agent simulation of EU institutional processes: Commissioner personas, College deliberation, inter-service consultation, trilogue, and the full Ordinary Legislative Procedure.",
+  "claude_md": "CLAUDE.md",
+  "skills": [
+    { "id": "commissioner",              "path": "skills/commissioner/SKILL.md",              "description": "Invoke any of 21 Commissioner personas — speaks from treaty mandate, priorities, tensions" },
+    { "id": "college-deliberation",      "path": "skills/college-deliberation/SKILL.md",      "description": "Full College of Commissioners meeting — all 21 speak, President calls vote, outcome recorded" },
+    { "id": "inter-service-consultation","path": "skills/inter-service-consultation/SKILL.md", "description": "ISC round — lead DG circulates, all affected DGs respond, synthesis note produced" },
+    { "id": "trilogue",                  "path": "skills/trilogue/SKILL.md",                  "description": "Inter-institutional trilogue — EP/Council/Commission negotiate via four-column document" },
+    { "id": "legislative-cycle",         "path": "skills/legislative-cycle/SKILL.md",         "description": "Full OLP from Commission initiative to OJ publication — chains all six phases" },
+    { "id": "european-parliament",       "path": "skills/european-parliament/SKILL.md",       "description": "EP counter-party agent — committee, rapporteur, group dynamics, amendments, plenary vote" },
+    { "id": "council-eu",                "path": "skills/council-eu/SKILL.md",                "description": "Council counter-party agent — configuration, QMV arithmetic, general approach, Presidency mandate" }
+  ],
+  "hooks": {
+    "post_output": "hooks/post-output-disclaimer.sh"
+  },
+  "knowledge": [
+    "knowledge/commissioners",
+    "knowledge/dgs",
+    "knowledge/institutions",
+    "knowledge/agents",
+    "knowledge/workflows"
+  ]
+}

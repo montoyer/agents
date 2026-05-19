@@ -1,0 +1,1 @@
+../../../lib/hooks/pre-legal-basis-check.sh

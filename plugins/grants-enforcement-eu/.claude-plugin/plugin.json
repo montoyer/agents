@@ -1,0 +1,25 @@
+{
+  "id": "grants-enforcement-eu",
+  "name": "Grants, Procurement & Enforcement",
+  "version": "1.0.0",
+  "description": "Horizon Europe grant management, infringement procedures (Arts. 258–260 TFEU), and public procurement under the Financial Regulation.",
+  "claude_md": "CLAUDE.md",
+  "skills": [
+    { "id": "cold-start-interview",  "path": "skills/cold-start-interview/SKILL.md",  "description": "Personalise this plugin to your programme, member state portfolio, or procurement type" },
+    { "id": "grant-manager",         "path": "skills/grant-manager/SKILL.md",         "description": "Horizon Europe MGA management, payment assessment, financial corrections" },
+    { "id": "infringement-officer",  "path": "skills/infringement-officer/SKILL.md",  "description": "Arts. 258–260 TFEU procedure — EU Pilot, LFN, RO, CJEU referral, Art. 260 penalties" },
+    { "id": "procurement-expert",    "path": "skills/procurement-expert/SKILL.md",    "description": "FR 2018/1046 procurement — framework contracts, tender evaluation, award decisions" },
+    { "id": "lfn-drafter",          "path": "skills/lfn-drafter/SKILL.md",          "description": "Draft Art. 258 TFEU Letters of Formal Notice — non-transposition, incorrect transposition, misapplication" },
+    { "id": "transposition-tracker","path": "skills/transposition-tracker/SKILL.md","description": "Track and assess directive transposition across 27 MS — status table, conformity, escalation" },
+    { "id": "infringement",         "path": "skills/infringement/SKILL.md",         "description": "Art. 258–260 TFEU infringement assessment — type classification, procedural stage, penalty estimate" }
+  ],
+  "hooks": {
+    "post_output": "hooks/post-output-disclaimer.sh"
+  },
+  "connectors": [
+    "eur-lex",
+    "ted-ojeu",
+    "f-and-t-portal",
+    "chap"
+  ]
+}
