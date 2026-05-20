@@ -45,6 +45,10 @@ The goal is not satire. It is a serious attempt to simulate how the EU Commissio
 agents-for-EU/
 ├── CLAUDE.md                       ← how to operate this system
 ├── ARCHITECTURE.md                 ← design rationale & extension guide
+├── CONTRIBUTING.md                 ← how to extend the system
+├── CONNECTORS.md                   ← MCP connector catalogue
+├── QUICKSTART.md                   ← 5-minute onboarding guide
+├── SKILL.md                        ← SKILL.md authoring standard
 ├── marketplace.json                ← plugin registry for /plugin install
 │
 ├── plugins/                        ← installable skill packages
@@ -53,27 +57,41 @@ agents-for-EU/
 │   ├── institutional-management-eu/← Unit management, HR, finance, CDR
 │   ├── trade-eu/                   ← Trade defence instruments
 │   ├── grants-enforcement-eu/      ← Grants, infringement, procurement
-│   └── data-communication-eu/      ← Data analysis, press, speeches
+│   ├── data-communication-eu/      ← Data analysis, press, speeches
+│   ├── simulation-eu/              ← Commissioner personas, College, trilogue, OLP
+│   └── privacy-eu/                 ← DPIA workflow, DPO, IT security, legal officer
 │       Each contains:
 │           CLAUDE.md               ← domain practice profile
 │           .claude-plugin/         ← plugin.json manifest
 │           skills/<name>/SKILL.md  ← individual skills
+│           skills/cold-start-interview/ ← plugin onboarding skill
 │           hooks/                  ← symlinks to lib/hooks/
+│           references/             ← reference documents loaded by skills
 │
 ├── knowledge/                      ← EU institutional knowledge base
-│   ├── commissioners/              ← 21 Commissioner agent definitions
-│   ├── dgs/                        ← Directorate-General operational agents
-│   ├── institutions/               ← Counter-party agents (EP, Council, ECJ…)
-│   ├── workflows/                  ← End-to-end policy processes
-│   └── agents/                     ← Multi-agent session definitions
+│   ├── commissioners/              ← 21 Commissioner agent definitions + _template.md
+│   ├── dgs/                        ← 17 Directorate-General operational agents
+│   ├── institutions/               ← Counter-party agents (EP, Council, ECJ, ECB, EEAS, European Council)
+│   ├── workflows/                  ← End-to-end policy processes (legislative-cycle, policy-cycle)
+│   └── agents/                     ← Multi-agent session definitions (college, ISC, trilogue, DPIA, EDPS)
 │
 ├── lib/                            ← Shared technical assets
 │   ├── hooks/                      ← Event hook shell scripts
+│   │   ├── post-output-disclaimer.sh
+│   │   ├── post-subsidiarity-prompt.sh
+│   │   ├── post_tool_use_citation_matcher.sh
+│   │   ├── post_tool_use_eurlex_resolver.sh
+│   │   └── pre-legal-basis-check.sh
 │   └── legacy-skills/              ← Pre-SKILL.md flat skills (pending conversion)
 │
 └── docs/                           ← Guides and reference material
+    ├── getting-started.md
+    ├── glossary.md
     ├── using-skills-beginners-guide.md
-    └── examples/                   ← Worked simulations
+    └── examples/                   ← Worked end-to-end simulations
+        ├── ai-act-simulation/
+        ├── green-deal-package/
+        └── migration-policy/
 ```
 
 ---
