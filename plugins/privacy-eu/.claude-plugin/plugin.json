@@ -1,0 +1,46 @@
+{
+  "id": "privacy-eu",
+  "name": "Data Protection & Privacy",
+  "version": "1.0.0",
+  "description": "DPIA workflow under Regulation (EU) 2018/1725 (EUDPR). Covers DPO oversight, IT architecture description, security threat modelling, legal basis assessment, and EDPS prior consultation determination for EU institutions, bodies, offices, and agencies.",
+  "claude_md": "CLAUDE.md",
+  "skills": [
+    {
+      "id": "cold-start-interview",
+      "path": "skills/cold-start-interview/SKILL.md",
+      "description": "Personalise this plugin to your DG, processing activity, and working language"
+    },
+    {
+      "id": "dpia",
+      "path": "skills/dpia/SKILL.md",
+      "description": "Full DPIA under Art. 39 EUDPR — multi-agent: DPO, IT-PM, IT Security, Legal Officer, EDPS prior-consultation determination"
+    },
+    {
+      "id": "dpo",
+      "path": "skills/dpo/SKILL.md",
+      "description": "DPO persona — Art. 39 threshold screening, risk sign-off, register of processing activities, Art. 40 referral decision"
+    },
+    {
+      "id": "it-project-manager",
+      "path": "skills/it-project-manager/SKILL.md",
+      "description": "IT Project Manager — system architecture, data flows, third-party processors, ROPA record, retention schedule"
+    },
+    {
+      "id": "it-security",
+      "path": "skills/it-security/SKILL.md",
+      "description": "IT Security Officer — CIA threat model, TIA for non-EU cloud/AI providers, security measures, residual risk rating"
+    },
+    {
+      "id": "legal-officer",
+      "path": "skills/legal-officer/SKILL.md",
+      "description": "Legal Officer (data protection) — legal basis Art. 5(1) EUDPR, necessity, proportionality, special categories, retention justification"
+    }
+  ],
+  "hooks": {
+    "post_output": "hooks/post-output-disclaimer.sh"
+  },
+  "connectors": [
+    "eur-lex",
+    "edps-register"
+  ]
+}

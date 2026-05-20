@@ -58,6 +58,18 @@ Open-ended specialist personas. Adapt to whatever the user asks within their man
 /trade-defence-investigator — Anti-dumping, anti-subsidy, safeguards
 /data-analyst          — Eurostat data extraction and scoreboard design
 /communication-officer — Press releases, speeches, lines to take
+/dpo                   — Data Protection Officer (EUDPR threshold, DPIA sign-off, Art. 40 referral)
+/it-project-manager    — IT architecture, data flows, processors, AI module documentation (DPIA)
+/it-security           — CIA threat model, TIA for non-EU cloud/AI, residual risk (DPIA)
+/legal-officer         — Legal basis Art. 5(1) EUDPR, necessity, proportionality, retention (DPIA)
+```
+
+### DPIA workflow skill (privacy-eu plugin)
+
+Produces a complete Art. 39 EUDPR DPIA by voicing five specialist roles in sequence:
+
+```
+/dpia "<processing activity>"  — Full DPIA: DPO threshold → IT-PM → Legal → IT Security → EDPS determination
 ```
 
 ### Multi-agent simulation skills (simulation-eu plugin)
@@ -124,6 +136,7 @@ These voice multiple institutional actors in sequence:
 | `grants-enforcement-eu` | Grants, Procurement & Enforcement | `grant-manager`, `infringement-officer`, `infringement`, `procurement-expert`, `lfn-drafter`, `transposition-tracker` |
 | `data-communication-eu` | Data & Communication | `data-analyst`, `communication-officer`, `lines-to-take-drafter` |
 | `simulation-eu` | EU Institutional Simulation | `commissioner`, `college-deliberation`, `inter-service-consultation`, `trilogue`, `legislative-cycle`, `european-parliament`, `council-eu` |
+| `privacy-eu` | Data Protection & Privacy | `dpia`, `dpo`, `it-project-manager`, `it-security`, `legal-officer` |
 
 ---
 
