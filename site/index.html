@@ -35,9 +35,9 @@
     /* ── Filter bar ─────────────────────────────────────────────────────────── */
     .filter-bar {
       background: rgba(247, 250, 247, 0.92);
-      border-bottom: 2px solid var(--line);
+      border-bottom: 1px solid var(--line);
       position: sticky;
-      top: 76px; /* below site-header */
+      top: 76px;
       z-index: 90;
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -45,14 +45,12 @@
     .filter-inner {
       max-width: 1280px;
       margin: 0 auto;
-      padding: 10px clamp(20px, 5vw, 76px);
+      padding: 8px clamp(20px, 5vw, 76px);
       display: flex;
-      gap: 7px;
-      overflow-x: auto;
-      scrollbar-width: none;
+      gap: 6px;
       align-items: center;
+      flex-wrap: wrap;
     }
-    .filter-inner::-webkit-scrollbar { display: none; }
     .filter-label {
       font-size: 0.68rem;
       font-weight: 900;
@@ -60,25 +58,47 @@
       letter-spacing: .7px;
       color: var(--quiet);
       white-space: nowrap;
-      margin-right: 4px;
+      margin-right: 2px;
       flex-shrink: 0;
     }
     .pill {
-      padding: 5px 15px;
-      border: 2px solid var(--line);
+      padding: 4px 12px;
+      border: 1px solid var(--line);
       border-radius: 20px;
       background: var(--panel);
       color: var(--muted);
-      font-size: 0.77rem;
-      font-weight: 700;
+      font-size: 0.75rem;
+      font-weight: 600;
       cursor: pointer;
       white-space: nowrap;
       transition: all .12s;
       flex-shrink: 0;
       font-family: inherit;
+      line-height: 1.5;
     }
     .pill:hover { border-color: var(--ink); color: var(--ink); }
     .pill.active { background: var(--ink); border-color: var(--ink); color: #fff; }
+
+    /* Mobile: compact select dropdown */
+    .filter-select {
+      display: none;
+      flex: 1;
+      padding: 6px 10px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--panel);
+      color: var(--ink);
+      font-size: 0.85rem;
+      font-family: inherit;
+      font-weight: 600;
+      cursor: pointer;
+      max-width: 260px;
+    }
+    @media (max-width: 640px) {
+      #pills { display: none !important; }
+      .filter-select { display: block; }
+      .filter-label { display: none; }
+    }
 
     /* ── Main area ──────────────────────────────────────────────────────────── */
     .lib-main {
@@ -97,18 +117,16 @@
 
     /* ── Card ───────────────────────────────────────────────────────────────── */
     .prompt-card {
-      border: 2px solid var(--ink);
-      border-top: 5px solid var(--cat-color, var(--blue));
+      border: 1px solid var(--line);
       border-radius: 8px;
       background: var(--panel);
-      box-shadow: 6px 6px 0 rgba(17,24,39,.10);
       display: flex;
       flex-direction: column;
       cursor: pointer;
-      transition: transform .12s, box-shadow .12s;
+      transition: border-color .12s, box-shadow .12s;
       overflow: hidden;
     }
-    .prompt-card:hover { transform: translate(-2px,-2px); box-shadow: 9px 9px 0 rgba(17,24,39,.14); }
+    .prompt-card:hover { border-color: var(--ink); box-shadow: 0 4px 16px rgba(17,24,39,.08); }
     .prompt-card:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
 
     .card-top { padding: 14px 16px 0; }
@@ -347,7 +365,8 @@
 <div class="filter-bar" role="navigation" aria-label="Category filters">
   <div class="filter-inner">
     <span class="filter-label">Filter</span>
-    <div id="pills" style="display:flex;gap:7px;flex-wrap:nowrap"></div>
+    <div id="pills" style="display:contents"></div>
+    <select class="filter-select" id="filter-select" aria-label="Filter by category"></select>
   </div>
 </div>
 
@@ -460,23 +479,34 @@ let ALL = [], activeCat = "all", query = "";
 function buildPills() {
   const cats = [...new Set(ALL.map(p => p.category))].sort();
   const wrap = document.getElementById("pills");
+  const sel = document.getElementById("filter-select");
+
+  const makeOpt = (label, key) => {
+    const o = document.createElement("option");
+    o.value = key; o.textContent = label;
+    sel.appendChild(o);
+  };
 
   const make = (label, key) => {
     const b = document.createElement("button");
     b.className = "pill" + (key === "all" ? " active" : "");
     b.dataset.cat = key;
     b.textContent = label;
-    b.addEventListener("click", () => { activeCat = key; syncPills(); render(); });
+    b.addEventListener("click", () => { activeCat = key; syncPills(); sel.value = key; render(); });
     wrap.appendChild(b);
   };
 
-  make("All", "all");
-  cats.forEach(c => make(c, c));
+  make("All", "all"); makeOpt("All categories", "all");
+  cats.forEach(c => { make(c, c); makeOpt(c, c); });
+
+  sel.addEventListener("change", () => { activeCat = sel.value; syncPills(); render(); });
 }
 
 function syncPills() {
   document.querySelectorAll(".pill").forEach(b =>
     b.classList.toggle("active", b.dataset.cat === activeCat));
+  const sel = document.getElementById("filter-select");
+  if (sel) sel.value = activeCat;
 }
 
 document.getElementById("search").addEventListener("input", e => {
