@@ -34,6 +34,26 @@
       "id": "legal-officer",
       "path": "skills/legal-officer/SKILL.md",
       "description": "Legal Officer (data protection) — legal basis Art. 5(1) EUDPR, necessity, proportionality, special categories, retention justification"
+    },
+    {
+      "id": "it-security-plan",
+      "path": "skills/it-security-plan/SKILL.md",
+      "description": "IT Security Plans Expert — ISP drafting, ISO 27001/CIS Controls mapping, risk register, incident response procedure, NIS2 compliance check"
+    },
+    {
+      "id": "data-breach-officer",
+      "path": "skills/data-breach-officer/SKILL.md",
+      "description": "Data Breach Response Officer — breach assessment, 72-hour EDPS notification (Art. 34 EUDPR), data subject communication (Art. 35), breach register"
+    },
+    {
+      "id": "ropa-drafter",
+      "path": "skills/ropa-drafter/SKILL.md",
+      "description": "RoPA Drafter — Art. 31 EUDPR Record of Processing Activities, legal basis, retention schedule, processor register, DPIA threshold flag"
+    },
+    {
+      "id": "ai-act-officer",
+      "path": "skills/ai-act-officer/SKILL.md",
+      "description": "AI Act Compliance Officer — risk tier classification, prohibited practice check, FRIA (Art. 27), technical documentation, human oversight, conformity assessment"
     }
   ],
   "hooks": {
