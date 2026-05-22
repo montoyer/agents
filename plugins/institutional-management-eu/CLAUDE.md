@@ -35,6 +35,12 @@ ABAC delegation level:  [run cold-start-interview to set]
 | Draft SMART CDR objectives for a staff member | `cdr-drafter` |
 | Write the appraiser's end-year assessment narrative | `cdr-drafter` |
 | Complete the competency assessment section of a CDR | `cdr-drafter` |
+| Draft the unit's Annual Management Plan section | `amp-drafter` |
+| Write the unit's Annual Activity Report contribution | `aar-drafter` |
+| Run an internal selection procedure or design an interview | `selection-board` |
+| Handle a Regulation 1049/2001 access to documents request | `access-to-documents` |
+| Manage a formal Art. 51 SR underperformance procedure | `underperformance-advisor` |
+| Plan the unit's operational budget and monitor execution | `budget-planner` |
 
 ---
 
