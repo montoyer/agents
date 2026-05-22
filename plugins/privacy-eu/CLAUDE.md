@@ -36,6 +36,10 @@ Confidentiality level:        [run cold-start-interview to set — default: NORM
 | Personal data breach response and EDPS notification | `data-breach-officer` |
 | Create or update a Record of Processing Activities | `ropa-drafter` |
 | Classify an AI system under the AI Act, prepare FRIA | `ai-act-officer` |
+| Transfer Impact Assessment for non-EU/EEA data flows | `tia-expert` |
+| Design or review a data retention schedule | `retention-schedule` |
+| Draft a privacy / data protection notice | `privacy-notice-drafter` |
+| Handle a data subject access, erasure, or rights request | `data-subject-rights` |
 
 ---
 

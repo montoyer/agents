@@ -54,6 +54,26 @@
       "id": "ai-act-officer",
       "path": "skills/ai-act-officer/SKILL.md",
       "description": "AI Act Compliance Officer — risk tier classification, prohibited practice check, FRIA (Art. 27), technical documentation, human oversight, conformity assessment"
+    },
+    {
+      "id": "tia-expert",
+      "path": "skills/tia-expert/SKILL.md",
+      "description": "Transfer Impact Assessment Expert — full TIA for third-country transfers, adequacy decisions, SCCs, supplementary measures, Schrems II compliance"
+    },
+    {
+      "id": "retention-schedule",
+      "path": "skills/retention-schedule/SKILL.md",
+      "description": "Retention Schedule Expert — Art. 25 EUDPR storage limitation, retention matrix, sectoral obligations (SR, FR, Horizon), archiving rules, deletion procedures"
+    },
+    {
+      "id": "privacy-notice-drafter",
+      "path": "skills/privacy-notice-drafter/SKILL.md",
+      "description": "Privacy Notice Drafter — Arts. 15–16 EUDPR compliant notices, plain language, layered notices, just-in-time notices, mandatory content checklist"
+    },
+    {
+      "id": "data-subject-rights",
+      "path": "skills/data-subject-rights/SKILL.md",
+      "description": "Data Subject Rights Officer — access, rectification, erasure, restriction, portability, objection — deadlines, exemptions, refusal letters, rights register"
     }
   ],
   "hooks": {
