@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EU Prompt Library — Montoyer</title>
+  <meta name="description" content="Reusable AI prompts for EU Commission work. Copy the trigger for Claude Code, or copy the full prompt for any LLM.">
+  <link rel="stylesheet" href="https://www.montoyer.com/style.css">
+  <style>
+    /* ── Prompt Library supplements (extends style.css) ─────────────────────── */
+
+    /* Search in site-header */
+    .lib-search { flex: 1; max-width: 460px; position: relative; }
+    .lib-search svg { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--quiet); pointer-events: none; }
+    #search {
+      width: 100%;
+      padding: 9px 14px 9px 38px;
+      border: 2px solid var(--line);
+      border-radius: 6px;
+      font-family: inherit;
+      font-size: 0.9rem;
+      background: var(--panel);
+      color: var(--ink);
+      outline: none;
+      box-shadow: 3px 3px 0 rgba(17,24,39,.06);
+      transition: border-color .12s, box-shadow .12s;
+    }
+    #search:focus { border-color: var(--blue); box-shadow: 3px 3px 0 rgba(31,111,235,.16); }
+    #search::placeholder { color: var(--quiet); }
+
+    /* Stat chip in header */
+    .lib-stat { display: flex; align-items: center; gap: 14px; color: var(--muted); font-size: 0.88rem; font-weight: 700; white-space: nowrap; }
+    .lib-stat strong { color: var(--ink); font-size: 1.15rem; font-weight: 900; }
+
+    /* ── Filter bar ─────────────────────────────────────────────────────────── */
+    .filter-bar {
+      background: rgba(247, 250, 247, 0.92);
+      border-bottom: 2px solid var(--line);
+      position: sticky;
+      top: 76px; /* below site-header */
+      z-index: 90;
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
+    .filter-inner {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 10px clamp(20px, 5vw, 76px);
+      display: flex;
+      gap: 7px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      align-items: center;
+    }
+    .filter-inner::-webkit-scrollbar { display: none; }
+    .filter-label {
+      font-size: 0.68rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: .7px;
+      color: var(--quiet);
+      white-space: nowrap;
+      margin-right: 4px;
+      flex-shrink: 0;
+    }
+    .pill {
+      padding: 5px 15px;
+      border: 2px solid var(--line);
+      border-radius: 20px;
+      background: var(--panel);
+      color: var(--muted);
+      font-size: 0.77rem;
+      font-weight: 700;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all .12s;
+      flex-shrink: 0;
+      font-family: inherit;
+    }
+    .pill:hover { border-color: var(--ink); color: var(--ink); }
+    .pill.active { background: var(--ink); border-color: var(--ink); color: #fff; }
+
+    /* ── Main area ──────────────────────────────────────────────────────────── */
+    .lib-main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 28px clamp(20px, 5vw, 76px) 72px;
+    }
+    .results-meta { font-size: 0.82rem; color: var(--muted); font-weight: 700; margin-bottom: 18px; }
+
+    /* ── Prompt grid ────────────────────────────────────────────────────────── */
+    .prompt-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+
+    /* ── Card ───────────────────────────────────────────────────────────────── */
+    .prompt-card {
+      border: 2px solid var(--ink);
+      border-top: 5px solid var(--cat-color, var(--blue));
+      border-radius: 8px;
+      background: var(--panel);
+      box-shadow: 6px 6px 0 rgba(17,24,39,.10);
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+      transition: transform .12s, box-shadow .12s;
+      overflow: hidden;
+    }
+    .prompt-card:hover { transform: translate(-2px,-2px); box-shadow: 9px 9px 0 rgba(17,24,39,.14); }
+    .prompt-card:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
+
+    .card-top { padding: 14px 16px 0; }
+    .badges { display: flex; gap: 5px; flex-wrap: wrap; }
+    .badge {
+      font-size: 0.65rem; font-weight: 900;
+      padding: 2px 8px; border-radius: 4px;
+      text-transform: uppercase; letter-spacing: .3px; line-height: 1.6;
+    }
+    .badge-cat { background: var(--cat-color, var(--blue)); color: #fff; }
+    .badge-adv { background: #fef3e2; color: #92400e; border: 1px solid #fcd34d; }
+    .badge-std { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+    .badge-wf  { background: #f3e8ff; color: #6b21a8; border: 1px solid #ddd6fe; }
+
+    .card-body { padding: 10px 16px; flex: 1; }
+    .card-title { font-size: 1rem; font-weight: 900; color: var(--ink); line-height: 1.25; margin-bottom: 6px; }
+    .card-desc {
+      font-size: 0.8rem; color: var(--muted); line-height: 1.55;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    }
+
+    .card-footer {
+      padding: 10px 16px;
+      border-top: 1.5px solid var(--line);
+      background: var(--paper);
+      display: flex; align-items: center; gap: 8px;
+    }
+    .trigger-chip {
+      flex: 1;
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.73rem;
+      color: var(--blue-dark);
+      background: var(--panel-soft);
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 4px 9px;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .copy-btn {
+      flex-shrink: 0; width: 30px; height: 30px;
+      border: 2px solid var(--line); border-radius: 5px;
+      background: var(--panel); cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      color: var(--muted); transition: all .12s;
+    }
+    .copy-btn:hover { border-color: var(--ink); background: var(--ink); color: #fff; }
+    .copy-btn.done { background: #16a34a; border-color: #16a34a; color: #fff; }
+
+    /* ── Empty state ────────────────────────────────────────────────────────── */
+    .lib-empty { grid-column: 1/-1; text-align: center; padding: 80px 0; color: var(--muted); }
+    .lib-empty-glyph { font-size: 3rem; opacity: .18; margin-bottom: 14px; }
+    .lib-empty h3 { font-size: 1.1rem; color: var(--ink); font-weight: 900; }
+    .lib-empty p { font-size: 0.85rem; margin-top: 4px; }
+
+    /* ── Modal overlay ──────────────────────────────────────────────────────── */
+    .overlay {
+      position: fixed; inset: 0;
+      background: rgba(17,24,39,.52);
+      z-index: 500;
+      display: flex; align-items: center; justify-content: center;
+      padding: 20px;
+      animation: fo .15s ease;
+    }
+    @keyframes fo { from { opacity:0 } to { opacity:1 } }
+
+    .modal {
+      background: var(--panel);
+      border: 3px solid var(--ink);
+      border-radius: 10px;
+      max-width: 640px; width: 100%;
+      max-height: 88vh; overflow-y: auto;
+      box-shadow: 14px 14px 0 rgba(17,24,39,.14);
+      animation: su .18s ease;
+    }
+    @keyframes su { from { transform:translateY(10px); opacity:0 } to { transform:none; opacity:1 } }
+
+    .modal-head {
+      padding: 20px 22px 16px;
+      border-bottom: 2px solid var(--line);
+      display: flex; gap: 12px; align-items: flex-start;
+    }
+    .modal-color-bar { width: 6px; border-radius: 3px; align-self: stretch; flex-shrink: 0; }
+    .modal-titles { flex: 1; }
+    .modal-title { font-size: 1.2rem; font-weight: 900; line-height: 1.25; color: var(--ink); }
+    .modal-sub { font-size: 0.76rem; color: var(--muted); margin-top: 4px; font-family: "SFMono-Regular", Consolas, monospace; }
+    .modal-x {
+      width: 34px; height: 34px;
+      border: 2px solid var(--line); border-radius: 6px;
+      background: transparent; cursor: pointer;
+      font-size: 1rem; color: var(--muted);
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0; font-family: inherit;
+      transition: all .12s;
+    }
+    .modal-x:hover { border-color: var(--ink); background: var(--ink); color: #fff; }
+
+    .modal-body { padding: 20px 22px; }
+    .modal-desc { font-size: 0.9rem; color: var(--muted); line-height: 1.7; margin-bottom: 20px; }
+
+    .msec { margin-bottom: 18px; }
+    .msec-label {
+      font-size: 0.68rem; font-weight: 900;
+      text-transform: uppercase; letter-spacing: .7px;
+      color: var(--quiet); margin-bottom: 8px;
+    }
+
+    /* Claude Code trigger block */
+    .trigger-block {
+      display: flex; align-items: center; gap: 10px;
+      background: var(--code);
+      border: 2px solid var(--ink); border-radius: 7px;
+      padding: 12px 16px;
+      box-shadow: 4px 4px 0 rgba(17,24,39,.12);
+    }
+    .trigger-text {
+      flex: 1;
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.9rem; color: #34d399;
+      word-break: break-all;
+    }
+    .copy-trigger {
+      flex-shrink: 0;
+      border: 2px solid rgba(255,255,255,.22);
+      background: rgba(255,255,255,.07);
+      color: rgba(255,255,255,.85);
+      border-radius: 5px; padding: 6px 14px;
+      font-size: 0.77rem; font-weight: 900;
+      cursor: pointer; font-family: inherit;
+      transition: background .12s; white-space: nowrap;
+    }
+    .copy-trigger:hover { background: rgba(255,255,255,.16); }
+    .copy-trigger.done { background: #16a34a; border-color: #16a34a; color: #fff; }
+
+    /* Full prompt copy block (for any LLM) */
+    .prompt-block {
+      border: 2px solid var(--ink);
+      border-radius: 7px; overflow: hidden;
+      box-shadow: 4px 4px 0 rgba(17,24,39,.10);
+    }
+    .prompt-block-head {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 10px 14px;
+      background: var(--panel-soft);
+      border-bottom: 1.5px solid var(--line);
+    }
+    .prompt-block-meta { }
+    .prompt-block-title { font-size: 0.8rem; font-weight: 900; color: var(--ink); }
+    .prompt-block-hint { font-size: 0.72rem; color: var(--muted); margin-top: 1px; }
+    .copy-prompt-btn {
+      border: 2px solid var(--ink);
+      background: var(--panel); color: var(--ink);
+      border-radius: 5px; padding: 6px 16px;
+      font-size: 0.78rem; font-weight: 900;
+      cursor: pointer; font-family: inherit;
+      transition: all .12s; white-space: nowrap;
+      box-shadow: 3px 3px 0 rgba(17,24,39,.10);
+    }
+    .copy-prompt-btn:hover { background: var(--ink); color: #fff; }
+    .copy-prompt-btn.done { background: #16a34a; border-color: #16a34a; color: #fff; box-shadow: none; }
+    .prompt-preview {
+      padding: 12px 14px;
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 0.74rem; color: var(--muted); line-height: 1.65;
+      max-height: 96px; overflow: hidden;
+      background: var(--paper);
+      white-space: pre-wrap; word-break: break-word;
+      position: relative;
+    }
+    .prompt-preview::after {
+      content: "";
+      position: absolute; bottom: 0; left: 0; right: 0;
+      height: 36px;
+      background: linear-gradient(to bottom, transparent, var(--paper));
+    }
+
+    /* Tags and related */
+    .tag-row { display: flex; flex-wrap: wrap; gap: 6px; }
+    .tag {
+      font-size: 0.72rem; padding: 3px 10px;
+      border: 2px solid var(--line); border-radius: 4px;
+      background: var(--panel); color: var(--muted); font-weight: 700;
+    }
+    .tag-related { cursor: pointer; transition: all .12s; }
+    .tag-related:hover { border-color: var(--ink); background: var(--ink); color: #fff; }
+
+    /* Details grid */
+    .meta-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .meta-key { font-size: 0.68rem; font-weight: 900; text-transform: uppercase; letter-spacing: .5px; color: var(--quiet); }
+    .meta-val { font-size: 0.85rem; color: var(--ink); font-weight: 700; margin-top: 2px; }
+
+    /* ── Responsive ─────────────────────────────────────────────────────────── */
+    @media (max-width: 860px) {
+      .lib-search { max-width: none; }
+      .site-header { flex-wrap: wrap; min-height: auto; }
+    }
+    @media (max-width: 700px) {
+      .prompt-grid { grid-template-columns: 1fr; }
+      .meta-grid { grid-template-columns: 1fr; }
+      .lib-stat .button { display: none; }
+      .modal { max-height: 95vh; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Subtle background (from landing) ──────────────────────────────────── -->
+<div class="space" aria-hidden="true" style="opacity:.5">
+  <div class="eu-field eu-field-a"></div>
+  <div class="eu-ring eu-ring-one" style="opacity:.28">
+    <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+    <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+  </div>
+</div>
+
+<!-- ── Header ────────────────────────────────────────────────────────────── -->
+<header class="site-header">
+  <a class="brand" href="https://www.montoyer.com" aria-label="Back to Montoyer">
+    <img class="brand-mark" src="https://www.montoyer.com/assets/montoyer-logo.webp" alt="Montoyer" width="38" height="38">
+    <span>EU Prompt Library</span>
+  </a>
+
+  <div class="lib-search">
+    <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+    </svg>
+    <input id="search" type="search" placeholder="Search skills, topics, legal basis..." autocomplete="off" spellcheck="false">
+  </div>
+
+  <div class="lib-stat">
+    <span><strong id="total">—</strong> prompts</span>
+    <a class="button" href="https://www.montoyer.com">All agents &rarr;</a>
+  </div>
+</header>
+
+<!-- ── Filter bar ─────────────────────────────────────────────────────────── -->
+<div class="filter-bar" role="navigation" aria-label="Category filters">
+  <div class="filter-inner">
+    <span class="filter-label">Filter</span>
+    <div id="pills" style="display:flex;gap:7px;flex-wrap:nowrap"></div>
+  </div>
+</div>
+
+<!-- ── Main ──────────────────────────────────────────────────────────────── -->
+<main class="lib-main">
+  <p class="results-meta" id="meta" aria-live="polite"></p>
+  <div class="prompt-grid" id="grid" role="list"></div>
+</main>
+
+<!-- ── Modal ─────────────────────────────────────────────────────────────── -->
+<div class="overlay" id="overlay" style="display:none" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+  <div class="modal" id="modal">
+    <div class="modal-head">
+      <div class="modal-color-bar" id="modal-bar"></div>
+      <div class="modal-titles">
+        <div class="modal-title" id="modal-title"></div>
+        <div class="modal-sub" id="modal-sub"></div>
+      </div>
+      <button class="modal-x" id="modal-x" aria-label="Close">&#x2715;</button>
+    </div>
+
+    <div class="modal-body">
+      <p class="modal-desc" id="modal-desc"></p>
+
+      <!-- Path 1: Claude Code -->
+      <div class="msec">
+        <div class="msec-label">Claude Code — trigger command</div>
+        <div class="trigger-block">
+          <span class="trigger-text" id="modal-trigger"></span>
+          <button class="copy-trigger" id="modal-copy-trigger">Copy</button>
+        </div>
+      </div>
+
+      <!-- Path 2: any LLM -->
+      <div class="msec">
+        <div class="msec-label">Any LLM — full prompt text</div>
+        <div class="prompt-block">
+          <div class="prompt-block-head">
+            <div class="prompt-block-meta">
+              <div class="prompt-block-title">Paste into ChatGPT, Gemini, Copilot&hellip;</div>
+              <div class="prompt-block-hint">Persona + workflow instructions, no Claude Code needed</div>
+            </div>
+            <button class="copy-prompt-btn" id="modal-copy-prompt">Copy prompt</button>
+          </div>
+          <div class="prompt-preview" id="modal-prompt-preview"></div>
+        </div>
+      </div>
+
+      <div class="msec" id="msec-tags">
+        <div class="msec-label">Tags</div>
+        <div class="tag-row" id="modal-tags"></div>
+      </div>
+
+      <div class="msec" id="msec-rel">
+        <div class="msec-label">Related skills</div>
+        <div class="tag-row" id="modal-related"></div>
+      </div>
+
+      <div class="msec">
+        <div class="msec-label">Details</div>
+        <div class="meta-grid">
+          <div><div class="meta-key">Output format</div><div class="meta-val" id="m-output"></div></div>
+          <div><div class="meta-key">Difficulty</div><div class="meta-val" id="m-diff"></div></div>
+          <div><div class="meta-key">Role type</div><div class="meta-val" id="m-role"></div></div>
+          <div><div class="meta-key">Plugin</div><div class="meta-val" id="m-plugin"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── Category colours (mirror landing page accent palette) ─────────────────────
+const COLORS = {
+  "Legislative & Policy":              "#1d70b8",
+  "Competition & Legal Service":       "#d4351c",
+  "Institutional Management":          "#626a6e",
+  "Trade Defence":                     "#e35d14",
+  "Grants, Procurement & Enforcement": "#00703c",
+  "Data & Communication":              "#8b1a87",
+  "EU Institutional Simulation":       "#003399",
+  "Data Protection & Privacy":         "#1e293b",
+  "Guided Workflows":                  "#4c2c92",
+};
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let ALL = [], activeCat = "all", query = "";
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+(async () => {
+  try {
+    const r = await fetch("./prompts.json");
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    ALL = data.prompts;
+    document.getElementById("total").textContent = data.count;
+    buildPills();
+    render();
+  } catch {
+    document.getElementById("grid").innerHTML =
+      `<div style="padding:40px;color:var(--red);font-size:.9rem;font-weight:700">
+        Could not load <code>prompts.json</code>.<br>
+        Run <code>python scripts/extract-skills.py</code> first.<br>
+        <small style="color:var(--muted);font-weight:400">Serve with: <code>npx serve site -l 8080</code></small>
+      </div>`;
+  }
+})();
+
+// ── Filters ───────────────────────────────────────────────────────────────────
+function buildPills() {
+  const cats = [...new Set(ALL.map(p => p.category))].sort();
+  const wrap = document.getElementById("pills");
+
+  const make = (label, key) => {
+    const b = document.createElement("button");
+    b.className = "pill" + (key === "all" ? " active" : "");
+    b.dataset.cat = key;
+    b.textContent = label;
+    b.addEventListener("click", () => { activeCat = key; syncPills(); render(); });
+    wrap.appendChild(b);
+  };
+
+  make("All", "all");
+  cats.forEach(c => make(c, c));
+}
+
+function syncPills() {
+  document.querySelectorAll(".pill").forEach(b =>
+    b.classList.toggle("active", b.dataset.cat === activeCat));
+}
+
+document.getElementById("search").addEventListener("input", e => {
+  query = e.target.value.toLowerCase().trim();
+  render();
+});
+
+// ── Filter + render ───────────────────────────────────────────────────────────
+function filtered() {
+  return ALL.filter(p => {
+    if (activeCat !== "all" && p.category !== activeCat) return false;
+    if (!query) return true;
+    const hay = [p.title, p.description, p.trigger, p.category, ...p.tags, ...p.related]
+      .join(" ").toLowerCase();
+    return query.split(/\s+/).every(t => hay.includes(t));
+  });
+}
+
+function render() {
+  const list = filtered();
+  const grid = document.getElementById("grid");
+  const meta = document.getElementById("meta");
+
+  meta.textContent = list.length === ALL.length
+    ? `Showing all ${ALL.length} prompts`
+    : `${list.length} of ${ALL.length} prompts`;
+
+  if (!list.length) {
+    grid.innerHTML =
+      `<div class="lib-empty" role="status">
+        <div class="lib-empty-glyph">&#x25CB;</div>
+        <h3>No prompts found</h3>
+        <p>Try different search terms or clear the category filter.</p>
+      </div>`;
+    return;
+  }
+
+  grid.innerHTML = list.map(cardHTML).join("");
+
+  grid.querySelectorAll(".copy-btn").forEach(btn =>
+    btn.addEventListener("click", e => { e.stopPropagation(); doCopy(btn.dataset.v, btn, false); }));
+
+  grid.querySelectorAll(".prompt-card").forEach(card => {
+    card.addEventListener("click", () => openModal(ALL.find(p => p.id === card.dataset.id)));
+    card.addEventListener("keydown", e => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); card.click(); }
+    });
+  });
+}
+
+// ── Card HTML ─────────────────────────────────────────────────────────────────
+function cardHTML(p) {
+  const col = COLORS[p.category] || "#003399";
+  const diffBadge = p.difficulty === "advanced"
+    ? `<span class="badge badge-adv">Advanced</span>`
+    : `<span class="badge badge-std">Standard</span>`;
+  const wfBadge = p.type === "workflow" ? `<span class="badge badge-wf">Workflow</span>` : "";
+
+  return `
+<article class="prompt-card" data-id="${x(p.id)}" style="--cat-color:${col}" role="listitem" tabindex="0" aria-label="${x(p.title)}">
+  <div class="card-top">
+    <div class="badges">
+      <span class="badge badge-cat">${x(p.category)}</span>
+      ${diffBadge}${wfBadge}
+    </div>
+  </div>
+  <div class="card-body">
+    <div class="card-title">${x(p.title)}</div>
+    <div class="card-desc">${x(p.description)}</div>
+  </div>
+  <div class="card-footer">
+    <span class="trigger-chip" title="${x(p.trigger)}">${x(p.trigger)}</span>
+    <button class="copy-btn" data-v="${x(p.trigger)}" title="Copy Claude Code trigger" aria-label="Copy trigger command">
+      ${iconCopy()}
+    </button>
+  </div>
+</article>`;
+}
+
+// ── Modal ─────────────────────────────────────────────────────────────────────
+function openModal(p) {
+  if (!p) return;
+  const col = COLORS[p.category] || "#003399";
+
+  document.getElementById("modal-bar").style.background = col;
+  document.getElementById("modal-title").textContent = p.title;
+  document.getElementById("modal-sub").textContent = `${p.category}  ·  ${p.plugin}`;
+  document.getElementById("modal-desc").textContent = p.description;
+  document.getElementById("modal-trigger").textContent = p.trigger;
+
+  // Prompt preview (first ~300 chars of body)
+  const preview = (p.prompt_body || "").slice(0, 340);
+  document.getElementById("modal-prompt-preview").textContent = preview;
+
+  document.getElementById("m-output").textContent = (p.output_format || "—").replace(/-/g, " ");
+  document.getElementById("m-diff").textContent = p.difficulty;
+  document.getElementById("m-role").textContent = (p.role || "—").replace(/-/g, " ");
+  document.getElementById("m-plugin").textContent = p.plugin;
+
+  const tagsEl = document.getElementById("modal-tags");
+  const tagsSec = document.getElementById("msec-tags");
+  if (p.tags?.length) {
+    tagsEl.innerHTML = p.tags.map(t => `<span class="tag">${x(t)}</span>`).join("");
+    tagsSec.hidden = false;
+  } else { tagsSec.hidden = true; }
+
+  const relEl = document.getElementById("modal-related");
+  const relSec = document.getElementById("msec-rel");
+  if (p.related?.length) {
+    relEl.innerHTML = p.related.map(r =>
+      `<span class="tag tag-related" onclick="findRelated('${x(r)}')">${x(r)}</span>`
+    ).join("");
+    relSec.hidden = false;
+  } else { relSec.hidden = true; }
+
+  // Wire copy buttons
+  const btnTrigger = document.getElementById("modal-copy-trigger");
+  btnTrigger.textContent = "Copy"; btnTrigger.className = "copy-trigger";
+  btnTrigger.onclick = () => doCopy(p.trigger, btnTrigger, true);
+
+  const btnPrompt = document.getElementById("modal-copy-prompt");
+  btnPrompt.textContent = "Copy prompt"; btnPrompt.className = "copy-prompt-btn";
+  btnPrompt.onclick = () => doCopy(p.prompt_body || p.description, btnPrompt, "prompt");
+
+  document.getElementById("overlay").style.display = "flex";
+  document.getElementById("modal-x").focus();
+  document.body.style.overflow = "hidden";
+}
+
+function closeModal() {
+  document.getElementById("overlay").style.display = "none";
+  document.body.style.overflow = "";
+}
+
+function findRelated(id) {
+  closeModal();
+  document.getElementById("search").value = id;
+  query = id.toLowerCase(); activeCat = "all";
+  syncPills(); render();
+}
+
+document.getElementById("modal-x").addEventListener("click", closeModal);
+document.getElementById("overlay").addEventListener("click", e => { if (e.target === e.currentTarget) closeModal(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+// ── Copy to clipboard ─────────────────────────────────────────────────────────
+function doCopy(text, btn, mode) {
+  navigator.clipboard.writeText(text).then(() => {
+    btn.classList.add("done");
+    if (mode === true)       btn.textContent = "Copied!";
+    else if (mode === "prompt") btn.textContent = "Copied!";
+    else                     btn.innerHTML = iconCheck();
+
+    setTimeout(() => {
+      btn.classList.remove("done");
+      if (mode === true)        btn.textContent = "Copy";
+      else if (mode === "prompt") btn.textContent = "Copy prompt";
+      else                      btn.innerHTML = iconCopy();
+    }, 2000);
+  }).catch(() => {
+    const ta = Object.assign(document.createElement("textarea"), { value: text });
+    Object.assign(ta.style, { position: "fixed", opacity: "0" });
+    document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove();
+  });
+}
+
+// ── Inline SVG icons ──────────────────────────────────────────────────────────
+const iconCopy = () =>
+  `<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+    <rect x="9" y="9" width="13" height="13" rx="2"/>
+    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+  </svg>`;
+const iconCheck = () =>
+  `<svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true">
+    <polyline points="20 6 9 17 4 12"/>
+  </svg>`;
+
+// ── XSS escape ────────────────────────────────────────────────────────────────
+function x(s) {
+  return String(s || "")
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;").replace(/'/g,"&#39;");
+}
+</script>
+</body>
+</html>
