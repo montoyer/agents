@@ -41,6 +41,12 @@ Confidentiality level:  [run cold-start-interview to set — default: NORMALE]
 | Identify cellophane fallacy risk in market definition | `market-definer` |
 | Run the full Art. 107(1) four-limb test + GBER + compatibility workflow | `state-aid-review` |
 | Determine whether notification to the Commission is required | `state-aid-review` |
+| Assess whether a concentration has EU dimension and raises SIEC | `merger-screener` |
+| Design or review merger remedies (structural vs. behavioural) | `merger-screener` |
+| Advise on rights and obligations during a DG COMP dawn raid | `dawn-raid-advisor` |
+| Assert legal professional privilege over documents during inspection | `dawn-raid-advisor` |
+| Assess the Commission's non-contractual liability under Art. 340 TFEU | `eu-liability-advisor` |
+| Assess member state liability under Francovich / Brasserie du Pêcheur | `eu-liability-advisor` |
 
 ---
 

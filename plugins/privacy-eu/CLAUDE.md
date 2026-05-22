@@ -40,6 +40,8 @@ Confidentiality level:        [run cold-start-interview to set — default: NORM
 | Design or review a data retention schedule | `retention-schedule` |
 | Draft a privacy / data protection notice | `privacy-notice-drafter` |
 | Handle a data subject access, erasure, or rights request | `data-subject-rights` |
+| Respond to an EDPS complaint or supervisory inquiry | `edps-complaint-handler` |
+| Build or review an internal AI governance framework | `ai-governance-officer` |
 
 ---
 

@@ -74,6 +74,16 @@
       "id": "data-subject-rights",
       "path": "skills/data-subject-rights/SKILL.md",
       "description": "Data Subject Rights Officer — access, rectification, erasure, restriction, portability, objection — deadlines, exemptions, refusal letters, rights register"
+    },
+    {
+      "id": "edps-complaint-handler",
+      "path": "skills/edps-complaint-handler/SKILL.md",
+      "description": "EDPS Complaint Handler — Art. 57/58 EUDPR supervisory inquiry response, contradictory procedure, remedial action plan, EDPS corrective decision management"
+    },
+    {
+      "id": "ai-governance-officer",
+      "path": "skills/ai-governance-officer/SKILL.md",
+      "description": "AI Governance Officer — AI system register, model cards, governance board ToR, human oversight mechanisms, AI procurement clauses, incident log"
     }
   ],
   "hooks": {

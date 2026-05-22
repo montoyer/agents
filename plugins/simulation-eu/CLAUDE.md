@@ -29,6 +29,8 @@ The skills in this plugin wire those files up as invokable commands.
 | Run the full OLP from proposal to adoption | `/legislative-cycle` |
 | Model the EP committee + plenary position | `/european-parliament` |
 | Model the Council working party + QMV vote | `/council-eu` |
+| Simulate an Advocate General's Opinion at the CJEU | `/advocate-general` |
+| Simulate the Council Presidency chairing a working party or COREPER | `/council-presidency` |
 
 ### Commissioner shortnames
 

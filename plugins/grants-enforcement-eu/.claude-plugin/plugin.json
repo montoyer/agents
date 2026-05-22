@@ -17,7 +17,9 @@
     { "id": "grant-amendment-officer",  "path": "skills/grant-amendment-officer/SKILL.md",  "description": "Grant agreement amendments — budget reallocation, partner withdrawal, period extension, force majeure" },
     { "id": "tender-evaluator",         "path": "skills/tender-evaluator/SKILL.md",         "description": "Tender evaluation — exclusion/selection/award criteria scoring, ALT assessment, evaluation report, debrief letters" },
     { "id": "olaf-referral-advisor",    "path": "skills/olaf-referral-advisor/SKILL.md",    "description": "OLAF referral — fraud indicators, Art. 8 Reg. 883/2013 notification, payment suspension, parallel procedure rules" },
-    { "id": "direct-award-advisor",     "path": "skills/direct-award-advisor/SKILL.md",     "description": "Direct award justification — urgency, sole source, follow-on services, FR Art. 164 exception assessment" }
+    { "id": "direct-award-advisor",       "path": "skills/direct-award-advisor/SKILL.md",       "description": "Direct award justification — urgency, sole source, follow-on services, FR Art. 164 exception assessment" },
+    { "id": "eppo-jurisdiction-advisor",  "path": "skills/eppo-jurisdiction-advisor/SKILL.md",  "description": "EPPO jurisdiction — PIF offences, Reg. 2017/1939, OLAF-EPPO referral, parallel administrative procedure management" },
+    { "id": "cohesion-fund-manager",      "path": "skills/cohesion-fund-manager/SKILL.md",      "description": "Cohesion funds shared management — CPR 2021/1060, financial corrections, n+3 decommitment, closure, audit response" }
   ],
   "hooks": {
     "post_output": "hooks/post-output-disclaimer.sh"

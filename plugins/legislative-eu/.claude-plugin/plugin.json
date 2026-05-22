@@ -20,7 +20,10 @@
     { "id": "legislative-proposal",     "path": "skills/legislative-proposal/SKILL.md",     "description": "Draft complete EU regulation or directive — legal basis, recitals, operative articles, EM" },
     { "id": "treaty-check",             "path": "skills/treaty-check/SKILL.md",             "description": "Legal basis, subsidiarity, proportionality, and Charter rights review — mirrors CLS check" },
     { "id": "better-regulation",        "path": "skills/better-regulation/SKILL.md",        "description": "REFIT regulatory fitness check — five criteria, overall score, simplification opportunities" },
-    { "id": "consultation",             "path": "skills/consultation/SKILL.md",             "description": "Simulate or draft a 12-week public consultation — stakeholder positions, synthesis, Commission response" }
+    { "id": "consultation",                  "path": "skills/consultation/SKILL.md",                  "description": "Simulate or draft a 12-week public consultation — stakeholder positions, synthesis, Commission response" },
+    { "id": "delegated-acts-drafter",        "path": "skills/delegated-acts-drafter/SKILL.md",        "description": "Art. 290 TFEU delegated acts — enabling clause check, DA vs IA classification, scrutiny period, draft act" },
+    { "id": "fundamental-rights-assessor",   "path": "skills/fundamental-rights-assessor/SKILL.md",   "description": "Charter of Fundamental Rights full assessment — Art. 51 scope, Art. 52(1) limitation test, all 54 articles" },
+    { "id": "regulatory-impact-quantifier",  "path": "skills/regulatory-impact-quantifier/SKILL.md",  "description": "CBA/CEA quantification — compliance costs, SME test, OIOO, benefit monetisation, RSB-ready tables" }
   ],
   "hooks": {
     "post_output": "hooks/post-output-disclaimer.sh",

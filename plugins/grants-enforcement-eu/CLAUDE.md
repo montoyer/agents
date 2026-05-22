@@ -47,6 +47,10 @@ F&T Portal access:      [run cold-start-interview to set]
 | Run a tender evaluation and produce the evaluation report | `tender-evaluator` |
 | Assess fraud indicators and refer a case to OLAF | `olaf-referral-advisor` |
 | Justify a direct award / negotiated procedure without publication | `direct-award-advisor` |
+| Assess whether an offence falls within EPPO jurisdiction | `eppo-jurisdiction-advisor` |
+| Manage OLAF-to-EPPO referral and parallel administrative procedure | `eppo-jurisdiction-advisor` |
+| Manage an ERDF / ESF+ / Cohesion Fund programme in shared management | `cohesion-fund-manager` |
+| Apply CPR financial corrections and manage n+3 decommitment risk | `cohesion-fund-manager` |
 
 ---
 

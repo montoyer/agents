@@ -11,7 +11,10 @@
     { "id": "lawyer-legal-service",        "path": "skills/lawyer-legal-service/SKILL.md",        "description": "CLS legal opinions, litigation management, Written Observations, risk assessment" },
     { "id": "gber-screener",              "path": "skills/gber-screener/SKILL.md",              "description": "Screen a measure against GBER categories — all conditions, incentive effect, cumulation" },
     { "id": "market-definer",             "path": "skills/market-definer/SKILL.md",             "description": "Apply SSNIP test, define relevant product and geographic market for Art. 101/102/merger" },
-    { "id": "state-aid-review",          "path": "skills/state-aid-review/SKILL.md",          "description": "Art. 107(1) four-limb test, de minimis, GBER screening, compatibility assessment workflow" }
+    { "id": "state-aid-review",    "path": "skills/state-aid-review/SKILL.md",    "description": "Art. 107(1) four-limb test, de minimis, GBER screening, compatibility assessment workflow" },
+    { "id": "merger-screener",     "path": "skills/merger-screener/SKILL.md",     "description": "EU Merger Regulation — SIEC test, jurisdictional thresholds, Phase I/II, remedies design" },
+    { "id": "dawn-raid-advisor",   "path": "skills/dawn-raid-advisor/SKILL.md",   "description": "Competition inspection defence — LPP claims, employee rights, document log, post-inspection obligations" },
+    { "id": "eu-liability-advisor","path": "skills/eu-liability-advisor/SKILL.md","description": "Art. 340(2) TFEU non-contractual liability — Bergaderm three-limb test, damage assessment, MS Francovich liability" }
   ],
   "hooks": {
     "post_output": "hooks/post-output-disclaimer.sh"

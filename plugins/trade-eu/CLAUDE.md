@@ -33,6 +33,10 @@ Working language(s):    [run cold-start-interview to set — default: EN]
 | Assess a price undertaking offer | `trade-defence-investigator` |
 | Draft or review a Union Interest test | `trade-defence-investigator` |
 | Assess anti-circumvention evidence | `trade-defence-investigator` |
+| Calculate a dumping margin — normal value, export price, Art. 2(10) adjustments | `dumping-margin-calculator` |
+| Apply the lesser duty rule and compare dumping vs. injury margin | `dumping-margin-calculator` |
+| Screen a counterparty or transaction against EU restrictive measures | `sanctions-screener` |
+| Assess asset freeze obligations and derogation options | `sanctions-screener` |
 
 ---
 
