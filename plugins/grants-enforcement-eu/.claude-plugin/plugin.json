@@ -11,7 +11,13 @@
     { "id": "procurement-expert",    "path": "skills/procurement-expert/SKILL.md",    "description": "FR 2018/1046 procurement — framework contracts, tender evaluation, award decisions" },
     { "id": "lfn-drafter",          "path": "skills/lfn-drafter/SKILL.md",          "description": "Draft Art. 258 TFEU Letters of Formal Notice — non-transposition, incorrect transposition, misapplication" },
     { "id": "transposition-tracker","path": "skills/transposition-tracker/SKILL.md","description": "Track and assess directive transposition across 27 MS — status table, conformity, escalation" },
-    { "id": "infringement",         "path": "skills/infringement/SKILL.md",         "description": "Art. 258–260 TFEU infringement assessment — type classification, procedural stage, penalty estimate" }
+    { "id": "infringement",             "path": "skills/infringement/SKILL.md",             "description": "Art. 258–260 TFEU infringement assessment — type classification, procedural stage, penalty estimate" },
+    { "id": "reasoned-opinion-drafter", "path": "skills/reasoned-opinion-drafter/SKILL.md", "description": "Art. 258(2) TFEU Reasoned Opinion — rebuttal of member state observations, maintained allegations, RO drafting" },
+    { "id": "grant-audit-advisor",      "path": "skills/grant-audit-advisor/SKILL.md",      "description": "Grant audit preparation and response — ECA/IAS on-the-spot checks, contradictory procedure, rebuttal notes" },
+    { "id": "grant-amendment-officer",  "path": "skills/grant-amendment-officer/SKILL.md",  "description": "Grant agreement amendments — budget reallocation, partner withdrawal, period extension, force majeure" },
+    { "id": "tender-evaluator",         "path": "skills/tender-evaluator/SKILL.md",         "description": "Tender evaluation — exclusion/selection/award criteria scoring, ALT assessment, evaluation report, debrief letters" },
+    { "id": "olaf-referral-advisor",    "path": "skills/olaf-referral-advisor/SKILL.md",    "description": "OLAF referral — fraud indicators, Art. 8 Reg. 883/2013 notification, payment suspension, parallel procedure rules" },
+    { "id": "direct-award-advisor",     "path": "skills/direct-award-advisor/SKILL.md",     "description": "Direct award justification — urgency, sole source, follow-on services, FR Art. 164 exception assessment" }
   ],
   "hooks": {
     "post_output": "hooks/post-output-disclaimer.sh"

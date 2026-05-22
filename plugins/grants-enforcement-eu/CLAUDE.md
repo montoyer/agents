@@ -41,6 +41,12 @@ F&T Portal access:      [run cold-start-interview to set]
 | Run a conformity assessment (correlation table) for one member state | `transposition-tracker` |
 | Classify an infringement type and recommend the procedural step | `infringement` |
 | Calculate an Art. 260 penalty estimate | `infringement` |
+| Draft a Reasoned Opinion (Art. 258(2) TFEU) — rebut MS observations | `reasoned-opinion-drafter` |
+| Prepare for or respond to an ECA / IAS / Commission grant audit | `grant-audit-advisor` |
+| Manage a grant agreement amendment (budget, partner, period, force majeure) | `grant-amendment-officer` |
+| Run a tender evaluation and produce the evaluation report | `tender-evaluator` |
+| Assess fraud indicators and refer a case to OLAF | `olaf-referral-advisor` |
+| Justify a direct award / negotiated procedure without publication | `direct-award-advisor` |
 
 ---
 
