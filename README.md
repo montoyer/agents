@@ -2,6 +2,24 @@
 
 > Replace the European Commission with a college of AI agents.
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjByaDMyMXFqcmo4aXZxNWVwdHJzbXZlZnN4bWEzNmp3b3g2Z3doeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UqASWHeU91ADUSk5co/giphy.gif" width="520" alt="EU Commission in session"/>
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=montoyer&color=0052cc&style=flat-square&label=views)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/montoyer/agents?style=flat-square&color=gold&label=stars)
+&nbsp;
+![Last Commit](https://img.shields.io/github/last-commit/montoyer/agents?style=flat-square&color=brightgreen&label=last+commit)
+&nbsp;
+![License](https://img.shields.io/github/license/montoyer/agents?style=flat-square&color=lightgrey)
+
+</div>
+
+---
+
 Inspired by [gstack](https://github.com/garrytan/gstack) — which turns Claude Code into a virtual engineering team — **Agents for EU** models the entire European Commission as a structured system of specialized AI agents: one per Commissioner portfolio, backed by Directorate-General agents, wired together through the EU's real legislative and policy workflows.
 
 The goal is not satire. It is a serious attempt to simulate how the EU Commission thinks, deliberates, and produces policy — and to use that simulation as a tool for research, policy drafting, scenario testing, and civic education.
@@ -121,6 +139,26 @@ agents-for-EU/
 ## Status
 
 Early scaffolding. Commissioners and core skills are defined; multi-agent orchestration and tooling are in active development.
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVzbnVxZm95anh5c2gydjBtb3FwMDl5YmFzajloZzZnOHgzNXVlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze27VlwTv7VmoTe/giphy.gif" width="360" alt="The College is deliberating..."/>
+  <br/>
+  <sub><i>The College is deliberating. Stand by.</i></sub>
+</div>
+
+---
+
+## Spread the word
+
+If this project is useful to you — or just makes you smile — help it reach more people.
+
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/montoyer/agents?style=for-the-badge&color=gold&label=⭐%20Star%20this%20repo)](https://github.com/montoyer/agents/stargazers)
+
+</div>
+
+Every star increases the project's visibility and helps researchers, policy wonks, and civic technologists find it. It takes one click and means a lot.
 
 ---
 
