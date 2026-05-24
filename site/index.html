@@ -350,9 +350,10 @@
       margin: 0 auto;
       padding: 18px clamp(20px, 5vw, 76px);
       display: flex;
-      align-items: center;
+      align-items: flex-start;   /* top-align: right col anchors to line 1 of disclaimer */
       justify-content: space-between;
-      gap: 12px;
+      column-gap: 40px;          /* generous horizontal separation between columns */
+      row-gap: 10px;             /* tighter gap when stacked on mobile */
       flex-wrap: wrap;
     }
     .footer-disclaimer {
@@ -360,7 +361,7 @@
       color: var(--quiet);
       line-height: 1.5;
       flex: 1;
-      min-width: 180px;
+      min-width: 220px;
     }
     .footer-right {
       display: flex;
@@ -368,6 +369,7 @@
       gap: 14px;
       flex-shrink: 0;
       font-size: 0.73rem;
+      line-height: 1.5;          /* match disclaimer so first-line baselines align */
     }
     .footer-link {
       font-weight: 700;

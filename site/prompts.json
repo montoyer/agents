@@ -2487,7 +2487,7 @@
     }
   ],
   "footer": {
-    "disclaimer": "Independent project — not an official European Commission product and not affiliated with the European Commission or any EU institution in any way.",
+    "disclaimer": "<strong>Independent project</strong> <br> not an official European Commission product and not affiliated with the European Commission or any EU institution in any way.",
     "website": "https://www.montoyer.com",
     "website_description": "AI agents and prompts for the Brussels quarter",
     "updated": "24/05/2026"
