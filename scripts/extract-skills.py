@@ -276,10 +276,20 @@ def main() -> None:
             errors += 1
 
     OUTPUT_FILE.parent.mkdir(exist_ok=True)
+    now = datetime.now(timezone.utc)
     payload = {
-        "generated": datetime.now(timezone.utc).isoformat(),
+        "generated": now.isoformat(),
         "count": len(prompts),
         "prompts": prompts,
+        "footer": {
+            "disclaimer": (
+                "Independent project — not an official European Commission product "
+                "and not affiliated with the European Commission or any EU institution in any way."
+            ),
+            "website": "https://www.montoyer.com",
+            "website_description": "AI agents and prompts for the Brussels quarter",
+            "updated": now.strftime("%d/%m/%Y"),
+        },
     }
     OUTPUT_FILE.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
 

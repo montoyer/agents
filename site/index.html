@@ -339,6 +339,52 @@
       .lib-stat .button { display: none; }
       .modal { max-height: 95vh; }
     }
+
+    /* ── Footer ─────────────────────────────────────────────────────────────── */
+    .site-footer {
+      border-top: 1px solid var(--line);
+      background: var(--paper);
+    }
+    .footer-inner {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 18px clamp(20px, 5vw, 76px);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .footer-disclaimer {
+      font-size: 0.73rem;
+      color: var(--quiet);
+      line-height: 1.5;
+      flex: 1;
+      min-width: 180px;
+    }
+    .footer-right {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-shrink: 0;
+      font-size: 0.73rem;
+    }
+    .footer-link {
+      font-weight: 700;
+      color: var(--ink);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .footer-link:hover { text-decoration: underline; }
+    .footer-sep { color: var(--line); }
+    .footer-updated {
+      color: var(--quiet);
+      white-space: nowrap;
+      font-family: "SFMono-Regular", Consolas, monospace;
+    }
+    @media (max-width: 600px) {
+      .footer-inner { flex-direction: column; align-items: flex-start; gap: 8px; }
+    }
   </style>
 </head>
 <body>
@@ -386,6 +432,18 @@
   <p class="results-meta" id="meta" aria-live="polite"></p>
   <div class="prompt-grid" id="grid" role="list"></div>
 </main>
+
+<!-- ── Footer ────────────────────────────────────────────────────────────── -->
+<footer class="site-footer" id="site-footer" style="display:none" aria-label="Site footer">
+  <div class="footer-inner">
+    <span class="footer-disclaimer" id="footer-disclaimer"></span>
+    <div class="footer-right">
+      <a class="footer-link" id="footer-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+      <span class="footer-sep" aria-hidden="true">·</span>
+      <span class="footer-updated" id="footer-updated"></span>
+    </div>
+  </div>
+</footer>
 
 <!-- ── Modal ─────────────────────────────────────────────────────────────── -->
 <div class="overlay" id="overlay" style="display:none" role="dialog" aria-modal="true" aria-labelledby="modal-title">
@@ -460,6 +518,7 @@ const COLORS = {
   "Data & Communication":              "#8b1a87",
   "EU Institutional Simulation":       "#003399",
   "Data Protection & Privacy":         "#1e293b",
+  "EU Careers & EPSO":                 "#b45309",
   "Guided Workflows":                  "#4c2c92",
 };
 
@@ -476,6 +535,15 @@ let ALL = [], activeCat = "all", query = "";
     document.getElementById("total").textContent = data.count;
     buildPills();
     render();
+    if (data.footer) {
+      const f = data.footer;
+      document.getElementById("footer-disclaimer").textContent = f.disclaimer;
+      const link = document.getElementById("footer-link");
+      link.href = f.website;
+      link.textContent = f.website_description;
+      document.getElementById("footer-updated").textContent = `Updated ${f.updated}`;
+      document.getElementById("site-footer").style.display = "";
+    }
   } catch {
     document.getElementById("grid").innerHTML =
       `<div style="padding:40px;color:var(--red);font-size:.9rem;font-weight:700">
