@@ -137,6 +137,7 @@ These voice multiple institutional actors in sequence:
 | `data-communication-eu` | Data & Communication | `data-analyst`, `communication-officer`, `lines-to-take-drafter` |
 | `simulation-eu` | EU Institutional Simulation | `commissioner`, `college-deliberation`, `inter-service-consultation`, `trilogue`, `legislative-cycle`, `european-parliament`, `council-eu` |
 | `privacy-eu` | Data Protection & Privacy | `dpia`, `dpo`, `it-project-manager`, `it-security`, `legal-officer` |
+| `careers-eu` | EU Careers & EPSO Preparation | `epso-grade`, `epso-presentation`, `epso-offer` |
 
 ---
 
