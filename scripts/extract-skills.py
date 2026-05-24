@@ -29,9 +29,10 @@ PLUGIN_CATEGORIES = {
     "data-communication-eu": "Data & Communication",
     "simulation-eu": "EU Institutional Simulation",
     "privacy-eu": "Data Protection & Privacy",
+    "careers-eu": "EU Careers & EPSO",
 }
 
-ACRONYMS = {"dpia", "dpo", "cdr", "pmo", "isc", "pq", "lfn", "gber", "eu", "ep", "olaf", "hod"}
+ACRONYMS = {"dpia", "dpo", "cdr", "pmo", "isc", "pq", "lfn", "gber", "eu", "ep", "olaf", "hod", "epso"}
 SKIP_SKILLS = {"cold-start-interview"}
 
 # Sections that are internal/Claude-Code-specific — stop extracting prompt body here

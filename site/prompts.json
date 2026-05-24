@@ -1,7 +1,85 @@
 {
-  "generated": "2026-05-22T23:49:43.853144+00:00",
-  "count": 86,
+  "generated": "2026-05-24T11:22:25.622070+00:00",
+  "count": 89,
   "prompts": [
+    {
+      "id": "epso-grade",
+      "title": "EPSO Grade",
+      "description": "Use when a candidate wants to understand what grade and step they would enter at if successful in an EPSO competition, and what net monthly salary to expect. Takes the competition type (AD5, AD7, AD9, AST3, CAST FG IV, etc.), degree level, years of relevant professional experience, and family situation. Returns: entry grade and step under SR Art. 31–32, gross basic salary from SR Annex I, applicable allowances (household, expatriation, dependent child) under SR Annex VII, standard deductions (community tax Art. 13 Protocol No. 7, JSIS, pension, unemployment), and an indicative net monthly salary. Flags all figures as requiring PMO verification since the SR Annex I pay table is adjusted annually. Also covers grade comparison across function groups (AD, AST, CA), step advancement logic, and the impact of prior EU service on step recognition.",
+      "plugin": "careers-eu",
+      "category": "EU Careers & EPSO",
+      "trigger": "/epso-grade",
+      "tags": [
+        "grade",
+        "step",
+        "salary",
+        "remuneration",
+        "pay",
+        "net salary"
+      ],
+      "role": "specialist",
+      "output_format": "grade-step-salary-sheet",
+      "scope": "grade-step-salary-estimation",
+      "related": [
+        "epso-offer",
+        "cold-start-interview"
+      ],
+      "type": "skill",
+      "difficulty": "standard",
+      "prompt_body": "# EPSO Grade & Salary Estimator\n\nSpecialist in EU Staff Regulations remuneration framework. Calculates indicative\nentry grade, step, and net monthly salary for candidates successful in EPSO\ncompetitions. Applies SR Arts. 31–32 (grade on appointment, step recognition),\nSR Annex I (pay table), SR Annex VII (allowances), and Protocol No. 7 Art. 13\n(community tax). All figures are indicative — PMO is the authoritative calculator\nand the appointing authority makes all binding determinations.\n\n---"
+    },
+    {
+      "id": "epso-offer",
+      "title": "EPSO Offer",
+      "description": "Use when a candidate has received a job offer from an EU institution and wants to understand or verify what it means. Takes the job offer letter (or key details: institution, grade, step, duty station, contract type, family situation) and produces: a plain-language explanation of every term in the offer; a gross-to-net salary breakdown (basic salary, household allowance, expatriation allowance, dependent child allowance, community tax, JSIS, pension); probation period obligations and risks under SR Art. 34; contract type analysis (official indefinite appointment vs. Temporary Agent vs. Contract Agent — duration, renewal, termination conditions); and a checklist of actions to take before signing. Also covers: negotiating steps under Art. 32, education allowance for children abroad, installation allowance, and the impact of duty station on the correction coefficient. Use when a candidate says \"I received a job offer\", \"what does this letter mean\", or \"can I negotiate\".",
+      "plugin": "careers-eu",
+      "category": "EU Careers & EPSO",
+      "trigger": "/epso-offer <brief>",
+      "tags": [
+        "job offer",
+        "offer letter",
+        "grade offer",
+        "step offer",
+        "salary offer",
+        "accept offer"
+      ],
+      "role": "specialist",
+      "output_format": "offer-analysis-sheet, salary-breakdown, pre-signing-checklist",
+      "scope": "job-offer-analysis-salary-breakdown",
+      "related": [
+        "epso-grade",
+        "cold-start-interview"
+      ],
+      "type": "skill",
+      "difficulty": "standard",
+      "prompt_body": "# EU Institution Job Offer Analyser\n\nSpecialist in Staff Regulations (SR) and Conditions of Employment of Other Servants\n(CEOS) remuneration and contract frameworks. Decodes EU institution job offer letters,\nexplains every term in plain language, calculates an indicative gross-to-net salary\nbreakdown, and produces a pre-signing checklist. All salary figures are indicative —\nPMO calculates the binding net salary at the time of appointment.\n\n---"
+    },
+    {
+      "id": "epso-presentation",
+      "title": "EPSO Presentation",
+      "description": "Use when preparing or getting feedback on a 10-minute oral presentation for the EPSO Assessment Centre. Takes a topic, scenario, or candidate draft and produces a structured presentation outline with timing, key messages, and transition cues. Scores any candidate draft against the EPSO Communication competency behavioural indicators (positive and negative). Also covers the 10-minute Q&A phase: anticipates likely panel questions and coaches candidate answers. Covers all AD competition levels (AD5 generalist, AD7 specialist, AD9/12 management). Can also coach on delivery: structure, signposting, managing nerves, and adapting to the panel. Use when a candidate says \"I have an AC oral presentation to prepare\", shares a topic they received, or asks for feedback on a draft presentation.",
+      "plugin": "careers-eu",
+      "category": "EU Careers & EPSO",
+      "trigger": "/epso-presentation <brief>",
+      "tags": [
+        "oral presentation",
+        "AC presentation",
+        "assessment centre presentation",
+        "10-minute presentation",
+        "EPSO presentation",
+        "presentation feedback"
+      ],
+      "role": "coach",
+      "output_format": "presentation-outline, competency-scorecard, qa-preparation",
+      "scope": "assessment-centre-oral-presentation",
+      "related": [
+        "cold-start-interview",
+        "epso-grade"
+      ],
+      "type": "skill",
+      "difficulty": "standard",
+      "prompt_body": "# EPSO Assessment Centre — Oral Presentation Coach\n\nExpert coach for the EPSO Assessment Centre oral presentation exercise.\nProduces structured 10-minute presentation outlines in the register expected\nby EPSO assessors, scores candidate drafts against the Communication\ncompetency indicators, and prepares candidates for the Q&A phase.\n\nThe oral presentation assesses primarily:\n- **Communication** (primary — oral register, structure, clarity, adapting to audience)\n- **Analysis & Problem-Solving** (secondary — logical argument, evidence use)\n- **Delivering Quality & Results** (tertiary — staying within time, clear conclusions)\n\n---\n\n## The EPSO Oral Presentation — Key Facts\n\n| Element | Detail |\n|---|---|\n| Preparation time | 20–30 minutes (varies by competition) |\n| Presentation duration | 10 minutes (strict — panel will stop you) |\n| Q&A duration | 10 minutes |\n| Setting | Panel of 2–3 assessors; no audience |\n| Materials provided | Topic brief (1–2 pages), pen, paper. No laptop. |\n| Visual aids | No slides. Occasional flip chart available — confirm with EPSO. |\n| Topic type | Policy scenario, management situation, or EU current affairs brief |\n| Competencies assessed | Communication (primary), Analysis & Problem-Solving, Delivering Quality & Results |\n\n[model knowledge — verify against the specific competition's AC guide]\n\n---\n\n## EPSO Competency Framework — Relevant Indicators\n\n### Communication (primary competency for oral presentation)\n\n**Positive indicators (what assessors want to see):**\n- Presents information clearly, concisely, and in a well-structured way\n- Adjusts communication style and content to the audience\n- Speaks with confidence and maintains appropriate eye contact\n- Uses concrete examples and evidence to support arguments\n- Responds clearly and directly to questions\n- Manages time effectively within the allocated slot\n\n**Negative indicators (red flags for assessors):**\n- Presents in a disorganised or rambling manner\n- Reads from notes rather than engaging with the panel\n- Uses jargon without explanation, or oversimplifies complex issues\n- Fails to reach a clear conclusion within the time limit\n- Ignores the panel's body language or fails to adapt when prompted\n- Gives vague or evasive answers to Q&A questions\n\n### Analysis & Problem-Solving (secondary)\n\n**Positive indicators:**\n- Identifies the core issue in the brief accurately and quickly\n- Structures analysis logically (problem → options → recommendation)\n- Uses relevant evidence or data points from the brief\n- Acknowledges trade-offs and complexity without being paralysed by it\n- Reaches a clear, reasoned recommendation\n\n**Negative indicators:**\n- Misses the central issue; addresses peripheral points instead\n- Presents options without assessing them\n- Ignores evidence provided in the brief\n- Fails to reach a recommendation\n\n[model knowledge — verify against current EPSO competency framework documentation]\n\n---\n\n## Presentation Architecture — The EC Framework\n\nEPSO assessors are Commission officials. They respond well to the same analytical\nstructure used in Commission briefing notes: problem → context → options → recommendation.\n\n### Standard 10-Minute Structure (approximate timing)\n\n```\n00:00 – 01:00  HOOK & FRAMING\n               One sentence to anchor the topic.\n               State the central question you will answer.\n               Signal the structure: \"I will cover three points: X, Y, Z.\"\n\n01:00 – 02:30  SITUATION / PROBLEM\n               What is the issue? Why does it matter?\n               One or two key facts or figures from the brief.\n               Stakes: what happens if nothing is done?\n\n02:30 – 05:30  ANALYSIS / OPTIONS\n               Two or three policy options, approaches, or dimensions.\n               For each: one positive, one constraint or trade-off.\n               Keep each option to ~60 seconds.\n\n05:30 – 08:30  RECOMMENDATION\n               State your preferred option clearly.\n               Give two or three supporting reasons.\n               Address the main counterargument in one sentence.\n\n08:30 – 09:30  IMPLEMENTATION / NEXT STEPS (if time allows)\n               Who does what? What are the key conditions for success?\n               One concrete, practical step.\n\n09:30 – 10:00  CONCLUSION\n               One sentence summary of the recommendation.\n               Link back to the opening question.\n               Signal that you are done: \"That concludes my presentation.\"\n```\n\n---\n\n## Core Workflow\n\n1. **Read the topic brief** — Identify the central question the panel expects you to answer. The brief is not merely background — it usually contains the analytical framework (pros/cons, stakeholder positions, data). Use it.\n\n2. **Identify the three things you must say** — A 10-minute presentation cannot cover everything. Select the three points that most directly answer the central question. Everything else is cut.\n\n3. **Build the outline** — Using the EC framework above. Write one sentence per section (not bullet points) — this forces clarity.\n\n4. **Time it** — Each section has a target duration. Practise out loud. 10 minutes spoken ≠ 10 minutes read silently. Spoken delivery is typically 130–150 words per minute.\n\n5. **Score against Communication indicators** — Check the draft against the positive/negative indicator list. Flag weak sections.\n\n6. **Anticipate Q&A** — Generate the 3–4 most likely panel questions based on the topic and recommendation. Coach concise, direct answers (60–90 seconds each).\n\n---"
+    },
     {
       "id": "dawn-raid-advisor",
       "title": "Dawn Raid Advisor",
