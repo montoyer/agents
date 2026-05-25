@@ -573,14 +573,14 @@ function buildPills() {
     b.className = "pill" + (key === "all" ? " active" : "");
     b.dataset.cat = key;
     b.textContent = label;
-    b.addEventListener("click", () => { activeCat = key; syncPills(); sel.value = key; render(); });
+    b.addEventListener("click", () => { activeCat = key; syncPills(); sel.value = key; sa("filter_category", { category: key }); render(); });
     wrap.appendChild(b);
   };
 
   make("All", "all"); makeOpt("All categories", "all");
   cats.forEach(c => { make(c, c); makeOpt(c, c); });
 
-  sel.addEventListener("change", () => { activeCat = sel.value; syncPills(); render(); });
+  sel.addEventListener("change", () => { activeCat = sel.value; syncPills(); sa("filter_category", { category: sel.value }); render(); });
 }
 
 function syncPills() {
@@ -590,8 +590,11 @@ function syncPills() {
   if (sel) sel.value = activeCat;
 }
 
+let _searchTimer;
 document.getElementById("search").addEventListener("input", e => {
   query = e.target.value.toLowerCase().trim();
+  clearTimeout(_searchTimer);
+  if (query.length > 1) _searchTimer = setTimeout(() => sa("search", { query }), 800);
   render();
 });
 
@@ -628,13 +631,19 @@ function render() {
   grid.innerHTML = list.map(cardHTML).join("");
 
   grid.querySelectorAll(".copy-btn").forEach(btn =>
-    btn.addEventListener("click", e => { e.stopPropagation(); doCopy(btn.dataset.v, btn, false); }));
+    btn.addEventListener("click", e => {
+      e.stopPropagation();
+      const p = ALL.find(p => p.trigger === btn.dataset.v);
+      sa("copy_trigger", { prompt_id: p?.id, prompt_title: p?.title, category: p?.category, location: "card" });
+      doCopy(btn.dataset.v, btn, false);
+    }));
 
   grid.querySelectorAll(".copy-prompt-card-btn").forEach(btn =>
     btn.addEventListener("click", e => {
       e.stopPropagation();
       const p = ALL.find(p => p.id === btn.dataset.id);
       if (!p) return;
+      sa("copy_prompt", { prompt_id: p.id, prompt_title: p.title, category: p.category, location: "card" });
       doCopy(p.prompt_body || p.description, btn, "prompt");
     }));
 
@@ -679,6 +688,7 @@ function cardHTML(p) {
 // ── Modal ─────────────────────────────────────────────────────────────────────
 function openModal(p) {
   if (!p) return;
+  sa("open_prompt", { prompt_id: p.id, prompt_title: p.title, category: p.category, difficulty: p.difficulty, type: p.type });
   const col = COLORS[p.category] || "#003399";
 
   document.getElementById("modal-bar").style.background = col;
@@ -715,11 +725,17 @@ function openModal(p) {
   // Wire copy buttons
   const btnTrigger = document.getElementById("modal-copy-trigger");
   btnTrigger.textContent = "Copy"; btnTrigger.className = "copy-trigger";
-  btnTrigger.onclick = () => doCopy(p.trigger, btnTrigger, true);
+  btnTrigger.onclick = () => {
+    sa("copy_trigger", { prompt_id: p.id, prompt_title: p.title, category: p.category, location: "modal" });
+    doCopy(p.trigger, btnTrigger, true);
+  };
 
   const btnPrompt = document.getElementById("modal-copy-prompt");
   btnPrompt.textContent = "Copy prompt"; btnPrompt.className = "copy-prompt-btn";
-  btnPrompt.onclick = () => doCopy(p.prompt_body || p.description, btnPrompt, "prompt");
+  btnPrompt.onclick = () => {
+    sa("copy_prompt", { prompt_id: p.id, prompt_title: p.title, category: p.category, location: "modal" });
+    doCopy(p.prompt_body || p.description, btnPrompt, "prompt");
+  };
 
   document.getElementById("overlay").style.display = "flex";
   document.getElementById("modal-x").focus();
@@ -727,11 +743,13 @@ function openModal(p) {
 }
 
 function closeModal() {
+  sa("close_prompt");
   document.getElementById("overlay").style.display = "none";
   document.body.style.overflow = "";
 }
 
 function findRelated(id) {
+  sa("click_related", { related_id: id });
   closeModal();
   document.getElementById("search").value = id;
   query = id.toLowerCase(); activeCat = "all";
@@ -780,6 +798,14 @@ function x(s) {
     .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
     .replace(/"/g,"&quot;").replace(/'/g,"&#39;");
 }
+
+// ── Analytics event helper ────────────────────────────────────────────────────
+function sa(event, metadata) {
+  if (typeof window.sa_event === "function") window.sa_event(event, metadata);
+}
 </script>
+
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 </body>
 </html>
