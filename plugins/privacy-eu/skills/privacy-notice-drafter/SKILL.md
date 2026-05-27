@@ -93,213 +93,171 @@ a complaint with the EDPS.
 
 ## Full Privacy Notice Template
 
-```
-DATA PROTECTION NOTICE
-[Processing activity name]
-Version: [1.0]  Date: [DD Month YYYY]  Reference: PN-[DG]-[YYYY]-[NNN]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. WHO IS RESPONSIBLE FOR YOUR DATA? (Controller)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[European Commission / DG name / Unit name] is the controller of your personal
-data for the purposes described in this notice.
+**Data Protection Notice**
+[Processing activity name]
+Version: [1.0] — Date: [DD Month YYYY] — Reference: PN-[DG]-[YYYY]-[NNN]
+
+---
+
+### 1. Who Is Responsible for Your Data? (Controller)
+
+[European Commission / DG name / Unit name] is the controller of your personal data for the purposes described in this notice.
 
 Contact: [institutional address / email of the responsible unit]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2. DATA PROTECTION OFFICER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-You can contact the Data Protection Officer (DPO) of the European Commission
-at any time:
-  Email:   DATA-PROTECTION-OFFICER@ec.europa.eu
-  Address: European Commission, Data Protection Officer,
-           Rue de la Loi 200, 1049 Brussels, Belgium
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-3. WHY DO WE PROCESS YOUR DATA? (Purpose and legal basis)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 2. Data Protection Officer
+
+You can contact the Data Protection Officer (DPO) of the European Commission at any time:
+- Email: DATA-PROTECTION-OFFICER@ec.europa.eu
+- Address: European Commission, Data Protection Officer, Rue de la Loi 200, 1049 Brussels, Belgium
+
+---
+
+### 3. Why Do We Process Your Data? (Purpose and Legal Basis)
+
 We process your personal data in order to [plain-language description of purpose].
 
 The legal basis for this processing is [choose and expand]:
-  → Article 5(1)(b) EUDPR: the processing is necessary for the performance of a
-    task carried out in the public interest by the European Commission, pursuant
-    to [specific legal instrument — Regulation/Decision/Treaty article].
-  → Article 5(1)(c) EUDPR: the processing is necessary for compliance with a legal
-    obligation to which the Commission is subject under [instrument].
-  → Article 5(1)(a) EUDPR: you have given your consent to the processing of your
-    personal data for [specific purpose]. You may withdraw your consent at any time
-    by [contact / method], without affecting the lawfulness of processing before
-    withdrawal.
+- **Article 5(1)(b) EUDPR:** the processing is necessary for the performance of a task carried out in the public interest by the European Commission, pursuant to [specific legal instrument — Regulation/Decision/Treaty article].
+- **Article 5(1)(c) EUDPR:** the processing is necessary for compliance with a legal obligation to which the Commission is subject under [instrument].
+- **Article 5(1)(a) EUDPR:** you have given your consent to the processing of your personal data for [specific purpose]. You may withdraw your consent at any time by [contact / method], without affecting the lawfulness of processing before withdrawal.
 
-[If special categories — add:] Where we process special categories of personal
-data (such as health data), we do so on the basis of [Art. 10(2)(…) EUDPR] for
-the purpose of [specific purpose].
+[If special categories — add:] Where we process special categories of personal data (such as health data), we do so on the basis of [Art. 10(2)(…) EUDPR] for the purpose of [specific purpose].
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-4. WHAT DATA DO WE COLLECT?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### 4. What Data Do We Collect?
+
 We collect and process the following categories of personal data:
-  — [e.g. Your name and institutional / professional email address]
-  — [e.g. Your role, organisation, and country]
-  — [e.g. Your responses to the [survey / form / consultation]]
-  — [Add or remove as applicable]
+- [e.g. Your name and institutional / professional email address]
+- [e.g. Your role, organisation, and country]
+- [e.g. Your responses to the [survey / form / consultation]]
+- [Add or remove as applicable]
 
 [If special categories:] We also process the following special categories of data:
-  — [e.g. Health data — for occupational health purposes only]
+- [e.g. Health data — for occupational health purposes only]
 
-We do NOT collect [any data you want to explicitly exclude — e.g. biometric data,
-financial data — if relevant for the audience].
+We do NOT collect [any data you want to explicitly exclude — e.g. biometric data, financial data — if relevant for the audience].
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-5. WHO HAS ACCESS TO YOUR DATA? (Recipients)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### 5. Who Has Access to Your Data? (Recipients)
+
 Access to your personal data is strictly limited to:
-  — Commission staff who need it to fulfil the purpose described above
-  [— Other EU institutions / bodies: [name] for [purpose]]
-  [— Service providers (processors) acting on our behalf: [name / category],
-     for [purpose]. These providers may only use your data on our instructions
-     and may not use it for their own purposes.]
+- Commission staff who need it to fulfil the purpose described above
+- [Other EU institutions / bodies: [name] for [purpose]]
+- [Service providers (processors) acting on our behalf: [name / category], for [purpose]. These providers may only use your data on our instructions and may not use it for their own purposes.]
 
-[If third-country transfer:] Your data may be transferred to [country / organisation]
-on the basis of [adequacy decision / SCCs / other Art. 25 mechanism]. For more
-information, see Section 8.
+[If third-country transfer:] Your data may be transferred to [country / organisation] on the basis of [adequacy decision / SCCs / other Art. 25 mechanism]. For more information, see Section 8.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-6. HOW LONG DO WE KEEP YOUR DATA? (Retention)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-We keep your personal data for [period], starting from [trigger event —
-e.g. the date of collection / the end of the procedure / the end of your
-employment].
+---
 
-After this period, your data will be [deleted securely / anonymised / transferred
-to the Commission's Historical Archives in accordance with Regulation (EEC,
-Euratom) 354/83].
+### 6. How Long Do We Keep Your Data? (Retention)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-7. WHAT ARE YOUR RIGHTS?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+We keep your personal data for [period], starting from [trigger event — e.g. the date of collection / the end of the procedure / the end of your employment].
+
+After this period, your data will be [deleted securely / anonymised / transferred to the Commission's Historical Archives in accordance with Regulation (EEC, Euratom) 354/83].
+
+---
+
+### 7. What Are Your Rights?
+
 Under Regulation (EU) 2018/1725, you have the following rights:
 
-✦ Right of access (Art. 17 EUDPR)
-  You can ask us for a copy of the personal data we hold about you.
+**Right of access (Art. 17 EUDPR):** You can ask us for a copy of the personal data we hold about you.
 
-✦ Right to rectification (Art. 18 EUDPR)
-  You can ask us to correct inaccurate data or complete incomplete data.
+**Right to rectification (Art. 18 EUDPR):** You can ask us to correct inaccurate data or complete incomplete data.
 
-[✦ Right to erasure (Art. 19 EUDPR)
-  You can ask us to delete your data in certain circumstances — for example,
-  if it is no longer needed for the purpose for which it was collected.]
-  [Omit or qualify if legal obligation / public task basis applies]
+[**Right to erasure (Art. 19 EUDPR):** You can ask us to delete your data in certain circumstances — for example, if it is no longer needed for the purpose for which it was collected. — *Omit or qualify if legal obligation / public task basis applies*]
 
-[✦ Right to restriction of processing (Art. 20 EUDPR)
-  You can ask us to restrict how we use your data — for example, while you
-  contest the accuracy of the data or the lawfulness of the processing.]
+[**Right to restriction of processing (Art. 20 EUDPR):** You can ask us to restrict how we use your data — for example, while you contest the accuracy of the data or the lawfulness of the processing.]
 
-[✦ Right to data portability (Art. 22 EUDPR)
-  Where processing is based on consent or contract and carried out by automated
-  means, you can ask us to provide your data in a structured, machine-readable format.]
+[**Right to data portability (Art. 22 EUDPR):** Where processing is based on consent or contract and carried out by automated means, you can ask us to provide your data in a structured, machine-readable format.]
 
-[✦ Right to object (Art. 23 EUDPR)
-  You have the right to object at any time to processing based on Art. 5(1)(b)
-  (public task / official authority) on grounds relating to your particular situation.
-  We will stop processing unless we demonstrate compelling legitimate grounds.]
+[**Right to object (Art. 23 EUDPR):** You have the right to object at any time to processing based on Art. 5(1)(b) (public task / official authority) on grounds relating to your particular situation. We will stop processing unless we demonstrate compelling legitimate grounds.]
 
-[✦ Right to withdraw consent (Art. 7(3) EUDPR)
-  Where processing is based on consent, you may withdraw it at any time.
-  Withdrawal does not affect the lawfulness of prior processing.]
+[**Right to withdraw consent (Art. 7(3) EUDPR):** Where processing is based on consent, you may withdraw it at any time. Withdrawal does not affect the lawfulness of prior processing.]
 
-To exercise any of these rights, contact: [unit email / DPO contact / designated channel]
-We will respond within 1 month (extendable by 2 months for complex requests — Art. 14(3) EUDPR).
+To exercise any of these rights, contact: [unit email / DPO contact / designated channel]. We will respond within 1 month (extendable by 2 months for complex requests — Art. 14(3) EUDPR).
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-8. TRANSFERS OUTSIDE THE EU/EEA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[Include only if a transfer takes place]
-Your data [may be / is] transferred to [country / organisation], which is located
-outside the European Union. This transfer takes place on the basis of
-[adequacy decision of [date] / standard contractual clauses / [other Art. 25 mechanism]].
-A Transfer Impact Assessment has been conducted (TIA ref: [TIA-ref]).
+---
 
-[Or if no transfer:] Your personal data is processed within the European Union / EEA
-and is not transferred to third countries.
+### 8. Transfers Outside the EU/EEA
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-9. AUTOMATED DECISION-MAKING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[Include only if automated decisions are made]
-Your data [is / may be] used for automated decision-making [including profiling]
-that produces [legal / similarly significant] effects on you. [Describe the logic
-involved and the significance and envisaged consequences for you.]
-You have the right to request human review of any automated decision: [contact].
+[Include only if a transfer takes place] Your data [may be / is] transferred to [country / organisation], which is located outside the European Union. This transfer takes place on the basis of [adequacy decision of [date] / standard contractual clauses / [other Art. 25 mechanism]]. A Transfer Impact Assessment has been conducted (TIA ref: [TIA-ref]).
 
-[Or:] No automated decision-making that produces legal or similarly significant
-effects on you takes place in this processing.
+[Or if no transfer:] Your personal data is processed within the European Union / EEA and is not transferred to third countries.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-10. HOW TO COMPLAIN
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-If you believe your data protection rights have not been respected, you have the
-right to lodge a complaint with the European Data Protection Supervisor (EDPS):
+---
 
-  European Data Protection Supervisor
-  Rue Wiertz 60 — MO 63, 1047 Brussels
-  edps.europa.eu | edps@edps.europa.eu
+### 9. Automated Decision-Making
+
+[Include only if automated decisions are made] Your data [is / may be] used for automated decision-making [including profiling] that produces [legal / similarly significant] effects on you. [Describe the logic involved and the significance and envisaged consequences for you.] You have the right to request human review of any automated decision: [contact].
+
+[Or:] No automated decision-making that produces legal or similarly significant effects on you takes place in this processing.
+
+---
+
+### 10. How to Complain
+
+If you believe your data protection rights have not been respected, you have the right to lodge a complaint with the European Data Protection Supervisor (EDPS):
+
+European Data Protection Supervisor
+Rue Wiertz 60 — MO 63, 1047 Brussels
+edps.europa.eu | edps@edps.europa.eu
 
 You may also contact the Commission's Data Protection Officer first (see Section 2).
-```
 
 ---
 
 ## Layered Notice — Short Version Template
 
-```
-DATA PROTECTION — KEY FACTS
+**Data Protection — Key Facts**
 [Processing activity / system name]
 
-Why we process your data: [1–2 sentence purpose]
-Legal basis: [plain-language basis, e.g. "performance of a public-interest task"]
-Data we collect: [brief list, e.g. "your name, email address, and responses"]
-How long we keep it: [period, e.g. "2 years from the date of collection"]
-Who has access: [brief, e.g. "Commission staff and our IT service provider"]
-Your rights: access, rectification, erasure, restriction, objection
-Contact: [unit email] | DPO: DATA-PROTECTION-OFFICER@ec.europa.eu
-Complaints: European Data Protection Supervisor — edps.europa.eu
+- **Why we process your data:** [1–2 sentence purpose]
+- **Legal basis:** [plain-language basis, e.g. "performance of a public-interest task"]
+- **Data we collect:** [brief list, e.g. "your name, email address, and responses"]
+- **How long we keep it:** [period, e.g. "2 years from the date of collection"]
+- **Who has access:** [brief, e.g. "Commission staff and our IT service provider"]
+- **Your rights:** access, rectification, erasure, restriction, objection
+- **Contact:** [unit email] | DPO: DATA-PROTECTION-OFFICER@ec.europa.eu
+- **Complaints:** European Data Protection Supervisor — edps.europa.eu
 
 → Full data protection notice: [link]
-```
 
 ---
 
 ## Mandatory Content Checklist (Arts. 15–16 EUDPR)
 
-```
-PRIVACY NOTICE COMPLETENESS CHECK
+**Art. 15 elements (data collected directly from data subject):**
+- [ ] Identity and contact details of the controller
+- [ ] DPO contact details
+- [ ] Purposes of processing
+- [ ] Legal basis (specific Art. 5(1) ground + enabling instrument where applicable)
+- [ ] Recipients or categories of recipients
+- [ ] Third-country transfers + safeguards (Art. 25 mechanism) — if applicable
+- [ ] Retention period or criteria for determining it
+- [ ] Right of access (Art. 17)
+- [ ] Right to rectification (Art. 18)
+- [ ] Right to erasure (Art. 19) — or explain why not applicable
+- [ ] Right to restriction (Art. 20) — or explain why not applicable
+- [ ] Right to data portability (Art. 22) — if consent or contract basis + automated
+- [ ] Right to object (Art. 23) — if public task / official authority basis
+- [ ] Right to withdraw consent (Art. 7(3)) — if consent basis
+- [ ] Right to lodge complaint with EDPS (Art. 63(2))
+- [ ] Whether provision of data is statutory / contractual obligation, and consequences
+- [ ] Automated decision-making disclosure (Art. 24) — if applicable
+- [ ] Special categories — additional legal basis disclosed (Art. 10(2)) — if applicable
 
-Art. 15 elements (data collected directly from data subject):
-  [ ] Identity and contact details of the controller
-  [ ] DPO contact details
-  [ ] Purposes of processing
-  [ ] Legal basis (specific Art. 5(1) ground + enabling instrument where applicable)
-  [ ] Recipients or categories of recipients
-  [ ] Third-country transfers + safeguards (Art. 25 mechanism) — if applicable
-  [ ] Retention period or criteria for determining it
-  [ ] Right of access (Art. 17)
-  [ ] Right to rectification (Art. 18)
-  [ ] Right to erasure (Art. 19) — or explain why not applicable
-  [ ] Right to restriction (Art. 20) — or explain why not applicable
-  [ ] Right to data portability (Art. 22) — if consent or contract basis + automated
-  [ ] Right to object (Art. 23) — if public task / official authority basis
-  [ ] Right to withdraw consent (Art. 7(3)) — if consent basis
-  [ ] Right to lodge complaint with EDPS (Art. 63(2))
-  [ ] Whether provision of data is statutory / contractual obligation, and consequences
-  [ ] Automated decision-making disclosure (Art. 24) — if applicable
-  [ ] Special categories — additional legal basis disclosed (Art. 10(2)) — if applicable
-
-Art. 16 additional elements (data NOT collected directly from data subject):
-  [ ] Categories of personal data
-  [ ] Source of the data (which organisation / database / public source)
-  [ ] Notice provided within 1 month of collection
-```
+**Art. 16 additional elements (data NOT collected directly from data subject):**
+- [ ] Categories of personal data
+- [ ] Source of the data (which organisation / database / public source)
+- [ ] Notice provided within 1 month of collection
 
 ---
 

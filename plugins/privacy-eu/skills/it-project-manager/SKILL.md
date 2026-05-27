@@ -78,91 +78,96 @@ assessment and legal basis analysis.
 
 ## Data Flow Description Template
 
-```
-SYSTEM: [system name]
-VERSION / DEPLOYMENT DATE: [version and date]
-PROCESSING PURPOSE: [concise purpose statement]
+**System:** [system name]
+**Version / Deployment date:** [version and date]
+**Processing purpose:** [concise purpose statement]
 
-─── DATA INPUTS ────────────────────────────────────────────
-Source          Data categories            Volume / frequency
-[e.g. web form] [name, email, message]     [~N/month]
-[e.g. API feed] [IP address, session ID]   [real-time]
+**Data inputs:**
 
-─── PROCESSING OPERATIONS ──────────────────────────────────
-Step            Description                AI involved?
-[1. Triage]     [Rule-based routing]       [NO]
-[2. AI triage]  [LLM classification]       [YES — model: X]
-[3. Storage]    [DB write, 90-day hot]     [NO]
+| Source | Data categories | Volume / frequency |
+|---|---|---|
+| [e.g. web form] | [name, email, message] | [~N/month] |
+| [e.g. API feed] | [IP address, session ID] | [real-time] |
 
-─── STORAGE ────────────────────────────────────────────────
-Component       Location        Encryption    Controller/Processor
-[PostgreSQL DB] [EU-West AZ]    [AES-256]     [Controller — owned]
-[AI provider]   [US East]       [TLS 1.3]     [Processor — DPA signed]
+**Processing operations:**
 
-─── RECIPIENTS / EXPORTS ───────────────────────────────────
-Recipient       Purpose         Legal basis   Transfer safeguard
-[Case officers] [Review cases]  [Art. 5(1)(a)] [Internal — no transfer]
-[AI vendor]     [Inference]     [Art. 29 DPA]  [SCC Art. 25 EUDPR]
+| Step | Description | AI involved? |
+|---|---|---|
+| 1. Triage | [Rule-based routing] | NO |
+| 2. AI triage | [LLM classification] | YES — model: X |
+| 3. Storage | [DB write, 90-day hot] | NO |
 
-─── DELETION ───────────────────────────────────────────────
-Data category   Retention       Trigger         Method
-[Messages]      [2 years]       [Case closed]   [Automated purge]
-[AI logs]       [6 months]      [Rolling]       [Provider deletion API]
-```
+**Storage:**
+
+| Component | Location | Encryption | Controller/Processor |
+|---|---|---|---|
+| [PostgreSQL DB] | [EU-West AZ] | [AES-256] | Controller — owned |
+| [AI provider] | [US East] | [TLS 1.3] | Processor — DPA signed |
+
+**Recipients / exports:**
+
+| Recipient | Purpose | Legal basis | Transfer safeguard |
+|---|---|---|---|
+| [Case officers] | [Review cases] | [Art. 5(1)(a)] | Internal — no transfer |
+| [AI vendor] | [Inference] | [Art. 29 DPA] | SCC Art. 25 EUDPR |
+
+**Deletion:**
+
+| Data category | Retention | Trigger | Method |
+|---|---|---|---|
+| [Messages] | [2 years] | [Case closed] | [Automated purge] |
+| [AI logs] | [6 months] | [Rolling] | [Provider deletion API] |
 
 ---
 
 ## AI Module Documentation Template
 
-```
-AI MODULE ASSESSMENT
+**AI Module Assessment**
 Module name: [e.g. "Contact-form triage classifier"]
 Provider: [name, registered address, country]
 Model type: [e.g. LLM, classifier, NLP pipeline]
 Model version / API endpoint: [...]
 Training data: [describe provenance — public, proprietary, EU institution data?]
 
-PROCESSING ROLE
-Input to model: [data categories fed to model]
-Output of model: [what the model produces — e.g. priority label, summary, routing decision]
-Used in: [automated decision / human-reviewed recommendation / statistical aggregation]
+**Processing role:**
+- Input to model: [data categories fed to model]
+- Output of model: [what the model produces — e.g. priority label, summary, routing decision]
+- Used in: [automated decision / human-reviewed recommendation / statistical aggregation]
 
-HUMAN OVERSIGHT MECHANISM
-[ ] Human reviews all AI outputs before action is taken
-[ ] Human reviews flagged outputs only (threshold: [X]% confidence)
-[ ] Fully automated — no human review (Art. 24 EUDPR applies — legal basis required)
+**Human oversight mechanism:**
+- [ ] Human reviews all AI outputs before action is taken
+- [ ] Human reviews flagged outputs only (threshold: [X]% confidence)
+- [ ] Fully automated — no human review (Art. 24 EUDPR applies — legal basis required)
 
-AI ACT RISK CLASSIFICATION [model knowledge — verify against Annex III AI Act]
-[ ] PROHIBITED practice (Art. 5 AI Act) — DO NOT DEPLOY
-[ ] HIGH RISK (Annex III AI Act) — conformity assessment required
-[ ] LIMITED RISK — transparency obligations (Art. 50 AI Act)
-[ ] MINIMAL RISK — no mandatory requirements
+**AI Act risk classification** [model knowledge — verify against Annex III AI Act]
+- [ ] PROHIBITED practice (Art. 5 AI Act) — DO NOT DEPLOY
+- [ ] HIGH RISK (Annex III AI Act) — conformity assessment required
+- [ ] LIMITED RISK — transparency obligations (Art. 50 AI Act)
+- [ ] MINIMAL RISK — no mandatory requirements
 
-DATA PROCESSED BY AI PROVIDER
-Personal data categories transmitted: [list]
-Transfer mechanism (if non-EU): [adequacy / SCC / other Art. 25 EUDPR safeguard]
-Data retention by provider: [period + deletion mechanism]
-Data used for model training: YES / NO — [if yes, contractual prohibition confirmation]
-```
+**Data processed by AI provider:**
+- Personal data categories transmitted: [list]
+- Transfer mechanism (if non-EU): [adequacy / SCC / other Art. 25 EUDPR safeguard]
+- Data retention by provider: [period + deletion mechanism]
+- Data used for model training: YES / NO — [if yes, contractual prohibition confirmation]
 
 ---
 
 ## Third-Party Processor Register
 
-```
-PROCESSOR REGISTER
+**Processor Register**
 System: [system name]
 Date: [DD Month YYYY]
 
-# | Processor name | Function | Location | EU/EEA? | DPA signed? | Transfer safeguard
-1 | [name]         | [e.g. hosting] | [country] | YES/NO | YES/NO | [mechanism]
-2 | [name]         | [e.g. AI API]  | [country] | YES/NO | YES/NO | [SCC ref.]
-3 | [name]         | [e.g. email]   | [country] | YES/NO | YES/NO | [adequacy]
+| # | Processor name | Function | Location | EU/EEA? | DPA signed? | Transfer safeguard |
+|---|---|---|---|---|---|---|
+| 1 | [name] | [e.g. hosting] | [country] | YES/NO | YES/NO | [mechanism] |
+| 2 | [name] | [e.g. AI API] | [country] | YES/NO | YES/NO | [SCC ref.] |
+| 3 | [name] | [e.g. email] | [country] | YES/NO | YES/NO | [adequacy] |
 
 Notes:
 - Sub-processor arrangements: [list sub-processors of processors, if known]
 - Audit rights confirmed: YES / NO per processor
-```
 
 ---
 

@@ -111,7 +111,6 @@ submitted.
 
 ### SWD Structure
 
-```
 EUROPEAN COMMISSION
 STAFF WORKING DOCUMENT
 
@@ -187,27 +186,21 @@ Annex 3 — SME Test
 Annex 4 — DNSH assessment
 Annex 5 — Charter rights check
 
----
-DRAFT — For review by an EU official before use. Not an official Commission position.
-```
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.
 
 ### Quality Checklist
 
-```
-PRE-SUBMISSION IA QUALITY CHECK
-
-□ Subsidiarity test passed — EU action justified
-□ All four policy options defined (incl. Option 0)
-□ Three impact dimensions assessed for every option
-□ SME test conducted and result documented
-□ DNSH assessment completed for preferred option
-□ Charter rights check completed
-□ Comparison matrix completed with ranking rationale
-□ Preferred option identified with proportionality statement
-□ Monitoring indicators defined with data sources
-□ All data sources cited and tagged [Eurostat / AMECO / model knowledge]
-□ RSB self-assessment: would this IA survive a critical RSB opinion?
-```
+- [ ] Subsidiarity test passed — EU action justified
+- [ ] All four policy options defined (incl. Option 0)
+- [ ] Three impact dimensions assessed for every option
+- [ ] SME test conducted and result documented
+- [ ] DNSH assessment completed for preferred option
+- [ ] Charter rights check completed
+- [ ] Comparison matrix completed with ranking rationale
+- [ ] Preferred option identified with proportionality statement
+- [ ] Monitoring indicators defined with data sources
+- [ ] All data sources cited and tagged [Eurostat / AMECO / model knowledge]
+- [ ] RSB self-assessment: would this IA survive a critical RSB opinion?
 
 ---
 

@@ -192,7 +192,6 @@ GBER GENERAL CONDITIONS — APPLY TO ALL CATEGORIES
 
 ### GBER Screening Report
 
-```
 GBER SCREENING REPORT
 Measure:          [Name of the aid scheme or individual measure]
 Grantor:          [National / regional / local authority]
@@ -201,63 +200,68 @@ Aid instrument:   [Grant / Loan / Guarantee / Tax relief / Equity]
 Notional amount:  EUR [X]
 Date of screening: [DD Month YYYY]
 
-─────────────────────────────────────────────────────────
-STEP 0 — STATE AID CONFIRMATION (Art. 107(1) TFEU)
-─────────────────────────────────────────────────────────
-□ State resources: [Yes — specify source]
-□ Selective advantage: [Yes — because]
-□ Distortion of competition: [Yes / Possible]
-□ Effect on trade between MS: [Yes / Possible]
-CONCLUSION: □ State aid present → proceed to GBER screening
-            □ No state aid → GBER not applicable [reason]
+---
 
-─────────────────────────────────────────────────────────
-STEP 1 — APPLICABLE GBER CHAPTER
-─────────────────────────────────────────────────────────
+### Step 0 — State Aid Confirmation (Art. 107(1) TFEU)
+
+- [ ] State resources: [Yes — specify source]
+- [ ] Selective advantage: [Yes — because]
+- [ ] Distortion of competition: [Yes / Possible]
+- [ ] Effect on trade between MS: [Yes / Possible]
+
+**Conclusion:** - [ ] State aid present → proceed to GBER screening
+               - [ ] No state aid → GBER not applicable [reason]
+
+---
+
+### Step 1 — Applicable GBER Chapter
+
 Proposed category:    [Art. XX GBER — chapter title]
 Reason for category:  [Why this measure fits this category]
 Alternative category: [Any other GBER article that might apply]
 
-─────────────────────────────────────────────────────────
-STEP 2 — GENERAL CONDITIONS (Arts. 1–12)
-─────────────────────────────────────────────────────────
+---
+
+### Step 2 — General Conditions (Arts. 1–12)
+
 | Condition | Status | Notes |
 |---|---|---|
-| Firm not in difficulty (Art. 2(18)) | □ PASS □ FAIL □ VERIFY | [Evidence needed] |
-| No outstanding recovery order | □ PASS □ FAIL | |
-| Below notification threshold | □ PASS □ FAIL | EUR [amount] vs threshold EUR [X]m |
-| Transparent instrument | □ PASS □ FAIL □ CONDITIONAL | [GGE methodology] |
-| Incentive effect (Art. 6) | □ PASS □ FAIL | [Application before work started?] |
-| Aid intensity not exceeded | □ PASS □ FAIL | [X]% vs ceiling [Y]% |
-| Cumulation checked | □ PASS □ FAIL □ VERIFY | [Other aid sources?] |
+| Firm not in difficulty (Art. 2(18)) | - [ ] PASS - [ ] FAIL - [ ] VERIFY | [Evidence needed] |
+| No outstanding recovery order | - [ ] PASS - [ ] FAIL | |
+| Below notification threshold | - [ ] PASS - [ ] FAIL | EUR [amount] vs threshold EUR [X]m |
+| Transparent instrument | - [ ] PASS - [ ] FAIL - [ ] CONDITIONAL | [GGE methodology] |
+| Incentive effect (Art. 6) | - [ ] PASS - [ ] FAIL | [Application before work started?] |
+| Aid intensity not exceeded | - [ ] PASS - [ ] FAIL | [X]% vs ceiling [Y]% |
+| Cumulation checked | - [ ] PASS - [ ] FAIL - [ ] VERIFY | [Other aid sources?] |
 
-─────────────────────────────────────────────────────────
-STEP 3 — SPECIFIC CATEGORY CONDITIONS (Art. [XX])
-─────────────────────────────────────────────────────────
+---
+
+### Step 3 — Specific Category Conditions (Art. [XX])
+
 | Specific condition | Status | Notes |
 |---|---|---|
-| [Eligible cost definition] | □ PASS □ FAIL | [Costs included: X / excluded: Y] |
-| [Aid intensity ceiling] | □ PASS □ FAIL | |
-| [SME bonus applicable?] | □ Yes □ No | |
-| [Other category-specific condition] | □ PASS □ FAIL | |
+| [Eligible cost definition] | - [ ] PASS - [ ] FAIL | [Costs included: X / excluded: Y] |
+| [Aid intensity ceiling] | - [ ] PASS - [ ] FAIL | |
+| [SME bonus applicable?] | - [ ] Yes - [ ] No | |
+| [Other category-specific condition] | - [ ] PASS - [ ] FAIL | |
 
-─────────────────────────────────────────────────────────
-CONCLUSION
-─────────────────────────────────────────────────────────
-□ GBER EXEMPTION APPLICABLE — all conditions met; notification not required;
+---
+
+### Conclusion
+
+- [ ] GBER EXEMPTION APPLICABLE — all conditions met; notification not required;
   member state must register in SANI2 and comply with Arts. 9, 11, 12
-□ GBER EXEMPTION NOT APPLICABLE — condition(s) failed: [list]
+- [ ] GBER EXEMPTION NOT APPLICABLE — condition(s) failed: [list]
   → Formal notification to DG COMP required under Art. 108(3) TFEU
-□ GBER CONDITIONAL — the following modifications would bring the measure within
+- [ ] GBER CONDITIONAL — the following modifications would bring the measure within
   GBER: [specific changes required]
-□ DE MINIMIS — measure may qualify under De Minimis Reg. 2023/2831
+- [ ] DE MINIMIS — measure may qualify under De Minimis Reg. 2023/2831
   (EUR 300k over 3 fiscal years) — check cumulation register
 
 [EUR-Lex — verify current GBER text: Regulation 651/2014 as last amended]
 [model knowledge — verify current aid maps and regional aid ceilings]
-DRAFT — For review by a state aid lawyer before any communication to the
-member state. Not an official Commission position.
-```
+
+> **DRAFT** — For review by a state aid lawyer before any communication to the member state. Not an official Commission position.
 
 ---
 

@@ -108,113 +108,111 @@ could compromise evidence or alert the subject.
 
 ## Fraud Indicator Assessment Form
 
-```
-FRAUD INDICATOR ASSESSMENT
-File reference:     [Grant Agreement / Procurement reference]
-Beneficiary / Contractor: [Name]
-Assessed by:        [Name / unit]   Date: [DD Month YYYY]
-Confidentiality:    LIMITE — do not share outside the management chain
+**FRAUD INDICATOR ASSESSMENT**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-INDICATORS IDENTIFIED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Indicator                                      Present  Evidence ref
-─────────────────────────────────────────────────────────────────────
-Falsified documents (invoices, timesheets)     [ ] YES  [document ref / finding]
-Phantom personnel / fictitious costs           [ ] YES  [document ref]
-Double funding across EU programmes            [ ] YES  [cross-check with which programme]
-Undisclosed conflict of interest               [ ] YES  [relationship described]
-Bid-rigging / coordinated tendering            [ ] YES  [specific indicators]
-Subcontracts to related parties                [ ] YES  [describe relationship]
-Funds diverted to non-project use              [ ] YES  [evidence]
-Other: [describe]                              [ ] YES  [evidence]
+**File reference:** [Grant Agreement / Procurement reference]
+**Beneficiary / Contractor:** [Name]
+**Assessed by:** [Name / unit] — **Date:** [DD Month YYYY]
+**Confidentiality:** LIMITE — do not share outside the management chain
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CLASSIFICATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Irregularity (no intentional element apparent) — handle via standard correction
-[ ] Suspected fraud (intentional element suspected) — OLAF referral required
-[ ] Unclear — refer to OLAF for assessment; err on the side of referral
+---
 
-Amount at stake (EU funds):   €[X]
-Urgency:  [ ] Immediate (ongoing payments at risk)  [ ] Standard
+#### Indicators Identified
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PRECAUTIONARY SUSPENSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Pending payments that could be suspended:   €[X]   (payment due: [date])
-Legal basis for suspension:  Art. 131(3) FR / Art. [X] of the GA
-Proportionality assessment:  [Is suspension proportionate to the risk? Explain.]
-Suspension recommended:  [ ] YES — draft decision needed  [ ] NO — [reason]
+| Indicator | Present | Evidence ref |
+|---|---|---|
+| Falsified documents (invoices, timesheets) | - [ ] YES | [document ref / finding] |
+| Phantom personnel / fictitious costs | - [ ] YES | [document ref] |
+| Double funding across EU programmes | - [ ] YES | [cross-check with which programme] |
+| Undisclosed conflict of interest | - [ ] YES | [relationship described] |
+| Bid-rigging / coordinated tendering | - [ ] YES | [specific indicators] |
+| Subcontracts to related parties | - [ ] YES | [describe relationship] |
+| Funds diverted to non-project use | - [ ] YES | [evidence] |
+| Other: [describe] | - [ ] YES | [evidence] |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DECISION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Refer to OLAF immediately via iOLAF portal
-[ ] Suspend payment pending referral — decision ref: [to be assigned]
-[ ] Notify HoU and Director before referral
-[ ] Do NOT communicate referral to beneficiary / contractor
+#### Classification
 
-Referral submitted:   [ ] YES — iOLAF case ref: [ref]   Date: [DD Month YYYY]
-OLAF response:        [ ] Investigation opened  [ ] No follow-up  [ ] Pending
+- [ ] Irregularity (no intentional element apparent) — handle via standard correction
+- [ ] Suspected fraud (intentional element suspected) — OLAF referral required
+- [ ] Unclear — refer to OLAF for assessment; err on the side of referral
 
-[review — political judgement required: notify Commissioner's cabinet if amount > €1m]
-```
+**Amount at stake (EU funds):** €[X]
+**Urgency:** - [ ] Immediate (ongoing payments at risk) - [ ] Standard
+
+#### Precautionary Suspension
+
+**Pending payments that could be suspended:** €[X] (payment due: [date])
+**Legal basis for suspension:** Art. 131(3) FR / Art. [X] of the GA
+**Proportionality assessment:** [Is suspension proportionate to the risk? Explain.]
+**Suspension recommended:** - [ ] YES — draft decision needed - [ ] NO — [reason]
+
+#### Decision
+
+- [ ] Refer to OLAF immediately via iOLAF portal
+- [ ] Suspend payment pending referral — decision ref: [to be assigned]
+- [ ] Notify HoU and Director before referral
+- [ ] Do NOT communicate referral to beneficiary / contractor
+
+**Referral submitted:** - [ ] YES — iOLAF case ref: [ref] — Date: [DD Month YYYY]
+**OLAF response:** - [ ] Investigation opened - [ ] No follow-up - [ ] Pending
+
+`[review — political judgement required: notify Commissioner's cabinet if amount > €1m]`
 
 ---
 
 ## OLAF Referral Note Template
 
-```
-REFERRAL TO OLAF — SUSPECTED FRAUD / IRREGULARITY
-Submitted via:    iOLAF Portal   Date: [DD Month YYYY]
-DG / Agency:      [Name]   Contact: [Name, email, phone]
-Classification:   LIMITE
+**REFERRAL TO OLAF — SUSPECTED FRAUD / IRREGULARITY**
 
-─── SUBJECT OF THE REFERRAL ──────────────────────────────────────────────
-Beneficiary / Contractor: [Full legal name, country, registration number]
-Individual(s) involved:   [Name(s) if known — only if documented; do not speculate]
-Grant Agreement / Contract: [Number and title]
-Programme:                  [Horizon Europe / LIFE / CEF / procurement ref]
-Period at issue:            [Reporting period / contract execution period]
+**Submitted via:** iOLAF Portal — **Date:** [DD Month YYYY]
+**DG / Agency:** [Name] — **Contact:** [Name, email, phone]
+**Classification:** LIMITE
 
-─── NATURE OF THE SUSPECTED IRREGULARITY ─────────────────────────────────
-[1–3 paragraphs: describe clearly what is suspected. Use factual language.
-Do not characterise the suspect's intent — describe the observable facts.
-Example: "The financial report for Period 2 claims personnel costs of €X for
-[N] staff. Analysis of the timesheets provided shows that [staff member A]
-declared 160 hours to this project in Month M while the employment contract
-shows a 50% part-time arrangement, limiting maximum monthly hours to 80.
-This pattern is repeated across Months M, M+1, and M+2, representing a
-potential over-declaration of €Y."]
+---
 
-─── AMOUNT OF EU FUNDS AT RISK ──────────────────────────────────────────
-Total EU contribution to this grant/contract:   €[X]
-EU funds at risk from the suspected irregularity:  €[X]
-Payments already made:  €[X]   Pending payments:  €[X]
+**Subject of the Referral**
 
-─── EVIDENCE AVAILABLE ───────────────────────────────────────────────────
-[List documents available and their location — do not send documents via iOLAF
-unless specifically requested. OLAF will contact you for documents.]
-  1. Signed grant agreement — [location]
-  2. Financial reports for periods [X] — [location]
-  3. Timesheets — [location / format]
-  4. Employment contracts — [location]
-  5. [Other documents relevant to the suspected irregularity]
+**Beneficiary / Contractor:** [Full legal name, country, registration number]
+**Individual(s) involved:** [Name(s) if known — only if documented; do not speculate]
+**Grant Agreement / Contract:** [Number and title]
+**Programme:** [Horizon Europe / LIFE / CEF / procurement ref]
+**Period at issue:** [Reporting period / contract execution period]
 
-─── STATUS OF ADMINISTRATIVE PROCEDURE ─────────────────────────────────
-[ ] No audit or review has been initiated on this file
-[ ] Audit in progress — audit authority: [name]; stage: [preliminary findings / ongoing]
-[ ] Payments suspended pursuant to Art. 131(3) FR — decision date: [date]
-[ ] No action taken on the suspected irregularity pending this referral
+**Nature of the Suspected Irregularity**
 
-─── CONFIDENTIALITY REQUEST ─────────────────────────────────────────────
-We request that OLAF does not disclose this referral to the subject of the
-investigation until OLAF considers it appropriate to do so.
+[1–3 paragraphs: describe clearly what is suspected. Use factual language. Do not characterise the suspect's intent — describe the observable facts. Example: "The financial report for Period 2 claims personnel costs of €X for [N] staff. Analysis of the timesheets provided shows that [staff member A] declared 160 hours to this project in Month M while the employment contract shows a 50% part-time arrangement, limiting maximum monthly hours to 80. This pattern is repeated across Months M, M+1, and M+2, representing a potential over-declaration of €Y."]
 
-[review — must be cleared by HoU and Director before submission]
-[LIMITE — do not distribute outside the management chain]
-```
+**Amount of EU Funds at Risk**
+
+| Item | Amount |
+|---|---|
+| Total EU contribution to this grant/contract | €[X] |
+| EU funds at risk from the suspected irregularity | €[X] |
+| Payments already made | €[X] |
+| Pending payments | €[X] |
+
+**Evidence Available**
+
+[List documents available and their location — do not send documents via iOLAF unless specifically requested. OLAF will contact you for documents.]
+1. Signed grant agreement — [location]
+2. Financial reports for periods [X] — [location]
+3. Timesheets — [location / format]
+4. Employment contracts — [location]
+5. [Other documents relevant to the suspected irregularity]
+
+**Status of Administrative Procedure**
+
+- [ ] No audit or review has been initiated on this file
+- [ ] Audit in progress — audit authority: [name]; stage: [preliminary findings / ongoing]
+- [ ] Payments suspended pursuant to Art. 131(3) FR — decision date: [date]
+- [ ] No action taken on the suspected irregularity pending this referral
+
+**Confidentiality Request**
+
+We request that OLAF does not disclose this referral to the subject of the investigation until OLAF considers it appropriate to do so.
+
+`[review — must be cleared by HoU and Director before submission]`
+`[LIMITE — do not distribute outside the management chain]`
 
 ---
 

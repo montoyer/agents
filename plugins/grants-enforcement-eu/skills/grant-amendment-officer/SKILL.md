@@ -94,95 +94,109 @@ the Commission's legal commitments.
 
 ## Amendment Classification Guide
 
-```
-AMENDMENT CLASSIFICATION — HORIZON EUROPE MGA
-Change requested:  [Description]
-GA article:        [Relevant MGA provision — verify Art. 55 HE MGA for thresholds]
-Date of request:   [DD Month YYYY]
+**AMENDMENT CLASSIFICATION — HORIZON EUROPE MGA**
 
-─── STEP 1: THRESHOLD CHECK ──────────────────────────────────────────────
+**Change requested:** [Description]
+**GA article:** [Relevant MGA provision — verify Art. 55 HE MGA for thresholds]
+**Date of request:** [DD Month YYYY]
+
+---
+
+#### Step 1: Threshold Check
+
 Budget reallocation between categories:
-  Amount: €[X] = [X%] of the budget category / [X%] of total budget
-  Within self-amendment threshold (typically ±20% per category)?  [ ] YES → no amendment
-                                                                   [ ] NO  → amendment required
+- Amount: €[X] = [X%] of the budget category / [X%] of total budget
+- Within self-amendment threshold (typically ±20% per category)? - [ ] YES → no amendment - [ ] NO → amendment required
 
-─── STEP 2: NATURE OF CHANGE ────────────────────────────────────────────
-[ ] Budget reallocation only — within threshold           → NO AMENDMENT REQUIRED
-[ ] Budget reallocation — exceeds threshold               → AMENDMENT (financial only)
-[ ] Period extension (action end date)                    → AMENDMENT (Commission decision)
-[ ] Partner withdrawal                                    → AMENDMENT (high complexity)
-[ ] Addition of new partner                               → AMENDMENT (Commission decision)
-[ ] Change of coordinator                                 → AMENDMENT (Commission decision)
-[ ] Task / deliverable / milestone modification           → AMENDMENT (Annex 1 revision)
-[ ] Force majeure event                                   → AMENDMENT (period + tasks)
-[ ] Change of legal status / name of beneficiary          → AMENDMENT (administrative)
-[ ] Change of bank account                                → NOTIFICATION (not an amendment)
+#### Step 2: Nature of Change
 
-─── STEP 3: ELIGIBILITY ASSESSMENT ──────────────────────────────────────
-Is the change consistent with the objectives in Annex 1?       [ ] YES  [ ] NO [explain]
-Does it affect award conditions (scope, objectives)?           [ ] YES [flag] [ ] NO
-Does it increase the maximum grant amount?                     [ ] YES [new ABAC commitment needed] [ ] NO
-Is the change requested before the impacted activities occur?  [ ] YES  [ ] NO [retroactive — flag]
+| Change type | Consequence |
+|---|---|
+| - [ ] Budget reallocation only — within threshold | NO AMENDMENT REQUIRED |
+| - [ ] Budget reallocation — exceeds threshold | AMENDMENT (financial only) |
+| - [ ] Period extension (action end date) | AMENDMENT (Commission decision) |
+| - [ ] Partner withdrawal | AMENDMENT (high complexity) |
+| - [ ] Addition of new partner | AMENDMENT (Commission decision) |
+| - [ ] Change of coordinator | AMENDMENT (Commission decision) |
+| - [ ] Task / deliverable / milestone modification | AMENDMENT (Annex 1 revision) |
+| - [ ] Force majeure event | AMENDMENT (period + tasks) |
+| - [ ] Change of legal status / name of beneficiary | AMENDMENT (administrative) |
+| - [ ] Change of bank account | NOTIFICATION (not an amendment) |
 
-─── STEP 4: DECISION ─────────────────────────────────────────────────────
-Recommended action:
-[ ] Approve — no amendment required (within threshold); notify beneficiary
-[ ] Approve — proceed with amendment decision [type: financial / substantive / admin]
-[ ] Request further information before decision — [specific information needed]
-[ ] Reject — [grounds: outside GA scope / conditions of award affected / retroactive]
+#### Step 3: Eligibility Assessment
 
-[review — financial authorisation required if maximum grant amount increases]
-```
+- [ ] Is the change consistent with the objectives in Annex 1? - [ ] YES - [ ] NO [explain]
+- [ ] Does it affect award conditions (scope, objectives)? - [ ] YES [flag] - [ ] NO
+- [ ] Does it increase the maximum grant amount? - [ ] YES [new ABAC commitment needed] - [ ] NO
+- [ ] Is the change requested before the impacted activities occur? - [ ] YES - [ ] NO [retroactive — flag]
+
+#### Step 4: Decision
+
+- [ ] Approve — no amendment required (within threshold); notify beneficiary
+- [ ] Approve — proceed with amendment decision [type: financial / substantive / admin]
+- [ ] Request further information before decision — [specific information needed]
+- [ ] Reject — [grounds: outside GA scope / conditions of award affected / retroactive]
+
+`[review — financial authorisation required if maximum grant amount increases]`
 
 ---
 
 ## Partner Withdrawal Decision Template
 
-```
-PARTNER WITHDRAWAL — ASSESSMENT AND DECISION
-Grant Agreement: [Number]
-Programme:       [Horizon Europe / LIFE / CEF / ...]
-Withdrawing partner: [Name, country, role in consortium]
-Withdrawal date:     [DD Month YYYY] (effective)
-Coordinator:         [Name]
-Prepared by:         [Name / unit]   Date: [DD Month YYYY]
+**PARTNER WITHDRAWAL — ASSESSMENT AND DECISION**
 
-─── CIRCUMSTANCES OF WITHDRAWAL ─────────────────────────────────────────
-[ ] Voluntary withdrawal by partner — signed withdrawal agreement received: [date]
-[ ] Termination by coordinator pursuant to consortium agreement — notice issued: [date]
-[ ] Termination by Commission pursuant to Art. 44 HE MGA — reasons: [describe]
+**Grant Agreement:** [Number]
+**Programme:** [Horizon Europe / LIFE / CEF / ...]
+**Withdrawing partner:** [Name, country, role in consortium]
+**Withdrawal date (effective):** [DD Month YYYY]
+**Coordinator:** [Name]
+**Prepared by:** [Name / unit] — **Date:** [DD Month YYYY]
 
-─── CONSORTIUM VIABILITY ASSESSMENT ─────────────────────────────────────
-Can the remaining consortium complete the action?
-  Tasks affected by withdrawal:    [List tasks in WP X, deliverables D-X, D-Y]
-  Mitigation proposed:             [ ] Tasks redistributed among remaining partners
-                                   [ ] Tasks removed from Annex 1 (amendment required)
-                                   [ ] New partner to be added (separate amendment)
-  Assessment:                      [ ] Action can be completed  [ ] Action fundamentally affected
+---
 
-─── FINANCIAL SETTLEMENT ────────────────────────────────────────────────
-Eligible costs of withdrawing partner up to [withdrawal date]:     €[X]
-  [Basis: partner's financial report for completed period / audited accounts]
-Pre-financing received by withdrawing partner:                     €[X]
-Pre-financing to be repaid (pre-financing − eligible costs):       €[X]
+#### Circumstances of Withdrawal
 
-Recovery action:
-  [ ] Via coordinator (coordinator liable under Art. 44(4) HE MGA for amounts due)
-  [ ] Direct recovery from withdrawing partner (if coordinator is the withdrawing party)
-  [ ] ABAC recovery order ref: [to be confirmed]
+- [ ] Voluntary withdrawal by partner — signed withdrawal agreement received: [date]
+- [ ] Termination by coordinator pursuant to consortium agreement — notice issued: [date]
+- [ ] Termination by Commission pursuant to Art. 44 HE MGA — reasons: [describe]
 
-─── AMENDMENT REQUIRED ──────────────────────────────────────────────────
-[ ] Revised Annex 1 — tasks / deliverables / milestones
-[ ] Revised budget table — partner budget removed / redistributed
-[ ] Period extension — if withdrawal causes delay
-[ ] Revised consortium agreement — submitted by coordinator
+#### Consortium Viability Assessment
 
-Commission decision date:        [DD Month YYYY]
-Amendment effective date:        [DD Month YYYY]
+**Tasks affected by withdrawal:** [List tasks in WP X, deliverables D-X, D-Y]
 
-[review — financial authorisation required]
-[model knowledge — verify current MGA version and applicable thresholds]
-```
+**Mitigation proposed:**
+- [ ] Tasks redistributed among remaining partners
+- [ ] Tasks removed from Annex 1 (amendment required)
+- [ ] New partner to be added (separate amendment)
+
+**Assessment:** - [ ] Action can be completed - [ ] Action fundamentally affected
+
+#### Financial Settlement
+
+| Item | Amount |
+|---|---|
+| Eligible costs of withdrawing partner up to [withdrawal date] | €[X] |
+| *Basis: partner's financial report / audited accounts* | |
+| Pre-financing received by withdrawing partner | €[X] |
+| Pre-financing to be repaid (pre-financing − eligible costs) | €[X] |
+
+**Recovery action:**
+- [ ] Via coordinator (coordinator liable under Art. 44(4) HE MGA for amounts due)
+- [ ] Direct recovery from withdrawing partner (if coordinator is the withdrawing party)
+- [ ] ABAC recovery order ref: [to be confirmed]
+
+#### Amendment Required
+
+- [ ] Revised Annex 1 — tasks / deliverables / milestones
+- [ ] Revised budget table — partner budget removed / redistributed
+- [ ] Period extension — if withdrawal causes delay
+- [ ] Revised consortium agreement — submitted by coordinator
+
+**Commission decision date:** [DD Month YYYY]
+**Amendment effective date:** [DD Month YYYY]
+
+`[review — financial authorisation required]`
+`[model knowledge — verify current MGA version and applicable thresholds]`
 
 ---
 

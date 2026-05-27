@@ -85,7 +85,6 @@ review.
 
 ## AMP Unit Section Template
 
-```
 ANNUAL MANAGEMENT PLAN — UNIT CONTRIBUTION
 Unit:               [DG.X / Unit name]
 Head of Unit:       [name]
@@ -94,116 +93,123 @@ DG Strategic Plan:  [YYYY–YYYY]
 Document ref:       AMP-[DG]-[UNIT]-[YYYY]
 Version:            [draft / final]  Date: [DD Month YYYY]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-UNIT MANDATE (2–3 sentences)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Unit Mandate (2–3 sentences)
+
 [Concise statement of the unit's mandate, main responsibilities, and position
 in the DG organogram.]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SPECIFIC OBJECTIVE [SO-X.X]: [Title from DG Strategic Plan]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Specific Objective [SO-X.X]: [Title from DG Strategic Plan]
+
 Unit objective: [What the unit will achieve in [YYYY] in support of this SO]
 
 KPIs:
-  KPI 1: [indicator name]
-    Baseline ([year]):  [value]
-    Target ([year]):    [value]
-    Data source:        [source]
-    Measurement:        [quarterly / annual]
 
-  KPI 2: [indicator name]
-    Baseline:  [value]
-    Target:    [value]
-    Data source: [source]
-    Measurement: [frequency]
+KPI 1: [indicator name]
+- Baseline ([year]):  [value]
+- Target ([year]):    [value]
+- Data source:        [source]
+- Measurement:        [quarterly / annual]
+
+KPI 2: [indicator name]
+- Baseline:  [value]
+- Target:    [value]
+- Data source: [source]
+- Measurement: [frequency]
 
 Deliverables:
-  D-1  [Title]                       [Responsible: name/function]  [Q2 YYYY]
-  D-2  [Title]                       [Responsible: name/function]  [Q3 YYYY]
-  D-3  [Title — e.g. CWP item ref]   [Responsible: name/function]  [Q4 YYYY]
+- D-1  [Title] — [Responsible: name/function] — [Q2 YYYY]
+- D-2  [Title] — [Responsible: name/function] — [Q3 YYYY]
+- D-3  [Title — e.g. CWP item ref] — [Responsible: name/function] — [Q4 YYYY]
 
 Resources allocated to this objective:
-  Human:    [X.X FTEs] (ADs: [N]; ASTs: [N]; CA: [N])
-  Budget:   Commitment appropriations: €[X] (budget line [XX.XXXXXX])
+- Human:    [X.X FTEs] (ADs: [N]; ASTs: [N]; CA: [N])
+- Budget:   Commitment appropriations: €[X] (budget line [XX.XXXXXX])
             Payment appropriations:   €[X]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SPECIFIC OBJECTIVE [SO-X.X]: [Second objective — repeat block]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Specific Objective [SO-X.X]: [Second objective — repeat block]
+
 […]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TOTAL UNIT RESOURCES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Total FTEs:                 [N] ([X] ADs, [X] ASTs, [X] CAs, [X] SNEs)
-  Total commitment approp.:   €[X]
-  Total payment approp.:      €[X]
-  Main budget lines:          [list]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-RISKS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Risk  Description                          Likelihood  Impact  Mitigation               Residual
-R-1   [e.g. Key staff departure]           MEDIUM      HIGH    [Cross-training; backfill] MEDIUM
-R-2   [e.g. Legislative delay by co-leg.]  HIGH        MEDIUM  [Buffer milestone; replanning] LOW
-R-3   [e.g. IT system delivery late]       LOW         HIGH    [Contingency plan; manual proc.] LOW
-```
+### Total Unit Resources
+
+- Total FTEs:                 [N] ([X] ADs, [X] ASTs, [X] CAs, [X] SNEs)
+- Total commitment approp.:   €[X]
+- Total payment approp.:      €[X]
+- Main budget lines:          [list]
+
+---
+
+### Risks
+
+| Risk | Description | Likelihood | Impact | Mitigation | Residual |
+|---|---|---|---|---|---|
+| R-1 | [e.g. Key staff departure] | MEDIUM | HIGH | [Cross-training; backfill] | MEDIUM |
+| R-2 | [e.g. Legislative delay by co-leg.] | HIGH | MEDIUM | [Buffer milestone; replanning] | LOW |
+| R-3 | [e.g. IT system delivery late] | LOW | HIGH | [Contingency plan; manual proc.] | LOW |
 
 ---
 
 ## KPI Quality Checklist
 
-```
 KPI QUALITY CHECK — [indicator name]
 
-[ ] Specific: the indicator measures one thing clearly, not a bundle of activities
-[ ] Measurable: a concrete number, percentage, or binary outcome — not "improved" or "enhanced"
-[ ] Baseline exists: a starting value from [year] is available or can be estimated
-[ ] Target is ambitious but achievable: not automatically met; not unattainable
-[ ] Data source is reliable and accessible within the planning year
-[ ] The unit controls or materially influences the indicator — not fully external
-[ ] Frequency is appropriate: quarterly KPIs require quarterly data collection capacity
+- [ ] Specific: the indicator measures one thing clearly, not a bundle of activities
+- [ ] Measurable: a concrete number, percentage, or binary outcome — not "improved" or "enhanced"
+- [ ] Baseline exists: a starting value from [year] is available or can be estimated
+- [ ] Target is ambitious but achievable: not automatically met; not unattainable
+- [ ] Data source is reliable and accessible within the planning year
+- [ ] The unit controls or materially influences the indicator — not fully external
+- [ ] Frequency is appropriate: quarterly KPIs require quarterly data collection capacity
 
 Common KPI types for Commission units:
-  Output KPIs:    Number of [reports / opinions / infringement letters / decisions] issued
-  Timeliness KPIs: % of [X] delivered within [Y] days of trigger
-  Quality KPIs:   % of outputs rated satisfactory by [Director / RSB / audit]
-  Engagement KPIs: Number of [stakeholder meetings / consultation respondents]
-  Financial KPIs: Budget execution rate (commitments made / available appropriations)
-```
+- Output KPIs:    Number of [reports / opinions / infringement letters / decisions] issued
+- Timeliness KPIs: % of [X] delivered within [Y] days of trigger
+- Quality KPIs:   % of outputs rated satisfactory by [Director / RSB / audit]
+- Engagement KPIs: Number of [stakeholder meetings / consultation respondents]
+- Financial KPIs: Budget execution rate (commitments made / available appropriations)
 
 ---
 
 ## Mid-Year / End-Year Review Template
 
-```
 AMP MID-YEAR REVIEW — [Unit] — [Month YYYY]
 
 Objective [SO-X.X]: [title]
-  KPI 1:  Baseline [X] → Current [X] → Target [X]
-          Status: [ ] ON TRACK  [ ] AT RISK  [ ] OFF TRACK
-          Comment: [brief explanation if AT RISK or OFF TRACK]
 
-  Deliverable D-1:  [ ] DELIVERED  [ ] ON TRACK  [ ] DELAYED — new date: [Q]
-  Deliverable D-2:  [ ] DELIVERED  [ ] ON TRACK  [ ] DELAYED — new date: [Q]
+KPI 1:  Baseline [X] → Current [X] → Target [X]
+Status: - [ ] ON TRACK  - [ ] AT RISK  - [ ] OFF TRACK
+Comment: [brief explanation if AT RISK or OFF TRACK]
 
-  Resource consumption: [X] FTEs deployed / [X] planned; €[X] committed / €[X] planned
-  Risk update: [R-1 status — unchanged / materialised / mitigated]
+- Deliverable D-1:  - [ ] DELIVERED  - [ ] ON TRACK  - [ ] DELAYED — new date: [Q]
+- Deliverable D-2:  - [ ] DELIVERED  - [ ] ON TRACK  - [ ] DELAYED — new date: [Q]
 
-Overall objective status: [ ] ON TRACK  [ ] AT RISK — escalate to Director  [ ] REVISION NEEDED
+Resource consumption: [X] FTEs deployed / [X] planned; €[X] committed / €[X] planned
+Risk update: [R-1 status — unchanged / materialised / mitigated]
 
-─── END-YEAR ASSESSMENT (feeds AAR) ────────────────────────────────────────
+Overall objective status: - [ ] ON TRACK  - [ ] AT RISK — escalate to Director  - [ ] REVISION NEEDED
+
+---
+
+### End-Year Assessment (feeds AAR)
+
 Objective [SO-X.X]: [title]
-  KPI 1: Final value [X] vs. target [X] — Achievement: [%]
-  KPI 2: Final value [X] vs. target [X] — Achievement: [%]
+- KPI 1: Final value [X] vs. target [X] — Achievement: [%]
+- KPI 2: Final value [X] vs. target [X] — Achievement: [%]
 
-  Assessment: [ ] ACHIEVED (≥ 100%)
-              [ ] SUBSTANTIALLY ACHIEVED (≥ 75%)
-              [ ] NOT ACHIEVED (< 75%) — reason: [state]
+Assessment:
+- [ ] ACHIEVED (≥ 100%)
+- [ ] SUBSTANTIALLY ACHIEVED (≥ 75%)
+- [ ] NOT ACHIEVED (< 75%) — reason: [state]
 
-  Narrative (3–5 sentences for AAR): [what was achieved, what was not, why]
-```
+Narrative (3–5 sentences for AAR): [what was achieved, what was not, why]
 
 ---
 
@@ -245,5 +251,4 @@ Objective [SO-X.X]: [title]
 
 ---
 
-DRAFT — For review by the responsible official before action is taken.
-Not an official Commission decision or position.
+> **DRAFT** — For review by the responsible official before action is taken. Not an official Commission decision or position.

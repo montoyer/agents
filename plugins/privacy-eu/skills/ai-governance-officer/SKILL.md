@@ -124,123 +124,108 @@ decisions requires documented oversight.
 
 ## AI System Register Template
 
-```
-AI SYSTEM REGISTER — [DG / Institution]
-Last updated:     [DD Month YYYY]   Register owner: [DPO / IT governance unit]
+**AI SYSTEM REGISTER — [DG / Institution]**
+Last updated: [DD Month YYYY] | Register owner: [DPO / IT governance unit]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SYSTEM ID  [AI-001]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Name:               [System name / commercial product name]
-Vendor:             [Name / internal development]
-Version:            [N.N]   Deployment date: [DD Month YYYY]
-Using unit:         [DG.X / Unit name]   Responsible officer: [Name]
-Use case:           [Plain language description — what the system does]
+---
 
-Data inputs:        [Types of data processed — personal / non-personal / categories]
-Data subjects:      [Who — staff / external beneficiaries / public / none]
-Output type:        [Text / score / decision / ranking / recommendation]
-Decision-affecting: [ ] YES — describes outputs that affect individual rights
-                    [ ] NO — operational / internal only
+**System ID: [AI-001]**
 
-AI Act risk tier:   [ ] Unacceptable (prohibited — must not deploy)
-                    [ ] High risk (Annex III) — governance board approval required
-                    [ ] Limited risk — transparency obligations apply
-                    [ ] Minimal risk — standard deployment approval
+**Name:** [System name / commercial product name]
+**Vendor:** [Name / internal development]
+**Version:** [N.N] | **Deployment date:** [DD Month YYYY]
+**Using unit:** [DG.X / Unit name] | **Responsible officer:** [Name]
+**Use case:** [Plain language description — what the system does]
 
-DPIA required:      [ ] YES (Art. 40 EUDPR) — DPIA ref: [ref]  [ ] NO
-FRIA conducted:     [ ] YES — ref: [ref]  [ ] N/A (not high-risk)
+**Data inputs:** [Types of data processed — personal / non-personal / categories]
+**Data subjects:** [Who — staff / external beneficiaries / public / none]
+**Output type:** [Text / score / decision / ranking / recommendation]
+**Decision-affecting:**
+- [ ] YES — describes outputs that affect individual rights
+- [ ] NO — operational / internal only
 
-Human oversight:    [ ] HITL  [ ] HOTL  [ ] Human-in-command
-Oversight owner:    [Name / role responsible for human oversight]
+**AI Act risk tier:**
+- [ ] Unacceptable (prohibited — must not deploy)
+- [ ] High risk (Annex III) — governance board approval required
+- [ ] Limited risk — transparency obligations apply
+- [ ] Minimal risk — standard deployment approval
 
-Last review:        [DD Month YYYY]   Next scheduled review: [DD Month YYYY]
-Incidents logged:   [N] — see incident log ref: [ref]
-Status:             [ ] Active  [ ] Under review  [ ] Suspended  [ ] Decommissioned
-```
+**DPIA required:** - [ ] YES (Art. 40 EUDPR) — DPIA ref: [ref] - [ ] NO
+**FRIA conducted:** - [ ] YES — ref: [ref] - [ ] N/A (not high-risk)
+
+**Human oversight:** - [ ] HITL - [ ] HOTL - [ ] Human-in-command
+**Oversight owner:** [Name / role responsible for human oversight]
+
+**Last review:** [DD Month YYYY] | **Next scheduled review:** [DD Month YYYY]
+**Incidents logged:** [N] — see incident log ref: [ref]
+**Status:** - [ ] Active - [ ] Under review - [ ] Suspended - [ ] Decommissioned
 
 ---
 
 ## Model Card Template
 
-```
-MODEL CARD — [System name]   Version: [N.N]   Date: [DD Month YYYY]
+**MODEL CARD — [System name]** Version: [N.N] | Date: [DD Month YYYY]
 
-WHAT THIS SYSTEM DOES (plain language):
+**What this system does (plain language):**
 [2–3 sentences: what the system does, who uses it, what output it produces]
 
-WHAT IT DOES NOT DO / KNOWN LIMITATIONS:
+**What it does not do / known limitations:**
 [List of known failure modes, edge cases, and scope limitations]
 
-DATA:
-  Input data:    [Type, source, update frequency]
-  Training data: [Description if known; "vendor proprietary" if not disclosed]
-  Personal data: [ ] YES — categories: [list]  [ ] NO
-  Data quality:  [Known biases, gaps, or skews in the training data if documented]
+**Data:**
+- Input data: [Type, source, update frequency]
+- Training data: [Description if known; "vendor proprietary" if not disclosed]
+- Personal data: - [ ] YES — categories: [list] - [ ] NO
+- Data quality: [Known biases, gaps, or skews in the training data if documented]
 
-HUMAN OVERSIGHT:
-  Mechanism:     [HITL / HOTL / Human-in-command]
-  Who reviews:   [Role / unit]
-  Override:      [How a human can override or correct the system's output]
+**Human oversight:**
+- Mechanism: [HITL / HOTL / Human-in-command]
+- Who reviews: [Role / unit]
+- Override: [How a human can override or correct the system's output]
 
-PROHIBITED USES:
-  [ ] Must not be used for automated individual decision-making without human review
-  [ ] Must not be used for [specific prohibited use cases for this system]
-  [ ] Must not be applied to data outside the defined input scope
+**Prohibited uses:**
+- [ ] Must not be used for automated individual decision-making without human review
+- [ ] Must not be used for [specific prohibited use cases for this system]
+- [ ] Must not be applied to data outside the defined input scope
 
-PERFORMANCE:
-  Benchmark:     [Accuracy / F1 / other metric — if available]
-  Last tested:   [Date]
-  Failure mode:  [What types of error the system is most prone to]
+**Performance:**
+- Benchmark: [Accuracy / F1 / other metric — if available]
+- Last tested: [Date]
+- Failure mode: [What types of error the system is most prone to]
 
-RESPONSIBLE TEAM:  [Unit name]   Contact: [Email / name]
-VENDOR CONTACT:    [Name / support channel]
-REVIEW SCHEDULE:   Annual + after any significant incident
-```
+**Responsible team:** [Unit name] | Contact: [Email / name]
+**Vendor contact:** [Name / support channel]
+**Review schedule:** Annual + after any significant incident
 
 ---
 
 ## AI Procurement Clause Template
 
-```
-ANNEX [X] — AI GOVERNANCE REQUIREMENTS FOR AI-BASED SERVICES
+**ANNEX [X] — AI GOVERNANCE REQUIREMENTS FOR AI-BASED SERVICES**
 
-1. TRANSPARENCY
-   The Contractor shall provide, within [30] calendar days of contract signature,
-   documentation of: (a) the AI system's intended purpose and known limitations;
-   (b) the types of data used for training; (c) performance benchmarks on relevant
-   tasks; (d) known biases or failure modes identified during development or testing.
+**1. Transparency**
 
-2. AUDIT RIGHTS
-   The Contracting Authority reserves the right to audit the AI system's operation,
-   performance, and data handling. The Contractor shall cooperate with audits conducted
-   by or on behalf of the Contracting Authority and provide access to relevant
-   documentation within [10] working days of a written request.
+The Contractor shall provide, within [30] calendar days of contract signature, documentation of: (a) the AI system's intended purpose and known limitations; (b) the types of data used for training; (c) performance benchmarks on relevant tasks; (d) known biases or failure modes identified during development or testing.
 
-3. DATA GOVERNANCE
-   Data provided by the Contracting Authority shall not be used for: (a) training
-   or fine-tuning any AI model beyond the contracted service; (b) any purpose other
-   than the performance of this contract. The Contractor shall delete all Contracting
-   Authority data within [30] days of contract termination.
+**2. Audit Rights**
 
-4. INCIDENT NOTIFICATION
-   The Contractor shall notify the Contracting Authority within [24 hours / 72 hours]
-   of: (a) any security incident affecting the AI system or the data it processes;
-   (b) any significant model update that changes the system's behaviour or performance;
-   (c) any discovered bias or error affecting the accuracy of outputs provided under
-   this contract.
+The Contracting Authority reserves the right to audit the AI system's operation, performance, and data handling. The Contractor shall cooperate with audits conducted by or on behalf of the Contracting Authority and provide access to relevant documentation within [10] working days of a written request.
 
-5. HUMAN OVERSIGHT SUPPORT
-   The AI system shall be designed and configured to support, not circumvent, the
-   human oversight requirements specified in [Annex Y]. The system shall provide
-   clear explanations for its outputs sufficient for the reviewing officer to assess
-   and if necessary override the recommendation.
+**3. Data Governance**
 
-6. PORTABILITY AND EXIT
-   All data provided to or generated under this contract shall be exportable in
-   [standard format] within [30] days of a written request. The Contractor shall
-   provide transition support to enable migration to an alternative service provider.
-```
+Data provided by the Contracting Authority shall not be used for: (a) training or fine-tuning any AI model beyond the contracted service; (b) any purpose other than the performance of this contract. The Contractor shall delete all Contracting Authority data within [30] days of contract termination.
+
+**4. Incident Notification**
+
+The Contractor shall notify the Contracting Authority within [24 hours / 72 hours] of: (a) any security incident affecting the AI system or the data it processes; (b) any significant model update that changes the system's behaviour or performance; (c) any discovered bias or error affecting the accuracy of outputs provided under this contract.
+
+**5. Human Oversight Support**
+
+The AI system shall be designed and configured to support, not circumvent, the human oversight requirements specified in [Annex Y]. The system shall provide clear explanations for its outputs sufficient for the reviewing officer to assess and if necessary override the recommendation.
+
+**6. Portability and Exit**
+
+All data provided to or generated under this contract shall be exportable in [standard format] within [30] days of a written request. The Contractor shall provide transition support to enable migration to an alternative service provider.
 
 ---
 

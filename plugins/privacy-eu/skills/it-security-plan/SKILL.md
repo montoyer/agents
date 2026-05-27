@@ -82,121 +82,115 @@ Annex A and CIS Controls v8.
 
 ## ISP Summary Table Template
 
-```
-IT SECURITY PLAN — SUMMARY
-Document reference:  ISP-[DG]-[SYSTEM]-[YYYY]-[NNN]
-System name:         [system name]
-System owner:        [DG / Unit / HoU]
-Data classification: [NORMALE / SENSITIVE / EU RESTRICTED]
-Environment:         [on-premise / cloud provider / hybrid]
-Date of issue:       [DD Month YYYY]
-Next review due:     [DD Month YYYY]
-Approved by:         [CISO / ISO / DPO]
+**IT SECURITY PLAN — SUMMARY**
 
-SCOPE: [brief description of system and processing scope]
+**Document reference:** ISP-[DG]-[SYSTEM]-[YYYY]-[NNN]
+**System name:** [system name]
+**System owner:** [DG / Unit / HoU]
+**Data classification:** [NORMALE / SENSITIVE / EU RESTRICTED]
+**Environment:** [on-premise / cloud provider / hybrid]
+**Date of issue:** [DD Month YYYY]
+**Next review due:** [DD Month YYYY]
+**Approved by:** [CISO / ISO / DPO]
 
-RISK SUMMARY
-Total risks identified:   [N]
-  HIGH residual risk:     [N] → escalate to DPO / CISO
-  MEDIUM residual risk:   [N] → monitor; treatment in progress
-  LOW residual risk:      [N] → accepted / controlled
-NIS2 in scope:            [YES / NO — with rationale]
-```
+**Scope:** [brief description of system and processing scope]
+
+**Risk Summary**
+
+| Risk level | Count | Action |
+|---|---|---|
+| HIGH residual risk | [N] | Escalate to DPO / CISO |
+| MEDIUM residual risk | [N] | Monitor; treatment in progress |
+| LOW residual risk | [N] | Accepted / controlled |
+
+**NIS2 in scope:** [YES / NO — with rationale]
 
 ---
 
 ## Risk Register Template
 
-```
-RISK REGISTER — [System name]
+**RISK REGISTER — [System name]**
 
-ID    Threat                  Asset        Likelihood  Impact  Inherent  Controls in place        Residual  Treatment  Owner         Target date
-R-01  Unauthorised ext access App servers  LIKELY      HIGH    HIGH      MFA, WAF, RBAC           MEDIUM    MITIGATE   [CISO team]   [date]
-R-02  Insider data exfil      DB + logs    POSSIBLE    HIGH    HIGH      DLP, audit logs, RBAC    MEDIUM    MITIGATE   [ISO]         [date]
-R-03  Non-EU provider access  Cloud store  POSSIBLE    HIGH    HIGH      TIA, SCCs, encryption    MEDIUM    MITIGATE   [DPO + PM]    [date]
-R-04  Ransomware attack       All assets   POSSIBLE    HIGH    HIGH      Backup, EDR, patching    LOW       MITIGATE   [CERT-EU ref] [date]
-R-05  Accidental disclosure   Email / UI   LIKELY      MEDIUM  MEDIUM    Training, DLP, labels    LOW       MITIGATE   [HoU]         [date]
-…
-```
+| ID | Threat | Asset | Likelihood | Impact | Inherent | Controls in place | Residual | Treatment | Owner | Target date |
+|---|---|---|---|---|---|---|---|---|---|---|
+| R-01 | Unauthorised ext access | App servers | LIKELY | HIGH | HIGH | MFA, WAF, RBAC | MEDIUM | MITIGATE | [CISO team] | [date] |
+| R-02 | Insider data exfil | DB + logs | POSSIBLE | HIGH | HIGH | DLP, audit logs, RBAC | MEDIUM | MITIGATE | [ISO] | [date] |
+| R-03 | Non-EU provider access | Cloud store | POSSIBLE | HIGH | HIGH | TIA, SCCs, encryption | MEDIUM | MITIGATE | [DPO + PM] | [date] |
+| R-04 | Ransomware attack | All assets | POSSIBLE | HIGH | HIGH | Backup, EDR, patching | LOW | MITIGATE | [CERT-EU ref] | [date] |
+| R-05 | Accidental disclosure | Email / UI | LIKELY | MEDIUM | MEDIUM | Training, DLP, labels | LOW | MITIGATE | [HoU] | [date] |
 
 ---
 
 ## Control Matrix Template
 
-```
-CONTROL MATRIX — [System name]
+**CONTROL MATRIX — [System name]**
 
-Control ref   Control name                 ISO 27001:2022    CIS v8 IG  Status           Responsible   Notes
-CTRL-01       MFA for privileged access    A.8.5             IG1 / 6    IMPLEMENTED       IT team       TOTP-based; reviewed [date]
-CTRL-02       Encryption at rest           A.8.24            IG2 / 3    IMPLEMENTED       IT team       AES-256; key mgmt policy ref [X]
-CTRL-03       Encryption in transit        A.8.24            IG1 / 3    IMPLEMENTED       IT team       TLS 1.3 enforced
-CTRL-04       Vulnerability scanning       A.8.8             IG2 / 7    IN PROGRESS       IT team       Monthly scan; CERT-EU tooling
-CTRL-05       Patch management             A.8.8             IG1 / 7    IMPLEMENTED       IT team       30-day critical patch SLA
-CTRL-06       Penetration test             A.8.8             IG3 / 18   PLANNED           [ext vendor]  Annual; scope [date]
-CTRL-07       CERT-EU incident reporting   A.5.26            IG2 / 17   IMPLEMENTED       ISO           Threshold: HIGH-risk incidents
-CTRL-08       Staff security training      A.6.3             IG1 / 14   IMPLEMENTED       HR + ISO      Annual; completion tracked
-CTRL-09       Business continuity plan     A.5.30            IG2 / 11   IN PROGRESS       PM            RTO [Xh]; RPO [Xh]; test [date]
-CTRL-10       Processor DPA (Art. 29)      A.5.21            IG2 / 15   IMPLEMENTED       DPO           Processor: [name]; DPA ref [X]
-…
-```
+| Control ref | Control name | ISO 27001:2022 | CIS v8 IG | Status | Responsible | Notes |
+|---|---|---|---|---|---|---|
+| CTRL-01 | MFA for privileged access | A.8.5 | IG1 / 6 | IMPLEMENTED | IT team | TOTP-based; reviewed [date] |
+| CTRL-02 | Encryption at rest | A.8.24 | IG2 / 3 | IMPLEMENTED | IT team | AES-256; key mgmt policy ref [X] |
+| CTRL-03 | Encryption in transit | A.8.24 | IG1 / 3 | IMPLEMENTED | IT team | TLS 1.3 enforced |
+| CTRL-04 | Vulnerability scanning | A.8.8 | IG2 / 7 | IN PROGRESS | IT team | Monthly scan; CERT-EU tooling |
+| CTRL-05 | Patch management | A.8.8 | IG1 / 7 | IMPLEMENTED | IT team | 30-day critical patch SLA |
+| CTRL-06 | Penetration test | A.8.8 | IG3 / 18 | PLANNED | [ext vendor] | Annual; scope [date] |
+| CTRL-07 | CERT-EU incident reporting | A.5.26 | IG2 / 17 | IMPLEMENTED | ISO | Threshold: HIGH-risk incidents |
+| CTRL-08 | Staff security training | A.6.3 | IG1 / 14 | IMPLEMENTED | HR + ISO | Annual; completion tracked |
+| CTRL-09 | Business continuity plan | A.5.30 | IG2 / 11 | IN PROGRESS | PM | RTO [Xh]; RPO [Xh]; test [date] |
+| CTRL-10 | Processor DPA (Art. 29) | A.5.21 | IG2 / 15 | IMPLEMENTED | DPO | Processor: [name]; DPA ref [X] |
 
 ---
 
 ## Incident Response Procedure (ISP Section)
 
-```
-INCIDENT RESPONSE — [System name]
+**INCIDENT RESPONSE — [System name]**
 
-PHASE 1 — DETECTION (T = 0)
-  Trigger:    Alert from SIEM / user report / CERT-EU advisory
-  First responder: [role / contact]
-  Initial triage: classify as MINOR / SIGNIFICANT / MAJOR within 2 hours
+**Phase 1 — Detection (T = 0)**
+- **Trigger:** Alert from SIEM / user report / CERT-EU advisory
+- **First responder:** [role / contact]
+- **Initial triage:** classify as MINOR / SIGNIFICANT / MAJOR within 2 hours
 
-PHASE 2 — CONTAINMENT (T + 2h)
-  MINOR:      IT team isolation; internal ticket; no escalation
-  SIGNIFICANT: Notify ISO and CISO; isolate affected systems
-  MAJOR:      Activate IRP; notify DG hierarchy; contact CERT-EU
+**Phase 2 — Containment (T + 2h)**
+- **MINOR:** IT team isolation; internal ticket; no escalation
+- **SIGNIFICANT:** Notify ISO and CISO; isolate affected systems
+- **MAJOR:** Activate IRP; notify DG hierarchy; contact CERT-EU
 
-PHASE 3 — CERT-EU NOTIFICATION
-  Threshold:  SIGNIFICANT or MAJOR incidents; cross-DG impact; suspected APT
-  Channel:    cert-eu@ec.europa.eu / secure portal
-  Timeline:   Within 24 hours of SIGNIFICANT determination
+**Phase 3 — CERT-EU Notification**
+- **Threshold:** SIGNIFICANT or MAJOR incidents; cross-DG impact; suspected APT
+- **Channel:** cert-eu@ec.europa.eu / secure portal
+- **Timeline:** Within 24 hours of SIGNIFICANT determination
 
-PHASE 4 — EDPS NOTIFICATION (Art. 34 EUDPR — if personal data involved)
-  Threshold:  Breach likely to result in a risk to data subjects
-  Timeline:   72 hours from awareness (Art. 34(1) EUDPR)
-  Responsible: DPO — invoke /data-breach-officer skill
+**Phase 4 — EDPS Notification (Art. 34 EUDPR — if personal data involved)**
+- **Threshold:** Breach likely to result in a risk to data subjects
+- **Timeline:** 72 hours from awareness (Art. 34(1) EUDPR)
+- **Responsible:** DPO — invoke `/data-breach-officer` skill
 
-PHASE 5 — RECOVERY
-  Restore from last clean backup; verify integrity; re-enable services
+**Phase 5 — Recovery**
 
-PHASE 6 — POST-INCIDENT REVIEW (T + 30 days)
-  Root cause analysis; update risk register; update ISP if controls failed
-```
+Restore from last clean backup; verify integrity; re-enable services.
+
+**Phase 6 — Post-Incident Review (T + 30 days)**
+
+Root cause analysis; update risk register; update ISP if controls failed.
 
 ---
 
 ## NIS2 Compliance Checklist
 
-```
-NIS2 SCOPE DETERMINATION (Directive (EU) 2022/2555)
-System: [name]
+**NIS2 SCOPE DETERMINATION (Directive (EU) 2022/2555)**
+**System:** [name]
 
-Is this system operated by an essential entity (Annex I) or important entity (Annex II)?
-  → [YES / NO / UNCERTAIN — rationale]
+**Is this system operated by an essential entity (Annex I) or important entity (Annex II)?**
+[YES / NO / UNCERTAIN — rationale]
 
-If YES — applicable obligations:
-  [ ] Art. 21 — Risk management measures: policies, incident handling, BCP, supply chain,
-      access control, encryption, vulnerability disclosure
-  [ ] Art. 23 — Incident reporting: early warning within 24h; incident notification within 72h;
-      final report within 1 month
-  [ ] Art. 21(2)(d) — Supply chain security: assess third-party and sub-processor risks
-  [ ] Art. 21(2)(j) — Staff security training: annual mandatory training
+**If YES — applicable obligations:**
+- [ ] Art. 21 — Risk management measures: policies, incident handling, BCP, supply chain, access control, encryption, vulnerability disclosure
+- [ ] Art. 23 — Incident reporting: early warning within 24h; incident notification within 72h; final report within 1 month
+- [ ] Art. 21(2)(d) — Supply chain security: assess third-party and sub-processor risks
+- [ ] Art. 21(2)(j) — Staff security training: annual mandatory training
 
-NIS2 compliance status: [COMPLIANT / PARTIALLY COMPLIANT / NON-COMPLIANT / NOT IN SCOPE]
-Gaps identified: [list or "none"]
+**NIS2 compliance status:** [COMPLIANT / PARTIALLY COMPLIANT / NON-COMPLIANT / NOT IN SCOPE]
+**Gaps identified:** [list or "none"]
 [model knowledge — verify applicability to this institution and system]
-```
 
 ---
 

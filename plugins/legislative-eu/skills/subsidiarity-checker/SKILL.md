@@ -73,23 +73,24 @@ Protocol No. 2), and national parliaments within the 8-week reasoned opinion win
 
 ## Subsidiarity Assessment Framework
 
-```
 SUBSIDIARITY AND PROPORTIONALITY ASSESSMENT
 Article 5(3)–(4) TEU + Protocol No. 2
 
-─────────────────────────────────────────────────────────
-STEP 0 — COMPETENCE TYPE
-─────────────────────────────────────────────────────────
+---
+
+### Step 0 — Competence Type
+
 Legal basis proposed:     [Art. XX TFEU]
 Competence type:
-  □ Exclusive (Art. 3 TFEU) → subsidiarity does not apply; state this
-  □ Shared (Art. 4 TFEU)    → subsidiarity applies; proceed
-  □ Supporting (Art. 6 TFEU) → subsidiarity applies; proceed
+  - [ ] Exclusive (Art. 3 TFEU) → subsidiarity does not apply; state this
+  - [ ] Shared (Art. 4 TFEU)    → subsidiarity applies; proceed
+  - [ ] Supporting (Art. 6 TFEU) → subsidiarity applies; proceed
 
-─────────────────────────────────────────────────────────
-STEP 1 — SUBSIDIARITY (Art. 5(3) TEU)
-─────────────────────────────────────────────────────────
-1.1 PROBLEM WITH A CROSS-BORDER DIMENSION
+---
+
+### Step 1 — Subsidiarity (Art. 5(3) TEU)
+
+1.1 Problem with a cross-border dimension
 What is the cross-border nature of the problem?
 [Describe specifically: transboundary externalities, divergent member state
 rules creating internal market fragmentation, cross-border flows, regulatory
@@ -98,61 +99,63 @@ creating [estimated cost] of compliance for businesses operating cross-border."]
 
 Evidence: [Specific data, studies, consultation results]
 
-1.2 NECESSITY TEST — CAN MEMBER STATES SOLVE THIS ALONE?
+1.2 Necessity test — can member states solve this alone?
 Can the objectives be sufficiently achieved by member states acting individually?
-Assessment: □ Yes (stop — EU action not justified on subsidiarity grounds)
-            □ No — because:
+Assessment: - [ ] Yes (stop — EU action not justified on subsidiarity grounds)
+            - [ ] No — because:
 [Explain specifically why member state action is insufficient. Examples:
 "Unilateral member state action would shift the problem to neighbouring states"
 "The cross-border nature of the problem requires a common framework to be effective"
 "Divergent national rules have already been tried (cite experience) and have not
 resolved the problem"]
 
-1.3 EU VALUE ADDED — IS EU ACTION BETTER?
+1.3 EU value added — is EU action better?
 Can the objective be better achieved at EU level?
-Assessment: □ Yes — because:
+Assessment: - [ ] Yes — because:
 [Explain specifically the advantages of EU-level action: economies of scale,
 network effects, level playing field, international negotiating weight, etc.]
 
-SUBSIDIARITY CONCLUSION:
-□ Subsidiarity is satisfied: the objective cannot be sufficiently achieved
+Subsidiarity conclusion:
+- [ ] Subsidiarity is satisfied: the objective cannot be sufficiently achieved
   by member states and can be better achieved at EU level.
-□ Subsidiarity is NOT satisfied: [reason] → do not proceed with EU action.
+- [ ] Subsidiarity is NOT satisfied: [reason] → do not proceed with EU action.
 
-─────────────────────────────────────────────────────────
-STEP 2 — PROPORTIONALITY (Art. 5(4) TEU)
-─────────────────────────────────────────────────────────
-2.1 CHOICE OF INSTRUMENT
-Proposed instrument: □ Regulation  □ Directive  □ Decision  □ Recommendation
+---
+
+### Step 2 — Proportionality (Art. 5(4) TEU)
+
+2.1 Choice of instrument
+Proposed instrument: - [ ] Regulation  - [ ] Directive  - [ ] Decision  - [ ] Recommendation
 Is this the least restrictive instrument that achieves the objective?
-  □ Regulation is justified because: [uniform application needed; Directive
+  - [ ] Regulation is justified because: [uniform application needed; Directive
     would create fragmentation; etc.]
-  □ Directive is justified because: [member state flexibility needed; full
+  - [ ] Directive is justified because: [member state flexibility needed; full
     harmonisation not required; etc.]
-  □ Less binding instrument (Recommendation, Guidelines) was considered and
+  - [ ] Less binding instrument (Recommendation, Guidelines) was considered and
     rejected because: [enforcement gap; voluntary approach already failed; etc.]
 
-2.2 SCOPE AND CONTENT
+2.2 Scope and content
 Does the content of the proposal go beyond what is necessary?
-  □ No — the scope is limited to: [describe what is regulated and why each
+  - [ ] No — the scope is limited to: [describe what is regulated and why each
     element is necessary]
-  □ Yes — the following provisions may go beyond what is necessary: [identify]
+  - [ ] Yes — the following provisions may go beyond what is necessary: [identify]
     → propose to narrow scope or move to Directive
 
-2.3 IMPACT ON MEMBER STATE ACTION
+2.3 Impact on member state action
 What discretion do member states retain?
 [Describe: implementing measures, derogations, national choices available.
 A Regulation with no discretion must be justified; a Directive must give
 real transposition flexibility.]
 
-PROPORTIONALITY CONCLUSION:
-□ Proportionality is satisfied: the proposed instrument and content are no
+Proportionality conclusion:
+- [ ] Proportionality is satisfied: the proposed instrument and content are no
   more than what is necessary to achieve the objective.
-□ Proportionality concerns: [specify] — recommend: [modification]
+- [ ] Proportionality concerns: [specify] — recommend: [modification]
 
-─────────────────────────────────────────────────────────
-STEP 3 — PROTOCOL No. 2 REASONED OPINION RISK
-─────────────────────────────────────────────────────────
+---
+
+### Step 3 — Protocol No. 2 Reasoned Opinion Risk
+
 Votes allocated to national parliaments: 54 (bicameral: 2 each; unicameral: 1 each)
 Yellow card threshold: 18 votes (1/3)
 Orange card threshold: 28 votes (simple majority)
@@ -163,15 +166,14 @@ on similar proposals, affected national interests, national coalition government
 
 | Parliament | Likely objection? | Reason |
 |---|---|---|
-| [MS] | □ Yes □ No | [Brief reason] |
+| [MS] | - [ ] Yes - [ ] No | [Brief reason] |
 
 Estimated reasoned opinion votes: [N]
-Risk level: □ Low (< 10 votes)  □ Medium (10–17)  □ High (≥ 18 — yellow card risk)
+Risk level: - [ ] Low (< 10 votes)  - [ ] Medium (10–17)  - [ ] High (≥ 18 — yellow card risk)
 
 Mitigation:
 [If yellow card risk is medium or high: what changes to the proposal or the
 subsidiarity justification would address the likely objections?]
-```
 
 ---
 
@@ -209,7 +211,6 @@ subsidiarity justification would address the likely objections?]
 
 ### Explanatory Memorandum — Subsidiarity Paragraph (short form)
 
-```
 SUBSIDIARITY AND PROPORTIONALITY (Article 5 TEU)
 
 The proposal concerns [shared / supporting] competence under [Art. X TFEU].
@@ -226,7 +227,6 @@ achieves the objective of [objective]. The content is limited to what is
 necessary: [brief scope description]. Member states retain [discretion elements].
 
 [EUR-Lex — verify current version of cited Treaty articles]
-```
 
 ---
 

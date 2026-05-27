@@ -183,92 +183,94 @@ INNOVATION:
 
 ### 1. Data Note / Analytical Memorandum
 
-```
-DATA NOTE
-Subject:    [Analytical question or policy indicator]
-DG / Unit:  [XX.X.X]
-Prepared by: [Name]
-Date:        [DD Month YYYY]
-Data source: [Eurostat / AMECO / Comext — database code + extraction date]
+**DATA NOTE**
 
-─────────────────────────────────────────────────────────
-1. ANALYTICAL QUESTION
-─────────────────────────────────────────────────────────
+**Subject:** [Analytical question or policy indicator]
+**DG / Unit:** [XX.X.X]
+**Prepared by:** [Name]
+**Date:** [DD Month YYYY]
+**Data source:** [Eurostat / AMECO / Comext — database code + extraction date]
+
+---
+
+**1. Analytical Question**
+
 [Precise formulation of what the data is being used to analyse or answer.]
 
-─────────────────────────────────────────────────────────
-2. DATA SOURCE AND METHODOLOGY
-─────────────────────────────────────────────────────────
-Source:      [Eurostat / Comext / AMECO]
-Database:    [Code — e.g., lfsa_urgan]
-Indicator:   [Full indicator name and definition]
-Unit:        [% / EUR millions / thousands / index]
-Coverage:    [Geographic: EU27 / specific MS / NUTS2 — Time: YYYY–YYYY]
-Frequency:   [Annual / Quarterly / Monthly]
-Revisions:   [Last revision date if relevant]
-Limitations: [Coverage gaps, comparability issues, quality flags applied]
+**2. Data Source and Methodology**
 
-─────────────────────────────────────────────────────────
-3. KEY FINDINGS
-─────────────────────────────────────────────────────────
-[Finding 1 — expressed as: "[Indicator] was [X]% in [year], compared to [benchmark/
-previous year/EU average]. This represents a [increase/decrease] of [N] percentage points
-since [base year]."]
+| Item | Detail |
+|---|---|
+| Source | [Eurostat / Comext / AMECO] |
+| Database | [Code — e.g., lfsa_urgan] |
+| Indicator | [Full indicator name and definition] |
+| Unit | [% / EUR millions / thousands / index] |
+| Coverage | [Geographic: EU27 / specific MS / NUTS2 — Time: YYYY–YYYY] |
+| Frequency | [Annual / Quarterly / Monthly] |
+| Revisions | [Last revision date if relevant] |
+| Limitations | [Coverage gaps, comparability issues, quality flags applied] |
+
+**3. Key Findings**
+
+[Finding 1 — expressed as: "[Indicator] was [X]% in [year], compared to [benchmark / previous year / EU average]. This represents a [increase/decrease] of [N] percentage points since [base year]."]
 
 [Finding 2 — ...]
 
 [Finding 3 — ...]
 
-─────────────────────────────────────────────────────────
-4. DATA TABLE / VISUALISATION
-─────────────────────────────────────────────────────────
+**4. Data Table / Visualisation**
+
 [Table or chart — titled, labelled, sourced, accessibility-compliant]
 
-─────────────────────────────────────────────────────────
-5. INTERPRETATION AND CAVEATS
-─────────────────────────────────────────────────────────
-[What the data shows for the policy question. What it does NOT show.
-What alternative data would be needed for a more complete picture.]
-```
+**5. Interpretation and Caveats**
+
+[What the data shows for the policy question. What it does NOT show. What alternative data would be needed for a more complete picture.]
+
+---
 
 ### 2. Indicator / Scoreboard Design Template
 
-```
-INDICATOR DESIGN NOTE
-Policy area:     [e.g., Green Deal / Social Pillar / Digital Decade]
-Monitoring framework: [e.g., European Semester / SDG / DESI]
+**INDICATOR DESIGN NOTE**
 
-INDICATOR [N]: [Short name]
-─────────────────────────────────────────────────────────
-Full name:       [Official indicator name]
-Definition:      [Precise technical definition — leave no ambiguity]
-Unit:            [Unit of measurement]
-Direction:       □ Higher is better  □ Lower is better
-Geographic scope: □ EU27  □ Eurozone  □ All MS  □ NUTS2  □ Other
-Time coverage:   [First available year] – [Latest year]
-Frequency:       [Annual / Quarterly / Other]
-Source:          [Eurostat database code / other primary source]
-Proxy indicator: [If primary data unavailable — what proxy and why]
+**Policy area:** [e.g., Green Deal / Social Pillar / Digital Decade]
+**Monitoring framework:** [e.g., European Semester / SDG / DESI]
 
-INTERPRETATION:
-Headline target:  [If applicable — e.g., 45% by 2030]
-Current value:    [EU27 average: X% — year YYYY]
-Progress:         □ On track  □ Insufficient progress  □ Moving away from target
+---
 
-COMPARABILITY:
-□ Comparable across all MS without adjustment
-□ Known comparability issues: [specify]
+**Indicator [N]: [Short name]**
 
-REVISION RISK:
-□ Low (administrative data, definitive)
-□ Medium (survey data, subject to minor revisions)
-□ High (national accounts data, subject to significant revisions)
+| Field | Detail |
+|---|---|
+| Full name | [Official indicator name] |
+| Definition | [Precise technical definition — leave no ambiguity] |
+| Unit | [Unit of measurement] |
+| Direction | - [ ] Higher is better - [ ] Lower is better |
+| Geographic scope | - [ ] EU27 - [ ] Eurozone - [ ] All MS - [ ] NUTS2 - [ ] Other |
+| Time coverage | [First available year] – [Latest year] |
+| Frequency | [Annual / Quarterly / Other] |
+| Source | [Eurostat database code / other primary source] |
+| Proxy indicator | [If primary data unavailable — what proxy and why] |
 
-DATA GAPS:
-[MS for which data is unavailable or significantly delayed]
+**Interpretation:**
 
-NEXT SCHEDULED UPDATE: [DD Month YYYY]
-```
+| Item | Detail |
+|---|---|
+| Headline target | [If applicable — e.g., 45% by 2030] |
+| Current value | [EU27 average: X% — year YYYY] |
+| Progress | - [ ] On track - [ ] Insufficient progress - [ ] Moving away from target |
+
+**Comparability:**
+- [ ] Comparable across all MS without adjustment
+- [ ] Known comparability issues: [specify]
+
+**Revision risk:**
+- [ ] Low (administrative data, definitive)
+- [ ] Medium (survey data, subject to minor revisions)
+- [ ] High (national accounts data, subject to significant revisions)
+
+**Data gaps:** [MS for which data is unavailable or significantly delayed]
+
+**Next scheduled update:** [DD Month YYYY]
 
 ---
 

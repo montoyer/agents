@@ -156,79 +156,92 @@ Every DPIA must contain all seven elements:
 
 ### 1. DPO Threshold Screening Opinion
 
-```
-DPO THRESHOLD SCREENING OPINION
+**DPO Threshold Screening Opinion**
 Processing activity: [name]
 Controller: [EU institution / DG]
 Reference: [DPIA-YYYY-NNN]
 Date: [DD Month YYYY]
 DPO: [name / function]
 
-1. DESCRIPTION OF PROCESSING
-   [2–3 sentence description of the processing, its purpose, and data subjects]
+---
 
-2. ART. 39(2) EUDPR — HIGH-RISK CRITERIA CHECK
-   Criterion assessed: [list each criterion checked]
-   Triggered: YES / NO — [reasoning per criterion]
+#### 1. Description of Processing
 
-3. ART. 39(1) EUDPR — GENERAL TEST
-   Nature / scope / context / purposes: [brief assessment]
-   Overall likelihood of high risk: [LOW / MEDIUM / HIGH]
+[2–3 sentence description of the processing, its purpose, and data subjects]
 
-4. DPO DETERMINATION
-   [ ] DPIA MANDATORY — Art. 39(2)(X) triggered
-   [ ] DPIA RECOMMENDED — Art. 39(1) general test, discretionary
-   [ ] DPIA NOT REQUIRED — Reasoning: [...]
+#### 2. Art. 39(2) EUDPR — High-Risk Criteria Check
 
-5. NEXT STEPS
-   [List next actions: brief IT-PM, Legal Officer, IT Security; or state not required]
+Criterion assessed: [list each criterion checked]
+Triggered: YES / NO — [reasoning per criterion]
+
+#### 3. Art. 39(1) EUDPR — General Test
+
+Nature / scope / context / purposes: [brief assessment]
+Overall likelihood of high risk: [LOW / MEDIUM / HIGH]
+
+#### 4. DPO Determination
+
+- [ ] DPIA MANDATORY — Art. 39(2)(X) triggered
+- [ ] DPIA RECOMMENDED — Art. 39(1) general test, discretionary
+- [ ] DPIA NOT REQUIRED — Reasoning: [...]
+
+#### 5. Next Steps
+
+[List next actions: brief IT-PM, Legal Officer, IT Security; or state not required]
 
 [model knowledge — verify] [review — DPO sign-off required]
-```
+
+---
 
 ### 2. DPIA Sign-Off Opinion
 
-```
-DPO DPIA SIGN-OFF OPINION
+**DPO DPIA Sign-Off Opinion**
 Processing activity: [name]
 DPIA reference: [DPIA-YYYY-NNN]
 Date: [DD Month YYYY]
 
-1. DPIA COMPLETENESS CHECK (Art. 39(7) EUDPR)
-   [✓/✗] Systematic description of processing and purposes
-   [✓/✗] Necessity and proportionality assessment
-   [✓/✗] Risk assessment (inherent + residual)
-   [✓/✗] Measures to address risks
-   [✓/✗] Data subject rights implementation
-   [✓/✗] Legal basis identified
-   [✓/✗] DPO consultation documented
+---
 
-2. RISK SUMMARY
-   Inherent risk: [LOW / MEDIUM / HIGH]
-   Residual risk after mitigations: [LOW / MEDIUM / HIGH]
-   Key residual risks: [list]
+#### 1. DPIA Completeness Check (Art. 39(7) EUDPR)
 
-3. OUTSTANDING CONCERNS
-   [List any unresolved issues or conditions attached to sign-off]
+- [✓/✗] Systematic description of processing and purposes
+- [✓/✗] Necessity and proportionality assessment
+- [✓/✗] Risk assessment (inherent + residual)
+- [✓/✗] Measures to address risks
+- [✓/✗] Data subject rights implementation
+- [✓/✗] Legal basis identified
+- [✓/✗] DPO consultation documented
 
-4. ART. 40 PRIOR CONSULTATION DETERMINATION
-   [ ] NOT REQUIRED — Residual risk is LOW/MEDIUM; mitigations adequate
-   [ ] REQUIRED — Residual risk remains HIGH; referral to EDPS mandatory before deployment
+#### 2. Risk Summary
 
-5. DPO OPINION
-   [ ] FAVOURABLE — Processing may proceed subject to implementation of measures
-   [ ] FAVOURABLE WITH CONDITIONS — [list conditions]
-   [ ] UNFAVOURABLE — Processing must not proceed; see concerns at §3
+Inherent risk: [LOW / MEDIUM / HIGH]
+Residual risk after mitigations: [LOW / MEDIUM / HIGH]
+Key residual risks: [list]
+
+#### 3. Outstanding Concerns
+
+[List any unresolved issues or conditions attached to sign-off]
+
+#### 4. Art. 40 Prior Consultation Determination
+
+- [ ] NOT REQUIRED — Residual risk is LOW/MEDIUM; mitigations adequate
+- [ ] REQUIRED — Residual risk remains HIGH; referral to EDPS mandatory before deployment
+
+#### 5. DPO Opinion
+
+- [ ] FAVOURABLE — Processing may proceed subject to implementation of measures
+- [ ] FAVOURABLE WITH CONDITIONS — [list conditions]
+- [ ] UNFAVOURABLE — Processing must not proceed; see concerns at §3
 
 DPO signature / date: _______________
 
 [review — DPO sign-off required] [review — political judgement required where applicable]
-```
+
+---
 
 ### 3. ROPA Record (Art. 31 EUDPR)
 
-```
-RECORD OF PROCESSING ACTIVITIES
+**Record of Processing Activities**
 Entry reference: [ROPA-YYYY-NNN]
 Last updated: [DD Month YYYY]
 
@@ -249,7 +262,6 @@ Retention period: [period + legal basis for retention]
 Technical and organisational measures: [brief description / reference to security policy]
 DPIA conducted: YES / NO — Reference: [DPIA-YYYY-NNN]
 EDPS prior consultation: NOT REQUIRED / COMPLETED — Reference: [EDPS-PC-YYYY-NNN]
-```
 
 ---
 

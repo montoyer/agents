@@ -188,116 +188,112 @@ Close         ▼
 
 ### 1. Letter of Formal Notice (LFN) — Structure
 
-```
-EUROPEAN COMMISSION
-Ref.: [Internal reference]
-Brussels, [DD Month YYYY]
-LIMITE
+*EUROPEAN COMMISSION*
+**Ref.:** [Internal reference]
+**Brussels,** [DD Month YYYY]
+**LIMITE**
 
 [Title of the Commissioner / Director-General]
 [Name of Member State Minister / Permanent Representative]
-Subject: Infringement of [EU law instrument — full title and OJ reference]
-         Failure to [transpose by DD Month YYYY / comply with Article X / ...]
+**Subject:** Infringement of [EU law instrument — full title and OJ reference] — Failure to [transpose by DD Month YYYY / comply with Article X / ...]
 
 Dear [Title] [Name],
 
-1. INTRODUCTION
-The European Commission has examined whether [Member State] has fulfilled its
-obligations under [legal instrument, specific article(s)].
+**1. Introduction**
 
-2. ALLEGED INFRINGEMENT
-[Precise description of the alleged breach — what the EU law requires and
-what the member state has or has not done. Cite specific articles.
-For non-transposition: confirm the transposition deadline, confirm no NIM
-notified or NIMs notified are incomplete.]
+The European Commission has examined whether [Member State] has fulfilled its obligations under [legal instrument, specific article(s)].
 
-3. LEGAL ANALYSIS
-[Concise legal reasoning — why the member state measure (or lack thereof)
-constitutes a breach of the cited provision. Reference CJEU case law if applicable.]
+**2. Alleged Infringement**
 
-4. INVITATION TO SUBMIT OBSERVATIONS
-The Commission invites [Member State] to submit its observations within
-[two months] of the date of this letter.
+[Precise description of the alleged breach — what the EU law requires and what the member state has or has not done. Cite specific articles. For non-transposition: confirm the transposition deadline, confirm no NIM notified or NIMs notified are incomplete.]
+
+**3. Legal Analysis**
+
+[Concise legal reasoning — why the member state measure (or lack thereof) constitutes a breach of the cited provision. Reference CJEU case law if applicable.]
+
+**4. Invitation to Submit Observations**
+
+The Commission invites [Member State] to submit its observations within two months of the date of this letter.
+
+[Signature block]
+
+*Annex if needed: specific provisions in breach; conformity table*
+
+---
+
+### 2. Reasoned Opinion (RO) — Structure
+
+*EUROPEAN COMMISSION*
+**Ref.:** [Internal reference] — following LFN of [date]
+**Brussels,** [DD Month YYYY]
+**LIMITE**
+
+**Subject:** REASONED OPINION — Infringement of [legal instrument] — Article 258 of the Treaty on the Functioning of the European Union
+
+**1. Introduction and Procedural History**
+
+On [date], the Commission sent a Letter of Formal Notice to [Member State]. By letter of [date] / By the deadline of [date] (no response received), [Member State] [replied stating... / failed to respond].
+
+**2. Summary of the Member State's Position**
+
+[Accurate summary of the member state's arguments, if any.]
+
+**3. Commission's Assessment**
+
+[Rigorous legal analysis of each member-state argument and why it does not remedy the infringement. For non-transposition: restate missing measures. For incorrect transposition: article-by-article conformity analysis.]
+
+**4. Conclusion**
+
+In light of the foregoing, the Commission concludes that [Member State] has failed to fulfil its obligations under [Articles X and Y of Directive/Regulation YYYY/NNN].
+
+**5. Call for Compliance**
+
+The Commission accordingly calls on [Member State] to take the necessary measures to comply with this Reasoned Opinion within two months of its notification.
 
 [Signature block]
 
 ---
-[Annex if needed: specific provisions in breach; conformity table]
-```
-
-### 2. Reasoned Opinion (RO) — Structure
-
-```
-EUROPEAN COMMISSION
-Ref.: [Internal reference] — following LFN of [date]
-Brussels, [DD Month YYYY]
-LIMITE
-
-Subject: REASONED OPINION — Infringement of [legal instrument]
-         Article 258 of the Treaty on the Functioning of the European Union
-
-1. INTRODUCTION AND PROCEDURAL HISTORY
-On [date], the Commission sent a Letter of Formal Notice to [Member State].
-By letter of [date] / By the deadline of [date] (no response received), [Member State]
-[replied stating... / failed to respond].
-
-2. SUMMARY OF THE MEMBER STATE'S POSITION
-[Accurate summary of the member state's arguments, if any.]
-
-3. COMMISSION'S ASSESSMENT
-[Rigorous legal analysis of each member-state argument and why it does not
-remedy the infringement. For non-transposition: restate missing measures.
-For incorrect transposition: article-by-article conformity analysis.]
-
-4. CONCLUSION
-In light of the foregoing, the Commission concludes that [Member State] has
-failed to fulfil its obligations under [Articles X and Y of Directive/Regulation
-YYYY/NNN].
-
-5. CALL FOR COMPLIANCE
-The Commission accordingly calls on [Member State] to take the necessary measures
-to comply with this Reasoned Opinion within [two months] of its notification.
-
-[Signature block]
-```
 
 ### 3. Penalty Calculation Note (Art. 260(3) — Non-Transposition)
 
-```
-PENALTY CALCULATION — ARTICLE 260(3) TFEU
-Directive:      [Title — OJ reference]
-Member State:   [Country]
-Transposition deadline: [DD Month YYYY]
-Date of CJEU referral: [DD Month YYYY]
-Duration of breach at referral: [N months]
+**PENALTY CALCULATION — ARTICLE 260(3) TFEU**
 
-─────────────────────────────────────────────────────────
-DAILY PENALTY PAYMENT (P)
-─────────────────────────────────────────────────────────
-Formula: P = Bc × n × S × D
-  Bc (base coefficient):   [applied daily rate per Commission communication]
-  n  (country factor):     [based on GDP and population — Country X factor: N.NN]
-  S  (seriousness factor): [1–20 scale — proposed: N]
-  D  (duration factor):    [1 + 0.1 per month — N months = N.N]
-Daily penalty proposed to CJEU: €[X,XXX] per day
+**Directive:** [Title — OJ reference]
+**Member State:** [Country]
+**Transposition deadline:** [DD Month YYYY]
+**Date of CJEU referral:** [DD Month YYYY]
+**Duration of breach at referral:** [N months]
 
-─────────────────────────────────────────────────────────
-LUMP SUM (LS)
-─────────────────────────────────────────────────────────
-Formula: LS = Bc × n × S × number of days in breach
-Minimum lump sum (Commission communication): €[X,XXX,000]
-Calculated lump sum: €[X,XXX,000]
-Lump sum proposed to CJEU: €[MAX of minimum and calculated]
+---
 
-─────────────────────────────────────────────────────────
-CJEU REQUEST
-─────────────────────────────────────────────────────────
+#### Daily Penalty Payment (P)
+
+**Formula:** P = Bc × n × S × D
+
+| Factor | Description | Value |
+|---|---|---|
+| Bc (base coefficient) | Applied daily rate per Commission communication | [value] |
+| n (country factor) | Based on GDP and population | [N.NN] |
+| S (seriousness factor) | 1–20 scale | [N proposed] |
+| D (duration factor) | 1 + 0.1 per month | [N months = N.N] |
+| **Daily penalty proposed to CJEU** | | **€[X,XXX] per day** |
+
+#### Lump Sum (LS)
+
+**Formula:** LS = Bc × n × S × number of days in breach
+
+| Item | Amount |
+|---|---|
+| Minimum lump sum (Commission communication) | €[X,XXX,000] |
+| Calculated lump sum | €[X,XXX,000] |
+| **Lump sum proposed to CJEU** | **€[MAX of minimum and calculated]** |
+
+#### CJEU Request
+
 The Commission requests the Court to order [Member State]:
 1. To adopt the measures necessary to transpose [Directive].
 2. To pay a lump sum of €[X,XXX,000].
-3. To pay a daily penalty of €[X,XXX] per day from the date of the judgment
-   until full compliance.
-```
+3. To pay a daily penalty of €[X,XXX] per day from the date of the judgment until full compliance.
 
 ---
 

@@ -149,7 +149,6 @@ START: Has the contributing DG read the full draft and accompanying IA/SWD?
 
 ### 1. ISC Contribution — Full Structure
 
-```
 INTER-SERVICE CONSULTATION CONTRIBUTION
 
 Lead DG:            [DG XX]
@@ -159,21 +158,24 @@ ISC reference:      [ARES reference of the ISC launch document]
 Deadline:           [DD Month YYYY]
 Contributing DG contact: [Name, Unit, email]
 
-─────────────────────────────────────────────────────────
-OPINION: □ AGREEMENT  □ AGREEMENT WITH COMMENTS
-         □ RESERVATIONS  □ OPPOSITION
-─────────────────────────────────────────────────────────
+---
 
-EXECUTIVE SUMMARY OF POSITION:
+OPINION: - [ ] AGREEMENT  - [ ] AGREEMENT WITH COMMENTS
+         - [ ] RESERVATIONS  - [ ] OPPOSITION
+
+---
+
+Executive summary of position:
 [2–3 sentences: overall view, number of substantive comments/reservations, and
 whether they are blocking. Example: "DG YY agrees with the overall approach but
 has three reservations regarding Articles 5, 12, and Annex II that must be
 resolved before DG YY can lift its reservations. One further non-blocking comment
 on the recitals is provided below."]
 
-─────────────────────────────────────────────────────────
-SECTION 1 — RESERVATIONS (blocking)
-─────────────────────────────────────────────────────────
+---
+
+### Section 1 — Reservations (blocking)
+
 Reservation 1 — [Short title, e.g., "Article 5(2) — delegated power scope"]
 
 Issue: [Precise description of the legal or policy problem. Cite the specific
@@ -186,58 +188,59 @@ Proposed amendment:
   Proposed text: "[exact replacement text]"
   Reason: [Why this amendment resolves the issue]
 
-─────────────────────────────────────────────────────────
-SECTION 2 — COMMENTS (non-blocking)
-─────────────────────────────────────────────────────────
+---
+
+### Section 2 — Comments (non-blocking)
+
 Comment 1 — [Short title]
 
 [Description of the issue and, if applicable, a proposed drafting improvement.
 Non-blocking comments are for the lead DG to consider; they do not prevent
 agreement if not accepted.]
 
-─────────────────────────────────────────────────────────
-SECTION 3 — PROCEDURAL NOTES
-─────────────────────────────────────────────────────────
-□ DG YY requests a bilateral meeting with DG XX to discuss: [reservation 1, ...]
-□ DG YY has consulted its DPO regarding data protection implications: [result]
-□ DG YY notes that the IA does not adequately assess impacts on [area]:
+---
+
+### Section 3 — Procedural Notes
+
+- [ ] DG YY requests a bilateral meeting with DG XX to discuss: [reservation 1, ...]
+- [ ] DG YY has consulted its DPO regarding data protection implications: [result]
+- [ ] DG YY notes that the IA does not adequately assess impacts on [area]:
   [brief description of gap]
-□ DG YY reserves its position on the financial implications pending receipt of
+- [ ] DG YY reserves its position on the financial implications pending receipt of
   the updated financial statement from DG XX
 
-─────────────────────────────────────────────────────────
+---
+
 CLEARED BY:
 HoU: [Name] — [DD Month YYYY]
 Director (if Opposition): [Name] — [DD Month YYYY]
-─────────────────────────────────────────────────────────
 
 [review — requires HoU clearance before sending]
 [EUR-Lex — verify current version of any cited legal act]
-```
 
 ### 2. Second-Round ISC Note (after lead DG response)
 
-```
 SECOND-ROUND ISC NOTE — DG YY
 
 ISC reference:   [ARES reference]
-Original opinion: □ Reservations  □ Comments
+Original opinion: - [ ] Reservations  - [ ] Comments
 Date of lead DG response: [DD Month YYYY]
 
-RESERVATIONS UPDATE:
-─────────────────────────────────────────────────────────
+---
+
+### Reservations Update
+
 Reservation 1 — [Title]
 Lead DG response: [Summary of how the lead DG addressed or rejected the reservation]
 DG YY position:
-  □ Reservation LIFTED — lead DG has accepted the amendment (or equivalent)
-  □ Reservation MAINTAINED — lead DG's response does not resolve the issue
+  - [ ] Reservation LIFTED — lead DG has accepted the amendment (or equivalent)
+  - [ ] Reservation MAINTAINED — lead DG's response does not resolve the issue
     Reason for maintaining: [specific explanation]
-    Escalation required: □ Yes — bilateral meeting  □ Yes — HoU level  □ No
+    Escalation required: - [ ] Yes — bilateral meeting  - [ ] Yes — HoU level  - [ ] No
 
 [Repeat for each reservation]
 
-OVERALL UPDATED POSITION: □ AGREEMENT  □ RESERVATIONS MAINTAINED
-```
+OVERALL UPDATED POSITION: - [ ] AGREEMENT  - [ ] RESERVATIONS MAINTAINED
 
 ---
 

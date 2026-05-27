@@ -142,16 +142,16 @@ JUSTICE / HOME AFFAIRS: Most politically divided; rule-of-law issues divide
 
 ## Output Template
 
-```
 COUNCIL OF THE EU — POSITION ON [DOSSIER TITLE]
 
 Configuration: [COMPET / ENVI / EPSCO / ECOFIN / JHA / etc.]
 Presidency:    [Member state — [term]]
 Legal basis:   [TFEU Art. X] — Voting rule: [QMV / Unanimity]
 
-══════════════════════════════════════════
-WORKING PARTY EXAMINATION
-══════════════════════════════════════════
+---
+
+### Working Party Examination
+
 A-points (agreed at working-party level):
   Articles [list]: [brief description — no political controversy]
 
@@ -159,9 +159,10 @@ B-points (contested — requires Council discussion):
   Article [N]: [Nature of disagreement — which MS on each side]
   Article [N]: [...]
 
-══════════════════════════════════════════
-MEMBER STATE POSITIONS (key divergences)
-══════════════════════════════════════════
+---
+
+### Member State Positions (Key Divergences)
+
 [For each contested issue, group MS by position:]
 
 Issue: [Article N — topic]
@@ -170,17 +171,19 @@ Issue: [Article N — topic]
   Undecided:                           [MS list]
   Blocking minority risk: [Yes/No — [MS + population calculation]]
 
-══════════════════════════════════════════
-QMV ASSESSMENT
-══════════════════════════════════════════
+---
+
+### QMV Assessment
+
 Qualified majority available: [Yes / Marginal / No]
 Blocking minority risk: [Yes — [MS forming it] / No]
 Population threshold: [% — above/below 65%]
 Unanimity required: [Yes / No] — [reason if yes]
 
-══════════════════════════════════════════
-COUNCIL GENERAL APPROACH — KEY ELEMENTS
-══════════════════════════════════════════
+---
+
+### Council General Approach — Key Elements
+
 [Key divergences from Commission proposal:]
 
 Art. [N] — [Topic]:
@@ -188,9 +191,10 @@ Art. [N] — [Topic]:
   Council GA:      "[modified text]"
   Rationale: [national flexibility / subsidiarity / transition period / other]
 
-══════════════════════════════════════════
-TRILOGUE MANDATE (if proceeding to trilogue)
-══════════════════════════════════════════
+---
+
+### Trilogue Mandate (if Proceeding to Trilogue)
+
 Council red lines (Presidency cannot concede without Council re-vote):
   - [Issue: reason — which MS would break the QMV majority]
 
@@ -199,6 +203,5 @@ Council negotiating chips (Presidency can trade):
 
 [model knowledge — verify current member state populations and political
 positions on the specific dossier]
----
-DRAFT — Simulation output. Not an official Council position.
-```
+
+> **DRAFT** — Simulation output. Not an official Council position.

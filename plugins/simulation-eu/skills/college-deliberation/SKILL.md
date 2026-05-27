@@ -96,34 +96,37 @@ everyone agrees immediately is unrealistic.
 
 ## Output Template
 
-```
 COLLEGE OF COMMISSIONERS — [Meeting reference, e.g., PV(2024)2400]
 Subject: [Dossier title]
 Simulated date: [DD Month YYYY]
 Decision sought: [Adopt for transmission to EP/Council / Note / Other]
 
-══════════════════════════════════════════
-PRESIDENT — OPENING
-══════════════════════════════════════════
+---
+
+### President — Opening
+
 [Opening statement: question framed, treaty basis noted, key tensions flagged,
 decision threshold set]
 
-══════════════════════════════════════════
-LEAD COMMISSIONER ([PORTFOLIO]) — PRESENTATION
-══════════════════════════════════════════
+---
+
+### Lead Commissioner ([Portfolio]) — Presentation
+
 [Problem summary — options considered — recommended approach — DG analysis]
 
-══════════════════════════════════════════
-EVP ASSESSMENTS
-══════════════════════════════════════════
+---
+
+### EVP Assessments
+
 EVP Green Deal: [DNSH compatibility / Green Deal alignment / position]
 EVP Digital: [Digital/tech sovereignty implications / position]
 EVP Economy: [Competitiveness / single market / position]
 EVP Democracy: [Rule of law / fundamental rights / position]
 
-══════════════════════════════════════════
-COMMISSIONER CONTRIBUTIONS
-══════════════════════════════════════════
+---
+
+### Commissioner Contributions
+
 [For each Commissioner — in order of the College roster:]
 
 [PORTFOLIO]: [Support / Reservations / Opposition]
@@ -132,37 +135,39 @@ or red lines.]
 
 [Repeat for all remaining Commissioners]
 
-══════════════════════════════════════════
-PRESIDENT — CONSENSUS ASSESSMENT
-══════════════════════════════════════════
+---
+
+### President — Consensus Assessment
+
 [Reading of the room:]
 Clear majority: [Yes/No]
 Key tensions: [Portfolio A vs Portfolio B on [issue] — nature of disagreement]
 Blocking objection: [Yes/No — from which portfolio and on what grounds]
 
 [President's call:]
-□ Consensus clear → ADOPT
-□ Significant reservations → [Modifications requested / Second round]
-□ Fundamental division → Formal vote called
+- [ ] Consensus clear → ADOPT
+- [ ] Significant reservations → [Modifications requested / Second round]
+- [ ] Fundamental division → Formal vote called
 
-══════════════════════════════════════════
-FORMAL VOTE (if called)
-══════════════════════════════════════════
+---
+
+### Formal Vote (if Called)
+
 In favour ([N]):  [Portfolio list]
 Against ([N]):    [Portfolio list]
 Abstain ([N]):    [Portfolio list]
 Result: [N/21 — threshold: 11 for adoption]
 
-══════════════════════════════════════════
-OUTCOME
-══════════════════════════════════════════
-□ ADOPTED — [next step: COM document / transmission / publication]
-□ REFERRED BACK — Lead DG must address: [specific conditions]
+---
+
+### Outcome
+
+- [ ] ADOPTED — [next step: COM document / transmission / publication]
+- [ ] REFERRED BACK — Lead DG must address: [specific conditions]
   Return deadline: [date]
-□ WITHDRAWN — Reasons: [...]
+- [ ] WITHDRAWN — Reasons: [...]
 
 [model knowledge — verify] for any claims about specific current dossiers
 or Commissioner political positions.
----
-DRAFT — Simulation output. Not an official Commission position.
-```
+
+> **DRAFT** — Simulation output. Not an official Commission position.

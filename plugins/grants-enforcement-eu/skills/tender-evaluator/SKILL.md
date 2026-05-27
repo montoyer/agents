@@ -102,160 +102,157 @@ evaluation; no information from outside the tender submission can be used.
 
 ## Exclusion and Selection Assessment Form
 
-```
-EXCLUSION AND SELECTION ASSESSMENT
-Procedure ref:    [Reference]
-Tenderer:         [Name]
-Date:             [DD Month YYYY]
-Evaluator:        [Name]
+**EXCLUSION AND SELECTION ASSESSMENT**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-EXCLUSION CRITERIA (Art. 136 FR)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Self-declaration of exclusion grounds submitted and signed
-[ ] EDES database checked — result: [ ] Clear  [ ] Entry found [describe]
-[ ] EWS check — result: [ ] Clear  [ ] Warning [describe]
-[ ] Insolvency / liquidation / bankruptcy: declared [ ] No  [ ] Yes [describe]
-[ ] Grave professional misconduct: declared [ ] No  [ ] Yes [describe]
-[ ] Tax / social security obligations: declared compliant [ ] Yes  [ ] No [describe]
-[ ] Conflict of interest with contracting authority: [ ] None declared  [ ] Declared [assess]
+**Procedure ref:** [Reference]
+**Tenderer:** [Name]
+**Date:** [DD Month YYYY] — **Evaluator:** [Name]
 
-Exclusion conclusion:   [ ] PASS — no exclusion grounds identified
-                        [ ] FAIL — grounds identified: [specify Art. 136 FR ground]
-                        [ ] PENDING — clarification requested [date]; awaiting response
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SELECTION CRITERIA — FINANCIAL CAPACITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Minimum annual turnover required:  €[X]   Declared:  €[X]   [ ] PASS  [ ] FAIL
-Financial ratio (if required):     [ratio] Declared: [ratio] [ ] PASS  [ ] FAIL
-Professional liability insurance:  €[X]   Declared:  €[X]   [ ] PASS  [ ] FAIL
+#### Exclusion Criteria (Art. 136 FR)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SELECTION CRITERIA — TECHNICAL AND PROFESSIONAL CAPACITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Reference contracts required:  [N] contracts of value ≥ €[X] in [domain]
-  Reference 1: [Project name, client, value, dates] — [ ] Meets criteria  [ ] Does not meet
-  Reference 2: [...]                                 — [ ] Meets criteria  [ ] Does not meet
-  Reference [N]: [...]                               — [ ] Meets criteria  [ ] Does not meet
+- [ ] Self-declaration of exclusion grounds submitted and signed
+- [ ] EDES database checked — result: - [ ] Clear - [ ] Entry found [describe]
+- [ ] EWS check — result: - [ ] Clear - [ ] Warning [describe]
+- [ ] Insolvency / liquidation / bankruptcy: declared - [ ] No - [ ] Yes [describe]
+- [ ] Grave professional misconduct: declared - [ ] No - [ ] Yes [describe]
+- [ ] Tax / social security obligations: declared compliant - [ ] Yes - [ ] No [describe]
+- [ ] Conflict of interest with contracting authority: - [ ] None declared - [ ] Declared [assess]
+
+**Exclusion conclusion:**
+- [ ] PASS — no exclusion grounds identified
+- [ ] FAIL — grounds identified: [specify Art. 136 FR ground]
+- [ ] PENDING — clarification requested [date]; awaiting response
+
+#### Selection Criteria — Financial Capacity
+
+| Criterion | Required | Declared | Result |
+|---|---|---|---|
+| Minimum annual turnover | €[X] | €[X] | - [ ] PASS - [ ] FAIL |
+| Financial ratio (if required) | [ratio] | [ratio] | - [ ] PASS - [ ] FAIL |
+| Professional liability insurance | €[X] | €[X] | - [ ] PASS - [ ] FAIL |
+
+#### Selection Criteria — Technical and Professional Capacity
+
+Reference contracts required: [N] contracts of value ≥ €[X] in [domain]
+
+- Reference 1: [Project name, client, value, dates] — - [ ] Meets criteria - [ ] Does not meet
+- Reference 2: [...] — - [ ] Meets criteria - [ ] Does not meet
+- Reference [N]: [...] — - [ ] Meets criteria - [ ] Does not meet
 
 Key experts / CVs (if required):
-  Expert 1: [Name / role] — [qualifications required] — [ ] PASS  [ ] FAIL [reason]
-  Expert 2: [Name / role] — [qualifications required] — [ ] PASS  [ ] FAIL [reason]
+- Expert 1: [Name / role] — [qualifications required] — - [ ] PASS - [ ] FAIL [reason]
+- Expert 2: [Name / role] — [qualifications required] — - [ ] PASS - [ ] FAIL [reason]
 
-Selection conclusion:   [ ] PASS — proceeds to award evaluation
-                        [ ] FAIL — eliminated at selection stage [reason]
-```
+**Selection conclusion:**
+- [ ] PASS — proceeds to award evaluation
+- [ ] FAIL — eliminated at selection stage [reason]
 
 ---
 
 ## Award Criteria Scoring Grid
 
-```
-AWARD CRITERIA SCORING GRID
-Procedure ref:    [Reference]
-Tenderer:         [Name]
-Evaluator:        [Name]   Date: [DD Month YYYY]
+**AWARD CRITERIA SCORING GRID**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-QUALITY CRITERIA                               Weight  Max score  Score awarded
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[Q1] Understanding of requirements             [X%]    [100]      [score]
-     Justification: [3–5 sentences minimum.
-     Cite specific elements of the tender. Explain why the score was given.
-     A score of 80/100 requires explaining what was missing for full marks.
-     Do not use "good" / "adequate" without substantiation.]
+**Procedure ref:** [Reference]
+**Tenderer:** [Name] — **Evaluator:** [Name] — **Date:** [DD Month YYYY]
 
-[Q2] Methodology and approach                  [X%]    [100]      [score]
-     Justification: [Specific reference to the proposed method, its strengths
-     relative to the specifications, any gaps or risks identified.]
+---
 
-[Q3] Project management and team               [X%]    [100]      [score]
-     Justification: [Reference to the proposed team, roles, capacity, experience
-     as presented in the tender — not from the selection criteria assessment.]
+#### Quality Criteria
 
-[Q4] [Additional criterion as published]       [X%]    [100]      [score]
-     Justification: [...]
+**[Q1] Understanding of requirements** — Weight: [X%] — Max score: 100 — **Score: [score]**
 
-QUALITY SCORE (weighted):
-  Q1: [score] × [weight] = [weighted]
-  Q2: [score] × [weight] = [weighted]
-  Q3: [score] × [weight] = [weighted]
-  TOTAL QUALITY SCORE: [X] / [max quality score]
+*Justification:* [3–5 sentences minimum. Cite specific elements of the tender. Explain why the score was given. A score of 80/100 requires explaining what was missing for full marks. Do not use "good" / "adequate" without substantiation.]
 
-Minimum quality threshold (if set):  [X]   [ ] Threshold met  [ ] Threshold NOT met → eliminate
+**[Q2] Methodology and approach** — Weight: [X%] — Max score: 100 — **Score: [score]**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PRICE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Offered price (total):         €[X]
-Price weight:                  [X%]
-Price score formula:           [Lowest price / This price × max price score]
-                               = €[lowest] / €[this] × [max] = [price score]
-PRICE SCORE:                   [X] / [max price score]
+*Justification:* [Specific reference to the proposed method, its strengths relative to the specifications, any gaps or risks identified.]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TOTAL SCORE (Quality + Price)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Quality score:   [X]
-Price score:     [X]
-TOTAL:           [X] / [100]
+**[Q3] Project management and team** — Weight: [X%] — Max score: 100 — **Score: [score]**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ANOMALOUSLY LOW TENDER CHECK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Justification:* [Reference to the proposed team, roles, capacity, experience as presented in the tender — not from the selection criteria assessment.]
+
+**[Q4] [Additional criterion as published]** — Weight: [X%] — Max score: 100 — **Score: [score]**
+
+*Justification:* [...]
+
+**Quality Score (weighted):**
+
+| Criterion | Score | Weight | Weighted |
+|---|---|---|---|
+| Q1 | [score] | [weight] | [weighted] |
+| Q2 | [score] | [weight] | [weighted] |
+| Q3 | [score] | [weight] | [weighted] |
+| **Total quality score** | | | **[X] / [max]** |
+
+**Minimum quality threshold (if set):** [X] — - [ ] Threshold met - [ ] Threshold NOT met → eliminate
+
+#### Price
+
+**Offered price (total):** €[X]
+**Price weight:** [X%]
+**Price score formula:** Lowest price / This price × max price score = €[lowest] / €[this] × [max] = **[price score]**
+**Price score:** [X] / [max price score]
+
+#### Total Score (Quality + Price)
+
+| Component | Score |
+|---|---|
+| Quality score | [X] |
+| Price score | [X] |
+| **Total** | **[X] / 100** |
+
+#### Anomalously Low Tender Check
+
 Is this tender significantly lower than other tenders or the estimated value?
-  [ ] NO — no ALT assessment required
-  [ ] YES — ALT procedure initiated:
-    Clarification request sent: [date]   Response received: [date]
-    Explanation provided: [Summary of tenderer's explanation]
-    Assessment: [ ] Explanation accepted — price is sustainable [reasons]
-                [ ] Explanation not accepted — tender rejected [reasons]
-```
+- [ ] NO — no ALT assessment required
+- [ ] YES — ALT procedure initiated:
+  - Clarification request sent: [date] — Response received: [date]
+  - Explanation provided: [Summary of tenderer's explanation]
+  - Assessment: - [ ] Explanation accepted — price is sustainable [reasons]
+  - Assessment: - [ ] Explanation not accepted — tender rejected [reasons]
 
 ---
 
 ## Debrief Letter Template
 
-```
-[Institutional letterhead]
-Re: Tender procedure [Reference] — Outcome notification and debrief
-Date: [DD Month YYYY]
+*[Institutional letterhead]*
+
+**Re:** Tender procedure [Reference] — Outcome notification and debrief
+**Date:** [DD Month YYYY]
 
 Dear [Name / "Sir or Madam"],
 
 Thank you for your participation in the above-mentioned procurement procedure.
 
-We regret to inform you that your tender was not selected for award. The contract
-has been awarded to [successful tenderer / "the tenderer ranked first"] with a total
-score of [X]/100.
+We regret to inform you that your tender was not selected for award. The contract has been awarded to [successful tenderer / "the tenderer ranked first"] with a total score of [X]/100.
 
-YOUR TENDER — EVALUATION SUMMARY
+**Your Tender — Evaluation Summary**
 
-Total score:  [X] / 100    Rank: [N] of [N] qualifying tenderers
+**Total score:** [X] / 100 — **Rank:** [N] of [N] qualifying tenderers
 
-Quality criteria:
-  [Q1] [Criterion name]:  [Score] / 100
-       Strengths:    [1–2 sentences on what was strong]
-       Weaknesses:   [1–2 sentences on what was insufficient — specific and factual]
+**[Q1] [Criterion name]:** [Score] / 100
 
-  [Q2] [Criterion name]:  [Score] / 100
-       Strengths:    [...]
-       Weaknesses:   [...]
+- *Strengths:* [1–2 sentences on what was strong]
+- *Weaknesses:* [1–2 sentences on what was insufficient — specific and factual]
 
-Price score:  [Score] / [max]   Offered price: €[X]
+**[Q2] [Criterion name]:** [Score] / 100
 
-Minimum quality threshold: [X] — [met / not met — if not met, state this was the
-reason for elimination prior to price evaluation]
+- *Strengths:* [...]
+- *Weaknesses:* [...]
 
-STANDSTILL PERIOD
-The contract will not be signed before [date] (end of the 10-day standstill period).
-If you consider this decision to be in breach of applicable law, you may seek review
-before [relevant body] within the applicable deadline.
+**Price score:** [Score] / [max] — Offered price: €[X]
+
+**Minimum quality threshold:** [X] — [met / not met — if not met, state this was the reason for elimination prior to price evaluation]
+
+**Standstill Period**
+
+The contract will not be signed before [date] (end of the 10-day standstill period). If you consider this decision to be in breach of applicable law, you may seek review before [relevant body] within the applicable deadline.
 
 Yours faithfully,
 [Contracting authority / HoU]
-```
 
 ---
 

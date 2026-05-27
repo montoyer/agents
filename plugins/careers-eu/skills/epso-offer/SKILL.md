@@ -179,90 +179,87 @@ Candidate risk mitigation:
 
 ## Output Template — Offer Analysis Sheet
 
-```
-EU JOB OFFER ANALYSIS
-Institution:      [institution name]
-Post reference:   [vacancy/competition ref]
-Contract type:    [Official / TA Art. 2(b) / CA FG IV / etc.]
-Grade / Step:     [e.g. AD 5 Step 2]
-Duty station:     [e.g. Brussels]
-Start date:       [if stated]
-Family situation: [as provided]
+**EU JOB OFFER ANALYSIS**
 
-──────────────────────────────────────────────────
-WHAT YOUR OFFER MEANS — PLAIN LANGUAGE
-──────────────────────────────────────────────────
-Contract type:
-  [2–3 sentences explaining what this contract type means in practice:
-  duration, renewal prospects, security of tenure, pension access]
+| Field | Value |
+|---|---|
+| Institution | [institution name] |
+| Post reference | [vacancy/competition ref] |
+| Contract type | [Official / TA Art. 2(b) / CA FG IV / etc.] |
+| Grade / Step | [e.g. AD 5 Step 2] |
+| Duty station | [e.g. Brussels] |
+| Start date | [if stated] |
+| Family situation | [as provided] |
 
-Grade and step:
-  [Explain: what the grade means in the EU hierarchy; whether the step
-  reflects experience recognition or is at the default Step 1]
+---
 
-Probation:
-  [Duration, what it involves, risks, how to manage it]
+**What Your Offer Means — Plain Language**
 
-──────────────────────────────────────────────────
-GROSS-TO-NET SALARY BREAKDOWN (indicative)
-──────────────────────────────────────────────────
-Basic salary (SR Annex I, [grade/step]):             EUR [X]
-Household allowance (Annex VII Art. 1):              EUR [Y]   [or N/A]
-Dependent child allowance (Art. 2 Annex VII):        EUR [Z]   [or N/A]
-Expatriation allowance (Art. 4 Annex VII):           EUR [W]   [or N/A]
-────────────────────────────────────────────────────────────────
-GROSS TOTAL REMUNERATION:                            EUR [T]
+**Contract type:** [2–3 sentences explaining what this contract type means in practice: duration, renewal prospects, security of tenure, pension access]
 
-Less deductions:
-  Pension contribution (~10.1% of basic):            EUR [−A]
-  JSIS contribution (~2.0% of basic):                EUR [−B]
-  Community tax (Protocol No. 7):                    EUR [−C]
-────────────────────────────────────────────────────────────────
-ESTIMATED NET MONTHLY SALARY:                        EUR [N]
+**Grade and step:** [Explain: what the grade means in the EU hierarchy; whether the step reflects experience recognition or is at the default Step 1]
 
-[model knowledge — verify against current SR Annex I]
-[review — PMO calculation required for binding net figure]
+**Probation:** [Duration, what it involves, risks, how to manage it]
 
-──────────────────────────────────────────────────
-ONE-TIME PAYMENTS ON TAKING UP POST (if eligible)
-──────────────────────────────────────────────────
-Installation allowance (Annex VII Art. 5):
-  Amount: [2 × monthly remuneration (basic + household + child + expat)]
-  Eligibility: [if entitled to expatriation allowance or if relocating
-                from >50 km from duty station]
+---
 
-Daily subsistence allowance (Annex VII Art. 10):
-  Payable for first 120 days at post if entitled to installation allowance.
-  Rate: [EUR amount — model knowledge — verify]
+**Gross-to-Net Salary Breakdown** *(indicative)*
 
-──────────────────────────────────────────────────
-STEP NEGOTIATION ASSESSMENT
-──────────────────────────────────────────────────
-Offered step:      [Step N]
-Years of relevant experience provided: [X years]
-Step recognition potential:
-  [ ] Already at maximum for entry grade (Step 3) — no further scope
-  [ ] Possible to request Step [N+1] — attach evidence of [X] years experience
-  [ ] Not recommended — experience does not appear to meet Art. 32(2) threshold
+| Component | Amount |
+|---|---|
+| Basic salary *(SR Annex I, [grade/step])* | EUR [X] |
+| Household allowance *(Annex VII Art. 1)* | EUR [Y] [or N/A] |
+| Dependent child allowance *(Art. 2 Annex VII)* | EUR [Z] [or N/A] |
+| Expatriation allowance *(Art. 4 Annex VII)* | EUR [W] [or N/A] |
+| **Gross total remuneration** | **EUR [T]** |
+| Pension contribution (~10.1% of basic) | EUR [−A] |
+| JSIS contribution (~2.0% of basic) | EUR [−B] |
+| Community tax *(Protocol No. 7)* | EUR [−C] |
+| **Estimated net monthly salary** | **EUR [N]** |
 
-Action required:   [yes / no — with deadline if applicable]
+`[model knowledge — verify against current SR Annex I]`
+`[review — PMO calculation required for binding net figure]`
 
-──────────────────────────────────────────────────
-PRE-SIGNING CHECKLIST
-──────────────────────────────────────────────────
-[ ] Confirm contract type and duration — does it match what was advertised?
-[ ] Check grade and step — is step recognition applied or can you request it?
-[ ] Verify duty station — will expatriation allowance apply to your situation?
-[ ] Confirm family allowances are correctly stated (household, dependent child)
-[ ] Check probation duration and ask for clarification on the report process
-[ ] Ask HR about the medical examination requirements (Art. 33 SR) and timeline
-[ ] If TA or CA: note the contract end date and renewal conditions
-[ ] Check pension portability: if you have national pension rights, consult PMO
-    on pension credit transfer before the deadline (usually within 1 year of appointment)
-[ ] Confirm start date and complete all required pre-appointment formalities
+---
 
-[review — appointing authority determination required]
-```
+**One-Time Payments on Taking Up Post** *(if eligible)*
+
+**Installation allowance** *(Annex VII Art. 5):*
+- Amount: [2 × monthly remuneration (basic + household + child + expat)]
+- Eligibility: [if entitled to expatriation allowance or if relocating from >50 km from duty station]
+
+**Daily subsistence allowance** *(Annex VII Art. 10):*
+- Payable for first 120 days at post if entitled to installation allowance.
+- Rate: [EUR amount — model knowledge — verify]
+
+---
+
+**Step Negotiation Assessment**
+
+**Offered step:** [Step N] — **Years of relevant experience provided:** [X years]
+
+**Step recognition potential:**
+- [ ] Already at maximum for entry grade (Step 3) — no further scope
+- [ ] Possible to request Step [N+1] — attach evidence of [X] years experience
+- [ ] Not recommended — experience does not appear to meet Art. 32(2) threshold
+
+**Action required:** [yes / no — with deadline if applicable]
+
+---
+
+**Pre-Signing Checklist**
+
+- [ ] Confirm contract type and duration — does it match what was advertised?
+- [ ] Check grade and step — is step recognition applied or can you request it?
+- [ ] Verify duty station — will expatriation allowance apply to your situation?
+- [ ] Confirm family allowances are correctly stated (household, dependent child)
+- [ ] Check probation duration and ask for clarification on the report process
+- [ ] Ask HR about the medical examination requirements (Art. 33 SR) and timeline
+- [ ] If TA or CA: note the contract end date and renewal conditions
+- [ ] Check pension portability: if you have national pension rights, consult PMO on pension credit transfer before the deadline (usually within 1 year of appointment)
+- [ ] Confirm start date and complete all required pre-appointment formalities
+
+`[review — appointing authority determination required]`
 
 ---
 

@@ -98,102 +98,103 @@ a claim with a small amount at stake may establish a precedent with systemic imp
 
 ## Liability Risk Assessment Template
 
-```
 EU NON-CONTRACTUAL LIABILITY — RISK ASSESSMENT
 Measure / action at issue:  [Description]
 Legal basis of the measure: [Art. X TFEU / Regulation YYYY/NN]
 Date of measure:            [DD Month YYYY]   Date of assessment: [DD Month YYYY]
 Assessed by:                [Name / unit]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-LIMB 1 — RULE OF LAW CONFERRING RIGHTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Limb 1 — Rule of Law Conferring Rights
+
 Rule alleged to be breached:      [Art. X / Regulation article / general principle]
 Does this rule confer rights on individuals (not just impose obligations on MS)?
-  [ ] YES — the rule is directly effective and confers a right on: [category of persons]
-  [ ] NO — the rule does not confer individual rights → liability claim fails at this limb
-  [ ] UNCERTAIN [explain]
+- [ ] YES — the rule is directly effective and confers a right on: [category of persons]
+- [ ] NO — the rule does not confer individual rights → liability claim fails at this limb
+- [ ] UNCERTAIN [explain]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-LIMB 2 — SUFFICIENTLY SERIOUS BREACH
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Limb 2 — Sufficiently Serious Breach
+
 Degree of discretion available to the institution in this area:
-  [ ] Wide policy discretion (legislative / general measures)
-  [ ] Limited discretion (constrained by specific legal rules)
-  [ ] No discretion (bound act — mechanical application of rule)
+- [ ] Wide policy discretion (legislative / general measures)
+- [ ] Limited discretion (constrained by specific legal rules)
+- [ ] No discretion (bound act — mechanical application of rule)
 
 Applying the Bergaderm factors:
-  Clarity of the rule at the time of the breach:         [ ] Clear  [ ] Unclear  [ ] Novel
-  Whether the Commission was aware of the breach:        [ ] Aware  [ ] Unaware
-  Whether the breach persisted after awareness:          [ ] Yes [aggravating]  [ ] No
-  Extent of damage relative to degree of fault:          [ ] Disproportionate  [ ] Proportionate
-  Voluntary / intentional character of the breach:       [ ] Intentional  [ ] Error / oversight
+- Clarity of the rule at the time of the breach:         - [ ] Clear  - [ ] Unclear  - [ ] Novel
+- Whether the Commission was aware of the breach:        - [ ] Aware  - [ ] Unaware
+- Whether the breach persisted after awareness:          - [ ] Yes [aggravating]  - [ ] No
+- Extent of damage relative to degree of fault:          - [ ] Disproportionate  - [ ] Proportionate
+- Voluntary / intentional character of the breach:       - [ ] Intentional  - [ ] Error / oversight
 
 Sufficiently serious breach:
-  [ ] YES — clear and grave disregard of the limits of discretion
-  [ ] NO — error of law does not reach the sufficiently serious threshold
-  [ ] BORDERLINE — [explain; recommend Legal Service second opinion]
+- [ ] YES — clear and grave disregard of the limits of discretion
+- [ ] NO — error of law does not reach the sufficiently serious threshold
+- [ ] BORDERLINE — [explain; recommend Legal Service second opinion]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-LIMB 3 — CAUSATION AND DAMAGE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Direct causal link established?   [ ] YES  [ ] NO  [ ] Partial [explain]
+---
+
+### Limb 3 — Causation and Damage
+
+Direct causal link established?   - [ ] YES  - [ ] NO  - [ ] Partial [explain]
 Intervening acts that may break causation: [describe]
-Claimant's duty to mitigate — did they mitigate?   [ ] YES  [ ] NO [consequences]
+Claimant's duty to mitigate — did they mitigate?   - [ ] YES  - [ ] NO [consequences]
 
 Damage estimate:
-  Actual loss (damnum emergens):         €[X]  [basis for estimate]
-  Loss of profit (lucrum cessans):       €[X]  [basis; note: speculative elements]
-  Moral damages (if applicable):         €[X]  [rare; natural persons only]
-  TOTAL EXPOSURE ESTIMATE:               €[X]
+- Actual loss (damnum emergens):         €[X]  [basis for estimate]
+- Loss of profit (lucrum cessans):       €[X]  [basis; note: speculative elements]
+- Moral damages (if applicable):         €[X]  [rare; natural persons only]
+- **TOTAL EXPOSURE ESTIMATE:**           €[X]
 
 Limitation period:
-  Date of the damaging act:              [DD Month YYYY]
-  Date claimant knew / ought to know:    [DD Month YYYY]
-  5-year limitation expires:             [DD Month YYYY]
-  Limitation period expired?             [ ] YES → claim time-barred  [ ] NO
+- Date of the damaging act:              [DD Month YYYY]
+- Date claimant knew / ought to know:    [DD Month YYYY]
+- 5-year limitation expires:             [DD Month YYYY]
+- Limitation period expired?             - [ ] YES → claim time-barred  - [ ] NO
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OVERALL LITIGATION RISK ASSESSMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-All three Bergaderm limbs satisfied:    [ ] YES  [ ] NO  [ ] PARTIAL
-Systemic risk (precedent implications): [ ] HIGH  [ ] MEDIUM  [ ] LOW
+---
+
+### Overall Litigation Risk Assessment
+
+All three Bergaderm limbs satisfied:    - [ ] YES  - [ ] NO  - [ ] PARTIAL
+Systemic risk (precedent implications): - [ ] HIGH  - [ ] MEDIUM  - [ ] LOW
+
 Recommended action:
-  [ ] Defend — breach not sufficiently serious / causation not established
-  [ ] Settle — [exposure estimate €X; settlement range €X–X]
-  [ ] Modify the measure before adoption to eliminate the breach
-  [ ] Obtain Legal Service opinion before proceeding
+- [ ] Defend — breach not sufficiently serious / causation not established
+- [ ] Settle — [exposure estimate €X; settlement range €X–X]
+- [ ] Modify the measure before adoption to eliminate the breach
+- [ ] Obtain Legal Service opinion before proceeding
 
 [review — Legal Service sign-off required before any litigation position is communicated]
 [review — political judgement required if settlement is recommended]
-```
 
 ---
 
 ## Member State Liability (Francovich / Brasserie) Quick Reference
 
-```
 MS LIABILITY FOR BREACH OF EU LAW — ASSESSMENT
 Same three-limb test (Francovich / Brasserie du Pêcheur):
 
-Limb 1: Rule of EU law conferring rights on individuals
-  [ ] Directive provision directly effective?
-  [ ] Regulation provision creating individual right?
-  [ ] General principle of EU law (legitimate expectations, proportionality)?
+**Limb 1: Rule of EU law conferring rights on individuals**
+- [ ] Directive provision directly effective?
+- [ ] Regulation provision creating individual right?
+- [ ] General principle of EU law (legitimate expectations, proportionality)?
 
-Limb 2: Sufficiently serious breach by the member state
-  [ ] Non-transposition of a directive: presumptively sufficiently serious (C-178/94 Dillenkofer)
-  [ ] Incorrect transposition: depends on clarity of the directive; complexity of legal situation
-  [ ] Incorrect application: must be systematic / manifest — single administrative error insufficient
-  [ ] Judicial breach (Köbler): judicial decision infringing EU law — limited to manifest disregard
+**Limb 2: Sufficiently serious breach by the member state**
+- [ ] Non-transposition of a directive: presumptively sufficiently serious (C-178/94 Dillenkofer)
+- [ ] Incorrect transposition: depends on clarity of the directive; complexity of legal situation
+- [ ] Incorrect application: must be systematic / manifest — single administrative error insufficient
+- [ ] Judicial breach (Köbler): judicial decision infringing EU law — limited to manifest disregard
 
-Limb 3: Direct causal link
-  [ ] Damage flows directly from the breach?
-  [ ] Claimant applied within applicable national limitation period?
-    → National courts apply national limitation rules (subject to equivalence and effectiveness)
+**Limb 3: Direct causal link**
+- [ ] Damage flows directly from the breach?
+- [ ] Claimant applied within applicable national limitation period?
+  → National courts apply national limitation rules (subject to equivalence and effectiveness)
 
-[SR — verify current article] [CJEU — verify Curia reference: C-6/90 Francovich; C-46/93 Brasserie; C-224/01 Köbler]
-```
+[EUR-Lex — verify current article] [CJEU — verify Curia reference: C-6/90 Francovich; C-46/93 Brasserie; C-224/01 Köbler]
 
 ---
 
@@ -242,5 +243,4 @@ Limb 3: Direct causal link
 
 ---
 
-DRAFT — For review by a Competition lawyer or Legal Service lawyer before use.
-Not an official Commission position.
+> **DRAFT** — For review by a Competition lawyer or Legal Service lawyer before use. Not an official Commission position.

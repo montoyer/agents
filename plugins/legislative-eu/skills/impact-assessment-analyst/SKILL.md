@@ -81,55 +81,75 @@ institutional knowledge of the IA process, common RSB criticisms, and evaluation
 
 ## IA Structure (Commission Standard)
 
-```
 IMPACT ASSESSMENT REPORT — STANDARD STRUCTURE
 (Following Commission Better Regulation Guidelines, 2023)
 
 EXECUTIVE SUMMARY (max 10 pages — submitted to RSB separately)
 
-1. POLITICAL CONTEXT AND PROBLEM DEFINITION
-   1.1 Political context and reason for action
-   1.2 What is the problem?
-   1.3 What are the problem drivers?
-   1.4 Who is affected?
-   1.5 How will the problem evolve without EU action? (Baseline)
+---
 
-2. WHY SHOULD THE EU ACT?
-   2.1 Legal basis
-   2.2 Subsidiarity (necessity and EU added value)
+### 1. Political Context and Problem Definition
 
-3. OBJECTIVES: WHAT IS THE INITIATIVE EXPECTED TO ACHIEVE?
-   3.1 General objectives [linked to Treaty / strategy]
-   3.2 Specific objectives [SMART — measurable where possible]
+1.1 Political context and reason for action
+1.2 What is the problem?
+1.3 What are the problem drivers?
+1.4 Who is affected?
+1.5 How will the problem evolve without EU action? (Baseline)
 
-4. WHAT ARE THE AVAILABLE POLICY OPTIONS?
-   4.1 Option 0 — Baseline
-   4.2 Option 1 — [Non-legislative / soft law]
-   4.3 Option 2 — [Minimum regulatory intervention]
-   4.4 Option 3 — [Preferred — full intervention]
-   4.5 Option 4 — [Maximum intervention] [if relevant]
-   [Discarded options — briefly justify why not developed]
+---
 
-5. WHAT ARE THE IMPACTS OF THE POLICY OPTIONS?
-   5.1 Economic impacts
-       a) Compliance costs (one-off and recurring)
-       b) Administrative burden
-       c) Benefits (quantified where possible)
-       d) Impacts on competitiveness / SMEs
-   5.2 Social impacts
-   5.3 Environmental impacts
-   5.4 Fundamental rights impacts (Charter of Fundamental Rights)
-   5.5 Impacts on third countries (if applicable)
+### 2. Why Should the EU Act?
 
-6. HOW DO THE OPTIONS COMPARE?
-   6.1 Multi-criteria analysis / Cost-benefit comparison
-   6.2 Proportionality of the preferred option
-   6.3 Preferred option — justification
+2.1 Legal basis
+2.2 Subsidiarity (necessity and EU added value)
 
-7. HOW WILL ACTUAL IMPACTS BE MONITORED AND EVALUATED?
-   7.1 Monitoring indicators
-   7.2 Operational objectives and targets
-   7.3 Evaluation plan and timeline
+---
+
+### 3. Objectives: What is the Initiative Expected to Achieve?
+
+3.1 General objectives [linked to Treaty / strategy]
+3.2 Specific objectives [SMART — measurable where possible]
+
+---
+
+### 4. What are the Available Policy Options?
+
+4.1 Option 0 — Baseline
+4.2 Option 1 — [Non-legislative / soft law]
+4.3 Option 2 — [Minimum regulatory intervention]
+4.4 Option 3 — [Preferred — full intervention]
+4.5 Option 4 — [Maximum intervention] [if relevant]
+[Discarded options — briefly justify why not developed]
+
+---
+
+### 5. What are the Impacts of the Policy Options?
+
+5.1 Economic impacts
+    a) Compliance costs (one-off and recurring)
+    b) Administrative burden
+    c) Benefits (quantified where possible)
+    d) Impacts on competitiveness / SMEs
+5.2 Social impacts
+5.3 Environmental impacts
+5.4 Fundamental rights impacts (Charter of Fundamental Rights)
+5.5 Impacts on third countries (if applicable)
+
+---
+
+### 6. How Do the Options Compare?
+
+6.1 Multi-criteria analysis / Cost-benefit comparison
+6.2 Proportionality of the preferred option
+6.3 Preferred option — justification
+
+---
+
+### 7. How Will Actual Impacts be Monitored and Evaluated?
+
+7.1 Monitoring indicators
+7.2 Operational objectives and targets
+7.3 Evaluation plan and timeline
 
 ANNEXES:
 I. Procedural information (consultation, expert input, RSB opinions)
@@ -137,7 +157,6 @@ II. Stakeholder consultation results
 III. Quantitative analysis / modelling
 IV. Evaluation of the existing legislation (REFIT baseline)
 V. Glossary
-```
 
 ---
 
@@ -195,42 +214,39 @@ V. Glossary
 
 ### 1. Inception Impact Assessment (IIA / Roadmap)
 
-```
 INCEPTION IMPACT ASSESSMENT
 Title of the initiative: [Full title]
 Commission reference:   [Ref number — from CWP / PLANNING TOOL]
 Lead DG:               DG [XX]         Contact: [email]
-Type of initiative:    □ Legislative proposal  □ Non-legislative act
-                       □ Delegated act  □ Implementing act
+Type of initiative:    - [ ] Legislative proposal  - [ ] Non-legislative act
+                       - [ ] Delegated act  - [ ] Implementing act
 Expected date of adoption: [Q / YYYY]
-Planning category:     □ Commission Work Programme initiative
-                       □ Other — [specify]
+Planning category:     - [ ] Commission Work Programme initiative
+                       - [ ] Other — [specify]
 
-1. CONTEXT AND PROBLEM DESCRIPTION
+1. Context and problem description
    [Max 400 words. What is the problem? What are its main drivers? Who is affected
    and how? What is the EU dimension — why cannot MS act alone?]
 
-2. POSSIBLE POLICY OPTIONS
+2. Possible policy options
    [Brief description of the range of approaches being considered — non-legislative,
    soft law, targeted legislative, full harmonisation. No preferred option at this stage.]
 
-3. BETTER REGULATION REQUIREMENTS
-   □ Impact Assessment required: □ Yes □ No [justification if No]
-   □ Consultation strategy: [OPC / targeted / both — timeline]
-   □ Evaluation / REFIT baseline: □ Available  □ Planned  □ Not applicable
+3. Better regulation requirements
+   - [ ] Impact Assessment required: - [ ] Yes - [ ] No [justification if No]
+   - [ ] Consultation strategy: [OPC / targeted / both — timeline]
+   - [ ] Evaluation / REFIT baseline: - [ ] Available  - [ ] Planned  - [ ] Not applicable
 
-4. SUPPORTING ANALYSES
-   External study: □ Commissioned  □ Not planned
-   Expert group input: □ Yes [group name]  □ No
+4. Supporting analyses
+   External study: - [ ] Commissioned  - [ ] Not planned
+   Expert group input: - [ ] Yes [group name]  - [ ] No
    Key data sources: [List]
 
-5. KEY STAKEHOLDERS
+5. Key stakeholders
    [Who are the main stakeholders? What are the anticipated positions?]
-```
 
 ### 2. Policy Options Comparison Table (MCA)
 
-```
 MULTI-CRITERIA ANALYSIS — OPTIONS COMPARISON
 
 Assessment criteria and weights:
@@ -253,41 +269,46 @@ Scoring key: --- = very negative / -- = negative / - = slightly negative
 PREFERRED OPTION: Option [X]
 JUSTIFICATION: [2–3 sentences — why the preferred option provides the best
 balance of effectiveness, proportionality, and feasibility relative to alternatives]
-```
 
 ### 3. SME Test — Summary Note
 
-```
 SME TEST SUMMARY
 Initiative: [Title]
 
-STEP 1 — CONSULTATION OF SME STAKEHOLDERS
-□ COSME/Enterprise Europe Network consulted: □ Yes □ No
-□ SME-specific questions in OPC: □ Yes [questions: ...] □ No
-□ SME Panel consulted: □ Yes □ No
+---
 
-STEP 2 — ASSESSMENT OF IMPACTS ON SMEs
+#### Step 1 — Consultation of SME Stakeholders
+
+- [ ] COSME/Enterprise Europe Network consulted: - [ ] Yes - [ ] No
+- [ ] SME-specific questions in OPC: - [ ] Yes [questions: ...] - [ ] No
+- [ ] SME Panel consulted: - [ ] Yes - [ ] No
+
+---
+
+#### Step 2 — Assessment of Impacts on SMEs
+
 Definition applied: SME = <250 employees AND (turnover ≤ €50M OR balance ≤ €43M)
-Microenterprises (<10 employees) treated separately: □ Yes □ No
+Microenterprises (<10 employees) treated separately: - [ ] Yes - [ ] No
 
 Estimated number of SMEs affected: [N] (source: [Eurostat / sector data])
 Type of impacts:
-□ One-off compliance costs:      €[amount] per average SME
-□ Recurring administrative costs: €[amount] per year per average SME
-□ Market access changes: [describe]
-□ Disproportionate impact vs. large companies: □ Yes □ No □ Uncertain
+- [ ] One-off compliance costs:      €[amount] per average SME
+- [ ] Recurring administrative costs: €[amount] per year per average SME
+- [ ] Market access changes: [describe]
+- [ ] Disproportionate impact vs. large companies: - [ ] Yes - [ ] No - [ ] Uncertain
 
-STEP 3 — MEASURES TO MITIGATE DISPROPORTIONATE IMPACTS
-□ Simplified regime for SMEs / microenterprises: [describe]
-□ Longer phase-in period for SMEs: [N years vs. N years for large companies]
-□ Lighter reporting requirements: [describe]
-□ Threshold below which obligation does not apply: [N employees / €N turnover]
-□ No specific mitigation warranted — justification: [...]
-```
+---
+
+#### Step 3 — Measures to Mitigate Disproportionate Impacts
+
+- [ ] Simplified regime for SMEs / microenterprises: [describe]
+- [ ] Longer phase-in period for SMEs: [N years vs. N years for large companies]
+- [ ] Lighter reporting requirements: [describe]
+- [ ] Threshold below which obligation does not apply: [N employees / €N turnover]
+- [ ] No specific mitigation warranted — justification: [...]
 
 ### 4. Monitoring Framework Table
 
-```
 MONITORING AND EVALUATION FRAMEWORK
 
 General objective: [Link to Treaty / strategy]
@@ -299,13 +320,12 @@ General objective: [Link to Treaty / strategy]
 | Output | [e.g., N enforcement actions taken] | [0] | [N] | [National authority reports] | Annual |
 
 EVALUATION PLAN:
-□ Interim review: [Year N+3] — focus on implementation
-□ Full evaluation (REFIT): [Year N+7] — all 5 evaluation criteria
-□ Review clause in legal text: □ Yes (Art. [X]) □ No
+- [ ] Interim review: [Year N+3] — focus on implementation
+- [ ] Full evaluation (REFIT): [Year N+7] — all 5 evaluation criteria
+- [ ] Review clause in legal text: - [ ] Yes (Art. [X]) - [ ] No
 
 OVERSIGHT ARRANGEMENTS:
 [Expert group / monitoring committee / national authority reporting]
-```
 
 ---
 

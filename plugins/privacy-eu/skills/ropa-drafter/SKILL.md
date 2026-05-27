@@ -104,109 +104,150 @@ consultation determination, and the DPO's supervisory function.
 
 ## RoPA Record Sheet (Art. 31 EUDPR)
 
-```
-RECORD OF PROCESSING ACTIVITIES
-RoPA reference:    ROPA-[DG]-[YYYY]-[NNN]
-Date of entry:     [DD Month YYYY]
-Last updated:      [DD Month YYYY]
-Next review due:   [DD Month YYYY]
-DPO sign-off:      [DPO name — date]
+**RECORD OF PROCESSING ACTIVITIES**
+RoPA reference: ROPA-[DG]-[YYYY]-[NNN]
+Date of entry: [DD Month YYYY]
+Last updated: [DD Month YYYY]
+Next review due: [DD Month YYYY]
+DPO sign-off: [DPO name — date]
 
-─── 1. CONTROLLER ───────────────────────────────────────────────────────────
-Controller:        [European Commission / DG name / Unit]
-Contact:           [Head of Unit / Director / institutional address]
-Joint controller:  [ ] YES — [institution name; Art. 28 arrangement ref]  [ ] NO
+---
 
-─── 2. DATA PROTECTION OFFICER ──────────────────────────────────────────────
-DPO name:          [name]
-DPO contact:       [email / phone / institutional address]
+### 1. Controller
 
-─── 3. PROCESSING ACTIVITY ──────────────────────────────────────────────────
-Processing name:   [clear, descriptive name]
-System / tool:     [system name and version]
-Processing description:
-  [Plain-language description of what the processing does, in 3–5 sentences]
+**Controller:** [European Commission / DG name / Unit]
+**Contact:** [Head of Unit / Director / institutional address]
+**Joint controller:** - [ ] YES — [institution name; Art. 28 arrangement ref] - [ ] NO
 
-─── 4. PURPOSE(S) ───────────────────────────────────────────────────────────
-Purpose 1:         [specific, explicit purpose]
-Purpose 2:         [if applicable]
-Compatible further processing: [ ] YES — [compatibility assessment ref]  [ ] NO
+---
 
-─── 5. LEGAL BASIS (Art. 5(1) EUDPR) ───────────────────────────────────────
-Legal basis:       [ ] (a) Consent  [ ] (b) Public task / official authority
-                   [ ] (c) Legal obligation — [instrument ref]
-                   [ ] (d) Vital interests  [ ] (e) Contract
-Specific legal instrument (if applicable): [Regulation / Decision / Treaty article]
-Special categories (Art. 10 EUDPR): [ ] YES — Art. 10(2) basis: [state]  [ ] NO
+### 2. Data Protection Officer
 
-─── 6. DATA CATEGORIES AND DATA SUBJECTS ────────────────────────────────────
-Data categories:
-  Standard:        [e.g. name, email, function, organisational unit]
-  Special (Art. 10):[e.g. health data, political opinion — if applicable]
-Data subjects:     [e.g. Commission staff / external contractors / citizens / all three]
-Approx. volume:    [number of data subjects or range]
+**DPO name:** [name]
+**DPO contact:** [email / phone / institutional address]
 
-─── 7. RECIPIENTS ───────────────────────────────────────────────────────────
-Internal:          [DGs / Units with access — and their role]
-External controllers:[e.g. member state agencies, international organisations]
-Processors (Art. 29):[see processor sub-register below]
-Third parties:     [other recipients if applicable]
+---
 
-─── 8. PROCESSORS (Art. 29 EUDPR) ──────────────────────────────────────────
-Processor name:    [company / entity name]
-Processing sub-contracted: [describe operations]
-DPA instrument:    [contract ref / DPA ref]
-Non-EU/EEA:        [ ] YES → TIA ref: [TIA-ref]  [ ] NO
+### 3. Processing Activity
 
-─── 9. RETENTION PERIODS ────────────────────────────────────────────────────
-Data category      Retention period     Legal justification
-[category 1]       [X years]            [Art. / Regulation / Commission schedule ref]
-[category 2]       [X years]            [Art. / Regulation / Commission schedule ref]
-Archiving:         [ ] YES — [archiving period and authority ref]  [ ] NO
+**Processing name:** [clear, descriptive name]
+**System / tool:** [system name and version]
+**Processing description:** [Plain-language description of what the processing does, in 3–5 sentences]
 
-─── 10. THIRD-COUNTRY TRANSFERS (Art. 25 EUDPR) ─────────────────────────────
-Third-country transfer: [ ] YES  [ ] NO
+---
+
+### 4. Purpose(s)
+
+**Purpose 1:** [specific, explicit purpose]
+**Purpose 2:** [if applicable]
+**Compatible further processing:** - [ ] YES — [compatibility assessment ref] - [ ] NO
+
+---
+
+### 5. Legal Basis (Art. 5(1) EUDPR)
+
+**Legal basis:**
+- [ ] (a) Consent
+- [ ] (b) Public task / official authority
+- [ ] (c) Legal obligation — [instrument ref]
+- [ ] (d) Vital interests
+- [ ] (e) Contract
+
+**Specific legal instrument (if applicable):** [Regulation / Decision / Treaty article]
+**Special categories (Art. 10 EUDPR):** - [ ] YES — Art. 10(2) basis: [state] - [ ] NO
+
+---
+
+### 6. Data Categories and Data Subjects
+
+**Data categories:**
+- Standard: [e.g. name, email, function, organisational unit]
+- Special (Art. 10): [e.g. health data, political opinion — if applicable]
+
+**Data subjects:** [e.g. Commission staff / external contractors / citizens / all three]
+**Approx. volume:** [number of data subjects or range]
+
+---
+
+### 7. Recipients
+
+**Internal:** [DGs / Units with access — and their role]
+**External controllers:** [e.g. member state agencies, international organisations]
+**Processors (Art. 29):** [see processor sub-register below]
+**Third parties:** [other recipients if applicable]
+
+---
+
+### 8. Processors (Art. 29 EUDPR)
+
+**Processor name:** [company / entity name]
+**Processing sub-contracted:** [describe operations]
+**DPA instrument:** [contract ref / DPA ref]
+**Non-EU/EEA:** - [ ] YES → TIA ref: [TIA-ref] - [ ] NO
+
+---
+
+### 9. Retention Periods
+
+| Data category | Retention period | Legal justification |
+|---|---|---|
+| [category 1] | [X years] | [Art. / Regulation / Commission schedule ref] |
+| [category 2] | [X years] | [Art. / Regulation / Commission schedule ref] |
+
+**Archiving:** - [ ] YES — [archiving period and authority ref] - [ ] NO
+
+---
+
+### 10. Third-Country Transfers (Art. 25 EUDPR)
+
+**Third-country transfer:** - [ ] YES - [ ] NO
+
 If YES:
-  Destination:     [country / organisation]
-  Transfer mechanism: [ ] Adequacy decision  [ ] SCCs  [ ] BCRs  [ ] Art. 25(4) derogation
-  TIA conducted:   [ ] YES — ref: [TIA-ref]  [ ] NO — reason: [state]
+- **Destination:** [country / organisation]
+- **Transfer mechanism:** - [ ] Adequacy decision - [ ] SCCs - [ ] BCRs - [ ] Art. 25(4) derogation
+- **TIA conducted:** - [ ] YES — ref: [TIA-ref] - [ ] NO — reason: [state]
 
-─── 11. SECURITY MEASURES ───────────────────────────────────────────────────
-Data classification:  [NORMALE / SENSITIVE / EU RESTRICTED]
-ISP / security ref:   [ISP reference or "pending"]
-Key measures:         [encryption at rest/transit, RBAC, MFA, audit logs — brief summary]
+---
 
-─── 12. DPIA THRESHOLD SCREENING ────────────────────────────────────────────
-DPIA required (Art. 39(1) EUDPR): [ ] YES — DPIA ref: [DPIA-ref]
-                                   [ ] LIKELY — DPO screening in progress
-                                   [ ] NO — rationale: [state]
-Screening criteria triggered (tick all that apply):
-  [ ] Systematic and extensive profiling with significant effects
-  [ ] Large-scale processing of special categories (Art. 10)
-  [ ] Systematic monitoring of publicly accessible areas
-  [ ] Use of new technologies or novel processing means
-  [ ] Decisions producing legal or similarly significant effects on data subjects
-```
+### 11. Security Measures
+
+**Data classification:** [NORMALE / SENSITIVE / EU RESTRICTED]
+**ISP / security ref:** [ISP reference or "pending"]
+**Key measures:** [encryption at rest/transit, RBAC, MFA, audit logs — brief summary]
+
+---
+
+### 12. DPIA Threshold Screening
+
+**DPIA required (Art. 39(1) EUDPR):**
+- [ ] YES — DPIA ref: [DPIA-ref]
+- [ ] LIKELY — DPO screening in progress
+- [ ] NO — rationale: [state]
+
+**Screening criteria triggered (tick all that apply):**
+- [ ] Systematic and extensive profiling with significant effects
+- [ ] Large-scale processing of special categories (Art. 10)
+- [ ] Systematic monitoring of publicly accessible areas
+- [ ] Use of new technologies or novel processing means
+- [ ] Decisions producing legal or similarly significant effects on data subjects
 
 ---
 
 ## Processor Sub-Register Template
 
-```
-PROCESSOR REGISTER — [DG name]
-(Supplements the main RoPA — one entry per processor per processing activity)
+**PROCESSOR REGISTER — [DG name]**
+*(Supplements the main RoPA — one entry per processor per processing activity)*
 
-Processor ref:        PROC-[DG]-[YYYY]-[NNN]
-RoPA ref:             ROPA-[DG]-[YYYY]-[NNN]
-Processor name:       [company / entity]
-Processor country:    [EU/EEA: YES / NO — if NO: TIA required]
-Nature of processing: [describe sub-contracted processing operations]
-DPA instrument:       [contract ref / framework agreement ref]
-DPA signed:           [ ] YES — [date]  [ ] NO — ACTION REQUIRED
-Sub-processors:       [ ] YES — [list]  [ ] NO
-TIA reference:        [TIA-ref or "not applicable"]
-DPA review date:      [DD Month YYYY]
-```
+**Processor ref:** PROC-[DG]-[YYYY]-[NNN]
+**RoPA ref:** ROPA-[DG]-[YYYY]-[NNN]
+**Processor name:** [company / entity]
+**Processor country:** [EU/EEA: YES / NO — if NO: TIA required]
+**Nature of processing:** [describe sub-contracted processing operations]
+**DPA instrument:** [contract ref / framework agreement ref]
+**DPA signed:** - [ ] YES — [date] - [ ] NO — ACTION REQUIRED
+**Sub-processors:** - [ ] YES — [list] - [ ] NO
+**TIA reference:** [TIA-ref or "not applicable"]
+**DPA review date:** [DD Month YYYY]
 
 ---
 

@@ -132,77 +132,64 @@ and individual case management under the CEOS and Staff Regulations as applied t
 
 ### 1. TA Contract Key Clauses Checklist
 
-```
-TA CONTRACT COMPLIANCE CHECKLIST
-Staff member:          [Name]
-CEOS category:         □ Art. 2(a)  □ Art. 2(b)  □ Art. 2(c)  □ Art. 2(d)
-Grade / Step:          [AD/AST X / Step Y]
-Contract duration:     [DD Month YYYY] to [DD Month YYYY]
-Cumulative TA duration (Art. 2b/d): [N years N months]
+**TA CONTRACT COMPLIANCE CHECKLIST**
+**Staff member:** [Name]
+**CEOS category:** - [ ] Art. 2(a) - [ ] Art. 2(b) - [ ] Art. 2(c) - [ ] Art. 2(d)
+**Grade / Step:** [AD/AST X / Step Y]
+**Contract duration:** [DD Month YYYY] to [DD Month YYYY]
+**Cumulative TA duration (Art. 2b/d):** [N years N months]
 
-MANDATORY CONTRACT ELEMENTS:                          CHECK
-□ Full name and personal data of TA
-□ CEOS legal basis (specific article cited)
-□ Grade and step on entry (with reference to classification table)
-□ Basic monthly salary
-□ Duration (start date / end date or "indefinite" if applicable)
-□ Probationary period duration explicitly stated
-□ Place of employment
-□ Working-time arrangement (full-time / part-time %)
-□ Notice period (per Art. 47 CEOS)
-□ Reference to Staff Regulations as applicable by reference
-□ JSIS enrolment clause
-□ Pension scheme reference (Annex VIII SR or national scheme if applicable)
-□ Applicable law and jurisdiction (CJEU)
-□ Reference to data protection (Regulation 2018/1725)
-□ Telework arrangement (if applicable, as annex)
+**Mandatory contract elements:**
+- [ ] Full name and personal data of TA
+- [ ] CEOS legal basis (specific article cited)
+- [ ] Grade and step on entry (with reference to classification table)
+- [ ] Basic monthly salary
+- [ ] Duration (start date / end date or "indefinite" if applicable)
+- [ ] Probationary period duration explicitly stated
+- [ ] Place of employment
+- [ ] Working-time arrangement (full-time / part-time %)
+- [ ] Notice period (per Art. 47 CEOS)
+- [ ] Reference to Staff Regulations as applicable by reference
+- [ ] JSIS enrolment clause
+- [ ] Pension scheme reference (Annex VIII SR or national scheme if applicable)
+- [ ] Applicable law and jurisdiction (CJEU)
+- [ ] Reference to data protection (Regulation 2018/1725)
+- [ ] Telework arrangement (if applicable, as annex)
 
-SELECTION PROCEDURE REFERENCE:
-CAST reserve list reference: [EPSO/CAST/YYYY/NNN or equivalent]
-Date of publication of selection results: [DD Month YYYY]
-Validity of reserve list confirmed: □ Yes □ No [if No — seek HR advice before signing]
+**Selection procedure reference:**
+**CAST reserve list reference:** [EPSO/CAST/YYYY/NNN or equivalent]
+**Date of publication of selection results:** [DD Month YYYY]
+**Validity of reserve list confirmed:** - [ ] Yes - [ ] No [if No — seek HR advice before signing]
 
-ESTABLISHMENT PLAN CHECK (Art. 2b only):
-Post number in establishment plan: [NNNN]
-Grade in EP matches contract grade: □ Yes □ No
-Post currently vacant: □ Yes □ No
-```
+**Establishment plan check (Art. 2b only):**
+**Post number in establishment plan:** [NNNN]
+**Grade in EP matches contract grade:** - [ ] Yes - [ ] No
+**Post currently vacant:** - [ ] Yes - [ ] No
 
 ### 2. Non-Renewal Notification Letter
 
-```
-[INSTITUTION LETTERHEAD]
-[LIMITE — PERSONAL]
+*[INSTITUTION LETTERHEAD]*
+*[LIMITE — PERSONAL]*
 
 [City], [DD Month YYYY]
 
-To:   [Full name]
-      [TA — Art. 2(X) — Grade/Step]
-      [Unit, DG]
+**To:** [Full name]
+[TA — Art. 2(X) — Grade/Step]
+[Unit, DG]
 
-Subject: Notification of non-renewal of your contract as Temporary Agent
+**Subject:** Notification of non-renewal of your contract as Temporary Agent
 
 Dear [Title] [Surname],
 
-I refer to your contract as Temporary Agent under Article 2([X]) of the Conditions of
-Employment of Other Servants (CEOS), which expires on [DD Month YYYY].
+I refer to your contract as Temporary Agent under Article 2([X]) of the Conditions of Employment of Other Servants (CEOS), which expires on [DD Month YYYY].
 
-In accordance with Article 47(b)(i) of the CEOS, I hereby notify you that your contract
-will not be renewed upon its expiry on [DD Month YYYY].
+In accordance with Article 47(b)(i) of the CEOS, I hereby notify you that your contract will not be renewed upon its expiry on [DD Month YYYY].
 
-In accordance with Article 47 of the CEOS, your notice period is [N month(s)], running
-from the date of this notification. [If applicable: Your last day of service will
-therefore be [DD Month YYYY].]
+In accordance with Article 47 of the CEOS, your notice period is [N month(s)], running from the date of this notification. [If applicable: Your last day of service will therefore be [DD Month YYYY].]
 
-[Optional — reason clause:]
-This decision is taken [in view of the budgetary situation / because the post is to be
-abolished / because no extension of the establishment plan post is foreseen / other
-objective reason — adapt as appropriate and legally verified].
+[Optional — reason clause:] This decision is taken [in view of the budgetary situation / because the post is to be abolished / because no extension of the establishment plan post is foreseen / other objective reason — adapt as appropriate and legally verified].
 
-You retain the right to request, within [3 months] of notification, a review of this
-decision by the Appointing Authority. Should you wish to contest this decision before the
-Civil Service Tribunal, the time limit is [3 months] from the date of the reply to the
-request for review.
+You retain the right to request, within [3 months] of notification, a review of this decision by the Appointing Authority. Should you wish to contest this decision before the Civil Service Tribunal, the time limit is [3 months] from the date of the reply to the request for review.
 
 Please contact [HR officer name, email] to arrange your exit formalities.
 
@@ -211,88 +198,85 @@ Yours sincerely,
 [Name]
 [Title — Appointing Authority delegate]
 [DG/Service]
-```
 
 ### 3. Probation Assessment Report Structure
 
-```
-PROBATION ASSESSMENT REPORT — TEMPORARY AGENT
-Staff member:        [Name]
-CEOS category:       Art. 2([X])
-Grade / Step:        [AD/AST X / Step Y]
-Post / Unit:         [Description — DG XX, Unit Y]
-Contract start:      [DD Month YYYY]
-Probation period:    [DD Month YYYY] to [DD Month YYYY] ([6/9] months)
-Assessment date:     [DD Month YYYY]
-Reporting official:  [Name, title]
+**PROBATION ASSESSMENT REPORT — TEMPORARY AGENT**
+**Staff member:** [Name]
+**CEOS category:** Art. 2([X])
+**Grade / Step:** [AD/AST X / Step Y]
+**Post / Unit:** [Description — DG XX, Unit Y]
+**Contract start:** [DD Month YYYY]
+**Probation period:** [DD Month YYYY] to [DD Month YYYY] ([6/9] months)
+**Assessment date:** [DD Month YYYY]
+**Reporting official:** [Name, title]
 
-1. TASKS ASSIGNED DURING PROBATION
-   [Describe the main duties entrusted during the probation period.]
+**1. Tasks assigned during probation**
 
-2. ASSESSMENT OF PERFORMANCE
-   a) Quality of work: [Assessment — satisfactory / needs improvement / unsatisfactory]
-      [Specific observations]
-   b) Efficiency and speed: [Assessment]
-   c) Conduct in the service: [Assessment — relationships, team spirit, work ethic]
-   d) Initiative and adaptability: [Assessment]
-   e) Compliance with rules and procedures: [Assessment]
+[Describe the main duties entrusted during the probation period.]
 
-3. OVERALL ASSESSMENT
-   □ SATISFACTORY — Recommend confirmation in post
-   □ UNSATISFACTORY — Recommend extension of probation [max 3 additional months]
-   □ UNSATISFACTORY — Recommend termination of contract
+**2. Assessment of performance**
 
-4. STAFF MEMBER'S COMMENTS (mandatory)
-   [Space for TA to add their own observations — must be included before signature]
+- (a) Quality of work: [Assessment — satisfactory / needs improvement / unsatisfactory] — [Specific observations]
+- (b) Efficiency and speed: [Assessment]
+- (c) Conduct in the service: [Assessment — relationships, team spirit, work ethic]
+- (d) Initiative and adaptability: [Assessment]
+- (e) Compliance with rules and procedures: [Assessment]
 
-5. SIGNATURES
-   Reporting official: _______________  Date: [DD Month YYYY]
-   Staff member:       _______________  Date: [DD Month YYYY]
-   [Staff member's signature confirms receipt, not agreement]
+**3. Overall assessment**
+- [ ] SATISFACTORY — Recommend confirmation in post
+- [ ] UNSATISFACTORY — Recommend extension of probation [max 3 additional months]
+- [ ] UNSATISFACTORY — Recommend termination of contract
 
-[If unsatisfactory: note that dismissal procedure under Art. 14 CEOS applies;
-Appointing Authority must be formally notified; TA has right to be heard.]
-```
+**4. Staff member's comments** *(mandatory)*
+
+[Space for TA to add their own observations — must be included before signature]
+
+**5. Signatures**
+
+Reporting official: _______________ Date: [DD Month YYYY]
+Staff member: _______________ Date: [DD Month YYYY]
+*[Staff member's signature confirms receipt, not agreement]*
+
+[If unsatisfactory: note that dismissal procedure under Art. 14 CEOS applies; Appointing Authority must be formally notified; TA has right to be heard.]
 
 ### 4. TA Rights Summary Card (at-a-glance advisory)
 
-```
-TEMPORARY AGENT — KEY RIGHTS & CONDITIONS AT A GLANCE
-(Arts. 8–46 CEOS + SR provisions as applicable by reference)
+**TEMPORARY AGENT — KEY RIGHTS & CONDITIONS AT A GLANCE**
+*(Arts. 8–46 CEOS + SR provisions as applicable by reference)*
 
-LEAVE:
-□ Annual leave:        24 working days/year + 1 day per year of service (max 6 extra)
-□ Sick leave:          12 months over 3 years (paid); 6 months (half pay) thereafter
-□ Maternity leave:     20 weeks (14 compulsory post-birth; Art. 58 SR by reference)
-□ Paternity leave:     10 days
-□ Parental leave:      Up to 6 months (unpaid or partly paid — check DG HR guide)
-□ Special leave:       Per SR Annex V as applicable
-□ Force majeure leave: Up to 2 days per unforeseen family event
+**Leave:**
+- Annual leave: 24 working days/year + 1 day per year of service (max 6 extra)
+- Sick leave: 12 months over 3 years (paid); 6 months (half pay) thereafter
+- Maternity leave: 20 weeks (14 compulsory post-birth; Art. 58 SR by reference)
+- Paternity leave: 10 days
+- Parental leave: Up to 6 months (unpaid or partly paid — check DG HR guide)
+- Special leave: Per SR Annex V as applicable
+- Force majeure leave: Up to 2 days per unforeseen family event
 
-SALARY & ALLOWANCES:
-□ Basic salary:        Per grade/step table (SR Annex I)
-□ Correction coeff.:   Applied to salary based on place of employment
-□ Expatriation allow.: If applicable (Art. 4 SR Annex VII) — 16% of basic salary
-□ Household allow.:    Varies by family situation
-□ Dependent child all.: Per SR Annex VII
+**Salary & allowances:**
+- Basic salary: Per grade/step table (SR Annex I)
+- Correction coefficient: Applied to salary based on place of employment
+- Expatriation allowance: If applicable (Art. 4 SR Annex VII) — 16% of basic salary
+- Household allowance: Varies by family situation
+- Dependent child allowance: Per SR Annex VII
 
-SOCIAL PROTECTION:
-□ JSIS:                Enrolled from day 1; 85% reimbursement (+ top-up for serious illness)
-□ Pension:             Art. 2b/c/d TAs accrue EU pension after 10+ years qualifying service
-□ Unemployment benefit: Upon involuntary termination — paid for max 12 months
-□ Work accident insur.: Full coverage from day 1
+**Social protection:**
+- JSIS: Enrolled from day 1; 85% reimbursement (+ top-up for serious illness)
+- Pension: Art. 2b/c/d TAs accrue EU pension after 10+ years qualifying service
+- Unemployment benefit: Upon involuntary termination — paid for max 12 months
+- Work accident insurance: Full coverage from day 1
 
-CAREER:
-□ Annual step advancement: Art. 44 CEOS — 1 step per 2 years (automatic after positive assessment)
-□ Reclassification: Possible if implementing rules allow; not automatic for all TAs
-□ CDR/appraisal: Annual — same cycle as officials
+**Career:**
+- Annual step advancement: Art. 44 CEOS — 1 step per 2 years (automatic after positive assessment)
+- Reclassification: Possible if implementing rules allow; not automatic for all TAs
+- CDR/appraisal: Annual — same cycle as officials
 
-WORKING TIME:
-□ Standard working week: 40 hours (37.5 effective)
-□ Flexitime: Applicable per DG/Service rules
-□ Telework: Per Commission Decision on hybrid work (Brussels: max 3 days/week)
-□ Overtime: Compensated in time or, exceptionally, in pay (AD grade: time only)
-```
+**Working time:**
+- Standard working week: 40 hours (37.5 effective)
+- Flexitime: Applicable per DG/Service rules
+- Telework: Per Commission Decision on hybrid work (Brussels: max 3 days/week)
+- Overtime: Compensated in time or, exceptionally, in pay (AD grade: time only)
 
 ---
 

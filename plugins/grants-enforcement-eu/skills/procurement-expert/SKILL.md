@@ -137,137 +137,132 @@ Specialises in framework contracts with cascade mechanisms and mini-competitions
 
 ### 1. Procurement Plan Entry
 
-```
-ANNUAL PROCUREMENT PLAN — ENTRY SHEET
-DG/Service: [XX]       Unit: [Name]       Year: [YYYY]
+**ANNUAL PROCUREMENT PLAN — ENTRY SHEET**
 
-Title of procurement:       [Descriptive title]
-CPV code(s):               [Main CPV + supplementary CPVs]
-Type of contract:          □ Services  □ Supplies  □ Works
-Estimated value (excl. VAT): €[amount]  [over full duration: [N] years]
-Type of framework contract: □ Single  □ Multiple (cascade)  □ Multiple (reopening)
-Number of contractors:     [N]
-Procedure:                 □ Open  □ Restricted  □ Negotiated  □ Competitive Dialogue
-Planned launch date:       [Q1/Q2/Q3/Q4 YYYY]
-Planned signature date:    [Q YYYY]
-Renewal of existing contract: □ Yes  □ No   If yes: [current contract ref]
-Linked to shared service/OIB: □ Yes  □ No
-Authorising Officer:       [Name, grade]
-Contact:                   [Name, email]
-Budget line(s):            [ABAC BL]
-```
+**DG/Service:** [XX] — **Unit:** [Name] — **Year:** [YYYY]
+
+**Title of procurement:** [Descriptive title]
+**CPV code(s):** [Main CPV + supplementary CPVs]
+**Type of contract:** - [ ] Services - [ ] Supplies - [ ] Works
+**Estimated value (excl. VAT):** €[amount] [over full duration: [N] years]
+**Type of framework contract:** - [ ] Single - [ ] Multiple (cascade) - [ ] Multiple (reopening)
+**Number of contractors:** [N]
+**Procedure:** - [ ] Open - [ ] Restricted - [ ] Negotiated - [ ] Competitive Dialogue
+**Planned launch date:** [Q1/Q2/Q3/Q4 YYYY]
+**Planned signature date:** [Q YYYY]
+**Renewal of existing contract:** - [ ] Yes - [ ] No — If yes: [current contract ref]
+**Linked to shared service/OIB:** - [ ] Yes - [ ] No
+**Authorising Officer:** [Name, grade]
+**Contact:** [Name, email]
+**Budget line(s):** [ABAC BL]
+
+---
 
 ### 2. Evaluation Committee Report Structure
 
-```
-EVALUATION REPORT
-Procurement reference: [CFT-DG-YYYY-NNNNN]
-Subject:               [Title of contract]
-Procedure:             [Open / Restricted / Negotiated]
-Evaluation Committee:  [Names, units, roles — Chair / Members / Observers]
-Date(s) of evaluation: [DD Month YYYY]
+**EVALUATION REPORT**
 
-1. OPENING OF TENDERS
-   Number of tenders received: [N]
-   Tenders received after deadline (rejected without opening): [N]
-   Tenders properly submitted and opened: [N]
-   [List tenderers by reference code — do not use company names before award]
+**Procurement reference:** [CFT-DG-YYYY-NNNNN]
+**Subject:** [Title of contract]
+**Procedure:** [Open / Restricted / Negotiated]
+**Evaluation Committee:** [Names, units, roles — Chair / Members / Observers]
+**Date(s) of evaluation:** [DD Month YYYY]
 
-2. EXCLUSION CRITERIA CHECK (Art. 136 FR)
-   [For each tenderer]: Status: □ Compliant □ Non-compliant [reason]
-   EDES check performed: □ Yes [date] □ Not required (< €15,000)
+**1. Opening of Tenders**
 
-3. SELECTION CRITERIA CHECK
-   3.1 Legal / Administrative capacity
-   3.2 Economic and financial capacity
-   3.3 Technical and professional capacity
-   [For each tenderer]: □ Pass □ Fail [documented reason]
+- Number of tenders received: [N]
+- Tenders received after deadline (rejected without opening): [N]
+- Tenders properly submitted and opened: [N]
+- [List tenderers by reference code — do not use company names before award]
 
-4. TECHNICAL QUALITY EVALUATION
-   Criteria and weightings:
-   - Criterion 1: [Description]  Weight: [X]%  Max score: [N]
-   - Criterion 2: [...]
-   [Scoring table per tenderer per criterion]
+**2. Exclusion Criteria Check (Art. 136 FR)**
 
-5. FINANCIAL EVALUATION
-   [Price comparison table. Note: price is always a criterion — typically 20–40%]
-   Abnormally low tender check: □ Triggered for [ref]  □ Not triggered
-   [If triggered: document request for justification and outcome]
+[For each tenderer] Status: - [ ] Compliant - [ ] Non-compliant [reason]
+EDES check performed: - [ ] Yes [date] - [ ] Not required (< €15,000)
 
-6. BEST VALUE FOR MONEY RANKING
-   [Final ranking table: quality score + price score = total score]
+**3. Selection Criteria Check**
 
-7. RECOMMENDATION FOR AWARD
-   The Evaluation Committee unanimously / by majority recommends award to:
-   [Tenderer Ref X] with a total score of [N/100]
-   Estimated contract value: €[amount]
+- 3.1 Legal / Administrative capacity
+- 3.2 Economic and financial capacity
+- 3.3 Technical and professional capacity
 
-8. DECLARATION
-   All committee members confirm no conflict of interest and that evaluation
-   was conducted in accordance with the published criteria.
-   [Signatures / dates]
-```
+[For each tenderer]: - [ ] Pass - [ ] Fail [documented reason]
+
+**4. Technical Quality Evaluation**
+
+Criteria and weightings:
+- Criterion 1: [Description] — Weight: [X]% — Max score: [N]
+- Criterion 2: [...]
+
+[Scoring table per tenderer per criterion]
+
+**5. Financial Evaluation**
+
+[Price comparison table. Note: price is always a criterion — typically 20–40%]
+Abnormally low tender check: - [ ] Triggered for [ref] - [ ] Not triggered
+[If triggered: document request for justification and outcome]
+
+**6. Best Value for Money Ranking**
+
+[Final ranking table: quality score + price score = total score]
+
+**7. Recommendation for Award**
+
+The Evaluation Committee unanimously / by majority recommends award to [Tenderer Ref X] with a total score of [N/100]. Estimated contract value: €[amount].
+
+**8. Declaration**
+
+All committee members confirm no conflict of interest and that evaluation was conducted in accordance with the published criteria. [Signatures / dates]
+
+---
 
 ### 3. Framework Contract Cascade — Specific Contract Request Memo
 
-```
-SPECIFIC CONTRACT REQUEST UNDER FRAMEWORK CONTRACT
-FC Reference:          [FC-DG-YYYY-NNNNN]
-Specific Contract No:  [SC-NNN]
-Date:                  [DD Month YYYY]
+**SPECIFIC CONTRACT REQUEST UNDER FRAMEWORK CONTRACT**
 
-Contractor (Rank 1):   [Company name]
-Requested service:     [Description of specific need]
-Estimated value:       €[amount]
-Period of performance: [DD Month YYYY] to [DD Month YYYY]
-Cumulative spend on FC to date: €[amount]
-Remaining FC maximum amount:    €[amount]
+**FC Reference:** [FC-DG-YYYY-NNNNN]
+**Specific Contract No.:** [SC-NNN]
+**Date:** [DD Month YYYY]
 
-CASCADE APPLICATION:
-□ Rank 1 contractor approached on [date] — □ Accepted / □ Declined
-  If declined — documented reason: [...]
-□ Rank 2 contractor approached on [date] — □ Accepted / □ Declined [if applicable]
-□ Rank 3 contractor approached on [date] — □ Accepted [if applicable]
+**Contractor (Rank 1):** [Company name]
+**Requested service:** [Description of specific need]
+**Estimated value:** €[amount]
+**Period of performance:** [DD Month YYYY] to [DD Month YYYY]
+**Cumulative spend on FC to date:** €[amount]
+**Remaining FC maximum amount:** €[amount]
 
-DELIVERABLES REQUESTED:
-[List with deadlines]
+**Cascade Application:**
+- [ ] Rank 1 contractor approached on [date] — - [ ] Accepted / - [ ] Declined — If declined: [documented reason]
+- [ ] Rank 2 contractor approached on [date] — - [ ] Accepted / - [ ] Declined [if applicable]
+- [ ] Rank 3 contractor approached on [date] — - [ ] Accepted [if applicable]
 
-PAYMENT TERMS: [As per FC Article X]
-BUDGET LINE:   [ABAC reference]
-AUTHORISING OFFICER: [Name]
-```
+**Deliverables requested:** [List with deadlines]
+
+**Payment terms:** [As per FC Article X]
+**Budget line:** [ABAC reference]
+**Authorising Officer:** [Name]
+
+---
 
 ### 4. Conflict of Interest Declaration (Evaluation Committee Member)
 
-```
-DECLARATION OF ABSENCE OF CONFLICT OF INTEREST
-AND CONFIRMATION OF CONFIDENTIALITY
+**DECLARATION OF ABSENCE OF CONFLICT OF INTEREST AND CONFIRMATION OF CONFIDENTIALITY**
 
-Procurement:  [Title — CFT reference]
-Name:         [Full name]
-Function:     □ Chair  □ Member  □ Observer  □ Expert
+**Procurement:** [Title — CFT reference]
+**Name:** [Full name]
+**Function:** - [ ] Chair - [ ] Member - [ ] Observer - [ ] Expert
 
 I, the undersigned, declare that:
 
-1. I have no personal interest (financial, family, professional, or other) in
-   any of the tenderers participating in the above procurement procedure.
+1. I have no personal interest (financial, family, professional, or other) in any of the tenderers participating in the above procurement procedure.
+2. I am not aware of any circumstances that could reasonably be perceived as creating a conflict of interest as defined in Article 61 of Regulation (EU, Euratom) 2018/1046.
+3. I commit to treating all information relating to the tenders as confidential and to using it only for the purposes of this evaluation.
+4. I understand that, should a conflict of interest arise during the evaluation, I am obliged to declare it immediately and to withdraw from the evaluation.
 
-2. I am not aware of any circumstances that could reasonably be perceived as
-   creating a conflict of interest as defined in Article 61 of Regulation (EU,
-   Euratom) 2018/1046.
+- [ ] I confirm that I have no conflict of interest — I may proceed with the evaluation.
+- [ ] I declare a potential conflict of interest as follows: [description] → I am withdrawing from the evaluation and notify the Chair accordingly.
 
-3. I commit to treating all information relating to the tenders as confidential
-   and to using it only for the purposes of this evaluation.
-
-4. I understand that, should a conflict of interest arise during the evaluation,
-   I am obliged to declare it immediately and to withdraw from the evaluation.
-
-□ I confirm that I have no conflict of interest — I may proceed with the evaluation.
-□ I declare a potential conflict of interest as follows: [description]
-   → I am withdrawing from the evaluation and notify the Chair accordingly.
-
-Signed: ___________________    Date: [DD Month YYYY]
-```
+**Signed:** ___________________ — **Date:** [DD Month YYYY]
 
 ---
 

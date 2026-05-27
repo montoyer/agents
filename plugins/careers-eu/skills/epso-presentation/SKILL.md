@@ -157,81 +157,73 @@ structure used in Commission briefing notes: problem → context → options →
 
 ## Output Template — Presentation Outline
 
-```
-ORAL PRESENTATION OUTLINE
-Topic:          [topic title or scenario]
-Competition:    [e.g. AD5 generalist / AD7 economist]
-Target time:    10 minutes
+**ORAL PRESENTATION OUTLINE**
 
-──────────────────────────────────────────────────
-SECTION 1: HOOK & FRAMING                [~1 min]
-──────────────────────────────────────────────────
-Opening sentence:
-  "[One sentence framing the topic — state the question you will answer]"
+**Topic:** [topic title or scenario] — **Competition:** [e.g. AD5 generalist / AD7 economist] — **Target time:** 10 minutes
 
-Structure signal:
-  "I will cover three points: [X], [Y], and [Z], and conclude with a recommendation."
+---
 
-──────────────────────────────────────────────────
-SECTION 2: SITUATION / PROBLEM           [~1.5 min]
-──────────────────────────────────────────────────
-Core issue:
-  [2–3 sentences describing the problem — what is happening, why it matters]
+**Section 1: Hook & Framing** *[~1 min]*
 
-Key fact or figure:
-  "[One concrete data point or evidence from the brief]"
+**Opening sentence:** "[One sentence framing the topic — state the question you will answer]"
 
-Stakes:
-  "[One sentence on consequences of inaction]"
+**Structure signal:** "I will cover three points: [X], [Y], and [Z], and conclude with a recommendation."
 
-──────────────────────────────────────────────────
-SECTION 3: ANALYSIS / OPTIONS            [~3 min]
-──────────────────────────────────────────────────
-Option A — [label]:
-  Benefit:    [one sentence]
-  Constraint: [one sentence]
+---
 
-Option B — [label]:
-  Benefit:    [one sentence]
-  Constraint: [one sentence]
+**Section 2: Situation / Problem** *[~1.5 min]*
 
-Option C — [label] (if applicable):
-  Benefit:    [one sentence]
-  Constraint: [one sentence]
+**Core issue:** [2–3 sentences describing the problem — what is happening, why it matters]
 
-──────────────────────────────────────────────────
-SECTION 4: RECOMMENDATION                [~3 min]
-──────────────────────────────────────────────────
-Preferred option:
-  "[State the recommendation in one clear sentence]"
+**Key fact or figure:** "[One concrete data point or evidence from the brief]"
 
-Reason 1: [one sentence]
-Reason 2: [one sentence]
-Reason 3: [one sentence]
+**Stakes:** "[One sentence on consequences of inaction]"
 
-Main counterargument and response:
-  "[Acknowledge the strongest objection, then rebut in one sentence]"
+---
 
-──────────────────────────────────────────────────
-SECTION 5: IMPLEMENTATION (optional)    [~1 min]
-──────────────────────────────────────────────────
-Key actor:      [who acts]
-First step:     [what, by when]
-Success condition: [what would confirm it is working]
+**Section 3: Analysis / Options** *[~3 min]*
 
-──────────────────────────────────────────────────
-SECTION 6: CONCLUSION                    [~0.5 min]
-──────────────────────────────────────────────────
-Summary sentence:
-  "[Restate recommendation in different words]"
+**Option A — [label]:**
+- *Benefit:* [one sentence]
+- *Constraint:* [one sentence]
 
-Closing:
-  "That concludes my presentation. I am happy to take your questions."
+**Option B — [label]:**
+- *Benefit:* [one sentence]
+- *Constraint:* [one sentence]
 
-──────────────────────────────────────────────────
-WORD COUNT ESTIMATE:   ~[N] words (~[N/140] minutes spoken)
-──────────────────────────────────────────────────
-```
+**Option C — [label]** *(if applicable):*
+- *Benefit:* [one sentence]
+- *Constraint:* [one sentence]
+
+---
+
+**Section 4: Recommendation** *[~3 min]*
+
+**Preferred option:** "[State the recommendation in one clear sentence]"
+
+- Reason 1: [one sentence]
+- Reason 2: [one sentence]
+- Reason 3: [one sentence]
+
+**Main counterargument and response:** "[Acknowledge the strongest objection, then rebut in one sentence]"
+
+---
+
+**Section 5: Implementation** *(optional — ~1 min)*
+
+**Key actor:** [who acts] — **First step:** [what, by when] — **Success condition:** [what would confirm it is working]
+
+---
+
+**Section 6: Conclusion** *[~0.5 min]*
+
+**Summary sentence:** "[Restate recommendation in different words]"
+
+**Closing:** "That concludes my presentation. I am happy to take your questions."
+
+---
+
+*Word count estimate: ~[N] words (~[N/140] minutes spoken)*
 
 ---
 
@@ -239,53 +231,45 @@ WORD COUNT ESTIMATE:   ~[N] words (~[N/140] minutes spoken)
 
 After reviewing a candidate's draft or delivery notes:
 
-```
-COMMUNICATION COMPETENCY SCORECARD
+**COMMUNICATION COMPETENCY SCORECARD**
 
-Indicator                                      Score (1–5)  Comment
-─────────────────────────────────────────────────────────────────────
-Structure: clear opening, body, conclusion     [1–5]        [note]
-Clarity: one idea per sentence, no jargon     [1–5]        [note]
-Evidence: uses facts from the brief           [1–5]        [note]
-Recommendation: stated clearly, not hedged    [1–5]        [note]
-Time management: fits within 10 minutes       [1–5]        [note]
-Audience adaptation: panel-facing, not notes  [1–5]        [note]
-Q&A: direct, concise answers                  [1–5]        [note]
-─────────────────────────────────────────────────────────────────────
-OVERALL COMMUNICATION RATING:     [STRONG / ADEQUATE / NEEDS WORK]
+| Indicator | Score (1–5) | Comment |
+|---|---|---|
+| Structure: clear opening, body, conclusion | [1–5] | [note] |
+| Clarity: one idea per sentence, no jargon | [1–5] | [note] |
+| Evidence: uses facts from the brief | [1–5] | [note] |
+| Recommendation: stated clearly, not hedged | [1–5] | [note] |
+| Time management: fits within 10 minutes | [1–5] | [note] |
+| Audience adaptation: panel-facing, not notes | [1–5] | [note] |
+| Q&A: direct, concise answers | [1–5] | [note] |
 
-Top strength:      [one sentence]
-Priority to fix:   [one sentence — most impactful improvement]
-```
+**Overall Communication Rating:** [STRONG / ADEQUATE / NEEDS WORK]
+
+**Top strength:** [one sentence]
+
+**Priority to fix:** [one sentence — most impactful improvement]
 
 ---
 
 ## Q&A Preparation Template
 
-```
-LIKELY PANEL QUESTIONS
+**LIKELY PANEL QUESTIONS**
 
-Q1: [Most predictable question — often challenges the recommendation]
-    Suggested answer framework:
-    "My recommendation was [X] because [Y]. I recognise that [main objection],
-    but in this context [rebuttal]. The key condition for success is [Z]."
-    Target duration: 60–90 seconds.
+**Q1:** [Most predictable question — often challenges the recommendation]
 
-Q2: [Probing question — asks for more detail on one option or trade-off]
-    Suggested answer framework:
-    "[Acknowledge the dimension] The trade-off here is between [A] and [B].
-    I weighted [A] more heavily because [reason]."
+*Suggested answer framework:* "My recommendation was [X] because [Y]. I recognise that [main objection], but in this context [rebuttal]. The key condition for success is [Z]." — *Target duration: 60–90 seconds.*
 
-Q3: [Clarification question — challenges an assumption in the analysis]
-    Suggested answer framework:
-    "That is a fair point. My assumption was [X]. If that assumption does not
-    hold, then [consequence] — which would point towards [alternative]."
+**Q2:** [Probing question — asks for more detail on one option or trade-off]
 
-Q4: [Personal competency question — 'what would you do in this role?']
-    Suggested answer framework:
-    Use the STAR method: Situation → Task → Action → Result.
-    Keep to 90 seconds. End with the result, not the action.
-```
+*Suggested answer framework:* "[Acknowledge the dimension] The trade-off here is between [A] and [B]. I weighted [A] more heavily because [reason]."
+
+**Q3:** [Clarification question — challenges an assumption in the analysis]
+
+*Suggested answer framework:* "That is a fair point. My assumption was [X]. If that assumption does not hold, then [consequence] — which would point towards [alternative]."
+
+**Q4:** [Personal competency question — 'what would you do in this role?']
+
+*Suggested answer framework:* Use the STAR method: Situation → Task → Action → Result. Keep to 90 seconds. End with the result, not the action.
 
 ---
 

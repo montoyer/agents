@@ -139,7 +139,6 @@ MEOP does NOT apply to:
 
 ### State Aid Assessment
 
-```
 STATE AID ASSESSMENT
 
 Measure:       [Description of the support measure]
@@ -149,132 +148,135 @@ Sector:        [Economic sector affected]
 Amount:        EUR [X] [model knowledge — verify]
 Date:          [DD Month YYYY]
 
-═══════════════════════════════════════════
-1. EXISTENCE OF AID (Art. 107(1) TFEU)
-═══════════════════════════════════════════
+---
+
+### 1. Existence of Aid (Art. 107(1) TFEU)
+
 [EUR-Lex — verify current version of Art. 107 TFEU]
 
-1.1 State resources and imputability
-    Financed from state resources: □ Yes  □ No  □ Partial
-    Imputable to the state:        □ Yes  □ No
-    Reasoning: [...]
+**1.1 State resources and imputability**
+Financed from state resources: - [ ] Yes  - [ ] No  - [ ] Partial
+Imputable to the state:        - [ ] Yes  - [ ] No
+Reasoning: [...]
 
-1.2 Selective advantage
-    Economic advantage: □ Yes  □ No
-    MEOP applicable:    □ Yes → MEOP result: □ Advantage present  □ No advantage
-                        □ No  → Direct advantage
-    Selectivity:        □ Yes (favours certain undertakings/sectors)
-                        □ No  (general measure available to all)
-    Reasoning: [...]
+**1.2 Selective advantage**
+Economic advantage: - [ ] Yes  - [ ] No
+MEOP applicable:    - [ ] Yes → MEOP result: - [ ] Advantage present  - [ ] No advantage
+                    - [ ] No  → Direct advantage
+Selectivity:        - [ ] Yes (favours certain undertakings/sectors)
+                    - [ ] No  (general measure available to all)
+Reasoning: [...]
 
-1.3 Effect on competition
-    □ Distorts or threatens to distort competition
-    □ No appreciable effect on competition (de minimis — see §2)
-    Reasoning: [...]
+**1.3 Effect on competition**
+- [ ] Distorts or threatens to distort competition
+- [ ] No appreciable effect on competition (de minimis — see §2)
 
-1.4 Effect on intra-EU trade
-    □ Affects trade between Member States
-    □ Purely local measure — no effect on intra-EU trade
-    Reasoning: [...]
+Reasoning: [...]
 
-→ CONCLUSION: □ AID EXISTS (all four limbs present)
-              □ NO AID — limb(s) [X] absent: [reasoning]
-              [If no aid: stop here — no further analysis required]
+**1.4 Effect on intra-EU trade**
+- [ ] Affects trade between Member States
+- [ ] Purely local measure — no effect on intra-EU trade
 
-═══════════════════════════════════════════
-2. DE MINIMIS (if aid exists)
-═══════════════════════════════════════════
+Reasoning: [...]
+
+**Conclusion:** - [ ] AID EXISTS (all four limbs present)
+               - [ ] NO AID — limb(s) [X] absent: [reasoning]
+               [If no aid: stop here — no further analysis required]
+
+---
+
+### 2. De Minimis (if aid exists)
+
 [EUR-Lex — verify Regulation 2023/2831 current version]
 
 Aid amount:           EUR [X]
-Applicable threshold: □ General: EUR 300,000 / 3 fiscal years
-                      □ Agriculture: EUR [X]  □ Fisheries: EUR [X]
-                      □ SGEI: EUR 750,000 / 3 fiscal years
-Threshold exceeded:   □ No → DE MINIMIS applies — no notification required
-                      □ Yes → Continue to §3
+Applicable threshold: - [ ] General: EUR 300,000 / 3 fiscal years
+                      - [ ] Agriculture: EUR [X]  - [ ] Fisheries: EUR [X]
+                      - [ ] SGEI: EUR 750,000 / 3 fiscal years
+Threshold exceeded:   - [ ] No → DE MINIMIS applies — no notification required
+                      - [ ] Yes → Continue to §3
 
-→ CONCLUSION: □ De minimis applies — no further analysis required
-              □ Does not apply — proceed to GBER screening
+**Conclusion:** - [ ] De minimis applies — no further analysis required
+               - [ ] Does not apply — proceed to GBER screening
 
-═══════════════════════════════════════════
-3. GBER SCREENING (Regulation 651/2014 as amended)
-═══════════════════════════════════════════
+---
+
+### 3. GBER Screening (Regulation 651/2014 as amended)
+
 [model knowledge — verify current GBER thresholds and aid intensities]
 
 General conditions (Arts. 1–12):
-  Excluded activities (Art. 1): □ No exclusion applies  □ Exclusion: [specify]
-  Transparency requirement (Art. 5): □ Met  □ Not met
-  Incentive effect (Art. 6): □ Present  □ Absent — GBER cannot apply
-  Maximum aid intensity (Art. 7): [X]% — applicable chapter: Art. [XX]
-  Cumulation rules (Art. 8): □ Verified  □ Issue: [specify]
-  Publication (Art. 9): □ Will be met within 20 working days of granting
+- Excluded activities (Art. 1): - [ ] No exclusion applies  - [ ] Exclusion: [specify]
+- Transparency requirement (Art. 5): - [ ] Met  - [ ] Not met
+- Incentive effect (Art. 6): - [ ] Present  - [ ] Absent — GBER cannot apply
+- Maximum aid intensity (Art. 7): [X]% — applicable chapter: Art. [XX]
+- Cumulation rules (Art. 8): - [ ] Verified  - [ ] Issue: [specify]
+- Publication (Art. 9): - [ ] Will be met within 20 working days of granting
 
 GBER chapter applicable:
-  □ Regional aid (Arts. 13–16)
-  □ SME aid (Arts. 17–20)
-  □ R&D&I aid (Arts. 25–30)
-  □ Environmental/energy aid (Arts. 36–49a)
-  □ Training aid (Art. 31)
-  □ Employment aid (Arts. 32–35)
-  □ Other: Art. [XX] — [title]
-  □ No GBER category applicable
+- [ ] Regional aid (Arts. 13–16)
+- [ ] SME aid (Arts. 17–20)
+- [ ] R&D&I aid (Arts. 25–30)
+- [ ] Environmental/energy aid (Arts. 36–49a)
+- [ ] Training aid (Art. 31)
+- [ ] Employment aid (Arts. 32–35)
+- [ ] Other: Art. [XX] — [title]
+- [ ] No GBER category applicable
 
-GBER chapter conditions: □ Met  □ Not met: [specify which condition fails]
+GBER chapter conditions: - [ ] Met  - [ ] Not met: [specify which condition fails]
 
-→ CONCLUSION: □ GBER EXEMPT — information sheet required within 20 working days
-              □ NOT GBER EXEMPT — formal notification required (proceed to §4)
+**Conclusion:** - [ ] GBER EXEMPT — information sheet required within 20 working days
+               - [ ] NOT GBER EXEMPT — formal notification required (proceed to §4)
 
-═══════════════════════════════════════════
-4. COMPATIBILITY ASSESSMENT (if notifiable)
-═══════════════════════════════════════════
+---
+
+### 4. Compatibility Assessment (if notifiable)
+
 Applicable legal basis:
-  □ Art. 107(2)(a) — social aid to individual consumers
-  □ Art. 107(2)(b) — natural disaster aid
-  □ Art. 107(3)(a) — regional development (abnormally low standard of living)
-  □ Art. 107(3)(b) — serious disturbance in the economy
-  □ Art. 107(3)(c) — facilitate certain economic activities
-  □ Art. 107(3)(d) — culture and heritage
-  □ Special framework: □ IPCEI  □ TCTF  □ SGEI/Altmark
+- [ ] Art. 107(2)(a) — social aid to individual consumers
+- [ ] Art. 107(2)(b) — natural disaster aid
+- [ ] Art. 107(3)(a) — regional development (abnormally low standard of living)
+- [ ] Art. 107(3)(b) — serious disturbance in the economy
+- [ ] Art. 107(3)(c) — facilitate certain economic activities
+- [ ] Art. 107(3)(d) — culture and heritage
+- [ ] Special framework: - [ ] IPCEI  - [ ] TCTF  - [ ] SGEI/Altmark
 
 [If Art. 107(2): state the applicable exemption; no common test required]
 [If Art. 107(3): apply common compatibility test below]
 
-COMMON COMPATIBILITY TEST (Art. 107(3)(c)):
-1. Objective of common interest: □ Demonstrated  □ Not demonstrated
-2. Need for state intervention (market failure / equity): □ Yes  □ No
-3. Appropriateness (aid is the right instrument): □ Yes  □ Alternative preferred
-4. Incentive effect (project would not proceed without aid): □ Yes  □ No
-5. Proportionality (minimum necessary; max aid intensity respected): □ Yes  □ No
+**Common Compatibility Test (Art. 107(3)(c)):**
+1. Objective of common interest: - [ ] Demonstrated  - [ ] Not demonstrated
+2. Need for state intervention (market failure / equity): - [ ] Yes  - [ ] No
+3. Appropriateness (aid is the right instrument): - [ ] Yes  - [ ] Alternative preferred
+4. Incentive effect (project would not proceed without aid): - [ ] Yes  - [ ] No
+5. Proportionality (minimum necessary; max aid intensity respected): - [ ] Yes  - [ ] No
    Maximum aid intensity: [X]% — actual aid intensity: [Y]%
-6. Negative effects on competition and trade: □ Limited  □ Significant risk
-7. Transparency: □ Meets transparency requirements  □ Issues: [specify]
+6. Negative effects on competition and trade: - [ ] Limited  - [ ] Significant risk
+7. Transparency: - [ ] Meets transparency requirements  - [ ] Issues: [specify]
 
-→ PRELIMINARY CONCLUSION:
-  □ Compatible — all seven criteria met
-  □ Doubts — criteria [X, Y] raise concerns; formal investigation may be needed
-  □ Incompatible — criterion [X] clearly not met
-  [review — DG COMP case handler required for final decision]
+**Preliminary Conclusion:**
+- [ ] Compatible — all seven criteria met
+- [ ] Doubts — criteria [X, Y] raise concerns; formal investigation may be needed
+- [ ] Incompatible — criterion [X] clearly not met
 
-═══════════════════════════════════════════
-5. RECOMMENDED ACTION
-═══════════════════════════════════════════
-□ No notification required — de minimis applies
-□ No notification required — GBER exempt (information sheet required)
-□ Modify the measure to comply with GBER: [specify required changes]
-□ Notify under Art. 108(3) TFEU — Art. 107(3)(X) basis
-  ⚠ STANDSTILL OBLIGATION: measure must NOT be implemented before
-    Commission approval (Art. 108(3) TFEU); unlawful aid is recoverable
-    with interest regardless of compatibility
-□ No aid — no notification required
+[review — DG COMP case handler required for final decision]
 
 ---
-DRAFT — Preliminary assessment only.
-[EUR-Lex — verify current version of all cited legislation]
-[model knowledge — verify all thresholds and aid intensities against
-current GBER and de minimis Regulations]
-[review — DG COMP case handler required before any formal position is taken]
-Not an official Commission decision or state aid approval.
-```
+
+### 5. Recommended Action
+
+- [ ] No notification required — de minimis applies
+- [ ] No notification required — GBER exempt (information sheet required)
+- [ ] Modify the measure to comply with GBER: [specify required changes]
+- [ ] Notify under Art. 108(3) TFEU — Art. 107(3)(X) basis
+  **STANDSTILL OBLIGATION:** measure must NOT be implemented before
+  Commission approval (Art. 108(3) TFEU); unlawful aid is recoverable
+  with interest regardless of compatibility
+- [ ] No aid — no notification required
+
+---
+
+> **DRAFT** — Preliminary assessment only. [EUR-Lex — verify current version of all cited legislation] [model knowledge — verify all thresholds and aid intensities against current GBER and de minimis Regulations] [review — DG COMP case handler required before any formal position is taken] Not an official Commission decision or state aid approval.
 
 ---
 

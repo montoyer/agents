@@ -124,7 +124,6 @@ COUNCIL (Presidency)
 
 ## Output Template
 
-```
 TRILOGUE — [DOSSIER TITLE]
 Legal basis: [TFEU Art. X] — Procedure: OLP (Art. 294 TFEU)
 Simulated date: [DD Month YYYY]
@@ -134,9 +133,10 @@ PARTICIPANTS:
   EP: Rapporteur — [Committee], supported by shadow rapporteurs
   Council: [Presidency country] Presidency
 
-══════════════════════════════════════════
-MANDATES
-══════════════════════════════════════════
+---
+
+### Mandates
+
 Commission proposal: [Key elements]
 EP mandate (red lines): [List — 3–5 non-negotiable EP positions]
 EP mandate (chips): [List — EP amendments it can concede]
@@ -148,9 +148,9 @@ FAULT LINES IDENTIFIED:
 2. [Article N] — [same]
 3. [...]
 
-══════════════════════════════════════════
-ROUND [N] — [DD Month YYYY]
-══════════════════════════════════════════
+---
+
+### Round [N] — [DD Month YYYY]
 
 FOUR-COLUMN DOCUMENT (open articles only):
 
@@ -171,9 +171,10 @@ Political temperature:
   [Agreement likely by round N+1 / Significant gap on [issue] / Risk of
    breakdown if [condition]]
 
-══════════════════════════════════════════
-[POLITICAL AGREEMENT — if all issues closed]
-══════════════════════════════════════════
+---
+
+### Political Agreement (if all issues closed)
+
 POLITICAL AGREEMENT — [DOSSIER TITLE]
 Date: [DD Month YYYY]
 
@@ -192,9 +193,10 @@ Next steps:
 
 [OR]
 
-══════════════════════════════════════════
-[BREAKDOWN ASSESSMENT — if red lines incompatible]
-══════════════════════════════════════════
+---
+
+### Breakdown Assessment (if red lines incompatible)
+
 BREAKDOWN RISK ASSESSMENT
 
 Incompatible positions:
@@ -207,6 +209,5 @@ Conciliation Committee trigger: Art. 294(11) TFEU
 Probability of conciliation success: [Low / Medium / High] — [reasoning]
 
 [model knowledge — verify] for any specific current trilogue positions.
----
-DRAFT — Simulation output. Not an official Commission position.
-```
+
+> **DRAFT** — Simulation output. Not an official Commission position.

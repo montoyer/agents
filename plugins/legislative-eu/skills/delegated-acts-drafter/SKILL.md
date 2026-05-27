@@ -102,58 +102,59 @@ C-88/14 *Commission v Parliament*).
 
 ## DA vs IA Classification Tool
 
-```
 ART. 290 vs ART. 291 TFEU — CLASSIFICATION ASSESSMENT
 Measure:          [Description of the measure to be adopted]
 Parent act:       [Regulation / Directive YYYY/NN — OJ reference]
 Enabling clause:  [Art. X of the parent act]
 Assessed by:      [Name]   Date: [DD Month YYYY]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1 — DOES THE MEASURE SUPPLEMENT OR AMEND THE PARENT ACT?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Step 1 — Does the Measure Supplement or Amend the Parent Act?
+
 Does the measure add substantive rules not contained in the parent act?
-  [ ] YES → points toward Art. 290 (supplement)
+  - [ ] YES → points toward Art. 290 (supplement)
 Does the measure change existing provisions of the parent act?
-  [ ] YES → points toward Art. 290 (amend)
+  - [ ] YES → points toward Art. 290 (amend)
 Does the measure only specify modalities / procedures for applying existing rules?
-  [ ] YES → points toward Art. 291 (implement)
+  - [ ] YES → points toward Art. 291 (implement)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 2 — IS THE ENABLING CLAUSE ART. 290 OR ART. 291?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Enabling clause language:  [ ] "is empowered to adopt delegated acts" → Art. 290
-                           [ ] "implementing powers are conferred on the Commission"
-                               → Art. 291 + examination / advisory committee procedure
-                           [ ] Ambiguous → flag for Legal Service / SecGen review
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 3 — ESSENTIAL ELEMENTS CHECK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Step 2 — Is the Enabling Clause Art. 290 or Art. 291?
+
+Enabling clause language:
+  - [ ] "is empowered to adopt delegated acts" → Art. 290
+  - [ ] "implementing powers are conferred on the Commission" → Art. 291 + examination / advisory committee procedure
+  - [ ] Ambiguous → flag for Legal Service / SecGen review
+
+---
+
+### Step 3 — Essential Elements Check
+
 Does the measure regulate any of the following (reserved to the legislator)?
-  [ ] Fundamental rights of individuals
-  [ ] Basic policy choices (the political substance of the legislative act)
-  [ ] Creation of new obligations not already implicit in the parent act
-  [ ] Sanctions or penalties
+  - [ ] Fundamental rights of individuals
+  - [ ] Basic policy choices (the political substance of the legislative act)
+  - [ ] Creation of new obligations not already implicit in the parent act
+  - [ ] Sanctions or penalties
   → If YES to any: this element must go back into the legislative act; cannot be delegated
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CONCLUSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Art. 290 TFEU — Delegated act — scrutiny period applies (2 + 2 months)
-[ ] Art. 291 TFEU — Implementing act — comitology procedure applies
-[ ] Hybrid — part DA, part IA — must be split into two separate measures
-[ ] Legal uncertainty — recommend Legal Service opinion before proceeding
+---
+
+### Conclusion
+
+- [ ] Art. 290 TFEU — Delegated act — scrutiny period applies (2 + 2 months)
+- [ ] Art. 291 TFEU — Implementing act — comitology procedure applies
+- [ ] Hybrid — part DA, part IA — must be split into two separate measures
+- [ ] Legal uncertainty — recommend Legal Service opinion before proceeding
 
 [EUR-Lex — verify current version of parent act enabling clause]
 [review — legal uncertainty if Art. 290/291 boundary is unclear]
-```
 
 ---
 
 ## Delegated Act — Standard Recital Block
 
-```
 COMMISSION DELEGATED REGULATION (EU) YYYY/[N]
 of [DD Month YYYY]
 supplementing [amending] [Parent Regulation (EU) YYYY/NN of the European Parliament
@@ -199,16 +200,16 @@ Done at Brussels, [DD Month YYYY]
 For the Commission
 The President / [Commissioner responsible]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SCRUTINY PERIOD TRACKER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Scrutiny Period Tracker
+
 Transmitted to EP and Council:  [DD Month YYYY]
 Standard scrutiny ends:         [DD Month YYYY] (+2 months)
 Extended scrutiny ends:         [DD Month YYYY] (+4 months, if extended)
-Objection received:             [ ] YES — EP / Council — [date]  [ ] NO
+Objection received:             - [ ] YES — EP / Council — [date]  - [ ] NO
 Publication in OJ:              [OJ L / C reference] — [date]
 Entry into force:               [date]
-```
 
 ---
 
@@ -255,4 +256,4 @@ Entry into force:               [date]
 
 ---
 
-DRAFT — For review by an EU official before use. Not an official Commission position.
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.

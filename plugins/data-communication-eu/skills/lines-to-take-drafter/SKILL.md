@@ -187,82 +187,95 @@ TOPICS THE COMMISSIONER CANNOT COMMENT ON:
 
 ### 1. Lines to Take — Full Package
 
-```
-LINES TO TAKE
-Event:          [Press conference / EP hearing / Stakeholder event / Media interview]
-Date:           [DD Month YYYY]
-Commissioner:   [Name — portfolio]
-DG / Unit:      [Lead DG — contact officer]
-Topic(s):       [Subject area(s) — e.g., "Packaging Regulation — adoption",
-                 "AI Act implementation — state of play"]
-Clearance:      □ Draft — not cleared  □ HoU cleared  □ Director cleared
-                □ Cabinet cleared  □ Commissioner signed off
+**LINES TO TAKE**
 
-─────────────────────────────────────────────────────────
-KEY MESSAGES (3 bullets — the Commissioner's core points)
-─────────────────────────────────────────────────────────
+**Event:** [Press conference / EP hearing / Stakeholder event / Media interview]
+**Date:** [DD Month YYYY]
+**Commissioner:** [Name — portfolio]
+**DG / Unit:** [Lead DG — contact officer]
+**Topic(s):** [Subject area(s) — e.g., "Packaging Regulation — adoption", "AI Act implementation — state of play"]
+
+**Clearance:**
+- [ ] Draft — not cleared
+- [ ] HoU cleared
+- [ ] Director cleared
+- [ ] Cabinet cleared
+- [ ] Commissioner signed off
+
+---
+
+**Key Messages** *(3 bullets — the Commissioner's core points)*
+
 1. [Key message 1 — lead with the most important point, in plain language]
 2. [Key message 2 — supporting point with a concrete figure or example]
 3. [Key message 3 — forward-looking or action-oriented]
 
-─────────────────────────────────────────────────────────
-Q&A
-─────────────────────────────────────────────────────────
-TOPIC: [Topic area 1]
+---
 
-Q1 (Friendly): [Question text]
-A: [Answer — 3–5 sentences. Lead with the key message. Include one figure.
-    End with a forward-looking point.]
-Source: [Fact sources for any figures used]
+**Q&A**
 
-Q2 (Critical): [Question text]
-A: [Answer — acknowledge concern → evidence/safeguard → conclusion]
-    "The Commission takes [concern] seriously. The data shows [evidence
-    [Eurostat YYYY-MM — verify]]. The [measure] includes specific
-    provisions to address this: [specific provision]."
+**Topic: [Topic area 1]**
 
-Q3 (Hostile): [Question text]
-A: "[Correct false premise if present.] The Commission's position is
-    [clear statement]. [One piece of concrete evidence.] [Forward point
-    or offer to provide more detail in writing.]"
-No-go check: □ No no-go issue  □ No-go — use standard line: [specify]
+**Q1 (Friendly):** [Question text]
 
-TOPIC: [Topic area 2]
-[Same structure]
+**A:** [Answer — 3–5 sentences. Lead with the key message. Include one figure. End with a forward-looking point.]
 
-─────────────────────────────────────────────────────────
-NO-GO TOPICS (for this event)
-─────────────────────────────────────────────────────────
-□ [Topic] — [standard line to use / why it is no-go]
-□ [Topic] — [standard line]
+*Source:* [Fact sources for any figures used]
 
-─────────────────────────────────────────────────────────
-BACKGROUND FACTS
-─────────────────────────────────────────────────────────
+**Q2 (Critical):** [Question text]
+
+**A:** [Answer — acknowledge concern → evidence/safeguard → conclusion] "The Commission takes [concern] seriously. The data shows [evidence [Eurostat YYYY-MM — verify]]. The [measure] includes specific provisions to address this: [specific provision]."
+
+**Q3 (Hostile):** [Question text]
+
+**A:** "[Correct false premise if present.] The Commission's position is [clear statement]. [One piece of concrete evidence.] [Forward point or offer to provide more detail in writing.]"
+
+*No-go check:* - [ ] No no-go issue — [ ] No-go — use standard line: [specify]
+
+---
+
+**Topic: [Topic area 2]**
+
+*[Same structure]*
+
+---
+
+**No-Go Topics** *(for this event)*
+
+- [ ] [Topic] — [standard line to use / why it is no-go]
+- [ ] [Topic] — [standard line]
+
+---
+
+**Background Facts**
+
 [Key facts the Commissioner should have available, with sources tagged]
 - [Fact 1] [Eurostat YYYY-MM — verify / EUR-Lex — verify / model knowledge — verify]
 - [Fact 2] [source]
 - [Fact 3] [source]
 
-Prior public statements to be consistent with:
+*Prior public statements to be consistent with:*
 - [Date]: Commissioner [name] said: "[quote]" [source — RAPID ref / EP hearing ref]
 
-─────────────────────────────────────────────────────────
-[review — cleared lines required before use at any public event]
-DRAFT — Not an official Commission position until cabinet clearance is confirmed.
-```
+---
+
+`[review — cleared lines required before use at any public event]`
+
+> **DRAFT** — Not an official Commission position until cabinet clearance is confirmed.
 
 ### 2. Single Q&A — Quick Format (for additions or urgent topics)
 
-```
-ADDITIONAL Q&A — [Topic]
-Event: [DD Month YYYY]   Clearance: □ Draft □ Cleared
+**ADDITIONAL Q&A — [Topic]**
 
-Q: [Question]
-A: [Answer — 3–4 sentences]
-Source: [Any facts used]
-No-go: □ No  □ Yes — use: "[standard line]"
-```
+**Event:** [DD Month YYYY] — **Clearance:** - [ ] Draft — [ ] Cleared
+
+**Q:** [Question]
+
+**A:** [Answer — 3–4 sentences]
+
+*Source:* [Any facts used]
+
+*No-go:* - [ ] No — [ ] Yes — use: "[standard line]"
 
 ---
 

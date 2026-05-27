@@ -216,68 +216,87 @@ STEP 3 — OBJECTIVE JUSTIFICATION / EFFICIENCY DEFENCE
 
 ### 1. Statement of Objections — Summary Structure
 
-```
 STATEMENT OF OBJECTIONS (CONFIDENTIAL)
 Case reference: [AT.XXXXXX]
 Date:           [DD Month YYYY]
 Addressees:     [Undertaking 1, Undertaking 2, ...]
 
-1. THE PARTIES
-   [Brief description of each addressee — corporate structure, activities, turnover]
+---
 
-2. PROCEDURE
-   [Opening of proceedings — date; investigation steps — RFIs, inspections, leniency;
-   notification to NCAs (Art. 11 Reg. 1/2003)]
+### 1. The Parties
 
-3. THE FACTS
-   [Chronological narrative of the alleged conduct — what happened, who was involved,
-   when, where. Grounded in evidence references: [DOC ID], [RFI response ref], [inspection doc ref]]
+[Brief description of each addressee — corporate structure, activities, turnover]
 
-4. MARKET DEFINITION
-   4.1 Relevant product market: [definition + SSNIP analysis]
-   4.2 Relevant geographic market: [definition + evidence]
+---
 
-5. LEGAL ASSESSMENT
+### 2. Procedure
 
-   5.1 Article [101/102] TFEU — applicability
-   [Is there an agreement/concerted practice / is the undertaking dominant?]
+[Opening of proceedings — date; investigation steps — RFIs, inspections, leniency;
+notification to NCAs (Art. 11 Reg. 1/2003)]
 
-   5.2 Restriction of competition / Abuse
-   [Legal classification: by object or effects? For Art. 102: type of abuse?
-   Counterfactual analysis if effects-based]
+---
 
-   5.3 Effect on trade between Member States
-   [Jurisdictional nexus — trade between at least two MS affected]
+### 3. The Facts
 
-   5.4 [Art. 101(3) — if applicable: assessment of claimed efficiencies]
+[Chronological narrative of the alleged conduct — what happened, who was involved,
+when, where. Grounded in evidence references: [DOC ID], [RFI response ref], [inspection doc ref]]
 
-6. PRELIMINARY CONCLUSION
-   [Commission's preliminary view: infringement established for the following period
-   [dates] in respect of [addressees]]
+---
 
-7. PROPOSED REMEDIAL ACTION
-   □ Infringement decision with fines
-   □ Commitments procedure (Art. 9)
-   [Next steps: deadline for parties' written response; oral hearing scheduling]
-```
+### 4. Market Definition
+
+4.1 Relevant product market: [definition + SSNIP analysis]
+4.2 Relevant geographic market: [definition + evidence]
+
+---
+
+### 5. Legal Assessment
+
+5.1 Article [101/102] TFEU — applicability
+[Is there an agreement/concerted practice / is the undertaking dominant?]
+
+5.2 Restriction of competition / Abuse
+[Legal classification: by object or effects? For Art. 102: type of abuse?
+Counterfactual analysis if effects-based]
+
+5.3 Effect on trade between Member States
+[Jurisdictional nexus — trade between at least two MS affected]
+
+5.4 [Art. 101(3) — if applicable: assessment of claimed efficiencies]
+
+---
+
+### 6. Preliminary Conclusion
+
+[Commission's preliminary view: infringement established for the following period
+[dates] in respect of [addressees]]
+
+---
+
+### 7. Proposed Remedial Action
+
+- [ ] Infringement decision with fines
+- [ ] Commitments procedure (Art. 9)
+[Next steps: deadline for parties' written response; oral hearing scheduling]
 
 ### 2. Fine Calculation Note
 
-```
 FINE CALCULATION — [CASE REFERENCE]
 Undertaking: [Name]
 Infringement period: [Start date] – [End date]
 Duration: [N] years [N] months
 
-─────────────────────────────────────────────────────────
-STEP 1: VALUE OF SALES (VoS)
-─────────────────────────────────────────────────────────
+---
+
+### Step 1: Value of Sales (VoS)
+
 Last full year of infringement: [YYYY]
 Relevant sales in the relevant market (EU): €[X]
 
-─────────────────────────────────────────────────────────
-STEP 2: BASIC AMOUNT
-─────────────────────────────────────────────────────────
+---
+
+### Step 2: Basic Amount
+
 Gravity coefficient (0–30%):           [X]%
   Factors: [nature of infringement — horizontal cartel = up to 30%;
             geographic scope; market share]
@@ -285,30 +304,31 @@ Value of sales × gravity:              €[X]
 Duration multiplier ([N] years):       × [N] (+ fractions pro-rated)
 Basic amount:                          €[X]
 
-─────────────────────────────────────────────────────────
-STEP 3: ADJUSTMENTS
-─────────────────────────────────────────────────────────
+---
+
+### Step 3: Adjustments
+
 Entry fee (15–25% of VoS for hardcore):  +€[X]
 Aggravating factors:
-  □ Recidivism: +[X]%
-  □ Leader/instigator: +[X]%
+  - [ ] Recidivism: +[X]%
+  - [ ] Leader/instigator: +[X]%
 Mitigating factors:
-  □ Limited role/passive: -[X]%
-  □ Cooperation (beyond leniency): -[X]%
-  □ Inability to pay (Art. 35 Fines Guidelines): -[X]%
+  - [ ] Limited role/passive: -[X]%
+  - [ ] Cooperation (beyond leniency): -[X]%
+  - [ ] Inability to pay (Art. 35 Fines Guidelines): -[X]%
 Leniency reduction: -[X]% (immunity / [X]% reduction marker [N])
 Settlement reduction: -10%
 Adjusted fine:                           €[X]
 
-─────────────────────────────────────────────────────────
-STEP 4: STATUTORY CAP CHECK
-─────────────────────────────────────────────────────────
+---
+
+### Step 4: Statutory Cap Check
+
 10% of total worldwide turnover in preceding year: €[X]
 Fine as proposed:                                  €[X]
-□ Within cap  □ Reduced to cap: €[X]
+- [ ] Within cap  - [ ] Reduced to cap: €[X]
 
 PROPOSED FINE: €[X,XXX,000]
-```
 
 ---
 

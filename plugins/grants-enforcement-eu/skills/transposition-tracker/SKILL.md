@@ -177,74 +177,75 @@ FOR EACH DIRECTIVE ARTICLE:
 
 ### 1. Transposition Status Table (all 27 MS)
 
-```
-TRANSPOSITION STATUS TABLE
-Directive: [YYYY/NN/EU of the European Parliament and of the Council]
-Title: [Full title]
-Transposition deadline: [DD Month YYYY]
-Harmonisation type: □ Minimum  □ Full  □ Mixed (by article)
-Date of this table: [DD Month YYYY]
-Source: MNE / EUR-Lex NIM / [other]
+**TRANSPOSITION STATUS TABLE**
 
-─────────────────────────────────────────────────────────
-NOTIFICATION STATUS
-─────────────────────────────────────────────────────────
+**Directive:** [YYYY/NN/EU of the European Parliament and of the Council]
+**Title:** [Full title]
+**Transposition deadline:** [DD Month YYYY]
+**Harmonisation type:** - [ ] Minimum - [ ] Full - [ ] Mixed (by article)
+**Date of this table:** [DD Month YYYY]
+**Source:** MNE / EUR-Lex NIM / [other]
+
+---
+
+#### Notification Status
+
 | MS | Notified? | Date notified | INFR case open? | Status |
 |---|---|---|---|---|
-| AT | □ Yes □ No | [DD/MM/YYYY] | □ Yes — [ref] □ No | [🟢/🟡/🔴] |
-| BE | □ Yes □ No | | | |
+| AT | - [ ] Yes - [ ] No | [DD/MM/YYYY] | - [ ] Yes — [ref] - [ ] No | 🟢/🟡/🔴 |
+| BE | - [ ] Yes - [ ] No | | | |
 | BG | | | | |
-[... all 27 MS ...]
+| *[... all 27 MS ...]* | | | | |
 
-Transposition rate: [N]/27 MS notified ([X]%)
-Non-notifying MS as of [date]: [list]
+**Transposition rate:** [N]/27 MS notified ([X]%)
+**Non-notifying MS as of [date]:** [list]
 
-─────────────────────────────────────────────────────────
-CONFORMITY ASSESSMENT SUMMARY
-─────────────────────────────────────────────────────────
-MS assessed for conformity: [N] (those that have notified)
-Full conformity: [N] MS
-Non-conformity identified: [N] MS — [list]
-Conformity unclear (information needed): [N] MS
+#### Conformity Assessment Summary
 
-─────────────────────────────────────────────────────────
-ESCALATION RECOMMENDATIONS
-─────────────────────────────────────────────────────────
-Priority 1 — Recommend LFN (non-transposition, deadline > 6 months elapsed):
-□ [MS] — no measures notified; [N] months since deadline; EU Pilot: [status]
+| Item | Count |
+|---|---|
+| MS assessed for conformity (those that have notified) | [N] |
+| Full conformity | [N] MS |
+| Non-conformity identified | [N] MS — [list] |
+| Conformity unclear (information needed) | [N] MS |
 
-Priority 2 — Recommend LFN (incorrect transposition, EU Pilot exhausted):
-□ [MS] — non-conformity: Arts. [X, Y, Z]; EU Pilot: [closed / exhausted]
+#### Escalation Recommendations
 
-Priority 3 — Monitor (EU Pilot ongoing / measures recently notified):
-□ [MS] — [status note]
+**Priority 1 — Recommend LFN** (non-transposition, deadline > 6 months elapsed):
+- [ ] [MS] — no measures notified; [N] months since deadline; EU Pilot: [status]
 
-No action needed:
-□ [MS] — fully conforming
+**Priority 2 — Recommend LFN** (incorrect transposition, EU Pilot exhausted):
+- [ ] [MS] — non-conformity: Arts. [X, Y, Z]; EU Pilot: [closed / exhausted]
 
-[model knowledge — verify notification status against current MNE records]
-DRAFT — For review by the lead infringement officer before any action.
-```
+**Priority 3 — Monitor** (EU Pilot ongoing / measures recently notified):
+- [ ] [MS] — [status note]
+
+**No action needed:**
+- [ ] [MS] — fully conforming
+
+`[model knowledge — verify notification status against current MNE records]`
+
+> **DRAFT** — For review by the lead infringement officer before any action.
+
+---
 
 ### 2. Correlation Table (one directive, one member state)
 
-```
-CORRELATION TABLE — [Directive YYYY/NN/EU] — [MEMBER STATE]
-Date: [DD Month YYYY]
-National measures notified: [Act 1 — short title]; [Act 2]; [...]
+**CORRELATION TABLE — [Directive YYYY/NN/EU] — [MEMBER STATE]**
+
+**Date:** [DD Month YYYY]
+**National measures notified:** [Act 1 — short title]; [Act 2]; [...]
 
 | Dir. Art. | Requirement | National provision | Conformity | Assessment |
 |---|---|---|---|---|
-| Art. 1 | [Scope] | [Act/Art.] | □ C □ NC □ ? | [If NC: reason] |
-| Art. 2 | [Definitions] | [Act/Art.] | □ C □ NC □ ? | |
-| Art. 3 | [Obligation 1] | [Act/Art.] | □ C □ NC □ ? | |
-[...]
-| Art. [N] | [Transposition deadline] | Art. [XX] of Act Y | □ C | — |
+| Art. 1 | [Scope] | [Act/Art.] | C / NC / ? | [If NC: reason] |
+| Art. 2 | [Definitions] | [Act/Art.] | C / NC / ? | |
+| Art. 3 | [Obligation 1] | [Act/Art.] | C / NC / ? | |
+| Art. [N] | [Transposition deadline] | Art. [XX] of Act Y | C | — |
 
-C = Conform   NC = Non-conform   ? = Unclear
+*C = Conform — NC = Non-conform — ? = Unclear*
 
-OVERALL CONFORMITY: □ Full  □ Partial — [N] non-conformities identified
-```
+**Overall conformity:** - [ ] Full - [ ] Partial — [N] non-conformities identified
 
 ---
 

@@ -114,7 +114,6 @@ and does not have a vote in the meetings they chair.
 
 ## Presidency Compromise Text Template
 
-```
 PRESIDENCY COMPROMISE — [Dossier title]
 Working Party:    [Name]   Configuration: [Council config]
 Date:             [DD Month YYYY]   Doc ref: [Council doc number / WK number]
@@ -123,9 +122,10 @@ Status:           PRESIDENCY NON-PAPER — NOT A COUNCIL POSITION
 This text is circulated by the Presidency on its own responsibility to facilitate
 discussion. It does not represent the position of any delegation or of the Commission.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ARTICLE [N] — [Title]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Article [N] — [Title]
+
 Commission proposal text:
 "[Original Commission text]"
 
@@ -142,9 +142,10 @@ Remaining open issue:
 "[Text in square brackets — the Presidency proposes to discuss [Option A] vs.
 [Option B] or to resolve this in COREPER/Council."
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATE OF PLAY — QMV ASSESSMENT [CONFIDENTIAL — Presidency internal]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### State of Play — QMV Assessment (Confidential — Presidency Internal)
+
 Likely YES:   [N delegations / [X%] population]
 Abstain:      [N delegations / [X%] population]
 Likely NO:    [N delegations / [X%] population]
@@ -164,7 +165,6 @@ Presidency strategy:
   [ ] Escalate to COREPER
   [ ] Seek bilateral pre-cooking with [MS 1] and [MS 2] before next meeting
   [ ] Test political will with call for general approach at next Council session
-```
 
 ---
 

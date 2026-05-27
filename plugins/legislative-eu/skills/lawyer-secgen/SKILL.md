@@ -120,7 +120,6 @@ consistent, and procedurally correct before inter-institutional submission.
 
 ### 1. Inter-Service Consultation Launch Note
 
-```
 INTER-SERVICE CONSULTATION
 
 Reference:    Ares([YEAR])[NUMBER]
@@ -130,49 +129,47 @@ Subject:      ISC on [Title of proposal/document]
 Deadline:     [DD Month YYYY — minimum 4 weeks from launch]
 Contact:      [Name, email, phone]
 
-DOCUMENT(S) ATTACHED:
-□ Draft [Regulation / Directive / Decision / Communication / SWD]
-□ Explanatory Memorandum
-□ Legislative Financial Statement (if applicable)
-□ Impact Assessment Summary (if applicable)
+Documents attached:
+- [ ] Draft [Regulation / Directive / Decision / Communication / SWD]
+- [ ] Explanatory Memorandum
+- [ ] Legislative Financial Statement (if applicable)
+- [ ] Impact Assessment Summary (if applicable)
 
-PURPOSE OF CONSULTATION:
+Purpose of consultation:
 [1–2 paragraphs explaining the initiative, its legal basis, and what is sought
 from consultees — substantive comments, financial clearance, legal quality check,
 fundamental rights screening, etc.]
 
-MANDATORY CONSULTEES (by default):
+Mandatory consultees (by default):
 - Secretariat-General (SG)
 - Legal Service (LS)
 - DG Budget (BUDG)
 - DG HR (HR)
 [Add thematic DGs as appropriate]
 
-SPECIFIC QUESTIONS FOR CONSULTEES:
+Specific questions for consultees:
 1. [Targeted question — e.g., consistency with existing legislation]
 2. [Targeted question — e.g., budgetary implications]
 3. [Targeted question — e.g., proportionality of obligations on SMEs]
 
-PROCEDURE FOR SUBMISSION OF COMMENTS:
+Procedure for submission of comments:
 Please submit comments via CIRCABC / ARES by [deadline].
 Bilateral meetings can be arranged on request.
-```
 
 ### 2. Subsidiarity and Proportionality Assessment Table
 
-```
 SUBSIDIARITY AND PROPORTIONALITY ASSESSMENT
 Initiative: [Title]
 Legal Base: [Article(s) TFEU]
 Type of act: [Regulation / Directive / Decision]
 
-─────────────────────────────────────────────────────────
-A. SUBSIDIARITY (why EU action is justified)
-─────────────────────────────────────────────────────────
+---
+
+### A. Subsidiarity (why EU action is justified)
 
 A.1  Does the proposal fall under exclusive EU competence?
-     □ Yes (specify: Article 3 TFEU — [field]) → subsidiarity does not apply
-     □ No → continue assessment
+     - [ ] Yes (specify: Article 3 TFEU — [field]) → subsidiarity does not apply
+     - [ ] No → continue assessment
 
 A.2  Cross-border dimension
      [Explain why the problem cannot be adequately addressed by Member States
@@ -187,9 +184,9 @@ A.4  Necessity test (Protocol No. 2 TEU)
      [Demonstrate that the objectives cannot be sufficiently achieved by MS and
      can, by reason of scale or effects, be better achieved at Union level.]
 
-─────────────────────────────────────────────────────────
-B. PROPORTIONALITY (why this instrument / intensity is appropriate)
-─────────────────────────────────────────────────────────
+---
+
+### B. Proportionality (why this instrument / intensity is appropriate)
 
 B.1  Does the proposal go beyond what is necessary?
      [Compare options considered in the IA. Justify why the chosen option
@@ -204,21 +201,20 @@ B.3  Compliance burden
      [Quantify or qualify the administrative burden. Reference SME test
      if applicable. Justify that burden is proportionate to objectives.]
 
-─────────────────────────────────────────────────────────
-C. CONCLUSION
-─────────────────────────────────────────────────────────
+---
+
+### C. Conclusion
+
 The proposal is [consistent / not consistent] with the subsidiarity principle.
 The proposal is [proportionate / not proportionate] to the objectives pursued.
-```
 
 ### 3. Written Procedure (WP) Cover Note for College Adoption
 
-```
 WRITTEN PROCEDURE — ADOPTION BY THE COLLEGE
 Reference: WP([YEAR])[NUMBER]
 Deadline:  [DD Month YYYY — typically 5 working days]
 
-PROPOSAL FOR ADOPTION:
+Proposal for adoption:
 [Full title of the act]
 
 LEGAL BASIS:         [Article(s) TFEU]
@@ -229,32 +225,30 @@ LANGUAGES:           Authentic in all 24 official languages
 LEAD DG:             DG [XX]
 COMMISSIONER:        [Name], Commissioner for [Portfolio]
 
-DOCUMENTS SUBMITTED:
+Documents submitted:
 1. Draft [act] — [reference]
 2. Explanatory Memorandum — [reference]
 3. Legislative Financial Statement — [reference] [or: no budgetary impact]
 4. Impact Assessment — [SWD reference] [or: IA not required — [justification]]
 5. Impact Assessment Summary — [SWD reference]
 
-KEY POINTS FOR THE COLLEGE:
+Key points for the College:
 [3–5 bullet points summarising: policy objective, key obligations, stakeholder
 reception, fundamental rights implications, state of consultation with EP/Council
 if relevant.]
 
-ISC COMPLETED: □ Yes — [date cleared]
-LEGAL SERVICE OPINION: □ Favourable □ Favourable with reservations — [note]
-RSB OPINION: □ Positive □ Positive with reservations □ Not required — [justification]
+ISC COMPLETED: - [ ] Yes — [date cleared]
+LEGAL SERVICE OPINION: - [ ] Favourable - [ ] Favourable with reservations — [note]
+RSB OPINION: - [ ] Positive - [ ] Positive with reservations - [ ] Not required — [justification]
 
-CABINETS CLEARANCE: □ Obtained — [date of SCA/SCA+]
+CABINETS CLEARANCE: - [ ] Obtained — [date of SCA/SCA+]
 
 POINTS OF CONTACT:
 Lead DG: [Name, email]
 SG coordinator: [Name, email]
-```
 
 ### 4. Comitology — Draft Delegated Act Structure
 
-```
 COMMISSION DELEGATED REGULATION (EU) [YEAR]/[NUMBER]
 of [DD Month YYYY]
 [supplementing / amending] [parent act reference]
@@ -292,7 +286,6 @@ Done at Brussels, [date].
 For the Commission
 The President
 [or: On behalf of the Commission / [Commissioner name]]
-```
 
 ---
 

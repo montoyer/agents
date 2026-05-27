@@ -91,148 +91,158 @@ is time-stamped — the 72-hour clock starts from the moment the controller beco
 
 ## Breach Assessment Form
 
-```
-PERSONAL DATA BREACH — INITIAL ASSESSMENT
-Breach reference:     PDB-[DG]-[YYYY]-[NNN]
-Date / time of awareness:  [DD Month YYYY — HH:MM CET] ← 72h clock starts here
-Reported by:          [name / function]
-DPO notified at:      [HH:MM CET — DD Month YYYY]
+**PERSONAL DATA BREACH — INITIAL ASSESSMENT**
+**Breach reference:** PDB-[DG]-[YYYY]-[NNN]
+**Date / time of awareness:** [DD Month YYYY — HH:MM CET] ← 72h clock starts here
+**Reported by:** [name / function]
+**DPO notified at:** [HH:MM CET — DD Month YYYY]
 
-─── BREACH CHARACTERISATION ─────────────────────────────────────────────────
-Breach type(s):       [ ] Confidentiality  [ ] Integrity  [ ] Availability
-Cause:                [ ] Accidental  [ ] Unauthorised external  [ ] Insider  [ ] System failure
-System(s) affected:   [system names]
-Data categories:      [e.g. name + email / health data / financial data / HR data]
-Special categories (Art. 10 EUDPR): [ ] YES  [ ] NO
-Approx. data subjects affected: [number or range]
-Approx. records affected:       [number or range]
-Data currently recovered/contained: [ ] YES  [ ] NO  [ ] PARTIALLY
+---
 
-─── RISK ASSESSMENT TO DATA SUBJECTS ────────────────────────────────────────
-Harm category          Likelihood (1–3)  Severity (1–3)  Score  Notes
-Physical harm          [1/2/3]           [1/2/3]         [N]    [e.g. not applicable]
-Financial loss         [1/2/3]           [1/2/3]         [N]    [e.g. account data exposed]
-Identity theft         [1/2/3]           [1/2/3]         [N]    [e.g. ID numbers in breach]
-Reputational damage    [1/2/3]           [1/2/3]         [N]    [e.g. sensitive role exposed]
-Discrimination         [1/2/3]           [1/2/3]         [N]    [e.g. political opinion data]
-Loss of confidentiality[1/2/3]           [1/2/3]         [N]    [e.g. protected whistleblower]
+#### Breach Characterisation
 
-OVERALL RISK RATING:  [ ] LOW (≤3)  [ ] MEDIUM (4–6)  [ ] HIGH (7–9)  [ ] VERY HIGH (≥9)
+**Breach type(s):** - [ ] Confidentiality - [ ] Integrity - [ ] Availability
+**Cause:** - [ ] Accidental - [ ] Unauthorised external - [ ] Insider - [ ] System failure
+**System(s) affected:** [system names]
+**Data categories:** [e.g. name + email / health data / financial data / HR data]
+**Special categories (Art. 10 EUDPR):** - [ ] YES - [ ] NO
+**Approx. data subjects affected:** [number or range]
+**Approx. records affected:** [number or range]
+**Data currently recovered/contained:** - [ ] YES - [ ] NO - [ ] PARTIALLY
 
-─── NOTIFICATION DECISIONS ──────────────────────────────────────────────────
-EDPS notification (Art. 34):    [ ] REQUIRED — deadline: [DD Month YYYY HH:MM]
-                                 [ ] NOT REQUIRED — rationale: [state reason]
-Data subject communication (Art. 35): [ ] REQUIRED  [ ] NOT REQUIRED — rationale: [state]
-Internal register entry (Art. 34(5)): [ ] COMPLETED — ref: PDB-[ref]
-```
+---
+
+#### Risk Assessment to Data Subjects
+
+| Harm category | Likelihood (1–3) | Severity (1–3) | Score | Notes |
+|---|---|---|---|---|
+| Physical harm | [1/2/3] | [1/2/3] | [N] | [e.g. not applicable] |
+| Financial loss | [1/2/3] | [1/2/3] | [N] | [e.g. account data exposed] |
+| Identity theft | [1/2/3] | [1/2/3] | [N] | [e.g. ID numbers in breach] |
+| Reputational damage | [1/2/3] | [1/2/3] | [N] | [e.g. sensitive role exposed] |
+| Discrimination | [1/2/3] | [1/2/3] | [N] | [e.g. political opinion data] |
+| Loss of confidentiality | [1/2/3] | [1/2/3] | [N] | [e.g. protected whistleblower] |
+
+**OVERALL RISK RATING:** - [ ] LOW (≤3) - [ ] MEDIUM (4–6) - [ ] HIGH (7–9) - [ ] VERY HIGH (≥9)
+
+---
+
+#### Notification Decisions
+
+**EDPS notification (Art. 34):**
+- [ ] REQUIRED — deadline: [DD Month YYYY HH:MM]
+- [ ] NOT REQUIRED — rationale: [state reason]
+
+**Data subject communication (Art. 35):** - [ ] REQUIRED - [ ] NOT REQUIRED — rationale: [state]
+**Internal register entry (Art. 34(5)):** - [ ] COMPLETED — ref: PDB-[ref]
 
 ---
 
 ## EDPS Notification Draft (Art. 34(3) EUDPR)
 
-```
-PERSONAL DATA BREACH NOTIFICATION — EDPS
+**PERSONAL DATA BREACH NOTIFICATION — EDPS**
 Submitted via: EDPS notification portal [edps.europa.eu]
-Notification reference: PDB-[DG]-[YYYY]-[NNN]
-Controller: [EU institution / body name]
-DPO contact: [name, email, phone]
-Notification type: [ ] Initial  [ ] Supplement  [ ] Final
+**Notification reference:** PDB-[DG]-[YYYY]-[NNN]
+**Controller:** [EU institution / body name]
+**DPO contact:** [name, email, phone]
+**Notification type:** - [ ] Initial - [ ] Supplement - [ ] Final
 
-(a) DESCRIPTION OF THE BREACH
-Nature of the breach: [confidentiality / integrity / availability / combined]
-Categories of personal data: [list data types]
-Categories of data subjects: [e.g. staff, citizens, contractors]
-Approximate number of data subjects: [number or range]
-Approximate number of records: [number or range]
+---
+
+**(a) Description of the Breach**
+
+**Nature of the breach:** [confidentiality / integrity / availability / combined]
+**Categories of personal data:** [list data types]
+**Categories of data subjects:** [e.g. staff, citizens, contractors]
+**Approximate number of data subjects:** [number or range]
+**Approximate number of records:** [number or range]
 [model knowledge — verify] if relying on technical assessment
 
-(b) NAME AND CONTACT DETAILS OF DPO
-Name: [DPO name]
-Email: [institutional email]
-Phone: [institutional phone]
+**(b) Name and Contact Details of DPO**
 
-(c) LIKELY CONSEQUENCES
-[Describe the likely consequences of the personal data breach for data subjects — e.g.
-risk of phishing using exposed credentials; risk of identity fraud using exposed ID data;
-risk of discrimination if sensitive categories were exposed]
+**Name:** [DPO name]
+**Email:** [institutional email]
+**Phone:** [institutional phone]
 
-(d) MEASURES TAKEN OR PROPOSED
+**(c) Likely Consequences**
+
+[Describe the likely consequences of the personal data breach for data subjects — e.g. risk of phishing using exposed credentials; risk of identity fraud using exposed ID data; risk of discrimination if sensitive categories were exposed]
+
+**(d) Measures Taken or Proposed**
+
 Containment measures already implemented:
-  — [e.g. affected accounts suspended; systems isolated; passwords reset]
-Remediation measures planned or in progress:
-  — [e.g. forensic investigation commissioned; patch deployment; user notification]
-Measures to mitigate adverse effects on data subjects:
-  — [e.g. credit monitoring offered; dedicated helpline established]
+- [e.g. affected accounts suspended; systems isolated; passwords reset]
 
-PHASED NOTIFICATION NOTE (if applicable):
-Full information not yet available at time of notification. Further information will be
-provided by [date]. Reason for incompleteness: [ongoing forensic investigation / etc.]
+Remediation measures planned or in progress:
+- [e.g. forensic investigation commissioned; patch deployment; user notification]
+
+Measures to mitigate adverse effects on data subjects:
+- [e.g. credit monitoring offered; dedicated helpline established]
+
+> **Phased notification note (if applicable):** Full information not yet available at time of notification. Further information will be provided by [date]. Reason for incompleteness: [ongoing forensic investigation / etc.]
 
 [review — DPO sign-off required before submission]
-```
 
 ---
 
 ## Data Subject Communication Template (Art. 35 EUDPR)
 
-```
-PERSONAL DATA BREACH — COMMUNICATION TO DATA SUBJECTS
-[To be sent only where HIGH / VERY HIGH risk determined]
+*To be sent only where HIGH / VERY HIGH risk determined*
 
-Subject: Important notice regarding your personal data — [brief description]
+**Subject:** Important notice regarding your personal data — [brief description]
 
 Dear [data subject category / name if known],
 
-We are writing to inform you that [EU institution name] has experienced a personal data
-security incident that may affect your personal data.
+We are writing to inform you that [EU institution name] has experienced a personal data security incident that may affect your personal data.
 
-WHAT HAPPENED
-On [date], we discovered that [brief, plain-language description of the breach — what
-occurred, how, and when]. We took immediate action to [containment measures].
+**What happened**
 
-WHAT DATA IS INVOLVED
+On [date], we discovered that [brief, plain-language description of the breach — what occurred, how, and when]. We took immediate action to [containment measures].
+
+**What data is involved**
+
 The following categories of your personal data may have been affected:
-  — [data category 1, e.g. your name and institutional email address]
-  — [data category 2]
+- [data category 1, e.g. your name and institutional email address]
+- [data category 2]
 
-WHAT WE ARE DOING
-We have [actions taken]. We have notified the European Data Protection Supervisor (EDPS)
-as required by law. We are [ongoing measures].
+**What we are doing**
 
-WHAT YOU CAN DO
+We have [actions taken]. We have notified the European Data Protection Supervisor (EDPS) as required by law. We are [ongoing measures].
+
+**What you can do**
+
 We recommend that you:
-  — [Practical advice, e.g. change your password; be alert to phishing emails]
-  — [Contact point for questions: DPO email / helpdesk]
+- [Practical advice, e.g. change your password; be alert to phishing emails]
+- [Contact point for questions: DPO email / helpdesk]
 
-CONTACT
+**Contact**
+
 For any questions, please contact our Data Protection Officer:
-  [DPO name] — [email] — [phone]
+[DPO name] — [email] — [phone]
 
 [institution name] | [address]
 
 [review — DPO approval required before sending]
-```
 
 ---
 
 ## Internal Breach Register Entry (Art. 34(5) EUDPR)
 
-```
-BREACH REGISTER — ENTRY
-Register ref:          PDB-[DG]-[YYYY]-[NNN]
-Date of awareness:     [DD Month YYYY]
-Date of register entry:[DD Month YYYY]
-Breach type:           [Confidentiality / Integrity / Availability]
-Data categories:       [list]
-Data subjects affected:[number]
-Root cause:            [brief description]
-Risk rating:           [LOW / MEDIUM / HIGH / VERY HIGH]
-EDPS notified:         [ ] YES — ref: [EDPS ref]  [ ] NO — reason: [state]
-Data subjects notified:[ ] YES  [ ] NO — reason: [state]
-Corrective measures:   [summary of measures implemented]
-Closed / review date:  [DD Month YYYY]
-DPO sign-off:          [DPO name — date]
-```
+**BREACH REGISTER — ENTRY**
+
+**Register ref:** PDB-[DG]-[YYYY]-[NNN]
+**Date of awareness:** [DD Month YYYY]
+**Date of register entry:** [DD Month YYYY]
+**Breach type:** [Confidentiality / Integrity / Availability]
+**Data categories:** [list]
+**Data subjects affected:** [number]
+**Root cause:** [brief description]
+**Risk rating:** [LOW / MEDIUM / HIGH / VERY HIGH]
+**EDPS notified:** - [ ] YES — ref: [EDPS ref] - [ ] NO — reason: [state]
+**Data subjects notified:** - [ ] YES - [ ] NO — reason: [state]
+**Corrective measures:** [summary of measures implemented]
+**Closed / review date:** [DD Month YYYY]
+**DPO sign-off:** [DPO name — date]
 
 ---
 

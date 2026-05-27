@@ -114,100 +114,100 @@ the Director-General's declaration of assurance.
 
 ## Budget Planning Template
 
-```
-BUDGET PLAN — UNIT CONTRIBUTION
-Unit:           [DG.X / Unit name]
-Budget year:    [YYYY]
-Document ref:   BUD-[DG]-[UNIT]-[YYYY]
-HoU sign-off:   [name / date]
-DG Budget ref:  [internal ref]
+**BUDGET PLAN — UNIT CONTRIBUTION**
+**Unit:** [DG.X / Unit name]
+**Budget year:** [YYYY]
+**Document ref:** BUD-[DG]-[UNIT]-[YYYY]
+**HoU sign-off:** [name / date]
+**DG Budget ref:** [internal ref]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-BUDGET LINE SUMMARY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Budget line  Description                    CA (€)     PA (€)     AMP SO link
-[XX.XXXXXX]  [Studies / TA / Grants / IT]   [amount]   [amount]   [SO-X.X]
-[XX.XXXXXX]  [...]                           [amount]   [amount]   [SO-X.X]
-[XX.XXXXXX]  [Staff costs (if applicable)]   [amount]   [amount]   [SO-X.X]
-─────────────────────────────────────────────────────────────────────────────
-TOTAL                                        [CA total] [PA total]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-COMMITMENT PROGRAMME (quarterly distribution)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Budget line  Q1 (€ / %)   Q2 (€ / %)   Q3 (€ / %)   Q4 (€ / %)   Type
-[XX.XXXXXX]  [X / 25%]    [X / 35%]    [X / 25%]    [X / 15%]    Global
-[XX.XXXXXX]  [X / 10%]    [X / 40%]    [X / 30%]    [X / 20%]    Individual
-Target: ≥ 50% of CA committed by end Q2; ≤ 25% committed in Q4.
+**Budget Line Summary**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PAYMENT PROFILE (monthly forecast)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  RAL from [YYYY-1]:        €[X] — expected payment: €[X] in Q1–Q2 [YYYY]
-  New commitments [YYYY]:   €[X] — estimated payment: €[X] in H2 [YYYY]; €[X] in [YYYY+1]
-  Total PA forecast [YYYY]: €[X]
+| Budget line | Description | CA (€) | PA (€) | AMP SO link |
+|---|---|---|---|---|
+| [XX.XXXXXX] | [Studies / TA / Grants / IT] | [amount] | [amount] | [SO-X.X] |
+| [XX.XXXXXX] | [...] | [amount] | [amount] | [SO-X.X] |
+| [XX.XXXXXX] | [Staff costs (if applicable)] | [amount] | [amount] | [SO-X.X] |
+| **TOTAL** | | **[CA total]** | **[PA total]** | |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-BUDGET RISKS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Risk  Description                          Impact on CA/PA         Mitigation
-BR-1  [Procurement procedure delayed]      [Under-execution: €X]   [Accelerate; contingency]
-BR-2  [Grant closure delayed by benefic.]  [PA shortfall: €X]      [Decommitment; carry-over]
-BR-3  [New activity approved mid-year]     [CA insufficient: €X]   [Virement from line XX]
-```
+---
+
+**Commitment Programme (quarterly distribution)**
+
+| Budget line | Q1 (€ / %) | Q2 (€ / %) | Q3 (€ / %) | Q4 (€ / %) | Type |
+|---|---|---|---|---|---|
+| [XX.XXXXXX] | [X / 25%] | [X / 35%] | [X / 25%] | [X / 15%] | Global |
+| [XX.XXXXXX] | [X / 10%] | [X / 40%] | [X / 30%] | [X / 20%] | Individual |
+
+*Target: ≥ 50% of CA committed by end Q2; ≤ 25% committed in Q4.*
+
+---
+
+**Payment Profile (monthly forecast)**
+
+- RAL from [YYYY-1]: €[X] — expected payment: €[X] in Q1–Q2 [YYYY]
+- New commitments [YYYY]: €[X] — estimated payment: €[X] in H2 [YYYY]; €[X] in [YYYY+1]
+- Total PA forecast [YYYY]: €[X]
+
+---
+
+**Budget Risks**
+
+| Risk | Description | Impact on CA/PA | Mitigation |
+|---|---|---|---|
+| BR-1 | [Procurement procedure delayed] | [Under-execution: €X] | [Accelerate; contingency] |
+| BR-2 | [Grant closure delayed by benefic.] | [PA shortfall: €X] | [Decommitment; carry-over] |
+| BR-3 | [New activity approved mid-year] | [CA insufficient: €X] | [Virement from line XX] |
 
 ---
 
 ## Monthly Execution Dashboard
 
-```
-BUDGET EXECUTION MONITOR — [Month YYYY]
-Unit: [DG.X / Unit]   Prepared by: [name]   Date: [DD Month YYYY]
+**BUDGET EXECUTION MONITOR — [Month YYYY]**
+**Unit:** [DG.X / Unit] | **Prepared by:** [name] | **Date:** [DD Month YYYY]
 
-Budget line   CA available  CA committed  CA rate  PA available  PA paid   PA rate  RAL
-[XX.XXXXXX]   €[X]          €[X]          [%]      €[X]          €[X]      [%]      €[X]
-[XX.XXXXXX]   €[X]          €[X]          [%]      €[X]          €[X]      [%]      €[X]
-─────────────────────────────────────────────────────────────────────────────────────────
-TOTAL         €[X]          €[X]          [%]      €[X]          €[X]      [%]      €[X]
+| Budget line | CA available | CA committed | CA rate | PA available | PA paid | PA rate | RAL |
+|---|---|---|---|---|---|---|---|
+| [XX.XXXXXX] | €[X] | €[X] | [%] | €[X] | €[X] | [%] | €[X] |
+| [XX.XXXXXX] | €[X] | €[X] | [%] | €[X] | €[X] | [%] | €[X] |
+| **TOTAL** | **€[X]** | **€[X]** | **[%]** | **€[X]** | **€[X]** | **[%]** | **€[X]** |
 
-ALERTS:
-  [ ] CA rate below 50% at end Q2 → risk of under-execution → escalate to HoU
-  [ ] PA rate below 60% at end Q3 → risk of payment appropriation return → action needed
-  [ ] Late payment risk: invoices pending > 25 days → flag to financial officer
-  [ ] RAL from prior years increasing → investigate cause; escalate to Director
+**Alerts:**
+- [ ] CA rate below 50% at end Q2 → risk of under-execution → escalate to HoU
+- [ ] PA rate below 60% at end Q3 → risk of payment appropriation return → action needed
+- [ ] Late payment risk: invoices pending > 25 days → flag to financial officer
+- [ ] RAL from prior years increasing → investigate cause; escalate to Director
 
-ACTIONS THIS MONTH:
-  1. [Specific action, responsible person, deadline]
-  2. [...]
-```
+**Actions this month:**
+1. [Specific action, responsible person, deadline]
+2. [...]
 
 ---
 
 ## Virement Request Note
 
-```
-BUDGET VIREMENT REQUEST
-Request ref:      VIR-[DG]-[YYYY]-[NNN]
-Date:             [DD Month YYYY]
-Authority:        [ ] AOSD (intra-chapter)  [ ] DG (inter-chapter)  [ ] Commission (inter-title)
+**BUDGET VIREMENT REQUEST**
+**Request ref:** VIR-[DG]-[YYYY]-[NNN]
+**Date:** [DD Month YYYY]
+**Authority:** - [ ] AOSD (intra-chapter) - [ ] DG (inter-chapter) - [ ] Commission (inter-title)
 
-FROM budget line: [XX.XXXXXX] — [description]
-Amount:           €[X] CA  /  €[X] PA
-Current balance:  €[X] CA available  /  €[X] PA available after virement: €[X]
-Impact on source: [explain why this reduction will not affect source-line deliverables]
+**From budget line:** [XX.XXXXXX] — [description]
+**Amount:** €[X] CA / €[X] PA
+**Current balance:** €[X] CA available / €[X] PA available after virement: €[X]
+**Impact on source:** [explain why this reduction will not affect source-line deliverables]
 
-TO budget line:   [XX.XXXXXX] — [description]
-Amount:           €[X] CA  /  €[X] PA
-Current balance:  €[X] CA available  /  €[X] PA available after virement: €[X]
-Need:             [specific, quantified reason why additional appropriations are needed]
-AMP SO link:      [SO-X.X — the activity this virement supports]
+**To budget line:** [XX.XXXXXX] — [description]
+**Amount:** €[X] CA / €[X] PA
+**Current balance:** €[X] CA available / €[X] PA available after virement: €[X]
+**Need:** [specific, quantified reason why additional appropriations are needed]
+**AMP SO link:** [SO-X.X — the activity this virement supports]
 
-JUSTIFICATION:
-[3–5 sentences: why the source line has a surplus; why the destination line needs more;
-why no alternative exists (e.g. de-commitment and re-commitment); timing.]
+**Justification:**
+[3–5 sentences: why the source line has a surplus; why the destination line needs more; why no alternative exists (e.g. de-commitment and re-commitment); timing.]
 
 [review — financial authorisation required]
-```
 
 ---
 

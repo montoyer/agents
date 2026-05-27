@@ -109,172 +109,165 @@ accountability and potential EDPS audit.
 
 ## DSR Assessment Form
 
-```
-DATA SUBJECT RIGHTS REQUEST — ASSESSMENT
-DSR reference:      DSR-[DG]-[YYYY]-[NNN]
-Date received:      [DD Month YYYY — HH:MM]
-Response deadline:  [DD Month YYYY] ← 1 calendar month from receipt
-Extended deadline:  [DD Month YYYY] ← if extension notified (max +2 months)
-DPO notified:       [ ] YES — [date]  [ ] NO (routine request)
+**DATA SUBJECT RIGHTS REQUEST — ASSESSMENT**
+**DSR reference:** DSR-[DG]-[YYYY]-[NNN]
+**Date received:** [DD Month YYYY — HH:MM]
+**Response deadline:** [DD Month YYYY] ← 1 calendar month from receipt
+**Extended deadline:** [DD Month YYYY] ← if extension notified (max +2 months)
+**DPO notified:** - [ ] YES — [date] - [ ] NO (routine request)
 
-─── REQUESTER ───────────────────────────────────────────────────────────────
-Name:               [name]
-Status:             [ ] Staff  [ ] Former staff  [ ] Contractor  [ ] Citizen  [ ] Other
-Contact:            [email / address]
-Identity verified:  [ ] YES — method: [inst. email / ID doc / other]
-                    [ ] PENDING — verification request sent: [date]
-                    [ ] UNABLE TO VERIFY — see Section 6
+---
 
-─── RIGHT(S) INVOKED ────────────────────────────────────────────────────────
-[ ] Art. 17 — Access          [ ] Art. 19 — Erasure         [ ] Art. 23 — Objection
-[ ] Art. 18 — Rectification   [ ] Art. 20 — Restriction     [ ] Art. 22 — Portability
+#### Requester
 
-Description of request: [plain language summary of what was asked]
-Processing activity / system concerned: [name / RoPA ref]
+**Name:** [name]
+**Status:** - [ ] Staff - [ ] Former staff - [ ] Contractor - [ ] Citizen - [ ] Other
+**Contact:** [email / address]
+**Identity verified:**
+- [ ] YES — method: [inst. email / ID doc / other]
+- [ ] PENDING — verification request sent: [date]
+- [ ] UNABLE TO VERIFY — see Section 6
 
-─── EXEMPTION ASSESSMENT ────────────────────────────────────────────────────
-Art. 25 EUDPR restriction applicable: [ ] YES — basis: [specify]  [ ] NO
-Art. 26 EUDPR restriction applicable: [ ] YES — basis: [specify]  [ ] NO
-OLAF investigation in progress:       [ ] YES — OLAF notified     [ ] NO
-Disciplinary procedure in progress:   [ ] YES — HR/legal notified [ ] NO
-Pending litigation covering this data:[ ] YES — Legal Service notified [ ] NO
-Third-party data to redact:           [ ] YES — identified: [describe]  [ ] NO
+---
 
-─── DECISION ────────────────────────────────────────────────────────────────
-[ ] FULL COMPLIANCE — [describe action taken]
-[ ] PARTIAL COMPLIANCE — [describe what is provided and what is withheld, with reasons]
-[ ] REFUSAL — ground: [Art. X EUDPR — specific reason]
-[ ] EXTENSION NOTIFIED — new deadline: [DD Month YYYY] — reason: [state]
+#### Right(s) Invoked
 
-Response sent: [DD Month YYYY]  Method: [ ] Email  [ ] Post  [ ] Secure channel
-DPO sign-off (if refusal / restriction): [ ] YES — [date]
-```
+- [ ] Art. 17 — Access
+- [ ] Art. 18 — Rectification
+- [ ] Art. 19 — Erasure
+- [ ] Art. 20 — Restriction
+- [ ] Art. 22 — Portability
+- [ ] Art. 23 — Objection
+
+**Description of request:** [plain language summary of what was asked]
+**Processing activity / system concerned:** [name / RoPA ref]
+
+---
+
+#### Exemption Assessment
+
+**Art. 25 EUDPR restriction applicable:** - [ ] YES — basis: [specify] - [ ] NO
+**Art. 26 EUDPR restriction applicable:** - [ ] YES — basis: [specify] - [ ] NO
+**OLAF investigation in progress:** - [ ] YES — OLAF notified - [ ] NO
+**Disciplinary procedure in progress:** - [ ] YES — HR/legal notified - [ ] NO
+**Pending litigation covering this data:** - [ ] YES — Legal Service notified - [ ] NO
+**Third-party data to redact:** - [ ] YES — identified: [describe] - [ ] NO
+
+---
+
+#### Decision
+
+- [ ] FULL COMPLIANCE — [describe action taken]
+- [ ] PARTIAL COMPLIANCE — [describe what is provided and what is withheld, with reasons]
+- [ ] REFUSAL — ground: [Art. X EUDPR — specific reason]
+- [ ] EXTENSION NOTIFIED — new deadline: [DD Month YYYY] — reason: [state]
+
+**Response sent:** [DD Month YYYY] **Method:** - [ ] Email - [ ] Post - [ ] Secure channel
+**DPO sign-off (if refusal / restriction):** - [ ] YES — [date]
 
 ---
 
 ## Access Response — Covering Letter Template
 
-```
-[Institutional letterhead]
+*[Institutional letterhead]*
 [Date]
 DSR reference: DSR-[DG]-[YYYY]-[NNN]
 
 Dear [name / "Data Subject"],
 
-Thank you for your request of [date], in which you exercised your right of access
-under Article 17 of Regulation (EU) 2018/1725 (EUDPR).
+Thank you for your request of [date], in which you exercised your right of access under Article 17 of Regulation (EU) 2018/1725 (EUDPR).
 
 We have completed our assessment and are providing you with the following:
 
-PERSONAL DATA WE HOLD ABOUT YOU
-[Option A — Full access]
-Please find enclosed / attached a copy of all personal data we hold about you in
-connection with [processing activity / system]. This covers [describe categories].
+**Personal data we hold about you**
 
-[Option B — Partial access]
-Please find enclosed / attached a copy of the personal data we hold about you in
-connection with [processing activity / system], subject to the following:
+*Option A — Full access:*
+Please find enclosed / attached a copy of all personal data we hold about you in connection with [processing activity / system]. This covers [describe categories].
 
-  Information withheld: [describe what is withheld in general terms]
-  Reason: [cite the specific EUDPR provision — e.g. Art. 20 of Commission Decision
-  2021/[X] restricting access during pending OLAF investigation / third-party data
-  of identifiable individuals whose interests prevail in this case]
+*Option B — Partial access:*
+Please find enclosed / attached a copy of the personal data we hold about you in connection with [processing activity / system], subject to the following:
 
-SUPPLEMENTARY INFORMATION (Art. 17(1) EUDPR)
-  — Purposes of processing:      [as per privacy notice / RoPA]
-  — Legal basis:                  [Art. 5(1)(…) EUDPR]
-  — Recipients:                   [as per privacy notice]
-  — Retention period:             [period]
-  — Your rights:                  access, rectification, erasure [if applicable],
-                                  restriction, portability [if applicable], objection [if applicable]
-  — Right to complain to EDPS:    edps.europa.eu | edps@edps.europa.eu
+- **Information withheld:** [describe what is withheld in general terms]
+- **Reason:** [cite the specific EUDPR provision — e.g. Art. 20 of Commission Decision 2021/[X] restricting access during pending OLAF investigation / third-party data of identifiable individuals whose interests prevail in this case]
+
+**Supplementary information (Art. 17(1) EUDPR)**
+
+- Purposes of processing: [as per privacy notice / RoPA]
+- Legal basis: [Art. 5(1)(…) EUDPR]
+- Recipients: [as per privacy notice]
+- Retention period: [period]
+- Your rights: access, rectification, erasure [if applicable], restriction, portability [if applicable], objection [if applicable]
+- Right to complain to EDPS: edps.europa.eu | edps@edps.europa.eu
 
 If you have any questions about this response, please contact [unit contact / DPO].
 
 Yours sincerely,
 [DPO / unit responsible]
-```
 
 ---
 
 ## Refusal Letter Template
 
-```
-[Institutional letterhead]
+*[Institutional letterhead]*
 [Date]
 DSR reference: DSR-[DG]-[YYYY]-[NNN]
 
 Dear [name],
 
-Thank you for your request of [date], in which you invoked your right to
-[access / rectification / erasure / restriction / portability / object] under
-Article [17/18/19/20/22/23] of Regulation (EU) 2018/1725 (EUDPR).
+Thank you for your request of [date], in which you invoked your right to [access / rectification / erasure / restriction / portability / object] under Article [17/18/19/20/22/23] of Regulation (EU) 2018/1725 (EUDPR).
 
-DECISION
-After careful assessment, we are unable to comply with your request, for the
-following reason:
+**Decision**
 
-[Choose and complete the applicable ground:]
+After careful assessment, we are unable to comply with your request, for the following reason:
 
-→ ERASURE / PORTABILITY / OBJECTION NOT APPLICABLE
-  The processing of your personal data is based on [Art. 5(1)(b)/(c) EUDPR —
-  public task / legal obligation]. Under Art. [19/22/23] EUDPR, this right does
-  not apply where processing is necessary for [the performance of a public interest
-  task / compliance with a legal obligation to which the Commission is subject].
+*Choose and complete the applicable ground:*
 
-→ RESTRICTION APPLICABLE UNDER ART. 25/26 EUDPR
-  Access to the requested data is restricted pursuant to [Commission Decision
-  [ref] / Art. 25 EUDPR restriction adopted by [Union act]]. This restriction
-  is necessary to protect [OLAF investigation integrity / pending disciplinary
-  proceedings / ongoing litigation / public security]. Providing the information
-  at this time would seriously undermine this objective.
+**→ Erasure / portability / objection not applicable**
 
-→ DATA DOES NOT EXIST / IS ACCURATE
-  Following a thorough review of our records, we [do not hold any personal data
-  of the type you describe / confirm that the data you have contested is factually
-  accurate and complete for the purposes of this processing].
+The processing of your personal data is based on [Art. 5(1)(b)/(c) EUDPR — public task / legal obligation]. Under Art. [19/22/23] EUDPR, this right does not apply where processing is necessary for [the performance of a public interest task / compliance with a legal obligation to which the Commission is subject].
 
-YOUR RIGHT TO COMPLAIN
-If you are not satisfied with this response, you have the right to lodge a
-complaint with the European Data Protection Supervisor (EDPS) at any time:
+**→ Restriction applicable under Art. 25/26 EUDPR**
 
-  European Data Protection Supervisor
-  edps.europa.eu | edps@edps.europa.eu
-  Rue Wiertz 60, 1047 Brussels
+Access to the requested data is restricted pursuant to [Commission Decision [ref] / Art. 25 EUDPR restriction adopted by [Union act]]. This restriction is necessary to protect [OLAF investigation integrity / pending disciplinary proceedings / ongoing litigation / public security]. Providing the information at this time would seriously undermine this objective.
+
+**→ Data does not exist / is accurate**
+
+Following a thorough review of our records, we [do not hold any personal data of the type you describe / confirm that the data you have contested is factually accurate and complete for the purposes of this processing].
+
+**Your right to complain**
+
+If you are not satisfied with this response, you have the right to lodge a complaint with the European Data Protection Supervisor (EDPS) at any time:
+
+European Data Protection Supervisor
+edps.europa.eu | edps@edps.europa.eu
+Rue Wiertz 60, 1047 Brussels
 
 You may also seek judicial remedy before the General Court of the European Union.
 
 Yours sincerely,
-[DPO / unit responsible — DPO sign-off required before sending]
+[DPO / unit responsible]
 
 [review — DPO sign-off required before sending a refusal]
-```
 
 ---
 
 ## Rights by Legal Basis — Quick Reference
 
-```
-RIGHTS AVAILABILITY BY LEGAL BASIS
+| Right | Art. | Consent | Public task | Legal obligation | Contract |
+|---|---|---|---|---|---|
+| Access | 17 | ✅ | ✅ | ✅ | ✅ |
+| Rectification | 18 | ✅ | ✅ | ✅ | ✅ |
+| Erasure | 19 | ✅ | ❌ (usually) | ❌ (usually) | ✅ (limited) |
+| Restriction | 20 | ✅ | ✅ | ✅ | ✅ |
+| Portability | 22 | ✅ | ❌ | ❌ | ✅ (automated) |
+| Objection | 23 | ❌ | ✅ | ❌ | ❌ |
+| Withdraw consent | 7(3) | ✅ | N/A | N/A | N/A |
 
-Right                Art.  Consent  Public task  Legal obligation  Contract
-──────────────────────────────────────────────────────────────────────────────
-Access               17    ✅        ✅            ✅                ✅
-Rectification        18    ✅        ✅            ✅                ✅
-Erasure              19    ✅        ❌ (usually)  ❌ (usually)      ✅ (limited)
-Restriction          20    ✅        ✅            ✅                ✅
-Portability          22    ✅        ❌            ❌                ✅ (automated)
-Objection            23    ❌        ✅            ❌                ❌
-Withdraw consent     7(3)  ✅        N/A           N/A               N/A
-
-Notes:
-- Erasure under public task / legal obligation basis: applies only if processing is
-  unlawful or data is no longer necessary AND no overriding legitimate grounds exist.
+**Notes:**
+- Erasure under public task / legal obligation basis: applies only if processing is unlawful or data is no longer necessary AND no overriding legitimate grounds exist.
 - Portability: requires both (a) consent or contract basis AND (b) automated processing.
-- Objection: applies only to Art. 5(1)(b) basis; institution can override with compelling
-  legitimate grounds.
+- Objection: applies only to Art. 5(1)(b) basis; institution can override with compelling legitimate grounds.
 - Arts. 25–26 EUDPR restrictions can further limit any of the above rights.
-```
 
 ---
 

@@ -141,117 +141,87 @@ TYPE 3 — INCORRECT APPLICATION (hardest to prove)
 
 ### Letter of Formal Notice — Full Structure
 
-```
-[Commission letterhead]
-INFR([YYYY])[NNNN]
-[Classification: LIMITE]
+*[Commission letterhead]*
+**INFR([YYYY])[NNNN]**
+**LIMITE**
 
 [City], [DD Month YYYY]
 
-LETTER OF FORMAL NOTICE
-pursuant to Article 258 of the Treaty on the Functioning of the European Union
+**LETTER OF FORMAL NOTICE**
+*pursuant to Article 258 of the Treaty on the Functioning of the European Union*
 
 His/Her Excellency [Minister for Foreign Affairs / Permanent Representative]
-[Member State]
-[Address]
+[Member State] — [Address]
 
-Subject: Infringement of [Directive YYYY/NN/EU of the European Parliament and
-of the Council / Regulation (EU) YYYY/NN] — [Short description of breach]
+**Subject:** Infringement of [Directive YYYY/NN/EU of the European Parliament and of the Council / Regulation (EU) YYYY/NN] — [Short description of breach]
 
 Your Excellency,
 
-─────────────────────────────────────────────────────────
-1. INTRODUCTION
-─────────────────────────────────────────────────────────
-The European Commission has examined whether [Member State] has complied with
-its obligations under [Directive / Regulation (EU) YYYY/NN] [OJ L/C NNNN, p. NN,
-[date]].
+**1. Introduction**
 
-[One paragraph: what the directive/regulation requires and by when the obligation
-was to be fulfilled — transposition deadline / date of entry into application]
+The European Commission has examined whether [Member State] has complied with its obligations under [Directive / Regulation (EU) YYYY/NN] [OJ L/C NNNN, p. NN, [date]].
 
-On the basis of the information available to the Commission, it appears that
-[Member State] has [not transposed the Directive by the transposition deadline of
-[date] / not correctly transposed the following provisions of the Directive / not
-correctly applied the following provisions of the Regulation].
+[One paragraph: what the directive/regulation requires and by when the obligation was to be fulfilled — transposition deadline / date of entry into application.]
 
-─────────────────────────────────────────────────────────
-2. LEGAL FRAMEWORK
-─────────────────────────────────────────────────────────
-[Set out the relevant provisions of EU law concisely. For a transposition
-failure: cite the transposition deadline article. For incorrect transposition:
-cite the specific provisions at issue and their requirements.]
+On the basis of the information available to the Commission, it appears that [Member State] has [not transposed the Directive by the transposition deadline of [date] / not correctly transposed the following provisions of the Directive / not correctly applied the following provisions of the Regulation].
 
-[Example: "Article 5(1) of the Directive requires Member States to ensure that
-[obligation]. Article 20 of the Directive required Member States to bring into
-force the laws, regulations and administrative provisions necessary to comply
-with the Directive by [date]."]
+**2. Legal Framework**
 
-─────────────────────────────────────────────────────────
-3. ALLEGED BREACH
-─────────────────────────────────────────────────────────
-[For TYPE 1 — Non-transposition:]
-3.1 As of [date], [Member State] has not notified the Commission of any national
-measures transposing Directive [YYYY/NN/EU]. The transposition deadline was
-[date]. [Member State] is therefore in breach of Article [transposition deadline
-article] of the Directive.
+[Set out the relevant provisions of EU law concisely. For a transposition failure: cite the transposition deadline article. For incorrect transposition: cite the specific provisions at issue and their requirements.]
 
-[For TYPE 2 — Incorrect transposition, one sub-section per provision:]
-3.1 Article [N] of the Directive — [Title/subject]
-  Requirement: [What Art. N requires]
-  National measure: [National act/provision cited by member state, or absence]
-  Deficiency: [Why the national measure does not meet the requirement — specific
-               legal analysis. Example: "Article X of [national act] transposes
-               Article N of the Directive but limits its scope to [narrower scope],
-               whereas the Directive applies to [broader scope]."]
+*Example: "Article 5(1) of the Directive requires Member States to ensure that [obligation]. Article 20 of the Directive required Member States to bring into force the laws, regulations and administrative provisions necessary to comply with the Directive by [date]."*
 
-3.2 Article [N+1] of the Directive — [Title/subject]
-  [Same structure]
+**3. Alleged Breach**
 
-[Continue for each provision]
+*For Type 1 — Non-transposition:*
 
-─────────────────────────────────────────────────────────
-4. INVITATION TO SUBMIT OBSERVATIONS
-─────────────────────────────────────────────────────────
-In accordance with Article 258 TFEU, the Commission invites [Member State] to
-submit its observations on this Letter of Formal Notice within two months of
-the date of receipt.
+**3.1** As of [date], [Member State] has not notified the Commission of any national measures transposing Directive [YYYY/NN/EU]. The transposition deadline was [date]. [Member State] is therefore in breach of Article [transposition deadline article] of the Directive.
+
+*For Type 2 — Incorrect transposition, one sub-section per provision:*
+
+**3.1 Article [N] of the Directive — [Title/subject]**
+
+**Requirement:** [What Art. N requires]
+**National measure:** [National act/provision cited by member state, or absence]
+**Deficiency:** [Why the national measure does not meet the requirement — specific legal analysis.]
+
+**3.2 Article [N+1] of the Directive — [Title/subject]**
+
+[Same structure — continue for each provision.]
+
+**4. Invitation to Submit Observations**
+
+In accordance with Article 258 TFEU, the Commission invites [Member State] to submit its observations on this Letter of Formal Notice within two months of the date of receipt.
 
 [Member State] is invited in particular to:
-□ Notify the Commission of any national transposition measures not yet communicated;
-□ Provide its legal assessment of the alleged non-conformity identified in
-  Section 3 above;
-□ Inform the Commission of any steps taken or planned to remedy the alleged
-  infringement.
+- [ ] Notify the Commission of any national transposition measures not yet communicated;
+- [ ] Provide its legal assessment of the alleged non-conformity identified in Section 3 above;
+- [ ] Inform the Commission of any steps taken or planned to remedy the alleged infringement.
 
-─────────────────────────────────────────────────────────
-5. PROCEDURAL NOTICE
-─────────────────────────────────────────────────────────
-Please note that this Letter of Formal Notice is confidential. The Commission
-reserves the right to issue a Reasoned Opinion pursuant to Article 258 TFEU
-if the observations submitted by [Member State] do not resolve the concerns
-identified above.
+**5. Procedural Notice**
+
+Please note that this Letter of Formal Notice is confidential. The Commission reserves the right to issue a Reasoned Opinion pursuant to Article 258 TFEU if the observations submitted by [Member State] do not resolve the concerns identified above.
 
 Yours faithfully,
 
 [Commissioner for [Portfolio]]
-on behalf of the European Commission
+*on behalf of the European Commission*
 
-─────────────────────────────────────────────────────────
-ANNEX — CONCORDANCE TABLE
-─────────────────────────────────────────────────────────
-[For incorrect transposition cases: table mapping each directive article to
-the corresponding national provision and the Commission's conformity assessment]
+---
+
+**Annex — Concordance Table**
+
+*For incorrect transposition cases: table mapping each directive article to the corresponding national provision and the Commission's conformity assessment.*
 
 | Directive provision | Requirement | National measure | Conformity | Deficiency |
 |---|---|---|---|---|
-| Art. [N] | [Requirement] | [National act, Art. X] | □ Conform □ Non-conform | [If non-conform] |
+| Art. [N] | [Requirement] | [National act, Art. X] | - [ ] Conform - [ ] Non-conform | [If non-conform] |
 
-[EUR-Lex — verify current consolidated directive text before sending]
-[review — requires Commissioner authorisation before sending]
-[review — Legal Service clearance required for novel legal arguments]
-DRAFT — Not an official Commission infringement document.
-```
+`[EUR-Lex — verify current consolidated directive text before sending]`
+`[review — requires Commissioner authorisation before sending]`
+`[review — Legal Service clearance required for novel legal arguments]`
+
+> **DRAFT** — Not an official Commission infringement document.
 
 ---
 

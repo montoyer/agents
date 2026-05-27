@@ -142,163 +142,138 @@ strategy, and the institution's commitment to transparency and factual accuracy.
 
 ### 1. Press Release
 
-```
-EUROPEAN COMMISSION — PRESS RELEASE
-[IP/YYYY/NNNN]
+**EUROPEAN COMMISSION — PRESS RELEASE**
+**[IP/YYYY/NNNN]**
 Brussels, DD Month YYYY
 
-[HEADLINE — Active verb, subject, key fact. Max 10 words.]
-[Subheadline — Additional context, one sentence.]
+**[HEADLINE — Active verb, subject, key fact. Max 10 words.]**
+*[Subheadline — Additional context, one sentence.]*
 
-[LEAD PARAGRAPH — Answer: who did what, when, where, why. Most important information first.
-No jargon. Max 50 words.]
+[LEAD PARAGRAPH — Answer: who did what, when, where, why. Most important information first. No jargon. Max 50 words.]
 
-[BODY — 2–4 paragraphs. Build the story: context → key measures → significance →
-next steps. Quotes from the Commissioner here — must be Cabinet-cleared.]
+[BODY — 2–4 paragraphs. Build the story: context → key measures → significance → next steps. Quotes from the Commissioner here — must be Cabinet-cleared.]
 
-QUOTE (attributed to Commissioner [Name]):
-"[Quote — 2–3 sentences. Speaks to the policy objective and its significance for EU citizens.
-Plain language. Cabinet-cleared.]"
+**Quote** *(attributed to Commissioner [Name]):*
+"[Quote — 2–3 sentences. Speaks to the policy objective and its significance for EU citizens. Plain language. Cabinet-cleared.]"
 
-[BACKGROUND PARAGRAPH — 1 short paragraph: what is this initiative part of?
-Political Guidelines reference. Links to related initiatives.]
+[BACKGROUND PARAGRAPH — 1 short paragraph: what is this initiative part of? Political Guidelines reference. Links to related initiatives.]
 
-BACKGROUND
-[Optional: brief factual background for journalists — max 150 words. Facts and figures.
-No policy advocacy. Link to relevant legislation, previous decisions, or reports.]
+**Background**
 
-For more information:
+[Optional: brief factual background for journalists — max 150 words. Facts and figures. No policy advocacy. Link to relevant legislation, previous decisions, or reports.]
+
+**For more information:**
 [Name of press contact] — [email] — [tel]
 [Link to full press pack on Europa.eu]
 [Hashtag if applicable: #EUinitiative]
-```
+
+---
 
 ### 2. Lines to Take (Media Lines)
 
-```
-LINES TO TAKE — [TOPIC / DOSSIER]
-DG / Unit:     [XX.X.X]
-Approved by:   [HoU name] — [DD Month YYYY]
-Validity:      Until [date or "until further notice"]
-Classification: □ NORMAL  □ LIMITE
+**LINES TO TAKE — [TOPIC / DOSSIER]**
 
-CONTEXT:
-[1–2 sentences: what the media is asking about; what recent event or development
-has triggered media interest.]
+**DG / Unit:** [XX.X.X]
+**Approved by:** [HoU name] — [DD Month YYYY]
+**Validity:** Until [date or "until further notice"]
+**Classification:** - [ ] NORMAL - [ ] LIMITE
 
-─────────────────────────────────────────────────────────
-MAIN LINE (default response to all media inquiries)
-─────────────────────────────────────────────────────────
-[1–2 sentences. Factual, balanced, non-committal on politically live elements.
-Clearly states what the Commission is doing/has done/will do.]
+**Context:** [1–2 sentences: what the media is asking about; what recent event or development has triggered media interest.]
 
-─────────────────────────────────────────────────────────
-IF ASKED ABOUT [specific sensitive question]:
-─────────────────────────────────────────────────────────
-[Approved response. What to say and what not to say. If the question is
-outside the LTT scope: "I refer you to [other DG / Spokesperson / official statement]."]
+---
 
-─────────────────────────────────────────────────────────
-IF ASKED ABOUT [second specific question]:
-─────────────────────────────────────────────────────────
+**Main Line** *(default response to all media inquiries)*
+
+[1–2 sentences. Factual, balanced, non-committal on politically live elements. Clearly states what the Commission is doing/has done/will do.]
+
+**If asked about [specific sensitive question]:**
+
+[Approved response. What to say and what not to say. If the question is outside the LTT scope: "I refer you to [other DG / Spokesperson / official statement]."]
+
+**If asked about [second specific question]:**
+
 [...]
 
-─────────────────────────────────────────────────────────
-DO NOT:
-─────────────────────────────────────────────────────────
-□ Confirm/deny [specific sensitive element]
-□ Comment on [pending decision / internal document / leaked text]
-□ Speculate on [timeline / political outcome]
+**Do NOT:**
+- [ ] Confirm/deny [specific sensitive element]
+- [ ] Comment on [pending decision / internal document / leaked text]
+- [ ] Speculate on [timeline / political outcome]
 
-─────────────────────────────────────────────────────────
-BACKGROUND FACTS (for journalist briefing — not for attribution)
-─────────────────────────────────────────────────────────
+**Background Facts** *(for journalist briefing — not for attribution)*
 - [Key fact 1 — source: Eurostat / Commission report / legislation]
 - [Key fact 2]
-- [...]
 
-CONTACT: [Press officer name, tel, email]
-```
+**Contact:** [Press officer name, tel, email]
+
+---
 
 ### 3. Commissioner Speech — Structure
 
-```
-SPEECH — [COMMISSIONER NAME]
-Event:    [Conference / Forum / Ceremony name]
-Date:     [DD Month YYYY]
-Location: [City, Country / Online]
-Duration: [N minutes]
-Cleared by: Cabinet — [DD Month YYYY]
+**SPEECH — [COMMISSIONER NAME]**
 
-[CHECK AGAINST DELIVERY — embargoed until delivery]
+**Event:** [Conference / Forum / Ceremony name]
+**Date:** [DD Month YYYY]
+**Location:** [City, Country / Online]
+**Duration:** [N minutes]
+**Cleared by:** Cabinet — [DD Month YYYY]
 
-─────────────────────────────────────────────────────────
-OPENING (30–60 seconds)
-─────────────────────────────────────────────────────────
-[Personal acknowledgement of host, occasion, audience. 1–2 sentences.
-Do not open with "Ladies and Gentlemen" — vary the greeting.]
+*CHECK AGAINST DELIVERY — embargoed until delivery*
+
+---
+
+**Opening** *(30–60 seconds)*
+
+[Personal acknowledgement of host, occasion, audience. 1–2 sentences. Do not open with "Ladies and Gentlemen" — vary the greeting.]
 
 [Hook — a striking fact, question, or anecdote that frames the speech's central message.]
 
-─────────────────────────────────────────────────────────
-SECTION 1 — THE CHALLENGE (1–2 minutes)
-─────────────────────────────────────────────────────────
-[State the problem or challenge the speech addresses. Facts and figures.
-Why it matters to this audience. Why now.]
+**Section 1 — The Challenge** *(1–2 minutes)*
 
-─────────────────────────────────────────────────────────
-SECTION 2 — WHAT THE COMMISSION IS DOING (3–4 minutes)
-─────────────────────────────────────────────────────────
-[3 key points max. Structure: Point → Evidence → Significance.
-Refer to specific legislation, decisions, or initiatives by name.
-Use concrete examples — real places, real people, real outcomes.]
+[State the problem or challenge the speech addresses. Facts and figures. Why it matters to this audience. Why now.]
 
-─────────────────────────────────────────────────────────
-SECTION 3 — THE CALL TO ACTION / NEXT STEPS (1 minute)
-─────────────────────────────────────────────────────────
-[What happens next. What the Commissioner is calling on this audience to do.
-Link to a larger ambition — the Political Guidelines, the Green Deal, etc.]
+**Section 2 — What the Commission is Doing** *(3–4 minutes)*
 
-─────────────────────────────────────────────────────────
-CLOSING (30 seconds)
-─────────────────────────────────────────────────────────
-[Return to the opening hook or image. Memorable closing line.
-Thank the audience.]
+[3 key points max. Structure: Point → Evidence → Significance. Refer to specific legislation, decisions, or initiatives by name. Use concrete examples — real places, real people, real outcomes.]
 
-─────────────────────────────────────────────────────────
-[BACK-UP SLIDES / TALKING POINTS — attached separately]
-```
+**Section 3 — The Call to Action / Next Steps** *(1 minute)*
+
+[What happens next. What the Commissioner is calling on this audience to do. Link to a larger ambition — the Political Guidelines, the Green Deal, etc.]
+
+**Closing** *(30 seconds)*
+
+[Return to the opening hook or image. Memorable closing line. Thank the audience.]
+
+*[BACK-UP SLIDES / TALKING POINTS — attached separately]*
+
+---
 
 ### 4. Social Media Post Bank
 
-```
-SOCIAL MEDIA POST BANK — [INITIATIVE / EVENT]
-DG / Unit:    [XX.X.X]
-Date:         [DD Month YYYY]
-Cleared by:   [Cabinet / HoU] — [date]
+**SOCIAL MEDIA POST BANK — [INITIATIVE / EVENT]**
 
-PLATFORM: X (Twitter) — 280 characters
-Post 1 (announcement):
-"[Punchy statement of what was decided/adopted. 1–2 sentences. Active voice.
-Emoji optional — approved list only. #hashtag] 🔗 [link]"
+**DG / Unit:** [XX.X.X]
+**Date:** [DD Month YYYY]
+**Cleared by:** [Cabinet / HoU] — [date]
 
-Post 2 (follow-up / fact):
-"[Key statistic or impact figure from the initiative. Why it matters for EU citizens.] 🔗"
+**Platform: X (Twitter) — 280 characters**
 
-Post 3 (stakeholder-facing / engagement):
-"[Question or call to engagement. 'What does this mean for you?' hook.] 🔗"
+*Post 1 (announcement):* "[Punchy statement of what was decided/adopted. 1–2 sentences. Active voice. Emoji optional — approved list only. #hashtag] 🔗 [link]"
 
-PLATFORM: LinkedIn — longer form, professional tone
-"[2–3 short paragraphs. Lead with the policy significance. Explain what changes for
-whom. Professional tone. Facts > advocacy. End with a call to read more or engage.] 🔗"
+*Post 2 (follow-up / fact):* "[Key statistic or impact figure from the initiative. Why it matters for EU citizens.] 🔗"
 
-PLATFORM: Instagram — visual-led (attach image brief)
-Caption: "[Short, vivid, emoji-friendly. What does this look like in real life?]"
-Image brief: "[Describe the image needed — infographic / photo / icon — dimensions 1080×1080]"
+*Post 3 (stakeholder-facing / engagement):* "[Question or call to engagement. 'What does this mean for you?' hook.] 🔗"
 
-HASHTAGS (pre-approved): [#EUinitiative #GreenDeal #DigitalEurope — select applicable]
-ACCESSIBILITY: All images must include alt text. Videos must include subtitles.
-```
+**Platform: LinkedIn** — longer form, professional tone
+
+"[2–3 short paragraphs. Lead with the policy significance. Explain what changes for whom. Professional tone. Facts > advocacy. End with a call to read more or engage.] 🔗"
+
+**Platform: Instagram** — visual-led (attach image brief)
+
+*Caption:* "[Short, vivid, emoji-friendly. What does this look like in real life?]"
+*Image brief:* "[Describe the image needed — infographic / photo / icon — dimensions 1080×1080]"
+
+**Hashtags (pre-approved):** [#EUinitiative #GreenDeal #DigitalEurope — select applicable]
+**Accessibility:** All images must include alt text. Videos must include subtitles.
 
 ---
 

@@ -213,48 +213,48 @@ Community tax rates (approximate — verify against current implementing measure
 
 ## Output Template — Grade & Salary Sheet
 
-```
-EPSO GRADE & SALARY ESTIMATE
-Competition:        [competition name / type]
-Entry grade:        [e.g. AD 5]
-Step on appointment: [1 / 2 / 3 — with reasoning]
-Duty station:       [e.g. Brussels]
-Family situation:   [e.g. single / married with 1 child]
-Reference date:     [month/year of estimate]
+**EPSO GRADE & SALARY ESTIMATE**
 
-──────────────────────────────────────────────────
-GROSS REMUNERATION
-──────────────────────────────────────────────────
-Basic salary (SR Annex I, grade AD5 step 1):     EUR [X]
-Household allowance (SR Annex VII Art. 1):        EUR [Y]   [or N/A]
-Dependent child allowance (Art. 2 Annex VII):     EUR [Z]   [or N/A]
-Expatriation allowance (Art. 4 Annex VII):        EUR [W]   [or N/A]
-─────────────────────────────────────────────────
-GROSS TOTAL REMUNERATION:                         EUR [T]
+| Field | Value |
+|---|---|
+| Competition | [competition name / type] |
+| Entry grade | [e.g. AD 5] |
+| Step on appointment | [1 / 2 / 3 — with reasoning] |
+| Duty station | [e.g. Brussels] |
+| Family situation | [e.g. single / married with 1 child] |
+| Reference date | [month/year of estimate] |
 
-──────────────────────────────────────────────────
-STANDARD DEDUCTIONS (indicative)
-──────────────────────────────────────────────────
-Pension contribution (~10.1% of basic):           EUR [−A]
-JSIS contribution (~2.0% of basic):               EUR [−B]
-Community tax (Protocol No. 7):                   EUR [−C]
-─────────────────────────────────────────────────
-ESTIMATED NET MONTHLY SALARY:                     EUR [N]
+---
 
-──────────────────────────────────────────────────
-NOTES
-──────────────────────────────────────────────────
-• Step recognition is discretionary (SR Art. 32(2)) — the appointing authority decides.
-• Salary figures are based on SR Annex I as known at [date] and must be verified
-  against the current pay table, which is adjusted annually.
-• Net figure is an estimate. PMO calculates the authoritative net salary on appointment.
-• Expatriation allowance eligibility depends on nationality and residence history —
-  individual assessment required.
+**Gross Remuneration**
 
-[model knowledge — verify against current SR Annex I]
-[review — appointing authority determination required]
-[review — PMO calculation required]
-```
+| Component | Amount |
+|---|---|
+| Basic salary *(SR Annex I, grade AD5 step 1)* | EUR [X] |
+| Household allowance *(SR Annex VII Art. 1)* | EUR [Y] [or N/A] |
+| Dependent child allowance *(Art. 2 Annex VII)* | EUR [Z] [or N/A] |
+| Expatriation allowance *(Art. 4 Annex VII)* | EUR [W] [or N/A] |
+| **Gross total remuneration** | **EUR [T]** |
+
+**Standard Deductions** *(indicative)*
+
+| Deduction | Amount |
+|---|---|
+| Pension contribution (~10.1% of basic) | EUR [−A] |
+| JSIS contribution (~2.0% of basic) | EUR [−B] |
+| Community tax *(Protocol No. 7)* | EUR [−C] |
+| **Estimated net monthly salary** | **EUR [N]** |
+
+**Notes**
+
+- Step recognition is discretionary (SR Art. 32(2)) — the appointing authority decides.
+- Salary figures are based on SR Annex I as known at [date] and must be verified against the current pay table, which is adjusted annually.
+- Net figure is an estimate. PMO calculates the authoritative net salary on appointment.
+- Expatriation allowance eligibility depends on nationality and residence history — individual assessment required.
+
+`[model knowledge — verify against current SR Annex I]`
+`[review — appointing authority determination required]`
+`[review — PMO calculation required]`
 
 ---
 

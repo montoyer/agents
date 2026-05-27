@@ -136,7 +136,6 @@ COMMON LEGAL BASIS ERRORS — check these first:
 
 ### Legal Opinion
 
-```
 LEGAL OPINION
 
 Subject:    Treaty compatibility of [measure]
@@ -144,15 +143,17 @@ Prepared by: [DG — Legal Unit / Commission Legal Service]
 Date:       [DD Month YYYY]
 Reference:  [ARES number if applicable]
 
-═══════════════════════════════════════════
-OVERALL CONCLUSION: □ GREEN  □ AMBER  □ RED
-═══════════════════════════════════════════
+---
+
+### Overall Conclusion: - [ ] GREEN  - [ ] AMBER  - [ ] RED
+
 [One sentence summary. E.g.: "The proposal is legally sound subject to two
 amendments noted at §3.3 (proportionality) and §4.2 (Charter Art. 8)."]
 
-─────────────────────────────────────────
-1. LEGAL BASIS
-─────────────────────────────────────────
+---
+
+### 1. Legal Basis
+
 1.1 Primary objective and content of the measure
     [Characterisation of the measure — what it actually does]
 
@@ -164,15 +165,16 @@ amendments noted at §3.3 (proportionality) and §4.2 (Charter Art. 8)."]
     Dual legal basis required? [Yes / No — reasoning]
     Procedure: [OLP Art. 294 / SLP — specify / unanimous Council]
 
-1.4 Conclusion: □ Confirmed  □ Alternative basis recommended: Art. [Y]
+1.4 Conclusion: - [ ] Confirmed  - [ ] Alternative basis recommended: Art. [Y]
     [EUR-Lex — verify current version]
 
-─────────────────────────────────────────
-2. SUBSIDIARITY (Art. 5(3) TEU + Protocol No. 2)
-─────────────────────────────────────────
-2.1 Competence category: □ Exclusive (Art. 3 TFEU — subsidiarity N/A)
-                         □ Shared (Art. 4 TFEU)
-                         □ Supporting (Art. 6 TFEU)
+---
+
+### 2. Subsidiarity (Art. 5(3) TEU + Protocol No. 2)
+
+2.1 Competence category: - [ ] Exclusive (Art. 3 TFEU — subsidiarity N/A)
+                         - [ ] Shared (Art. 4 TFEU)
+                         - [ ] Supporting (Art. 6 TFEU)
 
 [If exclusive: skip to §3]
 
@@ -186,41 +188,43 @@ amendments noted at §3.3 (proportionality) and §4.2 (Charter Art. 8)."]
     Network effects requiring uniform standards: [Yes / No]
     Regulatory arbitrage risk: [Yes / No]
 
-2.4 Conclusion: □ Subsidiarity satisfied  □ Not satisfied
+2.4 Conclusion: - [ ] Subsidiarity satisfied  - [ ] Not satisfied
     Reasoning: [...]
 
 2.5 Yellow card risk assessment
     Total votes available: 54 (27 MS)
     Yellow card threshold: 18 votes (1/3)
     Estimated objecting chambers: [N]
-    Risk level: □ Low (<10 votes)  □ Medium (10–17)  □ High (≥18)
+    Risk level: - [ ] Low (<10 votes)  - [ ] Medium (10–17)  - [ ] High (≥18)
     [model knowledge — verify with current national parliament positions]
 
-─────────────────────────────────────────
-3. PROPORTIONALITY (Art. 5(4) TEU)
-─────────────────────────────────────────
+---
+
+### 3. Proportionality (Art. 5(4) TEU)
+
 3.1 Suitability
     Is the measure suitable to achieve its stated objective?
-    □ Yes  □ No — [reasoning]
+    - [ ] Yes  - [ ] No — [reasoning]
 
 3.2 Necessity (least restrictive means)
     Would a lighter-touch measure achieve the same objective?
     Alternatives considered: [list]
-    □ Necessary  □ Less restrictive alternative available: [specify]
+    - [ ] Necessary  - [ ] Less restrictive alternative available: [specify]
 
 3.3 Proportionality stricto sensu
     Are burdens imposed proportionate to benefits achieved?
-    □ Yes  □ Disproportionate — [specify which provisions and required amendment]
+    - [ ] Yes  - [ ] Disproportionate — [specify which provisions and required amendment]
 
 3.4 Instrument assessment
-    □ Regulation appropriate  □ Directive would suffice
-    SME flexibility: □ Adequate  □ Micro-enterprise exemption recommended
+    - [ ] Regulation appropriate  - [ ] Directive would suffice
+    SME flexibility: - [ ] Adequate  - [ ] Micro-enterprise exemption recommended
 
-3.5 Conclusion: □ Proportionate  □ Amendments required: [specify]
+3.5 Conclusion: - [ ] Proportionate  - [ ] Amendments required: [specify]
 
-─────────────────────────────────────────
-4. FUNDAMENTAL RIGHTS (EU Charter)
-─────────────────────────────────────────
+---
+
+### 4. Fundamental Rights (EU Charter)
+
 4.1 Charter rights engaged
     | Provision | Charter Article | Right | Restriction? |
     |-----------|----------------|-------|--------------|
@@ -230,30 +234,29 @@ amendments noted at §3.3 (proportionality) and §4.2 (Charter Art. 8)."]
     Charter Art. [Y] — [Right]
     Restriction: [What the measure does that restricts this right]
     Art. 52(1) test:
-      Provided by law: □ Yes  □ No
-      Essential content respected: □ Yes  □ No
-      Genuine necessity: □ Yes  □ No
-      Proportionate: □ Yes  □ No
-    Conclusion: □ Compatible  □ Issues identified: [specify]
+      Provided by law: - [ ] Yes  - [ ] No
+      Essential content respected: - [ ] Yes  - [ ] No
+      Genuine necessity: - [ ] Yes  - [ ] No
+      Proportionate: - [ ] Yes  - [ ] No
+    Conclusion: - [ ] Compatible  - [ ] Issues identified: [specify]
 
 4.3 Absolute rights check
-    □ No absolute rights engaged
-    □ [Right] engaged — FLAG: absolute rights cannot be restricted
+    - [ ] No absolute rights engaged
+    - [ ] [Right] engaged — FLAG: absolute rights cannot be restricted
 
-4.4 Conclusion: □ Charter compatible  □ Issues identified — amendment required
-
-─────────────────────────────────────────
-5. ACTIONS REQUIRED BEFORE TABLING
-─────────────────────────────────────────
-□ No action required (Green)
-□ [Specify amendment to Art. X to resolve Amber issue at §Y]
-□ Fundamental redesign required (Red) — [specify the structural problem]
+4.4 Conclusion: - [ ] Charter compatible  - [ ] Issues identified — amendment required
 
 ---
-DRAFT — For review by an EU official before use. Not an official Commission position.
+
+### 5. Actions Required Before Tabling
+
+- [ ] No action required (Green)
+- [ ] [Specify amendment to Art. X to resolve Amber issue at §Y]
+- [ ] Fundamental redesign required (Red) — [specify the structural problem]
+
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.
 [EUR-Lex — verify current version of all cited legal acts]
 [CJEU — verify Curia reference for all cited case law]
-```
 
 ---
 

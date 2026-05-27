@@ -101,7 +101,6 @@ statement in the AAR is a formal management accountability commitment.
 
 ## AAR Unit Contribution Template
 
-```
 ANNUAL ACTIVITY REPORT — UNIT CONTRIBUTION
 Unit:           [DG.X / Unit name]
 Head of Unit:   [name]
@@ -109,85 +108,93 @@ Reporting year: [YYYY]
 AMP reference:  AMP-[DG]-[UNIT]-[YYYY]
 Submitted to:   [Director name]  Date: [DD Month YYYY]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION 1 — ACHIEVEMENT OF OBJECTIVES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-SPECIFIC OBJECTIVE [SO-X.X]: [Title]
-  Assessment: [ ] ACHIEVED  [ ] SUBSTANTIALLY ACHIEVED  [ ] NOT ACHIEVED
+### Section 1 — Achievement of Objectives
 
-  KPI results:
-    KPI 1: [name]  Baseline [X] → Target [X] → Final [X]  Achievement: [%]
-    KPI 2: [name]  Baseline [X] → Target [X] → Final [X]  Achievement: [%]
+**Specific Objective [SO-X.X]: [Title]**
 
-  Deliverables:
-    D-1  [Title]    [ ] Delivered [Q/date]  [ ] Delayed — [new date / explanation]
-    D-2  [Title]    [ ] Delivered [Q/date]  [ ] Not delivered — [reason]
+Assessment: - [ ] ACHIEVED  - [ ] SUBSTANTIALLY ACHIEVED  - [ ] NOT ACHIEVED
 
-  Narrative:
-  [3–5 sentences: what was achieved; quantified where possible; why any KPI was
-  missed or deliverable delayed; what compensating output was produced if any.
-  Written in past tense, institutional register.]
+KPI results:
+- KPI 1: [name]  Baseline [X] → Target [X] → Final [X]  Achievement: [%]
+- KPI 2: [name]  Baseline [X] → Target [X] → Final [X]  Achievement: [%]
 
-SPECIFIC OBJECTIVE [SO-X.X]: [repeat block]
+Deliverables:
+- D-1  [Title]    - [ ] Delivered [Q/date]  - [ ] Delayed — [new date / explanation]
+- D-2  [Title]    - [ ] Delivered [Q/date]  - [ ] Not delivered — [reason]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION 2 — KEY OUTPUTS [YYYY]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1.  [Output title]          [Type: legislative / report / decision / IT / event]
-    SO link: [SO-X.X]       ARES ref (if applicable): [ARES(YYYY)XXXXXXX]
-    Significance: [1–2 sentences on why this matters]
+Narrative:
+[3–5 sentences: what was achieved; quantified where possible; why any KPI was
+missed or deliverable delayed; what compensating output was produced if any.
+Written in past tense, institutional register.]
 
-2.  [Output title]          [Type]
-    SO link: [SO-X.X]
-    Significance: [1–2 sentences]
+**Specific Objective [SO-X.X]: [repeat block]**
+
+---
+
+### Section 2 — Key Outputs [YYYY]
+
+1. [Output title] — [Type: legislative / report / decision / IT / event]
+   SO link: [SO-X.X]       ARES ref (if applicable): [ARES(YYYY)XXXXXXX]
+   Significance: [1–2 sentences on why this matters]
+
+2. [Output title] — [Type]
+   SO link: [SO-X.X]
+   Significance: [1–2 sentences]
 
 [Continue for 5–10 key outputs]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION 3 — RESOURCE USE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Human resources:
-  Authorised posts (EP):    [N] ADs + [N] ASTs = [N] total
-  Average FTEs on post:     [N] ([%] utilisation)
-  SNEs / Seconded staff:    [N]
-  Vacancies (avg duration): [N] posts vacant avg [X] months → [impact if any]
+---
 
-Budget execution:
-  Commitment appropriations: €[X] available → €[X] committed ([%] rate)
-  Payment appropriations:    €[X] available → €[X] paid ([%] rate)
-  Carry-overs to [YYYY+1]:   €[X] — reason: [brief justification]
-  [Flag if commitment rate < 85%: reason and management action taken]
+### Section 3 — Resource Use
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION 4 — INTERNAL CONTROL ASSESSMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Control standard                  Assessment            Notes
-Control environment               [ ] E  [ ] PE  [ ] NE  [brief comment]
-Risk management                   [ ] E  [ ] PE  [ ] NE  [brief comment]
-Control activities                [ ] E  [ ] PE  [ ] NE  [brief comment]
-Information and communication     [ ] E  [ ] PE  [ ] NE  [brief comment]
-Monitoring and evaluation         [ ] E  [ ] PE  [ ] NE  [brief comment]
+**Human resources:**
+- Authorised posts (EP):    [N] ADs + [N] ASTs = [N] total
+- Average FTEs on post:     [N] ([%] utilisation)
+- SNEs / Seconded staff:    [N]
+- Vacancies (avg duration): [N] posts vacant avg [X] months → [impact if any]
+
+**Budget execution:**
+- Commitment appropriations: €[X] available → €[X] committed ([%] rate)
+- Payment appropriations:    €[X] available → €[X] paid ([%] rate)
+- Carry-overs to [YYYY+1]:   €[X] — reason: [brief justification]
+- [Flag if commitment rate < 85%: reason and management action taken]
+
+---
+
+### Section 4 — Internal Control Assessment
+
+| Control standard | Assessment | Notes |
+|---|---|---|
+| Control environment | - [ ] E  - [ ] PE  - [ ] NE | [brief comment] |
+| Risk management | - [ ] E  - [ ] PE  - [ ] NE | [brief comment] |
+| Control activities | - [ ] E  - [ ] PE  - [ ] NE | [brief comment] |
+| Information and communication | - [ ] E  - [ ] PE  - [ ] NE | [brief comment] |
+| Monitoring and evaluation | - [ ] E  - [ ] PE  - [ ] NE | [brief comment] |
 
 E = EFFECTIVE  |  PE = PARTIALLY EFFECTIVE  |  NE = NOT EFFECTIVE
 
-Art. 36 FR exceptions recorded this year: [ ] YES — [N] exceptions; total value €[X]
-                                           [ ] NO
-Reservation flag for DG: [ ] YES — [describe weakness]  [ ] NO
+Art. 36 FR exceptions recorded this year: - [ ] YES — [N] exceptions; total value €[X]
+                                           - [ ] NO
+Reservation flag for DG: - [ ] YES — [describe weakness]  - [ ] NO
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION 5 — RISK MANAGEMENT REVIEW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Risk  Description              Materialised?   Mitigation effective?  Residual
-R-1   [AMP risk description]   [ ] Y  [ ] N    [ ] Y  [ ] Partially   [LOW/MED/HIGH]
-R-2   [AMP risk description]   [ ] Y  [ ] N    [ ] Y  [ ] Partially   [LOW/MED/HIGH]
+---
+
+### Section 5 — Risk Management Review
+
+| Risk | Description | Materialised? | Mitigation effective? | Residual |
+|---|---|---|---|---|
+| R-1 | [AMP risk description] | - [ ] Y  - [ ] N | - [ ] Y  - [ ] Partially | [LOW/MED/HIGH] |
+| R-2 | [AMP risk description] | - [ ] Y  - [ ] N | - [ ] Y  - [ ] Partially | [LOW/MED/HIGH] |
 
 New risks identified in [YYYY] not in AMP:
-  R-NEW-1: [description] — Likelihood [L/M/H] — Impact [L/M/H] — Added to [YYYY+1] AMP
+R-NEW-1: [description] — Likelihood [L/M/H] — Impact [L/M/H] — Added to [YYYY+1] AMP
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SECTION 6 — HoU MANAGEMENT ASSURANCE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Section 6 — HoU Management Assurance
+
 I, [HoU name], Head of Unit [DG.X / Unit name], declare that to the best of my
 knowledge, the information contained in this unit contribution to the Annual Activity
 Report is accurate, complete, and consistent with the unit's Annual Management Plan
@@ -197,43 +204,38 @@ materially affect the reliability of this report.
 [Signed]  [HoU name]   [Date]
 
 [review — HoU signature required before submission to Director]
-```
 
 ---
 
 ## Narrative Writing Guide
 
-```
-OBJECTIVE ASSESSMENT NARRATIVE — QUALITY CRITERIA
+**Objective Assessment Narrative — Quality Criteria**
 
 For ACHIEVED objectives:
-  → Lead with the headline result: "The unit [achieved X / delivered Y / completed Z]."
-  → Quantify: cite KPI final values; name key deliverables with dates.
-  → Connect to impact: "This [enables / contributes to / supports] [outcome]."
-  → Keep to 3–5 sentences. Avoid lists — the narrative should read as a coherent paragraph.
+- Lead with the headline result: "The unit [achieved X / delivered Y / completed Z]."
+- Quantify: cite KPI final values; name key deliverables with dates.
+- Connect to impact: "This [enables / contributes to / supports] [outcome]."
+- Keep to 3–5 sentences. Avoid lists — the narrative should read as a coherent paragraph.
 
 For SUBSTANTIALLY ACHIEVED objectives:
-  → Acknowledge both achievement and shortfall clearly.
-  → Explain the shortfall specifically: "Deliverable D-2 was delayed to Q1 [YYYY+1]
-    due to [external factor / resource constraint / co-legislative delay]."
-  → Explain compensating action: "To mitigate, the unit [action taken]."
-  → Avoid euphemisms — "not fully achieved on schedule" is acceptable; "broadly on track"
-    is not informative.
+- Acknowledge both achievement and shortfall clearly.
+- Explain the shortfall specifically: "Deliverable D-2 was delayed to Q1 [YYYY+1] due to [external factor / resource constraint / co-legislative delay]."
+- Explain compensating action: "To mitigate, the unit [action taken]."
+- Avoid euphemisms — "not fully achieved on schedule" is acceptable; "broadly on track" is not informative.
 
 For NOT ACHIEVED objectives:
-  → State the fact directly; do not bury it.
-  → Explain the root cause with specificity.
-  → State what has been done to address the cause.
-  → Confirm whether the objective is carried forward to [YYYY+1] AMP.
-  → Flag if a reservation or exception is relevant.
+- State the fact directly; do not bury it.
+- Explain the root cause with specificity.
+- State what has been done to address the cause.
+- Confirm whether the objective is carried forward to [YYYY+1] AMP.
+- Flag if a reservation or exception is relevant.
 
 Common language pitfalls to avoid:
-  ✗ "The unit contributed to the achievement of..."  → too vague
-  ✗ "Work continued on..."                           → not an outcome
-  ✗ "Significant progress was made..."               → not quantified
-  ✓ "The unit issued [N] decisions, [%] within the statutory 90-day deadline."
-  ✓ "The [Report title] was published on [date], [X] days ahead of schedule."
-```
+- Avoid: "The unit contributed to the achievement of..." (too vague)
+- Avoid: "Work continued on..." (not an outcome)
+- Avoid: "Significant progress was made..." (not quantified)
+- Prefer: "The unit issued [N] decisions, [%] within the statutory 90-day deadline."
+- Prefer: "The [Report title] was published on [date], [X] days ahead of schedule."
 
 ---
 
@@ -274,5 +276,4 @@ Common language pitfalls to avoid:
 
 ---
 
-DRAFT — For review by the responsible official before action is taken.
-Not an official Commission decision or position.
+> **DRAFT** — For review by the responsible official before action is taken. Not an official Commission decision or position.

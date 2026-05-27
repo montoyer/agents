@@ -134,98 +134,106 @@ to motivate and support policy officers without overstepping the HoU's authority
 
 ### 1. Weekly Status Note to Head of Unit
 
-```
 WEEKLY STATUS NOTE TO HEAD OF UNIT
 Unit:           [DG XX.X.X — Name]
 Prepared by:    [Deputy HoU name]
 Week of:        [DD–DD Month YYYY]
 
-─────────────────────────────────────────────────────────
-1. DELIVERY STATUS — KEY FILES
-─────────────────────────────────────────────────────────
+---
+
+#### 1. Delivery Status — Key Files
+
 | File / Deliverable | Lead | Deadline | Status | Issues |
 |---|---|---|---|---|
-| [File 1] | [Name] | [DD/MM] | 🟢 On track | — |
-| [File 2] | [Name] | [DD/MM] | 🟡 At risk | [Brief reason] |
-| [File 3] | [Name] | [DD/MM] | 🔴 Delayed | [Reason + proposed action] |
+| [File 1] | [Name] | [DD/MM] | On track | — |
+| [File 2] | [Name] | [DD/MM] | At risk | [Brief reason] |
+| [File 3] | [Name] | [DD/MM] | Delayed | [Reason + proposed action] |
 
-─────────────────────────────────────────────────────────
-2. UPCOMING DEADLINES (next 10 working days)
-─────────────────────────────────────────────────────────
+---
+
+#### 2. Upcoming Deadlines (next 10 working days)
+
 [DD Month]: [Deliverable] — [Lead]
 [DD Month]: [Deliverable] — [Lead]
 
-─────────────────────────────────────────────────────────
-3. MEETINGS DEPUTISED (this week)
-─────────────────────────────────────────────────────────
+---
+
+#### 3. Meetings Deputised (this week)
+
 [Meeting name — date]: [Key outcome — 2 sentences max]
 [Any decisions made or commitments given — flag if HoU review needed]
 
-─────────────────────────────────────────────────────────
-4. STAFFING / CAPACITY
-─────────────────────────────────────────────────────────
+---
+
+#### 4. Staffing / Capacity
+
 Absences this week: [Names — type — return date]
 Absences next week: [Names — type — cover arranged: yes/no]
-Capacity risk flagged: □ Yes — [detail] □ No
+Capacity risk flagged: - [ ] Yes — [detail] - [ ] No
 
-─────────────────────────────────────────────────────────
-5. ISSUES REQUIRING HoU DECISION OR ATTENTION
-─────────────────────────────────────────────────────────
-□ [Issue 1 — brief description — options — Deputy's recommendation]
-□ [Issue 2]
+---
 
-─────────────────────────────────────────────────────────
-6. DECISIONS TAKEN A.I. (if Deputy was acting HoU)
-─────────────────────────────────────────────────────────
+#### 5. Issues Requiring HoU Decision or Attention
+
+- [ ] [Issue 1 — brief description — options — Deputy's recommendation]
+- [ ] [Issue 2]
+
+---
+
+#### 6. Decisions Taken A.I. (if Deputy was acting HoU)
+
 [List any decisions taken during HoU absence — for HoU record]
-```
+
+---
 
 ### 2. Quality Review Checklist (for policy officer drafts)
 
-```
 QUALITY REVIEW CHECKLIST — [DOCUMENT TITLE]
 Reviewed by:    [Deputy HoU name]
 Policy officer: [Name]
 Review date:    [DD Month YYYY]
-Document type:  □ Briefing note  □ Council WP brief  □ ISC contribution  □ Options paper  □ Other
+Document type:  - [ ] Briefing note  - [ ] Council WP brief  - [ ] ISC contribution  - [ ] Options paper  - [ ] Other
 
-─────────────────────────────────────────────────────────
-CONTENT CHECKS
-─────────────────────────────────────────────────────────
-□ Answers the question posed — not a different question
-□ Key message in the first paragraph
-□ Factually accurate — sources cited or verifiable
-□ Consistent with approved lines to take and Commission position
-□ Options presented if decision required (not pre-empted)
-□ Legal basis identified where relevant
-□ No external commitments made beyond current HoU mandate
+---
 
-─────────────────────────────────────────────────────────
-PROCESS CHECKS
-─────────────────────────────────────────────────────────
-□ ISC required: □ Yes — triggered / [date to trigger] □ No
-□ Legal Service input needed: □ Yes — requested / [date] □ No
-□ HoU clearance required before sending: □ Yes □ No (within Deputy's delegation)
-□ ARES registration required: □ Done [ref] □ Pending □ Not required
+#### Content Checks
 
-─────────────────────────────────────────────────────────
-FORMAT CHECKS
-─────────────────────────────────────────────────────────
-□ Commission style guide applied
-□ Template/format correct for document type
-□ Classification marked (NORMAL / LIMITE)
-□ "Cleared by" status indicated on draft
+- [ ] Answers the question posed — not a different question
+- [ ] Key message in the first paragraph
+- [ ] Factually accurate — sources cited or verifiable
+- [ ] Consistent with approved lines to take and Commission position
+- [ ] Options presented if decision required (not pre-empted)
+- [ ] Legal basis identified where relevant
+- [ ] No external commitments made beyond current HoU mandate
 
-─────────────────────────────────────────────────────────
-DECISION
-─────────────────────────────────────────────────────────
-□ Approved — forward to HoU / [next step]
-□ Approved with minor edits — [specify]
-□ Return to policy officer — [specific feedback below]
+---
 
-FEEDBACK FOR POLICY OFFICER:
+#### Process Checks
+
+- [ ] ISC required: - [ ] Yes — triggered / [date to trigger] - [ ] No
+- [ ] Legal Service input needed: - [ ] Yes — requested / [date] - [ ] No
+- [ ] HoU clearance required before sending: - [ ] Yes - [ ] No (within Deputy's delegation)
+- [ ] ARES registration required: - [ ] Done [ref] - [ ] Pending - [ ] Not required
+
+---
+
+#### Format Checks
+
+- [ ] Commission style guide applied
+- [ ] Template/format correct for document type
+- [ ] Classification marked (NORMAL / LIMITE)
+- [ ] "Cleared by" status indicated on draft
+
+---
+
+#### Decision
+
+- [ ] Approved — forward to HoU / [next step]
+- [ ] Approved with minor edits — [specify]
+- [ ] Return to policy officer — [specific feedback below]
+
+**Feedback for Policy Officer:**
 [Specific, constructive feedback — what to change and why]
-```
 
 ---
 
@@ -240,3 +248,7 @@ methodology (AMP/AAR cycle), Unit meeting management best practices, Delegation 
 signature authority rules (Commission Decision on internal organization), A.I. acting
 procedures (DG HR guidance), Performance management and CDR (SYSPER), Work-life balance
 and hybrid work rules (Commission Decision 2022).
+
+---
+
+> **DRAFT** — For review by the responsible official before action is taken. Not an official Commission decision or position.

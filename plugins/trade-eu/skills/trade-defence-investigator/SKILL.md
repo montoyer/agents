@@ -208,46 +208,46 @@ Duty imposed = the LOWER of: dumping margin OR injury margin
 
 ### 1. Notice of Initiation — Key Elements
 
-```
-NOTICE OF INITIATION OF AN ANTI-DUMPING PROCEDURE
-concerning imports of [product description] originating in [country]
+**NOTICE OF INITIATION OF AN ANTI-DUMPING PROCEDURE**
+*concerning imports of [product description] originating in [country]*
 
-C([YYYY]) [reference] — OJ C [N], [date], p. [N]
+*C([YYYY]) [reference] — OJ C [N], [date], p. [N]*
 
-1. THE PRODUCT
-   [Product scope — precise description using CN codes.
-   Product type, uses, technical specifications.
-   Products excluded from the scope — specify clearly.]
+**1. The Product**
 
-2. ALLEGATIONS
-   2.1 Dumping: [Summary of prima facie evidence of dumping —
-     estimated normal value basis, estimated export prices, resulting margin indication]
-   2.2 Injury: [Summary of injury indicators showing material injury —
-     production, market share, profitability, employment data]
-   2.3 Causal link: [Connection between dumped imports and injury — volume, price effects]
+[Product scope — precise description using CN codes. Product type, uses, technical specifications. Products excluded from the scope — specify clearly.]
 
-3. PROCEDURE — DEADLINES
-   □ Register as interested party: [14 days from publication]
-   □ Respond to sampling questionnaire: [15 days from publication]
-   □ Submit questionnaire replies: [37 days from dispatch / 44 days for exporting producers]
-   □ Request hearing: [within the period of investigation]
+**2. Allegations**
 
-4. COOPERATION
-   [Statement on consequences of non-cooperation — adverse facts available (Art. 18)]
+**2.1 Dumping:** [Summary of prima facie evidence of dumping — estimated normal value basis, estimated export prices, resulting margin indication]
 
-5. INVESTIGATIONS PERIOD (IP): [DD Month YYYY – DD Month YYYY (typically 12 months)]
-6. INJURY PERIOD: [DD Month YYYY – IP end date (typically 4 years including IP)]
-```
+**2.2 Injury:** [Summary of injury indicators showing material injury — production, market share, profitability, employment data]
+
+**2.3 Causal link:** [Connection between dumped imports and injury — volume, price effects]
+
+**3. Procedure — Deadlines**
+
+- [ ] Register as interested party: [14 days from publication]
+- [ ] Respond to sampling questionnaire: [15 days from publication]
+- [ ] Submit questionnaire replies: [37 days from dispatch / 44 days for exporting producers]
+- [ ] Request hearing: [within the period of investigation]
+
+**4. Cooperation**
+
+[Statement on consequences of non-cooperation — adverse facts available (Art. 18)]
+
+**5. Investigation Period (IP):** [DD Month YYYY – DD Month YYYY (typically 12 months)]
+
+**6. Injury Period:** [DD Month YYYY – IP end date (typically 4 years including IP)]
 
 ### 2. Injury Analysis Summary Table
 
-```
-INJURY ANALYSIS — [PRODUCT] FROM [COUNTRY]
-Investigation Period: [YYYY]   Injury period: [YYYY–YYYY]   EU industry: [N sampled producers]
+**INJURY ANALYSIS — [PRODUCT] FROM [COUNTRY]**
 
-─────────────────────────────────────────────────────────
-MACROECONOMIC INDICATORS (whole EU industry)
-─────────────────────────────────────────────────────────
+**Investigation Period:** [YYYY] — **Injury period:** [YYYY–YYYY] — **EU industry:** [N sampled producers]
+
+**Macroeconomic Indicators** *(whole EU industry)*
+
 | Indicator | [Y-3] | [Y-2] | [Y-1] | IP | Trend |
 |---|---|---|---|---|---|
 | Production (tonnes/units) | | | | | |
@@ -257,9 +257,8 @@ MACROECONOMIC INDICATORS (whole EU industry)
 | Market share (%) | | | | | |
 | Employment (FTEs) | | | | | |
 
-─────────────────────────────────────────────────────────
-MICROECONOMIC INDICATORS (sampled producers)
-─────────────────────────────────────────────────────────
+**Microeconomic Indicators** *(sampled producers)*
+
 | Indicator | [Y-3] | [Y-2] | [Y-1] | IP | Trend |
 |---|---|---|---|---|---|
 | Sales value (EUR) | | | | | |
@@ -270,9 +269,8 @@ MICROECONOMIC INDICATORS (sampled producers)
 | Return on investment (%) | | | | | |
 | Wages (EUR/FTE) | | | | | |
 
-─────────────────────────────────────────────────────────
-IMPORT VOLUME AND PRICE EFFECTS
-─────────────────────────────────────────────────────────
+**Import Volume and Price Effects**
+
 | | [Y-3] | [Y-2] | [Y-1] | IP |
 |---|---|---|---|---|
 | Import volume (tonnes) from [country] | | | | |
@@ -281,10 +279,10 @@ IMPORT VOLUME AND PRICE EFFECTS
 | Price undercutting margin (%) | | | | |
 | Price underselling margin (%) | | | | |
 
-CONCLUSION: □ Material injury established □ Not established [reason]
-INJURY MARGIN (underselling): [X]%   DUMPING MARGIN: [Y]%
-LESSER DUTY APPLICABLE: [min(X,Y)]%
-```
+**Conclusion:**
+- [ ] Material injury established — [ ] Not established [reason]
+
+**Injury margin (underselling):** [X]% — **Dumping margin:** [Y]% — **Lesser duty applicable:** [min(X,Y)]%
 
 ---
 

@@ -119,21 +119,21 @@ operational and reporting requirements of DG management structures.
 
 ### 1. Unit Work Programme (Annual)
 
-```
 UNIT WORK PROGRAMME [YEAR]
 DG: [XX]        Directorate: [X]       Unit: [X.X — Name]
 Head of Unit:   [Name]                  Date: [Month YYYY]
 
-UNIT MANDATE:
+**Unit Mandate:**
 [2–3 sentences on the unit's core mission within the DG and its principal outputs.]
 
-LINK TO DG ANNUAL MANAGEMENT PLAN:
+**Link to DG Annual Management Plan:**
 AMP Specific Objective: [SO number and title as per DG AMP]
 AMP Output(s): [Output reference — OBJ X.Y — Title]
 
-─────────────────────────────────────────────────────────────────
-OBJECTIVE 1: [Title]
-─────────────────────────────────────────────────────────────────
+---
+
+#### Objective 1: [Title]
+
 Description:    [What the unit will deliver — be specific]
 Key output(s):  [Legislative proposal / report / study / opinion / event]
 Deadline:       [Q / Semester / Date]
@@ -142,39 +142,44 @@ Resources:      [N FTEs + any external support / budget]
 Risk:           [Main risk to delivery and mitigation]
 KPI:            [How completion will be measured]
 
-─────────────────────────────────────────────────────────────────
-OBJECTIVE 2: [...]
-─────────────────────────────────────────────────────────────────
+---
+
+#### Objective 2: [...]
+
 [Same structure]
 
-─────────────────────────────────────────────────────────────────
-HORIZONTAL TASKS (ongoing)
-─────────────────────────────────────────────────────────────────
-□ ISC contributions: [List of expected consultations]
-□ Parliamentary questions: [Estimated N per year — handled by [name]]
-□ Stakeholder meetings: [List of regular fora]
-□ Reporting obligations: [AAR contribution, COO dashboard, AMP mid-year review]
-□ Budget management: [ABAC commitment monitoring — [name] as AOSD]
+---
 
-UNIT RESOURCES SUMMARY:
+#### Horizontal Tasks (ongoing)
+
+- [ ] ISC contributions: [List of expected consultations]
+- [ ] Parliamentary questions: [Estimated N per year — handled by [name]]
+- [ ] Stakeholder meetings: [List of regular fora]
+- [ ] Reporting obligations: [AAR contribution, COO dashboard, AMP mid-year review]
+- [ ] Budget management: [ABAC commitment monitoring — [name] as AOSD]
+
+**Unit Resources Summary:**
 Permanent officials: [N]    AD: [N]    AST: [N]
 Temporary agents:   [N]    CA:  [N]
 Seconded experts:   [N]    Trainees: [N]
 Total FTE:          [N]
 
-RISKS & DEPENDENCIES:
+**Risks & Dependencies:**
 [Up to 3 key risks — staff departures, political priority changes, IT tool delays, etc.]
-```
+
+---
 
 ### 2. CDR Appraisal Report — HoU Section (Structured Assessment)
 
-```
 CDR ASSESSMENT — HEAD OF UNIT CONTRIBUTION
 Staff member:      [Name, grade/step]
 Assessment period: [1 January – 31 December YYYY]
 Reporting official: [HoU name]
 
-SECTION 1 — ACHIEVEMENT OF OBJECTIVES
+---
+
+#### Section 1 — Achievement of Objectives
+
 (Rate each objective: Exceptional / Very Good / Good / Satisfactory / Unsatisfactory)
 
 Objective 1: [Title]
@@ -184,9 +189,12 @@ Justification: [2–4 sentences — specific evidence, outputs delivered, qualit
 Objective 2: [...]
 [Same structure for each objective]
 
-OVERALL PERFORMANCE RATING: [Exceptional / Very Good / Good / Satisfactory / Unsatisfactory]
+**Overall Performance Rating:** [Exceptional / Very Good / Good / Satisfactory / Unsatisfactory]
 
-SECTION 2 — COMPETENCIES ASSESSMENT
+---
+
+#### Section 2 — Competencies Assessment
+
 (Core competencies rated on 5-point scale per SYSPER framework)
 
 a) Analysis and problem-solving:    [1–5]  Comments: [...]
@@ -196,65 +204,77 @@ d) Prioritising and organising:     [1–5]  Comments: [...]
 e) Resilience:                      [1–5]  Comments: [...]
 f) Working with others:             [1–5]  Comments: [...]
 g) Communication:                   [1–5]  Comments: [...]
+
 [Additional leadership competencies for HoU-rated staff: h) Leadership; i) Managing people]
 
-SECTION 3 — MERIT POINTS RECOMMENDATION
+---
+
+#### Section 3 — Merit Points Recommendation
+
 (Total merit points: 0–20; distributed among staff; must respect DG quotas)
 Recommended merit points: [N]
 Justification: [Brief — how the score reflects overall performance relative to peers]
 
-SECTION 4 — DEVELOPMENT & LEARNING
+---
+
+#### Section 4 — Development & Learning
+
 Training undertaken in [YEAR]: [...]
 Training recommended for [YEAR+1]: [...]
 Career development remarks: [...]
 
-SECTION 5 — DIALOGUE MEETING NOTE
+---
+
+#### Section 5 — Dialogue Meeting Note
+
 Date of dialogue meeting: [DD Month YYYY]
 Key points discussed: [...]
 Staff member's main remarks: [...]
 Points of disagreement (if any): [...]
-```
+
+---
 
 ### 3. Unit Meeting Agenda Template
 
-```
 UNIT MEETING — AGENDA
 Unit:    [DG XX / Directorate X / Unit X.X — Name]
 Date:    [DD Month YYYY]    Time: [HH:MM]    Room: [Building/Room or Teams link]
 Chair:   [Head of Unit]
 
-1. ADOPTION OF AGENDA [5 min]
+**1. Adoption of Agenda** [5 min]
 
-2. FOLLOW-UP FROM PREVIOUS MEETING [10 min]
-   Action points from [DD Month YYYY] meeting — status update.
+**2. Follow-up from Previous Meeting** [10 min]
+Action points from [DD Month YYYY] meeting — status update.
 
-3. WORK PROGRAMME UPDATE [20 min]
-   3.1 Priority files — status and upcoming milestones
-       - [File 1]: [Lead] — [Status] — [Next step by DD Month]
-       - [File 2]: [...]
-   3.2 Risks and bottlenecks — items needing HoU decision or escalation
+**3. Work Programme Update** [20 min]
+3.1 Priority files — status and upcoming milestones
+- [File 1]: [Lead] — [Status] — [Next step by DD Month]
+- [File 2]: [...]
 
-4. OPERATIONAL MATTERS [10 min]
-   4.1 Absences and leave — coverage arrangements
-   4.2 Missions planned — [names, destinations, dates]
-   4.3 Deadlines this month: [List]
+3.2 Risks and bottlenecks — items needing HoU decision or escalation
 
-5. DG / DIRECTORATE NEWS [5 min]
-   Points from Director's meeting / DG management meeting of [date].
+**4. Operational Matters** [10 min]
+4.1 Absences and leave — coverage arrangements
+4.2 Missions planned — [names, destinations, dates]
+4.3 Deadlines this month: [List]
 
-6. ANY OTHER BUSINESS [5 min]
+**5. DG / Directorate News** [5 min]
+Points from Director's meeting / DG management meeting of [date].
+
+**6. Any Other Business** [5 min]
 
 NEXT MEETING: [Date, Time, Room]
 
-ACTION POINTS FROM THIS MEETING:
+**Action Points from This Meeting:**
+
 | # | Action | Owner | Deadline |
 |---|--------|-------|----------|
 | 1 | ...    | ...   | ...      |
-```
+
+---
 
 ### 4. Staff Performance Concern — First Written Memo
 
-```
 [PERSONAL & CONFIDENTIAL]
 [Date]
 
@@ -286,10 +306,9 @@ Please confirm receipt of this memo by signing the copy below.
 [Name]
 Head of Unit
 
-─────────────────────────────
+---
 Staff member's acknowledgement of receipt (does not imply agreement):
 Date: ___________   Signature: ___________
-```
 
 ---
 
@@ -302,3 +321,7 @@ dashboard, Financial Regulation Arts. 73–74 (subdelegation, AOSD), Commission 
 guidelines, OLAF cooperation procedures, Staff Committee consultation procedures,
 Appointing Authority delegation acts, Commission Decision on telework and hybrid work,
 EUCI handling rules (CONFIDENTIEL UE / RESTREINT UE), Mission and travel rules (C2 system).
+
+---
+
+> **DRAFT** — For review by the responsible official before action is taken. Not an official Commission decision or position.

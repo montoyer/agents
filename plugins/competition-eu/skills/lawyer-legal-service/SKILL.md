@@ -140,7 +140,6 @@ legal advisory function and external litigation mandate.
 
 ### 1. Legal Opinion — Structure
 
-```
 COMMISSION LEGAL SERVICE
 LEGAL OPINION
 
@@ -150,22 +149,25 @@ Subject:   Legal assessment of [measure / question / draft act]
 Requested by: [DG XX — contact]
 Classification: LIMITE (unless otherwise specified)
 
-─────────────────────────────────────────────────────────
-I. INTRODUCTION AND QUESTION REFERRED
-─────────────────────────────────────────────────────────
+---
+
+### I. Introduction and Question Referred
+
 [Statement of the precise legal question(s) referred. Identification of the relevant
 act or draft. Brief statement of why the question arises.]
 
-─────────────────────────────────────────────────────────
-II. LEGAL FRAMEWORK
-─────────────────────────────────────────────────────────
+---
+
+### II. Legal Framework
+
 [Relevant treaty provisions, secondary legislation, and case law. Only what is
 directly relevant to the question — the Legal Service is not a library.
 Present the framework clearly before the analysis.]
 
-─────────────────────────────────────────────────────────
-III. LEGAL ANALYSIS
-─────────────────────────────────────────────────────────
+---
+
+### III. Legal Analysis
+
 [Question 1: [e.g., legal basis]]
 [Legal analysis — rigorous, step by step. Cite treaty text exactly. Cite CJEU
 case law with case name and reference. Distinguish between settled law and legal uncertainty.]
@@ -175,50 +177,63 @@ case law with case name and reference. Distinguish between settled law and legal
 
 [Question 3 if applicable...]
 
-─────────────────────────────────────────────────────────
-IV. CONCLUSION
-─────────────────────────────────────────────────────────
+---
+
+### IV. Conclusion
+
 [Summary of the Legal Service's conclusions — one paragraph per question.
 Where the law is settled: clear conclusion. Where it is uncertain: assess
 the litigation risk and the strength of alternative positions.]
 
 Overall assessment:
-□ No legal obstacle to adoption.
-□ Legal obstacles identified — see above. Recommend modifications: [specify].
-□ Significant legal risk — adoption not advised without modifications.
+- [ ] No legal obstacle to adoption.
+- [ ] Legal obstacles identified — see above. Recommend modifications: [specify].
+- [ ] Significant legal risk — adoption not advised without modifications.
 
-─────────────────────────────────────────────────────────
-V. CAVEATS AND RESERVATIONS
-─────────────────────────────────────────────────────────
+---
+
+### V. Caveats and Reservations
+
 [Any areas of legal uncertainty, pending CJEU cases that may affect the analysis,
 or questions the Legal Service cannot answer without additional factual information.]
 
 [Name of author(s)]
 [Title — Legal Service]
-```
+
+---
 
 ### 2. Written Observations (CJEU / General Court) — Skeleton
 
-```
 COURT OF JUSTICE OF THE EUROPEAN UNION / GENERAL COURT
 Case [C-XXX/YY] or [T-XXX/YY]
 [Applicant] v European Commission
 
 WRITTEN OBSERVATIONS OF THE EUROPEAN COMMISSION
 
-I. INTRODUCTION
+---
+
+### I. Introduction
+
 [Brief statement of the case. What the applicant seeks and why the Commission
 contends the application should be dismissed.]
 
-II. ADMISSIBILITY
+---
+
+### II. Admissibility
+
 [If standing or admissibility is contested — Plaumann test for individuals;
 Inuit for regulatory acts. Time limit. Interest in bringing proceedings.]
 
-III. FACTUAL BACKGROUND
+---
+
+### III. Factual Background
+
 [Commission's account of the facts. Where the applicant's version is inaccurate
 or incomplete — correct it here, with references to the file.]
 
-IV. SUBSTANCE
+---
+
+### IV. Substance
 
 Plea 1: [Title of the plea]
 [Commission's response — point by point, citing CJEU case law.
@@ -228,47 +243,49 @@ Plea 2: [...]
 
 [...]
 
-V. CONCLUSION
+---
+
+### V. Conclusion
+
 [Commission requests the Court to: (1) dismiss the application / (2) order
 the applicant to pay the costs.]
 
 [Name, Legal Service]
 [Dated and signed]
-```
+
+---
 
 ### 3. Risk Assessment Note (Litigation Risk)
 
-```
 LITIGATION RISK ASSESSMENT
 Act:         [Title — COM/C/SWD reference]
 DG:          [Lead DG]
 Date:        [DD Month YYYY]
 Prepared by: [Legal Service unit]
 
-POTENTIAL APPLICANTS AND STANDING:
+**Potential Applicants and Standing:**
 [Who is likely to challenge? Member states (privileged — Art. 263(2))?
 Companies / associations (non-privileged — Plaumann test)?]
 
-GROUNDS FOR CHALLENGE (anticipated):
-□ Wrong legal basis — [analysis of risk: low / medium / high]
-□ Proportionality violation — [analysis]
-□ Procedural illegality — [analysis]
-□ Fundamental rights breach — [analysis]
-□ Other: [...]
+**Grounds for Challenge (anticipated):**
+- [ ] Wrong legal basis — [analysis of risk: low / medium / high]
+- [ ] Proportionality violation — [analysis]
+- [ ] Procedural illegality — [analysis]
+- [ ] Fundamental rights breach — [analysis]
+- [ ] Other: [...]
 
-COMMISSION POSITION'S STRENGTH:
+**Commission Position's Strength:**
 [Assessment of the Commission's legal arguments on each anticipated ground.
 Which are strong? Which are weaker? Where is the legal uncertainty?]
 
-RECENT CASE LAW RISK:
+**Recent Case Law Risk:**
 [Any pending CJEU/GC cases that could undermine the Commission's position?]
 
-OVERALL LITIGATION RISK: □ Low □ Medium □ High
+**Overall Litigation Risk:** - [ ] Low - [ ] Medium - [ ] High
 
-RISK MITIGATION RECOMMENDATIONS:
+**Risk Mitigation Recommendations:**
 [Specific modifications to the act that would reduce litigation risk.
 Or: risk is acceptable and the Commission should proceed.]
-```
 
 ---
 
@@ -286,3 +303,7 @@ legitimate expectations (Mulder), legal certainty, equal treatment, effective ju
 protection (Unibet), Commission Legal Service internal procedure manual, Art. 218 TFEU
 (international agreements — Opinion 2/13 on ECHR accession), WTO dispute settlement
 (DSU — Appellate Body system), Protocol No. 2 on subsidiarity (Early Warning Mechanism).
+
+---
+
+> **DRAFT** — For review by a Competition lawyer or Legal Service lawyer before use. Not an official Commission position.

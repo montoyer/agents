@@ -118,80 +118,94 @@ contract signature may be listed subsequently, triggering immediate obligations.
 
 ## Sanctions Screening Report Template
 
-```
-SANCTIONS SCREENING REPORT
-Reference:        SSR-[DG]-[YYYY]-[NNN]
-Date:             [DD Month YYYY]   Screened by: [Name]
-Transaction:      [Description — grant / contract / payment / partnership]
-Counterparty:     [Full legal name]   Registration: [Number / Country]
-Ultimate beneficial owner: [Name / structure if known]
+**SANCTIONS SCREENING REPORT**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1 — EU CONSOLIDATED LIST CHECK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Database checked:  EU Consolidated Sanctions List (sanctions.ec.europa.eu)
-Date of check:     [DD Month YYYY]   Time: [HH:MM] (captures snapshot — re-check before payment)
-Search terms used: [Full legal name; aliases; transliterations; registration number]
+**Reference:** SSR-[DG]-[YYYY]-[NNN] — **Date:** [DD Month YYYY] — **Screened by:** [Name]
 
-Result:
-  [ ] NO MATCH — counterparty not on EU consolidated list
-  [ ] POTENTIAL MATCH — [describe — name similarity / homonym] — further due diligence required
-  [ ] CONFIRMED MATCH — [name as listed; regime; designation date] → STOP — see Section 4
+**Transaction:** [Description — grant / contract / payment / partnership]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 2 — OWNERSHIP AND CONTROL SCREENING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Ownership chain reviewed:         [ ] YES (depth: [N levels])  [ ] Limited — [reason]
-Ultimate beneficial owner checked: [ ] YES  [ ] NO [reason]
-Any owner / controller on the list: [ ] YES [identify]  [ ] NO
+**Counterparty:** [Full legal name] — **Registration:** [Number / Country]
 
-Source of ownership data:  [ ] Company register  [ ] Annual report  [ ] Declaration by counterparty
-                           [ ] Commercial database (Orbis / Bureau van Dijk / other: [name])
+**Ultimate beneficial owner:** [Name / structure if known]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 3 — SECTORAL SANCTIONS CHECK (applicable regimes only)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Applicable regime:   [ ] Russia  [ ] Belarus  [ ] Iran  [ ] Other: [name]
-Sectoral check:
-  Goods involved — dual-use / advanced technology?   [ ] YES [CN code: X] → export control check
-  Entity in restricted financial sector?             [ ] YES [identify restriction]
-  Entity in restricted energy / transport sector?    [ ] YES [identify restriction]
-  Transaction type restricted?                       [ ] YES [identify restriction]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 4 — CONFIRMED MATCH / POSITIVE HIT PROCEDURE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[Complete only if a match is identified]
-Listed entity:       [Name as on the list]
-Regime:              [CFSP Decision ref] + [Regulation ref]
-Designation date:    [DD Month YYYY]
-Grounds:             [Summary of listing reasons as stated in the Council Regulation]
+#### Step 1 — EU Consolidated List Check
 
-Immediate obligations:
-  [ ] Freeze all assets held: notify [financial institution / payment system] — done [date]
-  [ ] Suspend all pending payments to this entity immediately
-  [ ] Do NOT award the contract / sign the grant agreement
-  [ ] Notify the competent authority (CA) of [MS]: [authority name]
-  [ ] Report to EEAS and Legal Service
+**Database checked:** EU Consolidated Sanctions List (sanctions.ec.europa.eu)
 
-Derogation applicable?
-  [ ] Humanitarian — fast-track application to CA [authority]
-  [ ] Prior contractual obligation — assessment required
-  [ ] No derogation available
+**Date of check:** [DD Month YYYY] — **Time:** [HH:MM] *(captures snapshot — re-check before payment)*
 
-[review — Legal Service consultation required before any action involving a listed entity]
-[review — political judgement required: notify Commissioner's cabinet]
+**Search terms used:** [Full legal name; aliases; transliterations; registration number]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OVERALL CONCLUSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] CLEAR — no match; no sectoral restriction; proceed with transaction
-[ ] CLEAR WITH MONITORING — no match now; re-screen before each payment
-[ ] UNDER REVIEW — potential match being investigated — suspend transaction pending resolution
-[ ] HIT — transaction blocked; legal and compliance action initiated
+**Result:**
+- [ ] NO MATCH — counterparty not on EU consolidated list
+- [ ] POTENTIAL MATCH — [describe — name similarity / homonym] — further due diligence required
+- [ ] CONFIRMED MATCH — [name as listed; regime; designation date] → STOP — see Section 4
 
-Next re-screening due:   [DD Month YYYY] (before next payment / periodically)
-```
+---
+
+#### Step 2 — Ownership and Control Screening
+
+| Item | Status |
+|---|---|
+| Ownership chain reviewed | - [ ] YES (depth: [N levels]) — [ ] Limited — [reason] |
+| Ultimate beneficial owner checked | - [ ] YES — [ ] NO [reason] |
+| Any owner / controller on the list | - [ ] YES [identify] — [ ] NO |
+
+**Source of ownership data:**
+- [ ] Company register — [ ] Annual report — [ ] Declaration by counterparty
+- [ ] Commercial database (Orbis / Bureau van Dijk / other: [name])
+
+---
+
+#### Step 3 — Sectoral Sanctions Check *(applicable regimes only)*
+
+**Applicable regime:** - [ ] Russia — [ ] Belarus — [ ] Iran — [ ] Other: [name]
+
+**Sectoral check:**
+- [ ] Goods involved — dual-use / advanced technology? [CN code: X] → export control check
+- [ ] Entity in restricted financial sector? [identify restriction]
+- [ ] Entity in restricted energy / transport sector? [identify restriction]
+- [ ] Transaction type restricted? [identify restriction]
+
+---
+
+#### Step 4 — Confirmed Match / Positive Hit Procedure
+
+*Complete only if a match is identified.*
+
+**Listed entity:** [Name as on the list]
+
+**Regime:** [CFSP Decision ref] + [Regulation ref] — **Designation date:** [DD Month YYYY]
+
+**Grounds:** [Summary of listing reasons as stated in the Council Regulation]
+
+**Immediate obligations:**
+- [ ] Freeze all assets held: notify [financial institution / payment system] — done [date]
+- [ ] Suspend all pending payments to this entity immediately
+- [ ] Do NOT award the contract / sign the grant agreement
+- [ ] Notify the competent authority (CA) of [MS]: [authority name]
+- [ ] Report to EEAS and Legal Service
+
+**Derogation applicable?**
+- [ ] Humanitarian — fast-track application to CA [authority]
+- [ ] Prior contractual obligation — assessment required
+- [ ] No derogation available
+
+`[review — Legal Service consultation required before any action involving a listed entity]`
+`[review — political judgement required: notify Commissioner's cabinet]`
+
+---
+
+#### Overall Conclusion
+
+- [ ] **CLEAR** — no match; no sectoral restriction; proceed with transaction
+- [ ] **CLEAR WITH MONITORING** — no match now; re-screen before each payment
+- [ ] **UNDER REVIEW** — potential match being investigated — suspend transaction pending resolution
+- [ ] **HIT** — transaction blocked; legal and compliance action initiated
+
+**Next re-screening due:** [DD Month YYYY] *(before next payment / periodically)*
 
 ---
 

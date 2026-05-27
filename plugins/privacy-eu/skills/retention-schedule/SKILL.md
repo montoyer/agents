@@ -100,121 +100,101 @@ purposes complies with EUDPR safeguards.
 
 ## Retention Schedule Matrix Template
 
-```
-RETENTION SCHEDULE
+**RETENTION SCHEDULE**
 Processing activity: [name]
-RoPA reference:      ROPA-[DG]-[YYYY]-[NNN]
-Date of schedule:    [DD Month YYYY]
-Next review date:    [DD Month YYYY]
-DPO sign-off:        [DPO name — date]
+RoPA reference: ROPA-[DG]-[YYYY]-[NNN]
+Date of schedule: [DD Month YYYY]
+Next review date: [DD Month YYYY]
+DPO sign-off: [DPO name — date]
 
-Data category          Trigger event              Active period  Legal basis / justification         Archive?  Deletion method
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-[e.g. Recruitment      Rejection / withdrawal     2 years        Art. 27 SR; appeal limitation        NO        Automated — system
-application data]      of application                            period (3 months + margin)                      deletion + backup purge
-
-[e.g. Staff appraisal  End of employment          10 years       Art. 43 SR; pension file link;       YES →     Anonymise after
-reports]                                                          Historical Archives Rule (30y)        30 years  active period
-
-[e.g. Grant financial  Final payment /            7 years        Art. 132 Financial Regulation;        NO        Secure deletion
-records]               closure of grant                          Horizon Europe grant agreement                  via IT request
-
-[e.g. Procurement      Contract award / cancel    5 years        Art. 168 Financial Regulation;        NO        Secure deletion
-evaluation reports]                                              ECA audit access window
-
-[e.g. Meeting          Date of meeting            3 years        Operational necessity;                NO        Automatic archive
-participants list]                                               no legal obligation                             → deletion
-
-[e.g. Access logs      Log creation               6 months       Art. 12 AI Act (if AI system);        NO        Automated log
-(IT systems)]                                                     CERT-EU incident investigation                  rotation
-
-[e.g. Email            Date of email (or end      3 years        Operational + legal challenge         NO        Automated purge
-correspondence]        of related procedure)                      window; no statutory obligation                 per mail policy
-
-[e.g. Health data      End of employment          Lifetime of    Art. 10(2)(h) EUDPR; occupational    YES →     Transfer to HR
-(occupational health)] + [N] years                employee +      health legal obligation               Historical  archive
-                                                  [N] years       [verify national implementing law]    Archive
-
-[e.g. CCTV footage]    Date of recording          72 hours       Operational necessity (security);     NO        Automated
-                                                  (routine)      no legal obligation beyond this                 overwrite
-                                                  30 days        Incident preservation only
-                                                  (incident)
-```
+| Data category | Trigger event | Active period | Legal basis / justification | Archive? | Deletion method |
+|---|---|---|---|---|---|
+| Recruitment application data | Rejection / withdrawal of application | 2 years | Art. 27 SR; appeal limitation period (3 months + margin) | NO | Automated system deletion + backup purge |
+| Staff appraisal reports | End of employment | 10 years | Art. 43 SR; pension file link; Historical Archives Rule (30y) | YES → 30 years | Anonymise after active period |
+| Grant financial records | Final payment / closure of grant | 7 years | Art. 132 Financial Regulation; Horizon Europe grant agreement | NO | Secure deletion via IT request |
+| Procurement evaluation reports | Contract award / cancel | 5 years | Art. 168 Financial Regulation; ECA audit access window | NO | Secure deletion |
+| Meeting participants list | Date of meeting | 3 years | Operational necessity; no legal obligation | NO | Automatic archive → deletion |
+| Access logs (IT systems) | Log creation | 6 months | Art. 12 AI Act (if AI system); CERT-EU incident investigation | NO | Automated log rotation |
+| Email correspondence | Date of email (or end of related procedure) | 3 years | Operational + legal challenge window; no statutory obligation | NO | Automated purge per mail policy |
+| Health data (occupational health) | End of employment + [N] years | Lifetime of employee + [N] years | Art. 10(2)(h) EUDPR; occupational health legal obligation [verify national implementing law] | YES → Historical Archive | Transfer to HR archive |
+| CCTV footage | Date of recording | 72 hours (routine); 30 days (incident) | Operational necessity (security); no legal obligation beyond this | NO | Automated overwrite |
 
 ---
 
 ## Sectoral Retention Reference
 
-```
-SECTORAL RETENTION PERIODS — KEY RULES
 [model knowledge — verify current versions; sectoral instruments may be updated]
 
-STAFF / HR DATA
-Category                          Period        Trigger              Legal basis
-Recruitment — successful          10 years      End of employment    Art. 43 SR; pension
-Recruitment — unsuccessful        2 years       Rejection            Art. 27 SR; appeals
-Annual appraisal reports          10 years      End of employment    Art. 43 SR
-Disciplinary files                5 years       End of procedure     Art. 87 SR
-Absence / leave records           5 years       End of employment    Art. 57–61 SR
-Accident / occupational illness   Lifetime+5    End of employment    Art. 73 SR
-Mission expenses                  7 years       Date of mission      Art. 132 FR
+**Staff / HR Data**
 
-FINANCIAL / AUDIT DATA
-Category                          Period        Trigger              Legal basis
-Contracts (general)               7 years       Contract end         Art. 132 FR
-Procurement — award               5 years       Award / cancellation Art. 168 FR; ECA access
-Procurement — rejection letters   3 years       Date of letter       Art. 168 FR; appeals
-Grants (Horizon Europe)           5 years       Final payment        Grant agreement Art. 17
-Structural funds grants           3 years       Final payment        CPR Regulation
-Financial statements              7 years       Year end             Art. 145 FR; ECA
+| Category | Period | Trigger | Legal basis |
+|---|---|---|---|
+| Recruitment — successful | 10 years | End of employment | Art. 43 SR; pension |
+| Recruitment — unsuccessful | 2 years | Rejection | Art. 27 SR; appeals |
+| Annual appraisal reports | 10 years | End of employment | Art. 43 SR |
+| Disciplinary files | 5 years | End of procedure | Art. 87 SR |
+| Absence / leave records | 5 years | End of employment | Art. 57–61 SR |
+| Accident / occupational illness | Lifetime + 5 | End of employment | Art. 73 SR |
+| Mission expenses | 7 years | Date of mission | Art. 132 FR |
 
-LEGAL / ENFORCEMENT
-Category                          Period        Trigger              Legal basis
-Competition / state aid files     10 years      Decision             Limitation period
-Infringement case files           10 years      Closure              Art. 258–260 TFEU
-Legal opinions                    Permanent     Date                 Legal privilege; archives
-OLAF investigation reports        10 years      Closure              Art. 11 OLAF Regulation
+**Financial / Audit Data**
 
-ARCHIVING — COMMISSION HISTORICAL ARCHIVES
-All Commission files:             30 years      Date of creation     Regulation (EEC, Euratom) 354/83
-Transfer to Historical Archives:  After 30 years automatic transfer unless classified
-```
+| Category | Period | Trigger | Legal basis |
+|---|---|---|---|
+| Contracts (general) | 7 years | Contract end | Art. 132 FR |
+| Procurement — award | 5 years | Award / cancellation | Art. 168 FR; ECA access |
+| Procurement — rejection letters | 3 years | Date of letter | Art. 168 FR; appeals |
+| Grants (Horizon Europe) | 5 years | Final payment | Grant agreement Art. 17 |
+| Structural funds grants | 3 years | Final payment | CPR Regulation |
+| Financial statements | 7 years | Year end | Art. 145 FR; ECA |
+
+**Legal / Enforcement**
+
+| Category | Period | Trigger | Legal basis |
+|---|---|---|---|
+| Competition / state aid files | 10 years | Decision | Limitation period |
+| Infringement case files | 10 years | Closure | Art. 258–260 TFEU |
+| Legal opinions | Permanent | Date | Legal privilege; archives |
+| OLAF investigation reports | 10 years | Closure | Art. 11 OLAF Regulation |
+
+**Archiving — Commission Historical Archives**
+
+- All Commission files: 30 years from date of creation — Regulation (EEC, Euratom) 354/83
+- Transfer to Historical Archives: after 30 years, automatic transfer unless classified
 
 ---
 
 ## Deletion Procedure Checklist
 
-```
-DELETION / ANONYMISATION PROCEDURE
-Processing activity: [name]  Data category: [category]  Retention end date: [date]
+**DELETION / ANONYMISATION PROCEDURE**
+Processing activity: [name] | Data category: [category] | Retention end date: [date]
 
-Pre-deletion checks:
-  [ ] Confirm no active legal proceedings, audits, or investigations requiring data preservation
-  [ ] Confirm no pending data subject access request covering this data
-  [ ] Confirm no OLAF or disciplinary investigation placing a legal hold on data
-  [ ] Confirm archiving determination made — archive or delete
+**Pre-deletion checks:**
+- [ ] Confirm no active legal proceedings, audits, or investigations requiring data preservation
+- [ ] Confirm no pending data subject access request covering this data
+- [ ] Confirm no OLAF or disciplinary investigation placing a legal hold on data
+- [ ] Confirm archiving determination made — archive or delete
 
-Deletion method:
-  [ ] Automated deletion by system (confirm system capability and logs)
-  [ ] Manual deletion via IT ticket (reference: [ticket number])
-  [ ] Anonymisation — confirm re-identification is impossible after anonymisation
-  [ ] Secure overwrite of physical media (if applicable)
+**Deletion method:**
+- [ ] Automated deletion by system (confirm system capability and logs)
+- [ ] Manual deletion via IT ticket (reference: [ticket number])
+- [ ] Anonymisation — confirm re-identification is impossible after anonymisation
+- [ ] Secure overwrite of physical media (if applicable)
 
-Backup purge:
-  [ ] Confirm deletion includes all backup copies and disaster recovery replicas
-  [ ] Backup purge completed by: [date] — method: [automated rotation / manual]
+**Backup purge:**
+- [ ] Confirm deletion includes all backup copies and disaster recovery replicas
+- [ ] Backup purge completed by: [date] — method: [automated rotation / manual]
 
-Processor deletion:
-  [ ] Processor notified of deletion obligation per Art. 29(3) EUDPR
-  [ ] Processor deletion certificate received: [ ] YES  [ ] NO — due: [date]
+**Processor deletion:**
+- [ ] Processor notified of deletion obligation per Art. 29(3) EUDPR
+- [ ] Processor deletion certificate received: - [ ] YES - [ ] NO — due: [date]
 
-Documentation:
-  [ ] Deletion recorded in processing system audit log
-  [ ] RoPA updated to reflect retention period closure
-  [ ] DPO notified (if special categories or high-risk processing)
+**Documentation:**
+- [ ] Deletion recorded in processing system audit log
+- [ ] RoPA updated to reflect retention period closure
+- [ ] DPO notified (if special categories or high-risk processing)
 
-Completed by: [name / function]  Date: [DD Month YYYY]
-```
+**Completed by:** [name / function] **Date:** [DD Month YYYY]
 
 ---
 

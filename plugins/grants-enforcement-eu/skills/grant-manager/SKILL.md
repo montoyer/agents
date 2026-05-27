@@ -85,29 +85,27 @@ manage financial corrections in a way that is legally sound, auditable, and fair
 
 ## Grant Payment Formula (Horizon Europe)
 
-```
-GRANT PAYMENT CALCULATION
+**GRANT PAYMENT CALCULATION**
 
-Total Eligible Costs (TEC):                     €[X]
-Funding Rate (FR):                              [70% / 80% / 100%] (as per GA Art. X)
-Maximum EU Contribution (MEC = TEC × FR):       €[X]
-  [Cannot exceed the Maximum Grant Amount in the GA]
+| Item | Amount |
+|---|---|
+| Total Eligible Costs (TEC) | €[X] |
+| Funding Rate (FR) — per GA Art. X | [70% / 80% / 100%] |
+| Maximum EU Contribution (MEC = TEC × FR) | €[X] *(cannot exceed GA Maximum Grant Amount)* |
+| Pre-financing paid (PF) | €[X] |
+| Interim payments paid (IP) | €[X] |
+| **Final Payment** = min(MEC, GA max) − PF − IP | **€[X]** |
 
-Pre-financing paid (PF):                        €[X]
-Interim payments paid (IP):                     €[X]
+*Positive result → payment to beneficiary. Negative result → recovery order.*
 
-FINAL PAYMENT:
-= min(MEC, GA max) − PF − IP
-= €[X] − €[PF] − €[IP]
-= €[X]   [Positive → payment to beneficiary | Negative → recovery order]
+**If ineligible costs identified:**
 
-INELIGIBLE COSTS IDENTIFIED (if any):
-Ineligible amount:                              €[X]
-Correction to TEC:                              TEC − ineligible = €[X adjusted]
-Revised final payment:                          €[X]
-
-Recovery order issued (if applicable):          €[X]
-```
+| Item | Amount |
+|---|---|
+| Ineligible amount | €[X] |
+| Corrected TEC (TEC − ineligible) | €[X adjusted] |
+| Revised final payment | €[X] |
+| Recovery order issued | €[X] |
 
 ---
 
@@ -166,104 +164,99 @@ Recovery order issued (if applicable):          €[X]
 
 ### 1. Grant Payment Assessment — Checklist and Conclusion
 
-```
-GRANT PAYMENT ASSESSMENT
-Programme:      [Horizon Europe / LIFE / CEF / ...]
-Grant Agreement: [Agreement number]
-Beneficiary:    [Name]
-Payment type:   □ Pre-financing  □ Interim  □ Final
-Reference period: [DD Month YYYY] – [DD Month YYYY]
-Assessed by:    [Name, unit]
-Date:           [DD Month YYYY]
+**GRANT PAYMENT ASSESSMENT**
 
-─────────────────────────────────────────────────────────
-TECHNICAL REPORT ASSESSMENT
-─────────────────────────────────────────────────────────
-□ Report submitted on time (deadline: [date])
-□ All deliverables for this period listed
-□ Milestones achieved: [List — or list of outstanding]
-□ Scientific / technical quality: □ Satisfactory □ Issues identified [detail]
-□ Underperformance flagged to HoU: □ Yes □ No
+**Programme:** [Horizon Europe / LIFE / CEF / ...]
+**Grant Agreement:** [Agreement number]
+**Beneficiary:** [Name]
+**Payment type:** - [ ] Pre-financing - [ ] Interim - [ ] Final
+**Reference period:** [DD Month YYYY] – [DD Month YYYY]
+**Assessed by:** [Name, unit]
+**Date:** [DD Month YYYY]
 
-─────────────────────────────────────────────────────────
-FINANCIAL REPORT ASSESSMENT
-─────────────────────────────────────────────────────────
-Total costs claimed:                €[X]
-Eligible costs after review:        €[X]
-Ineligible costs identified:        €[X] — [reason for each item]
-  - [Cost item]: €[X] — [ineligibility reason — Art. reference in GA]
-  - [...]
+---
 
-Eligibility verification:
-□ Costs within eligible period
-□ Personnel costs based on actual salaries (verification of pay slips/contracts)
-□ Overheads: □ Actual □ Flat rate [X%] — correctly applied
-□ Subcontracts: □ Pre-approved □ Competitive procedure documented
-□ Equipment: □ Depreciation-based □ Within eligible period
-□ CFS required (> €325,000 from EU): □ Received □ Not required □ Missing
+#### Technical Report Assessment
 
-─────────────────────────────────────────────────────────
-PAYMENT CALCULATION
-─────────────────────────────────────────────────────────
+- [ ] Report submitted on time (deadline: [date])
+- [ ] All deliverables for this period listed
+- [ ] Milestones achieved: [List — or list of outstanding]
+- [ ] Scientific / technical quality: - [ ] Satisfactory - [ ] Issues identified [detail]
+- [ ] Underperformance flagged to HoU: - [ ] Yes - [ ] No
+
+#### Financial Report Assessment
+
+**Total costs claimed:** €[X]
+**Eligible costs after review:** €[X]
+**Ineligible costs identified:** €[X] — [reason for each item]
+- [Cost item]: €[X] — [ineligibility reason — Art. reference in GA]
+
+**Eligibility verification:**
+- [ ] Costs within eligible period
+- [ ] Personnel costs based on actual salaries (verification of pay slips/contracts)
+- [ ] Overheads: - [ ] Actual - [ ] Flat rate [X%] — correctly applied
+- [ ] Subcontracts: - [ ] Pre-approved - [ ] Competitive procedure documented
+- [ ] Equipment: - [ ] Depreciation-based - [ ] Within eligible period
+- [ ] CFS required (> €325,000 from EU): - [ ] Received - [ ] Not required - [ ] Missing
+
+#### Payment Calculation
+
 [See formula above — complete with actual figures]
 
-─────────────────────────────────────────────────────────
-CONCLUSION AND ACTION
-─────────────────────────────────────────────────────────
-□ Authorise payment of €[X] — ABAC reference: [ref]
-□ Issue recovery order of €[X] for ineligible costs — ABAC reference: [ref]
-□ Request clarification from beneficiary — deadline: [date]
-□ Refer to OLAF: □ Yes (suspicion of fraud) □ No
-□ Flag to ECA/IAS if under audit: □ Yes □ No
+#### Conclusion and Action
 
-Approved by AOSD: [Name] — Date: [DD Month YYYY]
-```
+- [ ] Authorise payment of €[X] — ABAC reference: [ref]
+- [ ] Issue recovery order of €[X] for ineligible costs — ABAC reference: [ref]
+- [ ] Request clarification from beneficiary — deadline: [date]
+- [ ] Refer to OLAF: - [ ] Yes (suspicion of fraud) - [ ] No
+- [ ] Flag to ECA/IAS if under audit: - [ ] Yes - [ ] No
+
+**Approved by AOSD:** [Name] — Date: [DD Month YYYY]
 
 ### 2. Financial Correction Decision — Note to File
 
-```
-FINANCIAL CORRECTION DECISION — NOTE TO FILE
-Grant Agreement: [Reference]
-Beneficiary:     [Name]
-Audit/Review:    □ ECA  □ IAS  □ OLAF  □ Commission own audit  □ CFS
-Date of finding: [DD Month YYYY]
+**FINANCIAL CORRECTION DECISION — NOTE TO FILE**
 
-─────────────────────────────────────────────────────────
-FINDING SUMMARY
-─────────────────────────────────────────────────────────
-[Description of the ineligibility or irregularity found.
-Article of the GA or FR breached. Amount at stake.]
+**Grant Agreement:** [Reference]
+**Beneficiary:** [Name]
+**Audit/Review:** - [ ] ECA - [ ] IAS - [ ] OLAF - [ ] Commission own audit - [ ] CFS
+**Date of finding:** [DD Month YYYY]
 
-─────────────────────────────────────────────────────────
-CORRECTION METHOD
-─────────────────────────────────────────────────────────
-□ 100% correction — [reason: fraud / entire cost category ineligible]
-□ Flat-rate correction — Rate applied: [X%] — Basis: [Commission implementing decision ref]
-□ Extrapolation — Method: [statistical sampling — sampling rate X%, error rate Y%]
-□ Item-by-item correction — Total ineligible identified: €[X]
+---
 
-─────────────────────────────────────────────────────────
-ADVERSARIAL PROCEDURE
-─────────────────────────────────────────────────────────
-Preliminary findings communicated to beneficiary: [date]
-Beneficiary response received: □ Yes (date: [date]) □ No (deadline expired: [date])
-Beneficiary response assessed: [Assessment — accepted / not accepted — reasons]
+#### Finding Summary
 
-─────────────────────────────────────────────────────────
-FINAL CORRECTION AMOUNT
-─────────────────────────────────────────────────────────
-Total correction:           €[X]
-Previously recovered:       €[X]
-Recovery order to issue:    €[X]
-Recovery deadline for MS:   [date — if shared management]
+[Description of the ineligibility or irregularity found. Article of the GA or FR breached. Amount at stake.]
 
-─────────────────────────────────────────────────────────
-SIGN-OFF
-─────────────────────────────────────────────────────────
-Verified by:    [Name] — Date: [DD/MM/YYYY]
-Approved AOSD: [Name] — Date: [DD/MM/YYYY]
-ABAC Recovery Order ref: [reference]
-```
+#### Correction Method
+
+- [ ] 100% correction — [reason: fraud / entire cost category ineligible]
+- [ ] Flat-rate correction — Rate applied: [X%] — Basis: [Commission implementing decision ref]
+- [ ] Extrapolation — Method: [statistical sampling — sampling rate X%, error rate Y%]
+- [ ] Item-by-item correction — Total ineligible identified: €[X]
+
+#### Adversarial Procedure
+
+**Preliminary findings communicated to beneficiary:** [date]
+**Beneficiary response received:** - [ ] Yes (date: [date]) - [ ] No (deadline expired: [date])
+**Beneficiary response assessed:** [Assessment — accepted / not accepted — reasons]
+
+#### Final Correction Amount
+
+| Item | Amount |
+|---|---|
+| Total correction | €[X] |
+| Previously recovered | €[X] |
+| Recovery order to issue | €[X] |
+| Recovery deadline for MS | [date — if shared management] |
+
+#### Sign-Off
+
+| Role | Name | Date |
+|---|---|---|
+| Verified by | [Name] | [DD/MM/YYYY] |
+| Approved AOSD | [Name] | [DD/MM/YYYY] |
+| ABAC Recovery Order ref | [reference] | |
 
 ---
 

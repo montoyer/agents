@@ -154,110 +154,109 @@ systems. Handles both theoretical entitlement modelling and individual case advi
 
 ### 1. Pension Scenario Modelling Note
 
-```
-PENSION SCENARIO ANALYSIS — INDICATIVE ESTIMATE
-(Non-binding — for information purposes only. Official calculation by PMO at departure.)
+**PENSION SCENARIO ANALYSIS — INDICATIVE ESTIMATE**
+*(Non-binding — for information purposes only. Official calculation by PMO at departure.)*
 
-PERSONAL DATA (for calculation purposes):
-Grade / Step:              [AD X / Step Y]
-Date of entry into service: [DD Month YYYY]
-Reform cohort:             □ Pre-2004  □ 2004–2013  □ Post-2014
-Normal pensionable age:    [60 / 63 / 66] years
-Type of appointment:       □ Official  □ TA (Art. 2[a/b/c/d])  □ CA (FG [I/II/III/IV])
-Pension credits transferred in: [N years / None]
+**Personal data (for calculation purposes):**
 
-CURRENT SERVICE RECORD:
-Years of EU service to date: [N.NN years]
-Projected service at 66:     [N.NN years]
-Projected service at 63:     [N.NN years]
-Service cap (70% = 38.9 yrs): [Reached at age X / Not reached]
+**Grade / Step:** [AD X / Step Y]
+**Date of entry into service:** [DD Month YYYY]
+**Reform cohort:** - [ ] Pre-2004 - [ ] 2004–2013 - [ ] Post-2014
+**Normal pensionable age:** [60 / 63 / 66] years
+**Type of appointment:** - [ ] Official - [ ] TA (Art. 2[a/b/c/d]) - [ ] CA (FG [I/II/III/IV])
+**Pension credits transferred in:** [N years / None]
 
-PENSIONABLE REMUNERATION (current):
-Basic salary at current grade/step: €[amount]/month
-Correction coefficient:            [1.000 / X.XXX] (Brussels = 1.0000)
-Pensionable remuneration:          €[amount]/month = €[amount]/year
+**Current service record:**
 
-─────────────────────────────────────────────────────
-SCENARIO A — Retirement at normal pensionable age ([60/63/66])
-─────────────────────────────────────────────────────
-Service at retirement:     [N] years
-Accrual: [N] × 1.80%       = [X]% (max 70%)
-Annual pension estimate:   €[amount]/year = €[amount]/month
-No actuarial reduction applies.
+| Item | Value |
+|---|---|
+| Years of EU service to date | [N.NN years] |
+| Projected service at 66 | [N.NN years] |
+| Projected service at 63 | [N.NN years] |
+| Service cap (70% = 38.9 yrs) | [Reached at age X / Not reached] |
 
-─────────────────────────────────────────────────────
-SCENARIO B — Early retirement at age [X] ([date])
-─────────────────────────────────────────────────────
-Service at retirement:     [N] years
-Accrual: [N] × 1.80%       = [X]%
-Years below pensionable age: [N]
-Actuarial reduction:       [N] × [3.5]% = [X]% reduction
-Net pension rate:          [X - reduction]%
-Annual pension estimate:   €[amount]/year = €[amount]/month
+**Pensionable remuneration (current):**
 
-─────────────────────────────────────────────────────
-SCENARIO C — Deferred pension (leaving at age [X], pension at 66)
-─────────────────────────────────────────────────────
-Service at departure:      [N] years (minimum 10 years required)
-Accrual: [N] × 1.80%       = [X]%
-Pension drawn from age 66: €[amount]/year
-Note: No actuarial reduction. Pension not indexed during deferral period.
+| Item | Value |
+|---|---|
+| Basic salary at current grade/step | €[amount]/month |
+| Correction coefficient | [1.000 / X.XXX] (Brussels = 1.0000) |
+| Pensionable remuneration | €[amount]/month = €[amount]/year |
 
-─────────────────────────────────────────────────────
-COST OF EARLY DEPARTURE — SUMMARY
-─────────────────────────────────────────────────────
-Monthly pension at 66 (full career):         €[A]/month
-Monthly pension at [early age] (Scenario B): €[B]/month
-Monthly difference:                          €[A-B]/month
-Annual difference:                           €[A-B × 12]/year
-Break-even point (staying vs leaving early): approx. [N] years after age 66
+---
 
-NEXT STEPS:
-□ Request official pension estimate via MyPMO (PMO.C.3 Pensions team)
-□ Contact national social security body regarding national pension rights
-□ Consider requesting pension rights transfer analysis if applicable
-□ Consult PMO for invalidity insurance provisions (RCAM/JSIS)
-```
+**Scenario A — Retirement at normal pensionable age ([60/63/66])**
+
+- Service at retirement: [N] years
+- Accrual: [N] × 1.80% = [X]% (max 70%)
+- Annual pension estimate: €[amount]/year = €[amount]/month
+- No actuarial reduction applies.
+
+**Scenario B — Early retirement at age [X] ([date])**
+
+- Service at retirement: [N] years
+- Accrual: [N] × 1.80% = [X]%
+- Years below pensionable age: [N]
+- Actuarial reduction: [N] × [3.5]% = [X]% reduction
+- Net pension rate: [X - reduction]%
+- Annual pension estimate: €[amount]/year = €[amount]/month
+
+**Scenario C — Deferred pension (leaving at age [X], pension at 66)**
+
+- Service at departure: [N] years (minimum 10 years required)
+- Accrual: [N] × 1.80% = [X]%
+- Pension drawn from age 66: €[amount]/year
+- *Note: No actuarial reduction. Pension not indexed during deferral period.*
+
+**Cost of early departure — summary**
+
+| Item | Value |
+|---|---|
+| Monthly pension at 66 (full career) | €[A]/month |
+| Monthly pension at [early age] (Scenario B) | €[B]/month |
+| Monthly difference | €[A-B]/month |
+| Annual difference | €[A-B × 12]/year |
+| Break-even point (staying vs leaving early) | approx. [N] years after age 66 |
+
+**Next steps:**
+- [ ] Request official pension estimate via MyPMO (PMO.C.3 Pensions team)
+- [ ] Contact national social security body regarding national pension rights
+- [ ] Consider requesting pension rights transfer analysis if applicable
+- [ ] Consult PMO for invalidity insurance provisions (RCAM/JSIS)
 
 ### 2. Pension Rights Transfer — Analysis Note
 
-```
-PENSION RIGHTS TRANSFER — FEASIBILITY ANALYSIS
+**PENSION RIGHTS TRANSFER — FEASIBILITY ANALYSIS**
 
-Official:       [Name / Staff ID]
-Nationality:    [Country]
-National scheme: [Name of national pension authority]
-Years in national scheme: [N] (approx.)
+**Official:** [Name / Staff ID]
+**Nationality:** [Country]
+**National scheme:** [Name of national pension authority]
+**Years in national scheme:** [N] (approx.)
 
-STEP 1 — IS TRANSFER POSSIBLE?
-The EU pension scheme allows transfer-in of pension rights acquired in national or
-international schemes under Annex VIII, Art. 11.
-□ Country has a bilateral agreement with EU pension scheme: □ Yes □ No
-□ Rights are not already being drawn as a pension: □ Confirmed
+**Step 1 — Is transfer possible?**
 
-STEP 2 — ACTUARIAL VALUE CALCULATION
-PMO calculates the capital value of national rights (based on data provided by
-national authority). This capital is converted into EU pension credits (years of
-service).
-→ The conversion favours transfer-in if: the national accrual rate is lower than
-  the EU rate (1.80%/year), or if the official is relatively young.
-→ Transfer is generally less advantageous if the official has fewer than 10 years
-  to go before retirement.
+The EU pension scheme allows transfer-in of pension rights acquired in national or international schemes under Annex VIII, Art. 11.
+- [ ] Country has a bilateral agreement with EU pension scheme: - [ ] Yes - [ ] No
+- [ ] Rights are not already being drawn as a pension: - [ ] Confirmed
 
-STEP 3 — DEADLINE
-The transfer-in request must be submitted within [2 years] of entry into EU service
-(subject to specific rules per national scheme). Missing the deadline = irrevocable loss
-of option.
+**Step 2 — Actuarial value calculation**
 
-RECOMMENDATION:
-□ Request actuarial comparison from PMO before deciding
-□ Do not wait — the 2-year window applies
-□ Compare: transferred-in years (EU pension) vs. cumulated national pension at 66
+PMO calculates the capital value of national rights (based on data provided by national authority). This capital is converted into EU pension credits (years of service).
+- The conversion favours transfer-in if: the national accrual rate is lower than the EU rate (1.80%/year), or if the official is relatively young.
+- Transfer is generally less advantageous if the official has fewer than 10 years to go before retirement.
 
-CONTACTS:
-PMO Pensions team: PMO-PENSIONS@ec.europa.eu
-MyPMO portal: https://myintracomm.ec.europa.eu/mypmo
-```
+**Step 3 — Deadline**
+
+The transfer-in request must be submitted within [2 years] of entry into EU service (subject to specific rules per national scheme). Missing the deadline = irrevocable loss of option.
+
+**Recommendation:**
+- [ ] Request actuarial comparison from PMO before deciding
+- [ ] Do not wait — the 2-year window applies
+- [ ] Compare: transferred-in years (EU pension) vs. cumulated national pension at 66
+
+**Contacts:**
+- PMO Pensions team: PMO-PENSIONS@ec.europa.eu
+- MyPMO portal: https://myintracomm.ec.europa.eu/mypmo
 
 ---
 

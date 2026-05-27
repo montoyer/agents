@@ -108,68 +108,65 @@ severe outcome.
 
 ## EDPS Response Template
 
-```
-[Institutional letterhead]
-Ref:     [EDPS complaint ref / inquiry ref]
-Date:    [DD Month YYYY]
-To:      The European Data Protection Supervisor
+*[Institutional letterhead]*
+**Ref:** [EDPS complaint ref / inquiry ref]
+**Date:** [DD Month YYYY]
+**To:** The European Data Protection Supervisor
 
-Re: Response to [complaint / inquiry / request for information] — [EDPS ref]
+**Re:** Response to [complaint / inquiry / request for information] — [EDPS ref]
 
 Dear [EDPS Contact / Supervisor],
 
-The [Commission DG / Agency] acknowledges receipt of your [letter / inquiry] of
-[date] regarding [brief description of the processing activity at issue].
+The [Commission DG / Agency] acknowledges receipt of your [letter / inquiry] of [date] regarding [brief description of the processing activity at issue].
 
 The DPO of [Institution] has been notified and is coordinating this response.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. FACTUAL BACKGROUND
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[Describe the processing activity at issue: what data, from whom, for what purpose,
-on what legal basis, for how long, with what security measures. Be factual and precise.
-Attach the relevant RoPA entry as Annex 1.]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2. RESPONSE TO EACH ALLEGATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2.1 [Allegation 1 — e.g., "Processing without adequate legal basis"]
-  Allegation: [Quote or paraphrase the EDPS's allegation]
-  Position:   [ ] CONFIRMED  [ ] PARTIALLY CONFIRMED  [ ] CONTESTED
-  Response:   [Factual and legal response. If confirmed: state the facts and the
-               remedial action being taken. If contested: identify the EUDPR provision
-               that supports the processing; provide documentation.]
-  Annex:      [Reference to supporting documents]
+### 1. Factual Background
 
-2.2 [Allegation 2]
-  [Same structure]
+[Describe the processing activity at issue: what data, from whom, for what purpose, on what legal basis, for how long, with what security measures. Be factual and precise. Attach the relevant RoPA entry as Annex 1.]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-3. REMEDIAL ACTION PLAN (if any breach is confirmed)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Action   Description                           Responsible   Deadline    Status
-[RA-1]   [Update privacy notice — Art. 15/16]  [Name/unit]   [date]      [Completed / Planned]
-[RA-2]   [Implement deletion procedure]         [Name/unit]   [date]      [Planned]
-[RA-3]   [Add SCCs for transfer to [country]]  [Name/unit]   [date]      [In progress]
+---
 
-The [Institution] commits to reporting on the implementation of these measures
-by [date].
+### 2. Response to Each Allegation
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-4. CONCLUSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[The Institution considers that the processing is / was fully compliant / that the
-identified issue has been / is being remedied. We remain at the EDPS's disposal
-for any further information required.]
+**2.1 [Allegation 1 — e.g., "Processing without adequate legal basis"]**
+
+**Allegation:** [Quote or paraphrase the EDPS's allegation]
+**Position:** - [ ] CONFIRMED - [ ] PARTIALLY CONFIRMED - [ ] CONTESTED
+**Response:** [Factual and legal response. If confirmed: state the facts and the remedial action being taken. If contested: identify the EUDPR provision that supports the processing; provide documentation.]
+**Annex:** [Reference to supporting documents]
+
+**2.2 [Allegation 2]**
+
+[Same structure]
+
+---
+
+### 3. Remedial Action Plan *(if any breach is confirmed)*
+
+| Action | Description | Responsible | Deadline | Status |
+|---|---|---|---|---|
+| RA-1 | [Update privacy notice — Art. 15/16] | [Name/unit] | [date] | [Completed / Planned] |
+| RA-2 | [Implement deletion procedure] | [Name/unit] | [date] | [Planned] |
+| RA-3 | [Add SCCs for transfer to [country]] | [Name/unit] | [date] | [In progress] |
+
+The [Institution] commits to reporting on the implementation of these measures by [date].
+
+---
+
+### 4. Conclusion
+
+[The Institution considers that the processing is / was fully compliant / that the identified issue has been / is being remedied. We remain at the EDPS's disposal for any further information required.]
 
 Yours faithfully,
-[DPO name]   on behalf of [Institution / DG]
+[DPO name] on behalf of [Institution / DG]
 
-Annexes: [List]
+**Annexes:** [List]
 
 [review — DPO must sign all formal EDPS responses]
 [review — HoU clearance required before submitting responses that confirm a breach]
-```
 
 ---
 

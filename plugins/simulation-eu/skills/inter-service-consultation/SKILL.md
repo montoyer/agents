@@ -96,7 +96,6 @@ actually works.
 
 ## Output Template
 
-```
 INTER-SERVICE CONSULTATION — SYNTHESIS NOTE
 
 Dossier:          [Title of the draft act or policy document]
@@ -106,9 +105,9 @@ Circulation date: [DD Month YYYY]
 Deadline:         [DD Month YYYY]
 Decision sought:  [Clearance for College submission / Policy document approval]
 
-══════════════════════════════════════════
-OPINIONS RECEIVED
-══════════════════════════════════════════
+---
+
+### Opinions Received
 
 [For each DG consulted:]
 
@@ -129,9 +128,9 @@ SECRETARIAT-GENERAL: [Compliant / Issues identified]
   Consultation standards: [Met / Issues: specify]
   Subsidiarity statement: [Adequate / Requires strengthening]
 
-══════════════════════════════════════════
-SYNTHESIS
-══════════════════════════════════════════
+---
+
+### Synthesis
 
 Points of agreement:
   - [What all/most DGs support]
@@ -147,15 +146,15 @@ Outstanding reservations:
 Opposition maintained:
   - DG [X]: [Issue] — Escalation required: [EVP / President]
 
-══════════════════════════════════════════
-CONCLUSION
-══════════════════════════════════════════
-□ ISC CLOSED — Proposal ready for College submission
-□ SECOND ROUND NEEDED — Outstanding reservations from: [DG list]
+---
+
+### Conclusion
+
+- [ ] ISC CLOSED — Proposal ready for College submission
+- [ ] SECOND ROUND NEEDED — Outstanding reservations from: [DG list]
   Bilateral meetings recommended with: [DG list]
-□ ESCALATED TO EVP — Opposition from [DG] on [issue] requires political resolution
+- [ ] ESCALATED TO EVP — Opposition from [DG] on [issue] requires political resolution
 
 [model knowledge — verify] for any DG positions on specific current dossiers.
----
-DRAFT — Simulation output. Not an official Commission position.
-```
+
+> **DRAFT** — Simulation output. Not an official Commission position.

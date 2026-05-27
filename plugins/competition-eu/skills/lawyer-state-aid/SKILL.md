@@ -86,64 +86,63 @@ and CJEU case law.
 
 ## Article 107(1) TFEU — The Four Criteria
 
-```
-STATE AID TEST — ARTICLE 107(1) TFEU
+All four criteria must be satisfied for a measure to constitute State aid. If any one criterion is not met → no State aid → no notification required.
 
-All four criteria must be satisfied for a measure to constitute State aid.
-If any one criterion is not met → no State aid → no notification required.
+---
 
-─────────────────────────────────────────────────────────
-CRITERION 1: Granted by a Member State or through State resources
-─────────────────────────────────────────────────────────
-□ Direct grant from central/regional/local government budget
-□ Parafiscal levy allocated to beneficiary
-□ Transfer through public undertaking (Stardust Marine test)
-□ Guarantee (potential contingent liability = State resources)
-□ Tax advantage (foregone revenue = State resources)
+**Criterion 1: Granted by a Member State or through State resources**
 
-→ RESULT: □ Met  □ Not met  [Analysis:]
+- [ ] Direct grant from central/regional/local government budget
+- [ ] Parafiscal levy allocated to beneficiary
+- [ ] Transfer through public undertaking (Stardust Marine test)
+- [ ] Guarantee (potential contingent liability = State resources)
+- [ ] Tax advantage (foregone revenue = State resources)
 
-─────────────────────────────────────────────────────────
-CRITERION 2: Selective advantage
-─────────────────────────────────────────────────────────
-A: ADVANTAGE (economic benefit not available on market terms)
-□ Grant / subsidy
-□ Loan at below-market rate (compare to Reference Rate Communication)
-□ Guarantee at below-market premium
-□ Equity injection (Market Economy Investor Principle — MEIP/MEOP)
-□ Tax reduction / exemption
-□ Access to infrastructure at below-market price
+→ **Result:** - [ ] Met  - [ ] Not met — Analysis: [...]
 
-B: SELECTIVITY (favouring certain undertakings or production of certain goods)
-□ De jure selectivity (legal — specific sector, geographic area, type of company)
-□ De facto selectivity (formally general, but conditions met only by specific actors)
-□ Material selectivity (derogation from reference system — Gibraltar judgment approach)
+---
 
-→ RESULT: □ Met  □ Not met  [Analysis:]
+**Criterion 2: Selective advantage**
 
-─────────────────────────────────────────────────────────
-CRITERION 3: Undertaking in the sense of EU competition law
-─────────────────────────────────────────────────────────
-□ Entity exercising an economic activity (offering goods/services on a market)
-□ Legal form irrelevant (private/public; for-profit/non-profit)
-□ Non-economic activities excluded: education, social security, public authority powers
+*A — Advantage* (economic benefit not available on market terms)
+- [ ] Grant / subsidy
+- [ ] Loan at below-market rate (compare to Reference Rate Communication)
+- [ ] Guarantee at below-market premium
+- [ ] Equity injection (Market Economy Investor Principle — MEIP/MEOP)
+- [ ] Tax reduction / exemption
+- [ ] Access to infrastructure at below-market price
 
-→ RESULT: □ Met  □ Not met  [Analysis:]
+*B — Selectivity* (favouring certain undertakings or production of certain goods)
+- [ ] De jure selectivity (legal — specific sector, geographic area, type of company)
+- [ ] De facto selectivity (formally general, but conditions met only by specific actors)
+- [ ] Material selectivity (derogation from reference system — Gibraltar judgment approach)
 
-─────────────────────────────────────────────────────────
-CRITERION 4: Effect on trade and competition between Member States
-─────────────────────────────────────────────────────────
-□ Beneficiary active in sector open to cross-border competition
-□ Even small/local operators may be caught if sector is theoretically open
-□ No need to prove actual effect — potential effect sufficient
-□ Exception: purely local aid with no cross-border dimension (rare — high burden of proof)
+→ **Result:** - [ ] Met  - [ ] Not met — Analysis: [...]
 
-→ RESULT: □ Met  □ Not met  [Analysis:]
+---
 
-─────────────────────────────────────────────────────────
-CONCLUSION: □ STATE AID EXISTS  □ No State aid [reason]
-─────────────────────────────────────────────────────────
-```
+**Criterion 3: Undertaking in the sense of EU competition law**
+
+- [ ] Entity exercising an economic activity (offering goods/services on a market)
+- [ ] Legal form irrelevant (private/public; for-profit/non-profit)
+- [ ] Non-economic activities excluded: education, social security, public authority powers
+
+→ **Result:** - [ ] Met  - [ ] Not met — Analysis: [...]
+
+---
+
+**Criterion 4: Effect on trade and competition between Member States**
+
+- [ ] Beneficiary active in sector open to cross-border competition
+- [ ] Even small/local operators may be caught if sector is theoretically open
+- [ ] No need to prove actual effect — potential effect sufficient
+- [ ] Exception: purely local aid with no cross-border dimension (rare — high burden of proof)
+
+→ **Result:** - [ ] Met  - [ ] Not met — Analysis: [...]
+
+---
+
+**Conclusion:** - [ ] STATE AID EXISTS (all four criteria met)  - [ ] No State aid — reason: [...]
 
 ---
 
@@ -200,7 +199,6 @@ CONCLUSION: □ STATE AID EXISTS  □ No State aid [reason]
 
 ### 1. State Aid Assessment Legal Note
 
-```
 STATE AID LEGAL ASSESSMENT — CONFIDENTIAL
 Reference:   [Internal reference]
 Date:        [DD Month YYYY]
@@ -208,76 +206,107 @@ Measure:     [Description of measure]
 Grantor:     [Member State / Regional authority / Public body]
 Beneficiary: [Undertaking / sector / class of undertakings]
 
-1. DESCRIPTION OF THE MEASURE
-   [Factual description: what is granted, in what form, to whom, for what purpose,
-   under what legal basis in national law, over what period, estimated budget.]
+---
 
-2. ARTICLE 107(1) TFEU ANALYSIS
-   [Apply the four-criterion test as per template above]
+### 1. Description of the Measure
 
-3. APPLICABILITY OF EXEMPTIONS
+[Factual description: what is granted, in what form, to whom, for what purpose,
+under what legal basis in national law, over what period, estimated budget.]
 
-   3.1 De minimis (Reg. 2023/2831)
-   □ Amount ≤ €300,000 over 3 fiscal years: □ Yes □ No
-   □ Beneficiary in eligible sector: □ Yes □ No
-   □ Cumulation check with other de minimis: □ Clear □ Unclear
-   → De minimis exemption: □ Applicable □ Not applicable [reason]
+---
 
-   3.2 GBER (Reg. 651/2014 as amended to 2023)
-   □ Aid category: [Identify relevant GBER article]
-   □ Notification thresholds respected: □ Yes □ No [if No → individual notification]
-   □ Aid intensity ≤ [X]% of eligible costs: □ Yes □ No
-   □ All GBER Chapter I conditions met: □ Yes □ No [detail]
-   □ Specific conditions of relevant article met: □ Yes □ No [detail]
-   □ Transparency register entry required: □ Yes (≥ €100,000) □ No
-   → GBER exemption: □ Applicable □ Not applicable [reason]
+### 2. Article 107(1) TFEU Analysis
 
-4. COMPATIBILITY ANALYSIS (if notification required)
-   Legal basis for derogation:
-   □ Art. 107(2)(a) — Social aid to consumers
-   □ Art. 107(2)(b) — Natural disaster
-   □ Art. 107(3)(a) — Development of disadvantaged regions (GDP < 75% EU avg)
-   □ Art. 107(3)(b) — Project of common European interest / serious economic disturbance
-   □ Art. 107(3)(c) — Development of certain economic activities (general exception)
-   □ Art. 107(3)(d) — Culture / heritage
-   □ Art. 107(3)(e) — Council decision
+[Apply the four-criterion test as per template above]
 
-   Applicable guidelines / framework: [Name — version / year]
-   Common Assessment Methodology (Balancing Test):
-   a) Objective of common interest: [...]
-   b) Necessity and appropriateness of aid: [...]
-   c) Incentive effect: [...]
-   d) Proportionality (aid limited to minimum necessary): [...]
-   e) Negative effects on competition and trade: [...]
-   f) Balancing and conclusion: [Compatible / Incompatible / Conditional compatibility]
+---
 
-5. PROCEDURAL STEPS
-   □ No notification — GBER / de minimis → transparency entry by [date]
-   □ Pre-notification contacts — DG COMP case team: [contact]
-   □ Formal notification via SANI2 — estimated submission: [date]
-   □ Standstill obligation: measure MUST NOT be implemented before Commission decision
+### 3. Applicability of Exemptions
 
-6. CONCLUSION AND RECOMMENDATIONS
-   [Summary + recommended next action]
-```
+#### 3.1 De Minimis (Reg. 2023/2831)
+
+- [ ] Amount ≤ €300,000 over 3 fiscal years: - [ ] Yes - [ ] No
+- [ ] Beneficiary in eligible sector: - [ ] Yes - [ ] No
+- [ ] Cumulation check with other de minimis: - [ ] Clear - [ ] Unclear
+
+De minimis exemption: - [ ] Applicable - [ ] Not applicable [reason]
+
+#### 3.2 GBER (Reg. 651/2014 as Amended to 2023)
+
+- [ ] Aid category: [Identify relevant GBER article]
+- [ ] Notification thresholds respected: - [ ] Yes - [ ] No [if No → individual notification]
+- [ ] Aid intensity ≤ [X]% of eligible costs: - [ ] Yes - [ ] No
+- [ ] All GBER Chapter I conditions met: - [ ] Yes - [ ] No [detail]
+- [ ] Specific conditions of relevant article met: - [ ] Yes - [ ] No [detail]
+- [ ] Transparency register entry required: - [ ] Yes (≥ €100,000) - [ ] No
+
+GBER exemption: - [ ] Applicable - [ ] Not applicable [reason]
+
+---
+
+### 4. Compatibility Analysis (if Notification Required)
+
+Legal basis for derogation:
+- [ ] Art. 107(2)(a) — Social aid to consumers
+- [ ] Art. 107(2)(b) — Natural disaster
+- [ ] Art. 107(3)(a) — Development of disadvantaged regions (GDP < 75% EU avg)
+- [ ] Art. 107(3)(b) — Project of common European interest / serious economic disturbance
+- [ ] Art. 107(3)(c) — Development of certain economic activities (general exception)
+- [ ] Art. 107(3)(d) — Culture / heritage
+- [ ] Art. 107(3)(e) — Council decision
+
+Applicable guidelines / framework: [Name — version / year]
+
+Common Assessment Methodology (Balancing Test):
+
+a) Objective of common interest: [...]
+b) Necessity and appropriateness of aid: [...]
+c) Incentive effect: [...]
+d) Proportionality (aid limited to minimum necessary): [...]
+e) Negative effects on competition and trade: [...]
+f) Balancing and conclusion: [Compatible / Incompatible / Conditional compatibility]
+
+---
+
+### 5. Procedural Steps
+
+- [ ] No notification — GBER / de minimis → transparency entry by [date]
+- [ ] Pre-notification contacts — DG COMP case team: [contact]
+- [ ] Formal notification via SANI2 — estimated submission: [date]
+- [ ] Standstill obligation: measure MUST NOT be implemented before Commission decision
+
+---
+
+### 6. Conclusion and Recommendations
+
+[Summary + recommended next action]
+
+---
 
 ### 2. Recovery Calculation Note
 
-```
 RECOVERY CALCULATION
 SA Number:      [SA.XXXXX]
 Commission Decision: [Reference — date]
 Member State:   [Country]
 Beneficiary:    [Name]
 
-STEP 1 — BASE AMOUNT TO RECOVER
+---
+
+### Step 1 — Base Amount to Recover
+
 Total aid granted:               €[amount]
+
 Deductions (if applicable):
-  □ Compatible portion (partial approval): -€[amount]
-  □ De minimis not counted:               -€[amount]
+- [ ] Compatible portion (partial approval): -€[amount]
+- [ ] De minimis not counted:               -€[amount]
+
 Net base amount for recovery:    €[amount]
 
-STEP 2 — RECOVERY INTEREST
+---
+
+### Step 2 — Recovery Interest
+
 Interest start date: [DD Month YYYY — date aid put at disposal of beneficiary]
 Recovery interest end date: [date of actual repayment or date of calculation]
 
@@ -290,17 +319,19 @@ Compound interest calculation:
   [...]
   Total interest: €[amount]
 
-TOTAL RECOVERY AMOUNT: €[base + interest]
+**TOTAL RECOVERY AMOUNT: €[base + interest]**
 (As at [calculation date] — interest continues to accrue until actual repayment)
 
-STEP 3 — RECOVERY PROCEDURE TIMELINE
-□ Commission decision issued: [date]
-□ MS notified: [date]
-□ Recovery deadline: [4 months from decision — date]
-□ Recovery completed: [date] OR □ Pending — reason: [...]
-□ Extension requested by MS: □ Yes □ No
-□ CJEU referral for non-compliance under Art. 108(2) TFEU: □ Yes □ No [date if yes]
-```
+---
+
+### Step 3 — Recovery Procedure Timeline
+
+- [ ] Commission decision issued: [date]
+- [ ] MS notified: [date]
+- [ ] Recovery deadline: [4 months from decision — date]
+- [ ] Recovery completed: [date] OR - [ ] Pending — reason: [...]
+- [ ] Extension requested by MS: - [ ] Yes - [ ] No
+- [ ] CJEU referral for non-compliance under Art. 108(2) TFEU: - [ ] Yes - [ ] No [date if yes]
 
 ---
 
@@ -331,3 +362,7 @@ Transparency Register requirement, SANI2 notification system, DG COMP State Aid 
 (SA numbers), CJEU case law (Altmark C-280/00, Stardust Marine C-482/99, Gibraltar C-106/09,
 Magdeburger Mühlenwerke T-196/21), Commission decision practice (DG COMP precedents),
 IPCEI Communication 2021, Temporary Crisis and Transition Framework (2023–2025).
+
+---
+
+> **DRAFT** — For review by a Competition lawyer or Legal Service lawyer before use. Not an official Commission position.

@@ -125,69 +125,65 @@ implausible precision.
 
 ## CBA Summary Table Template
 
-```
 COST-BENEFIT ANALYSIS — OPTION COMPARISON
 Base year:        [YYYY]   Discount rate: 4% (real)   Time horizon: [N years]
 All values in:    € million, constant [YYYY] prices
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                                  BASELINE    OPTION 1    OPTION 2    PREFERRED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-COSTS (NPV, €m)
-  Administrative burden            [X]         [X]         [X]         [X]
-  Substantive compliance           [X]         [X]         [X]         [X]
-  One-off structural adjustment    [X]         [X]         [X]         [X]
-  Enforcement (public authorities) [X]         [X]         [X]         [X]
-  ─────────────────────────────────────────────────────────────────────
-  TOTAL COSTS (NPV)                [X]         [X]         [X]         [X]
+| | BASELINE | OPTION 1 | OPTION 2 | PREFERRED |
+|---|---|---|---|---|
+| **Costs (NPV, €m)** | | | | |
+| Administrative burden | [X] | [X] | [X] | [X] |
+| Substantive compliance | [X] | [X] | [X] | [X] |
+| One-off structural adjustment | [X] | [X] | [X] | [X] |
+| Enforcement (public authorities) | [X] | [X] | [X] | [X] |
+| **TOTAL COSTS (NPV)** | [X] | [X] | [X] | [X] |
+| **Benefits (NPV, €m)** | | | | |
+| Health benefits — lives saved | [X] | [X] | [X] | [X] |
+| Environmental benefits | [X] | [X] | [X] | [X] |
+| Time savings | [X] | [X] | [X] | [X] |
+| Other — describe | [X] | [X] | [X] | [X] |
+| **TOTAL QUANTIFIED BENEFITS (NPV)** | [X] | [X] | [X] | [X] |
+| Not quantified (qualitative) | [List] | [List] | [List] | [List] |
+| **NET BENEFITS (NPV)** | [X] | [X] | [X] | [X] |
+| Benefit-cost ratio | [X] | [X] | [X] | [X] |
 
-BENEFITS (NPV, €m)
-  [Health benefits — lives saved]  [X]         [X]         [X]         [X]
-  [Environmental benefits]         [X]         [X]         [X]         [X]
-  [Time savings]                   [X]         [X]         [X]         [X]
-  [Other — describe]               [X]         [X]         [X]         [X]
-  ─────────────────────────────────────────────────────────────────────
-  TOTAL QUANTIFIED BENEFITS (NPV)  [X]         [X]         [X]         [X]
+---
 
-Not quantified (qualitative):      [List]      [List]      [List]      [List]
+### SME Test
 
-NET BENEFITS (NPV)                 [X]         [X]         [X]         [X]
-Benefit-cost ratio                 [X]         [X]         [X]         [X]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SME TEST
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Affected SMEs (estimated):         [N enterprises, [N]% of sector]
 Compliance cost per SME:           €[X]   vs. large firm: €[X]
-Disproportionate impact?           [ ] YES  [ ] NO
+Disproportionate impact?           - [ ] YES  - [ ] NO
   If YES — mitigating measures in preferred option:
-    [ ] Micro-enterprise exemption
-    [ ] Simplified reporting obligation
-    [ ] Longer implementation period ([N months] additional)
-    [ ] Lower threshold: [describe]
-Top-10 consultation:               [ ] Conducted [date]  [ ] N/A [reason]
+    - [ ] Micro-enterprise exemption
+    - [ ] Simplified reporting obligation
+    - [ ] Longer implementation period ([N months] additional)
+    - [ ] Lower threshold: [describe]
+Top-10 consultation:               - [ ] Conducted [date]  - [ ] N/A [reason]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ONE-IN ONE-OUT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### One-In One-Out
+
 Administrative burden of new regulation (IN):   €[X]m / year
 Offsetting reductions identified (OUT):          €[X]m / year
   Source of the OUT: [Regulation being simplified / repealed / amended]
-Net OIOO position:  [ ] Neutral  [ ] Net reduction (€[X]m)  [ ] Net increase (€[X]m)
+Net OIOO position:  - [ ] Neutral  - [ ] Net reduction (€[X]m)  - [ ] Net increase (€[X]m)
   If net increase: Commissioner and SecGen approval required [date obtained]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SENSITIVITY ANALYSIS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Variable          Central estimate   Low (-25%)   High (+25%)  Conclusion
-Discount rate     4%                 2%           6%           [robust / sensitive]
-Compliance cost   €[X]m              €[X]m        €[X]m        [robust / sensitive]
-VSL               €[X]m              €[X]m        €[X]m        [robust / sensitive]
-Time horizon      [N] years          [N-5] years  [N+5] years  [robust / sensitive]
+---
+
+### Sensitivity Analysis
+
+| Variable | Central estimate | Low (-25%) | High (+25%) | Conclusion |
+|---|---|---|---|---|
+| Discount rate | 4% | 2% | 6% | [robust / sensitive] |
+| Compliance cost | €[X]m | €[X]m | €[X]m | [robust / sensitive] |
+| VSL | €[X]m | €[X]m | €[X]m | [robust / sensitive] |
+| Time horizon | [N] years | [N-5] years | [N+5] years | [robust / sensitive] |
 
 [model knowledge — verify current Commission-approved VSL and carbon values from Better Regulation Toolbox]
 [model knowledge — verify current OIOO policy guidance and approved offsetting measures]
-```
 
 ---
 
@@ -231,4 +227,4 @@ Time horizon      [N] years          [N-5] years  [N+5] years  [robust / sensiti
 
 ---
 
-DRAFT — For review by an EU official before use. Not an official Commission position.
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.

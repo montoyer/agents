@@ -135,7 +135,6 @@ Parliament majorities.
 
 ### 1. Standard Regulation Structure
 
-```
 REGULATION (EU) [YYYY/NNNN] OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
 of [DD Month YYYY]
 on [subject matter — use plain language; avoid acronyms in the title]
@@ -166,8 +165,9 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-CHAPTER I
-GENERAL PROVISIONS
+---
+
+#### Chapter I — General Provisions
 
 Article 1
 Subject matter
@@ -185,8 +185,9 @@ For the purposes of this Regulation, the following definitions apply:
 (2) '[Term]' means [definition];
 [...]
 
-CHAPTER II
-[SUBSTANTIVE OBLIGATIONS]
+---
+
+#### Chapter II — [Substantive Obligations]
 
 Article 4
 [Title — one subject only]
@@ -194,8 +195,9 @@ Article 4
 
 [...]
 
-CHAPTER [N]
-FINAL PROVISIONS
+---
+
+#### Chapter [N] — Final Provisions
 
 Article [N]
 Exercise of the delegation
@@ -267,15 +269,14 @@ For the European Parliament        For the Council
 The President                      The President
 
 ---
+
 Footnotes:
 (¹) OJ C ..., ..., p. ...
 (²) OJ C ..., ..., p. ...
 (³) Position of the European Parliament of [date] and decision of the Council of [date].
-```
 
 ### 2. Four-Column Document (Trilogue Amendment Tracking)
 
-```
 FOUR-COLUMN DOCUMENT
 Dossier:        [Title — COM(YYYY) XXX]
 Date:           [DD Month YYYY — version N]
@@ -291,14 +292,14 @@ LEGEND:
 ● = Open — under negotiation
 [bold] = New text in compromise
 ~~strikethrough~~ = Deleted text
-```
 
 ### 3. Explanatory Memorandum — Key Sections
 
-```
 EXPLANATORY MEMORANDUM
 
-1. CONTEXT OF THE PROPOSAL
+---
+
+### 1. Context of the Proposal
 
 1.1 Reasons for and objectives of the proposal
 [Concise statement of the policy problem and why EU action is needed.]
@@ -309,7 +310,9 @@ EXPLANATORY MEMORANDUM
 1.3 Consistency with other Union policies
 [Cross-cutting coherence — Green Deal, Digital, Social, Trade dimensions.]
 
-2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+---
+
+### 2. Legal Basis, Subsidiarity and Proportionality
 
 2.1 Legal basis
 [TFEU article(s) cited. Explanation of why this is the correct legal basis —
@@ -327,7 +330,9 @@ the minimum necessary to achieve the objective. Key findings from the impact ass
 [Why a regulation rather than a directive (or vice versa). For regulations:
 why uniform application is necessary.]
 
-3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS AND IMPACT ASSESSMENTS
+---
+
+### 3. Results of Ex-Post Evaluations, Stakeholder Consultations and Impact Assessments
 
 3.1 Ex-post evaluations/fitness checks of existing legislation
 [Summary of evaluation findings that justify this proposal, if applicable.]
@@ -338,10 +343,15 @@ why uniform application is necessary.]
 3.3 Impact assessment
 [Summary of IA findings — preferred option, key impacts, RSB opinion.]
 
-4. BUDGETARY IMPLICATIONS
+---
+
+### 4. Budgetary Implications
+
 [EU budget implications — legislative financial statement attached if > €5M.]
 
-5. OTHER ELEMENTS
+---
+
+### 5. Other Elements
 
 5.1 Fundamental rights
 [Which Charter rights are affected; how the proposal respects them.]
@@ -349,7 +359,6 @@ why uniform application is necessary.]
 5.2 Detailed explanation of the specific provisions
 [Article-by-article explanation of all substantive articles —
 what each provision does and why it is drafted as it is.]
-```
 
 ---
 

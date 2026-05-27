@@ -103,111 +103,116 @@ merger control with antitrust.
 
 ## Jurisdictional Threshold Calculator
 
-```
 EU MERGER REGULATION — JURISDICTIONAL ASSESSMENT
 Transaction:      [Target / Acquirer / JV structure]
 Date assessed:    [DD Month YYYY]
 Assessed by:      [Name / unit]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ART. 1(2) EUMR — STANDARD THRESHOLDS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Combined worldwide turnover of all parties:        €[X]bn   > €5bn?   [ ] YES  [ ] NO
-EU-wide turnover — Party A:                        €[X]m    > €250m?  [ ] YES  [ ] NO
-EU-wide turnover — Party B:                        €[X]m    > €250m?  [ ] YES  [ ] NO
+---
+
+### Art. 1(2) EUMR — Standard Thresholds
+
+Combined worldwide turnover of all parties:        €[X]bn   > €5bn?   - [ ] YES  - [ ] NO
+EU-wide turnover — Party A:                        €[X]m    > €250m?  - [ ] YES  - [ ] NO
+EU-wide turnover — Party B:                        €[X]m    > €250m?  - [ ] YES  - [ ] NO
 2/3 rule — does each party achieve > 2/3 of EU
-  turnover in the SAME member state?               [ ] YES (no EU dimension) [ ] NO
+  turnover in the SAME member state?               - [ ] YES (no EU dimension) - [ ] NO
 
-Art. 1(2) EU dimension:  [ ] YES  [ ] NO → check Art. 1(3)
+Art. 1(2) EU dimension:  - [ ] YES  - [ ] NO → check Art. 1(3)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ART. 1(3) EUMR — ALTERNATIVE THRESHOLDS (if Art. 1(2) not met)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Combined worldwide turnover:                        €[X]bn   > €2.5bn? [ ] YES  [ ] NO
-In each of ≥3 MS, combined turnover of all parties: €[X]m    > €100m?  [ ] YES  [ ] NO
-In each of those ≥3 MS, each party individually:    €[X]m    > €25m?   [ ] YES  [ ] NO
-EU-wide turnover — Party A:                         €[X]m    > €100m?  [ ] YES  [ ] NO
-EU-wide turnover — Party B:                         €[X]m    > €100m?  [ ] YES  [ ] NO
-2/3 rule — same member state?                        [ ] YES (no EU dimension) [ ] NO
+---
 
-Art. 1(3) EU dimension:  [ ] YES  [ ] NO → no EU-level notification obligation
+### Art. 1(3) EUMR — Alternative Thresholds (if Art. 1(2) not met)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CONCLUSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] EU dimension confirmed → mandatory Commission notification (Art. 4(1) EUMR)
-    Standstill obligation: gun-jumping risk if transaction completes before clearance
-[ ] No EU dimension → national NCA filings required: [list affected MS]
-    Art. 4(5) voluntary referral to Commission possible if ≥3 MS have jurisdiction
-[ ] Simplified procedure likely:  [ ] YES  [ ] NO  [ ] Unclear pending market definition
+Combined worldwide turnover:                        €[X]bn   > €2.5bn? - [ ] YES  - [ ] NO
+In each of ≥3 MS, combined turnover of all parties: €[X]m    > €100m?  - [ ] YES  - [ ] NO
+In each of those ≥3 MS, each party individually:    €[X]m    > €25m?   - [ ] YES  - [ ] NO
+EU-wide turnover — Party A:                         €[X]m    > €100m?  - [ ] YES  - [ ] NO
+EU-wide turnover — Party B:                         €[X]m    > €100m?  - [ ] YES  - [ ] NO
+2/3 rule — same member state?                        - [ ] YES (no EU dimension) - [ ] NO
+
+Art. 1(3) EU dimension:  - [ ] YES  - [ ] NO → no EU-level notification obligation
+
+---
+
+### Conclusion
+
+- [ ] EU dimension confirmed → mandatory Commission notification (Art. 4(1) EUMR)
+  Standstill obligation: gun-jumping risk if transaction completes before clearance
+- [ ] No EU dimension → national NCA filings required: [list affected MS]
+  Art. 4(5) voluntary referral to Commission possible if ≥3 MS have jurisdiction
+- [ ] Simplified procedure likely:  - [ ] YES  - [ ] NO  - [ ] Unclear pending market definition
 
 Gun-jumping risk assessment:
   Is the transaction (or any preparatory step) capable of changing competitive dynamics
-  before Commission clearance?  [ ] YES [flag — Art. 14(2)(b) EUMR fine risk]  [ ] NO
+  before Commission clearance?  - [ ] YES [flag — Art. 14(2)(b) EUMR fine risk]  - [ ] NO
 
 [model knowledge — verify current EUMR thresholds; verify current simplified procedure notice]
-```
 
 ---
 
 ## SIEC Analysis Template
 
-```
 SIEC ASSESSMENT — HORIZONTAL CONCENTRATION
 Case ref:        M.[NNNNN] — [Transaction name]
 Market:          [Relevant product market] / [Geographic market]
 Post-merger combined share: [X%]   HHI post-merger: [X]   HHI delta: [X]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-MARKET STRUCTURE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### Market Structure
+
 Party A market share:    [X%]   Party B market share:    [X%]
 Combined:                [X%]   Next competitor:         [X%]
-Market concentration:    [ ] Low (HHI < 1000)  [ ] Moderate (1000–2000)  [ ] High (> 2000)
+Market concentration:    - [ ] Low (HHI < 1000)  - [ ] Moderate (1000–2000)  - [ ] High (> 2000)
+
 Safe harbours (Horizontal Merger Guidelines §§ 19-21):
-  Combined share < 25%?  [ ] YES → unlikely to raise concerns
-  HHI < 1000?            [ ] YES → unlikely regardless of delta
+- Combined share < 25%?  - [ ] YES → unlikely to raise concerns
+- HHI < 1000?            - [ ] YES → unlikely regardless of delta
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-UNILATERAL EFFECTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Are the merging parties close competitors?          [ ] YES  [ ] NO  [evidence]
+---
+
+### Unilateral Effects
+
+Are the merging parties close competitors?          - [ ] YES  - [ ] NO  [evidence]
 Diversion ratio (if available):                     [X%] — indicates strength of rivalry
-Can customers switch to remaining competitors?      [ ] YES (countervailing buyer power)
-Barriers to entry/expansion:                        [ ] High  [ ] Medium  [ ] Low
-Unilateral effects concern:   [ ] None  [ ] Possible  [ ] Serious [explain]
+Can customers switch to remaining competitors?      - [ ] YES (countervailing buyer power)
+Barriers to entry/expansion:                        - [ ] High  - [ ] Medium  - [ ] Low
+Unilateral effects concern:   - [ ] None  - [ ] Possible  - [ ] Serious [explain]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-COORDINATED EFFECTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Oligopolistic market structure post-merger?         [ ] YES  [ ] NO
-Market transparency (price, volume observable)?     [ ] YES  [ ] NO
-Retaliation mechanism credible?                     [ ] YES  [ ] NO
-Coordinated effects concern:  [ ] None  [ ] Possible  [ ] Serious
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-COUNTERVAILING FACTORS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Efficiencies claimed:  [ ] YES → are they merger-specific, verifiable, pro-consumer? [assess]
-Buyer power:           [ ] Significant  [ ] Moderate  [ ] None
-Entry/expansion:       [ ] Timely, likely, sufficient to constrain  [ ] NOT sufficient
+### Coordinated Effects
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OVERALL SIEC ASSESSMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] No SIEC — clearance Art. 6(1)(b) / Art. 8(1)
-[ ] SIEC identified in market [X] — remedies required for clearance
-[ ] Serious doubts — Phase II initiation Art. 6(1)(c)
-[ ] SIEC — likely prohibition Art. 8(3) absent fundamental remedy
+Oligopolistic market structure post-merger?         - [ ] YES  - [ ] NO
+Market transparency (price, volume observable)?     - [ ] YES  - [ ] NO
+Retaliation mechanism credible?                     - [ ] YES  - [ ] NO
+Coordinated effects concern:  - [ ] None  - [ ] Possible  - [ ] Serious
 
-Remedies required:  [ ] Structural (divestiture of [business/assets])
-                    [ ] Behavioural [describe — justify departure from structural preference]
-                    [ ] None
+---
+
+### Countervailing Factors
+
+Efficiencies claimed:  - [ ] YES → are they merger-specific, verifiable, pro-consumer? [assess]
+Buyer power:           - [ ] Significant  - [ ] Moderate  - [ ] None
+Entry/expansion:       - [ ] Timely, likely, sufficient to constrain  - [ ] NOT sufficient
+
+---
+
+### Overall SIEC Assessment
+
+- [ ] No SIEC — clearance Art. 6(1)(b) / Art. 8(1)
+- [ ] SIEC identified in market [X] — remedies required for clearance
+- [ ] Serious doubts — Phase II initiation Art. 6(1)(c)
+- [ ] SIEC — likely prohibition Art. 8(3) absent fundamental remedy
+
+Remedies required:  - [ ] Structural (divestiture of [business/assets])
+                    - [ ] Behavioural [describe — justify departure from structural preference]
+                    - [ ] None
 
 [EUR-Lex — verify current EUMR thresholds and Horizontal Merger Guidelines]
 [CJEU — verify case references: M.7000 UPS/TNT; T-399/16 CK Hutchison; C-553/10P Cisco]
 [review — political judgement required for remedies acceptance/rejection]
-```
 
 ---
 
@@ -251,5 +256,4 @@ Remedies required:  [ ] Structural (divestiture of [business/assets])
 
 ---
 
-DRAFT — For review by a Competition lawyer or Legal Service lawyer before use.
-Not an official Commission position.
+> **DRAFT** — For review by a Competition lawyer or Legal Service lawyer before use. Not an official Commission position.

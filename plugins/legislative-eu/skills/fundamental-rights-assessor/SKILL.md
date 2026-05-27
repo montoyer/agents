@@ -102,135 +102,155 @@ measure engages privacy (Art. 7), data protection (Art. 8), freedom of expressio
 
 ## Charter Rights Engagement Checklist
 
-```
 CHARTER OF FUNDAMENTAL RIGHTS — ENGAGEMENT SCAN
 Measure:          [Description]
 Assessed by:      [Name]   Date: [DD Month YYYY]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TITLE I — DIGNITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Art. 1  Human dignity                             [ ] Engaged  [ ] Not engaged
-Art. 2  Right to life                             [ ] Engaged  [ ] Not engaged
-Art. 3  Right to integrity of the person          [ ] Engaged  [ ] Not engaged
-Art. 4  Prohibition of torture (ABSOLUTE)         [ ] Engaged → STOP: measure unlawful
-Art. 5  Prohibition of slavery (ABSOLUTE)         [ ] Engaged → STOP: measure unlawful
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TITLE II — FREEDOMS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Art. 6  Right to liberty and security             [ ] Engaged  [ ] Not engaged
-Art. 7  Respect for private and family life       [ ] Engaged  [ ] Not engaged
-Art. 8  Protection of personal data               [ ] Engaged  [ ] Not engaged
-Art. 9  Right to marry and found a family         [ ] Engaged  [ ] Not engaged
-Art. 10 Freedom of thought, conscience, religion  [ ] Engaged  [ ] Not engaged
-Art. 11 Freedom of expression and information     [ ] Engaged  [ ] Not engaged
-Art. 12 Freedom of assembly and association       [ ] Engaged  [ ] Not engaged
-Art. 13 Freedom of arts and sciences              [ ] Engaged  [ ] Not engaged
-Art. 14 Right to education                        [ ] Engaged  [ ] Not engaged
-Art. 15 Freedom to choose an occupation           [ ] Engaged  [ ] Not engaged
-Art. 16 Freedom to conduct a business             [ ] Engaged  [ ] Not engaged
-Art. 17 Right to property                         [ ] Engaged  [ ] Not engaged
-Art. 18 Right to asylum                           [ ] Engaged  [ ] Not engaged
-Art. 19 Protection from removal / expulsion       [ ] Engaged  [ ] Not engaged
+### Title I — Dignity
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TITLE III — EQUALITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Art. 20 Equality before the law                   [ ] Engaged  [ ] Not engaged
-Art. 21 Non-discrimination                        [ ] Engaged  [ ] Not engaged
-  Grounds engaged: [ ] sex [ ] race [ ] colour [ ] ethnic origin [ ] genetic features
-  [ ] language [ ] religion [ ] political opinion [ ] national minority [ ] property
-  [ ] birth [ ] disability [ ] age [ ] sexual orientation
-Art. 22 Cultural, religious, linguistic diversity [ ] Engaged  [ ] Not engaged
-Art. 23 Equality between men and women            [ ] Engaged  [ ] Not engaged
-Art. 24 Rights of the child                       [ ] Engaged  [ ] Not engaged
-Art. 25 Rights of the elderly                     [ ] Engaged  [ ] Not engaged
-Art. 26 Integration of persons with disabilities  [ ] Engaged  [ ] Not engaged
+Art. 1  Human dignity                             - [ ] Engaged  - [ ] Not engaged
+Art. 2  Right to life                             - [ ] Engaged  - [ ] Not engaged
+Art. 3  Right to integrity of the person          - [ ] Engaged  - [ ] Not engaged
+Art. 4  Prohibition of torture (ABSOLUTE)         - [ ] Engaged → STOP: measure unlawful
+Art. 5  Prohibition of slavery (ABSOLUTE)         - [ ] Engaged → STOP: measure unlawful
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TITLE IV — SOLIDARITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Art. 27 Workers' information and consultation     [ ] Engaged  [ ] Not engaged
-Art. 28 Right of collective bargaining / action   [ ] Engaged  [ ] Not engaged
-Art. 29 Right of access to placement services     [ ] Engaged  [ ] Not engaged
-Art. 30 Protection from unjustified dismissal     [ ] Engaged  [ ] Not engaged
-Art. 31 Fair and just working conditions          [ ] Engaged  [ ] Not engaged
-Art. 32 Prohibition of child labour               [ ] Engaged  [ ] Not engaged
-Art. 33 Family and professional life              [ ] Engaged  [ ] Not engaged
-Art. 34 Social security and assistance            [ ] Engaged  [ ] Not engaged
-Art. 35 Health care                               [ ] Engaged  [ ] Not engaged
-Art. 36 Access to services of general interest    [ ] Engaged  [ ] Not engaged
-Art. 37 Environmental protection                  [ ] Engaged  [ ] Not engaged
-Art. 38 Consumer protection                       [ ] Engaged  [ ] Not engaged
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TITLE V — CITIZENS' RIGHTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Art. 41 Right to good administration              [ ] Engaged  [ ] Not engaged
-Art. 42 Right of access to documents              [ ] Engaged  [ ] Not engaged
-Art. 43 Ombudsman                                 [ ] Engaged  [ ] Not engaged
-Art. 44 Right to petition                         [ ] Engaged  [ ] Not engaged
-Art. 45 Freedom of movement and residence         [ ] Engaged  [ ] Not engaged
+### Title II — Freedoms
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TITLE VI — JUSTICE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Art. 47 Right to effective remedy and fair trial  [ ] Engaged  [ ] Not engaged
-Art. 48 Presumption of innocence                  [ ] Engaged  [ ] Not engaged
-Art. 49 Legality / proportionality of penalties   [ ] Engaged  [ ] Not engaged
-Art. 50 Right not to be tried twice (ne bis in idem) [ ] Engaged  [ ] Not engaged
-```
+Art. 6  Right to liberty and security             - [ ] Engaged  - [ ] Not engaged
+Art. 7  Respect for private and family life       - [ ] Engaged  - [ ] Not engaged
+Art. 8  Protection of personal data               - [ ] Engaged  - [ ] Not engaged
+Art. 9  Right to marry and found a family         - [ ] Engaged  - [ ] Not engaged
+Art. 10 Freedom of thought, conscience, religion  - [ ] Engaged  - [ ] Not engaged
+Art. 11 Freedom of expression and information     - [ ] Engaged  - [ ] Not engaged
+Art. 12 Freedom of assembly and association       - [ ] Engaged  - [ ] Not engaged
+Art. 13 Freedom of arts and sciences              - [ ] Engaged  - [ ] Not engaged
+Art. 14 Right to education                        - [ ] Engaged  - [ ] Not engaged
+Art. 15 Freedom to choose an occupation           - [ ] Engaged  - [ ] Not engaged
+Art. 16 Freedom to conduct a business             - [ ] Engaged  - [ ] Not engaged
+Art. 17 Right to property                         - [ ] Engaged  - [ ] Not engaged
+Art. 18 Right to asylum                           - [ ] Engaged  - [ ] Not engaged
+Art. 19 Protection from removal / expulsion       - [ ] Engaged  - [ ] Not engaged
+
+---
+
+### Title III — Equality
+
+Art. 20 Equality before the law                   - [ ] Engaged  - [ ] Not engaged
+Art. 21 Non-discrimination                        - [ ] Engaged  - [ ] Not engaged
+  Grounds engaged: - [ ] sex - [ ] race - [ ] colour - [ ] ethnic origin - [ ] genetic features
+  - [ ] language - [ ] religion - [ ] political opinion - [ ] national minority - [ ] property
+  - [ ] birth - [ ] disability - [ ] age - [ ] sexual orientation
+Art. 22 Cultural, religious, linguistic diversity - [ ] Engaged  - [ ] Not engaged
+Art. 23 Equality between men and women            - [ ] Engaged  - [ ] Not engaged
+Art. 24 Rights of the child                       - [ ] Engaged  - [ ] Not engaged
+Art. 25 Rights of the elderly                     - [ ] Engaged  - [ ] Not engaged
+Art. 26 Integration of persons with disabilities  - [ ] Engaged  - [ ] Not engaged
+
+---
+
+### Title IV — Solidarity
+
+Art. 27 Workers' information and consultation     - [ ] Engaged  - [ ] Not engaged
+Art. 28 Right of collective bargaining / action   - [ ] Engaged  - [ ] Not engaged
+Art. 29 Right of access to placement services     - [ ] Engaged  - [ ] Not engaged
+Art. 30 Protection from unjustified dismissal     - [ ] Engaged  - [ ] Not engaged
+Art. 31 Fair and just working conditions          - [ ] Engaged  - [ ] Not engaged
+Art. 32 Prohibition of child labour               - [ ] Engaged  - [ ] Not engaged
+Art. 33 Family and professional life              - [ ] Engaged  - [ ] Not engaged
+Art. 34 Social security and assistance            - [ ] Engaged  - [ ] Not engaged
+Art. 35 Health care                               - [ ] Engaged  - [ ] Not engaged
+Art. 36 Access to services of general interest    - [ ] Engaged  - [ ] Not engaged
+Art. 37 Environmental protection                  - [ ] Engaged  - [ ] Not engaged
+Art. 38 Consumer protection                       - [ ] Engaged  - [ ] Not engaged
+
+---
+
+### Title V — Citizens' Rights
+
+Art. 41 Right to good administration              - [ ] Engaged  - [ ] Not engaged
+Art. 42 Right of access to documents              - [ ] Engaged  - [ ] Not engaged
+Art. 43 Ombudsman                                 - [ ] Engaged  - [ ] Not engaged
+Art. 44 Right to petition                         - [ ] Engaged  - [ ] Not engaged
+Art. 45 Freedom of movement and residence         - [ ] Engaged  - [ ] Not engaged
+
+---
+
+### Title VI — Justice
+
+Art. 47 Right to effective remedy and fair trial  - [ ] Engaged  - [ ] Not engaged
+Art. 48 Presumption of innocence                  - [ ] Engaged  - [ ] Not engaged
+Art. 49 Legality / proportionality of penalties   - [ ] Engaged  - [ ] Not engaged
+Art. 50 Right not to be tried twice (ne bis in idem) - [ ] Engaged  - [ ] Not engaged
 
 ---
 
 ## Art. 52(1) Limitation Analysis Template
 
-```
 ART. 52(1) LIMITATION ANALYSIS — [Right engaged: Art. X CFR]
 Measure:  [Description]
 
-─── CONDITION 1: LEGAL BASIS ──────────────────────────────────────────────
-The limitation is provided for by:
-  [ ] This regulation / directive (Art. [X])
-  [ ] National implementing law (for MS measures)
-Is the legal basis sufficiently clear, precise, and foreseeable?  [ ] YES  [ ] NO [explain]
+---
 
-─── CONDITION 2: ESSENCE OF THE RIGHT ────────────────────────────────────
+### Condition 1: Legal Basis
+
+The limitation is provided for by:
+  - [ ] This regulation / directive (Art. [X])
+  - [ ] National implementing law (for MS measures)
+Is the legal basis sufficiently clear, precise, and foreseeable?  - [ ] YES  - [ ] NO [explain]
+
+---
+
+### Condition 2: Essence of the Right
+
 Core of the right (as defined by CJEU/ECtHR):  [Describe the irreducible minimum]
-Does the limitation affect this core?           [ ] NO — essence preserved
-                                                [ ] YES → limitation unlawful ab initio
+Does the limitation affect this core?           - [ ] NO — essence preserved
+                                                - [ ] YES → limitation unlawful ab initio
                                                 [CJEU reference: C-362/14 Schrems; C-293/12 Digital Rights Ireland]
 
-─── CONDITION 3: GENUINE OBJECTIVE OF GENERAL INTEREST ───────────────────
+---
+
+### Condition 3: Genuine Objective of General Interest
+
 Objective pursued:  [Description]
 Is this an objective recognised by EU law / Art. 52(1) CFR?
-  [ ] YES: [public security / health / environment / protection of others' rights / ...]
-  [ ] NO → limitation not justified
+  - [ ] YES: [public security / health / environment / protection of others' rights / ...]
+  - [ ] NO → limitation not justified
 
-─── CONDITION 4: PROPORTIONALITY AND NECESSITY ───────────────────────────
+---
+
+### Condition 4: Proportionality and Necessity
+
 Is the measure appropriate (capable of achieving the objective)?
-  [ ] YES [explain how]  [ ] NO [explain]
+  - [ ] YES [explain how]  - [ ] NO [explain]
 Is the measure necessary (are there less restrictive means)?
   Less restrictive alternatives considered: [list alternatives considered and reasons for rejection]
-  [ ] No sufficient less restrictive alternative exists → necessary
-  [ ] A less restrictive alternative exists → limitation fails proportionality
+  - [ ] No sufficient less restrictive alternative exists → necessary
+  - [ ] A less restrictive alternative exists → limitation fails proportionality
 Is the measure proportionate stricto sensu (benefits outweigh costs to the right)?
-  [ ] YES [explain]  [ ] BORDERLINE [flag for RSB / Legal Service review]
+  - [ ] YES [explain]  - [ ] BORDERLINE [flag for RSB / Legal Service review]
 
-─── ECHR ALIGNMENT (Art. 52(3) CFR) ─────────────────────────────────────
+---
+
+### ECHR Alignment (Art. 52(3) CFR)
+
 Does Art. [X] CFR correspond to an ECHR right?
   Corresponding ECHR article:  [Art. X ECHR]
-  ECHR limitation test met?    [ ] YES  [ ] NO  [ ] ECHR provides higher protection
+  ECHR limitation test met?    - [ ] YES  - [ ] NO  - [ ] ECHR provides higher protection
 
-─── CONCLUSION ───────────────────────────────────────────────────────────
-Art. [X] CFR limitation:  [ ] JUSTIFIED — all four conditions met
-                          [ ] NOT JUSTIFIED — [condition(s) failed: specify]
-                          [ ] UNCERTAIN — [flag for Legal Service opinion]
+---
+
+### Conclusion
+
+Art. [X] CFR limitation:  - [ ] JUSTIFIED — all four conditions met
+                          - [ ] NOT JUSTIFIED — [condition(s) failed: specify]
+                          - [ ] UNCERTAIN — [flag for Legal Service opinion]
 
 [EUR-Lex — verify current CFR article] [CJEU — verify case references]
 [review — legal uncertainty if essence of right is borderline]
-```
 
 ---
 
@@ -277,4 +297,4 @@ Art. [X] CFR limitation:  [ ] JUSTIFIED — all four conditions met
 
 ---
 
-DRAFT — For review by an EU official before use. Not an official Commission position.
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.

@@ -127,33 +127,36 @@ and procedurally correct.
 
 ### 1. Commissioner Briefing Note
 
-```
 BRIEFING NOTE FOR THE COMMISSIONER
 Prepared by:    [Unit — DG XX.X.X]
 Date:           [DD Month YYYY]
 Subject:        [Clear, specific title]
-Purpose:        □ For decision  □ For information  □ For signature  □ For meeting preparation
+Purpose:        - [ ] For decision  - [ ] For information  - [ ] For signature  - [ ] For meeting preparation
 
-─────────────────────────────────────────────────────────
-KEY MESSAGE (2–3 sentences max — what the Commissioner needs to know NOW)
-─────────────────────────────────────────────────────────
+---
+
+### Key Message (2–3 sentences max — what the Commissioner needs to know NOW)
+
 [Lead with the conclusion or decision needed, not background.]
 
-─────────────────────────────────────────────────────────
-1. SITUATION
-─────────────────────────────────────────────────────────
+---
+
+### 1. Situation
+
 [Context — 1–2 paragraphs. What is the issue? Where does it stand?
 Reference the legal/policy framework and the Commissioner's Agenda link.]
 
-─────────────────────────────────────────────────────────
-2. STATE OF PLAY
-─────────────────────────────────────────────────────────
+---
+
+### 2. State of Play
+
 [Recent developments — Council, Parliament, stakeholders, press. What has changed
 since the last briefing? What is the current political temperature?]
 
-─────────────────────────────────────────────────────────
-3. OPTIONS / ANALYSIS
-─────────────────────────────────────────────────────────
+---
+
+### 3. Options / Analysis
+
 Option A: [Description]
   + [Advantage]
   − [Disadvantage / risk]
@@ -162,25 +165,26 @@ Option B: [Description]
   + [Advantage]
   − [Disadvantage / risk]
 
-─────────────────────────────────────────────────────────
-4. RECOMMENDATION
-─────────────────────────────────────────────────────────
+---
+
+### 4. Recommendation
+
 [DG recommendation — which option and why. Be direct.]
 
-─────────────────────────────────────────────────────────
-5. NEXT STEPS / TIMELINE
-─────────────────────────────────────────────────────────
+---
+
+### 5. Next Steps / Timeline
+
 [Date]: [Action] — [Responsible]
 [Date]: [Decision point]
 
-─────────────────────────────────────────────────────────
+---
+
 CONTACTS: Policy officer: [Name, tel, email]   HoU: [Name]
-ARES REF:  [ARES(YYYY)NNNNNNN]   SECURITY: □ NORMAL  □ LIMITE
-```
+ARES REF:  [ARES(YYYY)NNNNNNN]   SECURITY: - [ ] NORMAL  - [ ] LIMITE
 
 ### 2. Council Working Party — Negotiating Brief
 
-```
 COUNCIL WORKING PARTY — NEGOTIATING BRIEF
 Working party:     [Name]
 Meeting date:      [DD Month YYYY]
@@ -189,21 +193,24 @@ Proposal:          [COM(YYYY) XXX — Title]
 Commission rep.:   [Name, unit, contact]
 Cleared by:        [HoU name — DD Month YYYY]
 
-─────────────────────────────────────────────────────────
-1. STATE OF PLAY
-─────────────────────────────────────────────────────────
+---
+
+### 1. State of Play
+
 [Where does the dossier stand in the Council — first reading, general approach,
 specific article under examination? Key political dynamics among member states.]
 
-─────────────────────────────────────────────────────────
-2. AGENDA ITEM — PRESIDENCY PROPOSAL
-─────────────────────────────────────────────────────────
+---
+
+### 2. Agenda Item — Presidency Proposal
+
 [Summary of what the Presidency is putting on the table — compromise text,
 specific articles, political package.]
 
-─────────────────────────────────────────────────────────
-3. COMMISSION POSITION
-─────────────────────────────────────────────────────────
+---
+
+### 3. Commission Position
+
 [Clear statement of where the Commission stands on the Presidency proposal.
 Reference the original proposal and any modifications already accepted.]
 
@@ -216,113 +223,119 @@ Red lines (reject):
 Amber lines (negotiate):
 - [Where the Commission has flexibility, and what it needs in return]
 
-─────────────────────────────────────────────────────────
-4. ANTICIPATED MEMBER STATE POSITIONS
-─────────────────────────────────────────────────────────
+---
+
+### 4. Anticipated Member State Positions
+
 | MS / Group | Expected position | Key concern |
 |---|---|---|
 | [Country] | [Support / Reservations / Opposition] | [Issue] |
 
-─────────────────────────────────────────────────────────
-5. SPEAKING POINTS
-─────────────────────────────────────────────────────────
+---
+
+### 5. Speaking Points
+
 If opening: [2–3 sentences to frame the Commission position]
 On [specific issue]: [Prepared line]
 If asked about [difficult question]: [Suggested response]
 
-─────────────────────────────────────────────────────────
-6. REPORT-BACK TEMPLATE (to be completed after the meeting)
-─────────────────────────────────────────────────────────
+---
+
+### 6. Report-Back Template (to be completed after the meeting)
+
 Summary of discussion:
 Member state positions (for the record):
   - [Country]: [Position stated]
 Presidency conclusion/next step:
 Commission action required:
-ARES registration: □ Done — ref: [ARES(YYYY)NNNNNNN]
-```
+ARES registration: - [ ] Done — ref: [ARES(YYYY)NNNNNNN]
 
 ### 3. Meeting Report (Expert Group / Stakeholder)
 
-```
 MEETING REPORT
 Meeting:        [Title / event name]
 Date/Time:      [DD Month YYYY, HH:MM–HH:MM]
 Venue:          [Location / Teams]
 Commission rep.: [Name, unit]
 ARES ref.:      [ARES(YYYY)NNNNNNN]
-Classification: □ NORMAL  □ LIMITE
+Classification: - [ ] NORMAL  - [ ] LIMITE
 
 PARTICIPANTS: [List or refer to attached attendance list]
 
-─────────────────────────────────────────────────────────
-1. SUMMARY OF DISCUSSION
-─────────────────────────────────────────────────────────
+---
+
+### 1. Summary of Discussion
+
 [Agenda item by agenda item — what was discussed, key views expressed,
 points of agreement and disagreement. Attribute views to organisations,
 not individuals, unless speakers explicitly agreed to be named.]
 
-─────────────────────────────────────────────────────────
-2. KEY FINDINGS / POSITIONS NOTED
-─────────────────────────────────────────────────────────
+---
+
+### 2. Key Findings / Positions Noted
+
 - [Finding 1 — relevant to the Commission's dossier work]
 - [Finding 2]
 - [...]
 
-─────────────────────────────────────────────────────────
-3. NEXT STEPS
-─────────────────────────────────────────────────────────
+---
+
+### 3. Next Steps
+
 [Date]: [Action] — [Owner]
 Next meeting: [Date, if agreed]
 
-─────────────────────────────────────────────────────────
-4. IMPLICATIONS FOR THE DOSSIER
-─────────────────────────────────────────────────────────
+---
+
+### 4. Implications for the Dossier
+
 [Brief assessment — how does this meeting change the policy landscape?
 Does it require updating the Commission's position or accelerating/
 delaying any step? Flag to HoU if significant.]
-```
 
 ### 4. Options Paper (Internal Policy Note)
 
-```
 OPTIONS PAPER — [TOPIC]
 DG / Unit:      [XX.X.X]
 Prepared by:    [Name]
 Date:           [DD Month YYYY]
-For:            □ HoU decision  □ Director briefing  □ ISC input  □ Internal discussion
-Classification: □ NORMAL  □ LIMITE
+For:            - [ ] HoU decision  - [ ] Director briefing  - [ ] ISC input  - [ ] Internal discussion
+Classification: - [ ] NORMAL  - [ ] LIMITE
 
-─────────────────────────────────────────────────────────
-1. ISSUE
-─────────────────────────────────────────────────────────
+---
+
+### 1. Issue
+
 [1 paragraph — what is the specific question or decision that needs to be resolved?
 Why now? What is the deadline or trigger?]
 
-─────────────────────────────────────────────────────────
-2. BACKGROUND
-─────────────────────────────────────────────────────────
+---
+
+### 2. Background
+
 [2–3 paragraphs — legal framework, political context, what has already been done,
 what other DGs/institutions have said.]
 
-─────────────────────────────────────────────────────────
-3. OPTIONS
-─────────────────────────────────────────────────────────
+---
 
-OPTION 1: [Title]
+### 3. Options
+
+Option 1: [Title]
 Description: [...]
 Advantages: [...]
 Disadvantages / risks: [...]
 Resource implications: [...]
 
-OPTION 2: [Title]
+Option 2: [Title]
 [Same structure]
 
-OPTION 3: [Title]
+Option 3: [Title]
 [Same structure — if relevant]
 
-─────────────────────────────────────────────────────────
-4. ASSESSMENT AGAINST CRITERIA
-─────────────────────────────────────────────────────────
+---
+
+### 4. Assessment Against Criteria
+
 | Criterion | Option 1 | Option 2 | Option 3 |
 |---|---|---|---|
 | Legal soundness | | | |
@@ -331,17 +344,18 @@ OPTION 3: [Title]
 | Implementation speed | | | |
 | Resource cost | | | |
 
-─────────────────────────────────────────────────────────
-5. PREFERRED OPTION AND RATIONALE
-─────────────────────────────────────────────────────────
+---
+
+### 5. Preferred Option and Rationale
+
 [State the recommended option and explain why it best meets the criteria.
 Flag dissenting views within the unit if any.]
 
-─────────────────────────────────────────────────────────
-6. NEXT STEPS IF OPTION [X] IS CHOSEN
-─────────────────────────────────────────────────────────
+---
+
+### 6. Next Steps if Option [X] is Chosen
+
 [Date]: [Action — owner]
-```
 
 ---
 

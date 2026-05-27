@@ -131,118 +131,138 @@ as deployers under the AI Act.
 
 ## AI Risk Classification Summary
 
-```
-AI ACT RISK CLASSIFICATION
-System:          [AI system name and version]
-Provider:        [company / in-house]
-Deployer:        [EU institution / DG / Unit]
-Use case:        [brief description of intended use]
-Date:            [DD Month YYYY]
+**AI ACT RISK CLASSIFICATION**
+**System:** [AI system name and version]
+**Provider:** [company / in-house]
+**Deployer:** [EU institution / DG / Unit]
+**Use case:** [brief description of intended use]
+**Date:** [DD Month YYYY]
 
-─── STEP 1: PROHIBITED PRACTICE CHECK (Art. 5) ──────────────────────────────
-[ ] Subliminal manipulation below consciousness threshold causing harm
-[ ] Exploitation of vulnerabilities (age, disability, social situation)
-[ ] Social scoring by public authorities
-[ ] Real-time remote biometric ID in public spaces (subject to narrow exceptions)
-[ ] Emotion recognition in workplace or educational institutions
-[ ] Biometric categorisation inferring protected characteristics
-[ ] Predictive policing based solely on profiling
+---
 
-RESULT: [ ] PROHIBITED — deployment must not proceed
-        [ ] NO prohibited practice identified — proceed to Step 2
+#### Step 1: Prohibited Practice Check (Art. 5)
 
-─── STEP 2: HIGH-RISK CLASSIFICATION (Art. 6 + Annex III) ───────────────────
-Art. 6(1) — Safety component of Annex I product: [ ] YES  [ ] NO
-Art. 6(2) + Annex III area triggered:
-  [ ] Biometric identification or categorisation
-  [ ] Critical infrastructure management
-  [ ] Education / vocational training
-  [ ] Employment / worker management / access to self-employment
-  [ ] Essential private/public services (benefits, credit scoring, emergency)
-  [ ] Law enforcement (risk assessment, evidence, deepfake detection)
-  [ ] Migration, asylum, border management
-  [ ] Administration of justice / democratic processes
+- [ ] Subliminal manipulation below consciousness threshold causing harm
+- [ ] Exploitation of vulnerabilities (age, disability, social situation)
+- [ ] Social scoring by public authorities
+- [ ] Real-time remote biometric ID in public spaces (subject to narrow exceptions)
+- [ ] Emotion recognition in workplace or educational institutions
+- [ ] Biometric categorisation inferring protected characteristics
+- [ ] Predictive policing based solely on profiling
 
-Art. 6(3) rebuttable exception applicable: [ ] YES — rationale: [state]  [ ] NO
+**Result:**
+- [ ] PROHIBITED — deployment must not proceed
+- [ ] No prohibited practice identified — proceed to Step 2
 
-RESULT: [ ] HIGH-RISK — proceed to Steps 6–14
-        [ ] NOT HIGH-RISK — proceed to Step 3
+---
 
-─── STEP 3: GPAI MODEL (Arts. 51–55) ────────────────────────────────────────
-Is this a general-purpose AI / foundation model: [ ] YES  [ ] NO
-If YES — systemic risk (>10²⁵ FLOPs or designated): [ ] YES  [ ] NO
+#### Step 2: High-Risk Classification (Art. 6 + Annex III)
 
-─── STEP 4: LIMITED RISK (Art. 50) ──────────────────────────────────────────
-Chatbot or conversational AI: [ ] YES → Art. 50(1) disclosure obligation
-Synthetic content / deepfake generation: [ ] YES → Art. 50(4) labelling obligation
-Emotion recognition system: [ ] YES → Art. 50(3) notification obligation
+**Art. 6(1) — Safety component of Annex I product:** - [ ] YES - [ ] NO
 
-FINAL CLASSIFICATION:
-[ ] Prohibited (Art. 5)      → halt deployment
-[ ] High-risk (Art. 6)       → full compliance track
-[ ] GPAI with systemic risk  → Arts. 51–55 obligations
-[ ] GPAI without systemic risk → basic GPAI obligations
-[ ] Limited risk (Art. 50)   → specific transparency obligations only
-[ ] Minimal risk             → no mandatory AI Act obligations
-```
+**Art. 6(2) + Annex III area triggered:**
+- [ ] Biometric identification or categorisation
+- [ ] Critical infrastructure management
+- [ ] Education / vocational training
+- [ ] Employment / worker management / access to self-employment
+- [ ] Essential private/public services (benefits, credit scoring, emergency)
+- [ ] Law enforcement (risk assessment, evidence, deepfake detection)
+- [ ] Migration, asylum, border management
+- [ ] Administration of justice / democratic processes
+
+**Art. 6(3) rebuttable exception applicable:** - [ ] YES — rationale: [state] - [ ] NO
+
+**Result:**
+- [ ] HIGH-RISK — proceed to Steps 6–14
+- [ ] NOT HIGH-RISK — proceed to Step 3
+
+---
+
+#### Step 3: GPAI Model (Arts. 51–55)
+
+**Is this a general-purpose AI / foundation model:** - [ ] YES - [ ] NO
+**If YES — systemic risk (>10²⁵ FLOPs or designated):** - [ ] YES - [ ] NO
+
+---
+
+#### Step 4: Limited Risk (Art. 50)
+
+- [ ] Chatbot or conversational AI → Art. 50(1) disclosure obligation
+- [ ] Synthetic content / deepfake generation → Art. 50(4) labelling obligation
+- [ ] Emotion recognition system → Art. 50(3) notification obligation
+
+---
+
+#### Final Classification
+
+- [ ] **Prohibited (Art. 5)** → halt deployment
+- [ ] **High-risk (Art. 6)** → full compliance track
+- [ ] **GPAI with systemic risk** → Arts. 51–55 obligations
+- [ ] **GPAI without systemic risk** → basic GPAI obligations
+- [ ] **Limited risk (Art. 50)** → specific transparency obligations only
+- [ ] **Minimal risk** → no mandatory AI Act obligations
 
 ---
 
 ## Fundamental Rights Impact Assessment (FRIA) — Art. 27
 
-```
-FUNDAMENTAL RIGHTS IMPACT ASSESSMENT
-System:          [AI system name]
-Deployer:        [EU institution / DG]
-Reference:       FRIA-[DG]-[YYYY]-[NNN]
-Date:            [DD Month YYYY]
+**FUNDAMENTAL RIGHTS IMPACT ASSESSMENT**
+**System:** [AI system name]
+**Deployer:** [EU institution / DG]
+**Reference:** FRIA-[DG]-[YYYY]-[NNN]
+**Date:** [DD Month YYYY]
 
-─── SCOPE ───────────────────────────────────────────────────────────────────
-Intended use:    [description]
-Affected persons:[categories of individuals subject to the AI system's outputs]
-Decision context:[does the AI inform, recommend, or make binding decisions?]
+---
 
-─── FUNDAMENTAL RIGHTS ASSESSMENT ───────────────────────────────────────────
-Right                         Impact    Risk level  Mitigating measures
-Human dignity (Art. 1 CFREU)  [+/0/-]   [L/M/H]    [measure or "none required"]
-Non-discrimination (Art. 21)  [+/0/-]   [L/M/H]    [measure — bias testing, audit]
-Privacy (Art. 7 CFREU)        [+/0/-]   [L/M/H]    [measure — data minimisation]
-Data protection (Art. 8)      [+/0/-]   [L/M/H]    [DPIA ref or "not applicable"]
-Free expression (Art. 11)     [+/0/-]   [L/M/H]    [measure or "none required"]
-Fair trial / remedy (Art. 47) [+/0/-]   [L/M/H]    [human override mechanism]
-Children's rights (Art. 24)   [+/0/-]   [L/M/H]    [measure or "none required"]
-Labour rights (Art. 31)       [+/0/-]   [L/M/H]    [measure or "none required"]
+**Scope**
 
-OVERALL FRIA CONCLUSION:
-[ ] Deployment may proceed — fundamental rights impacts acceptable with mitigations
-[ ] Deployment may proceed with mandatory mitigations — [list required measures]
-[ ] Deployment must NOT proceed — unacceptable fundamental rights risk
+**Intended use:** [description]
+**Affected persons:** [categories of individuals subject to the AI system's outputs]
+**Decision context:** [does the AI inform, recommend, or make binding decisions?]
+
+---
+
+**Fundamental Rights Assessment**
+
+| Right | Impact | Risk level | Mitigating measures |
+|---|---|---|---|
+| Human dignity (Art. 1 CFREU) | [+/0/-] | [L/M/H] | [measure or "none required"] |
+| Non-discrimination (Art. 21) | [+/0/-] | [L/M/H] | [measure — bias testing, audit] |
+| Privacy (Art. 7 CFREU) | [+/0/-] | [L/M/H] | [measure — data minimisation] |
+| Data protection (Art. 8) | [+/0/-] | [L/M/H] | [DPIA ref or "not applicable"] |
+| Free expression (Art. 11) | [+/0/-] | [L/M/H] | [measure or "none required"] |
+| Fair trial / remedy (Art. 47) | [+/0/-] | [L/M/H] | [human override mechanism] |
+| Children's rights (Art. 24) | [+/0/-] | [L/M/H] | [measure or "none required"] |
+| Labour rights (Art. 31) | [+/0/-] | [L/M/H] | [measure or "none required"] |
+
+**Overall FRIA conclusion:**
+- [ ] Deployment may proceed — fundamental rights impacts acceptable with mitigations
+- [ ] Deployment may proceed with mandatory mitigations — [list required measures]
+- [ ] Deployment must NOT proceed — unacceptable fundamental rights risk
 
 [review — DPO and legal sign-off required]
 [review — political judgement required for high-impact systems]
-```
 
 ---
 
 ## Technical Documentation Checklist (Art. 11 + Annex IV)
 
-```
-TECHNICAL DOCUMENTATION — HIGH-RISK AI SYSTEM
-System:   [name]   Provider:  [name]   Doc ref:  TDOC-[ref]
+**TECHNICAL DOCUMENTATION — HIGH-RISK AI SYSTEM**
+**System:** [name] **Provider:** [name] **Doc ref:** TDOC-[ref]
 
-Annex IV Element                                             Status
-1. General description (purpose, use case, version)          [ ] Complete
-2. Description of elements and development process           [ ] Complete
-3. Information on training, validation, testing data         [ ] Complete
-4. Monitoring, functioning, control information              [ ] Complete
-5. Risk management system (Art. 9)                           [ ] Complete
-6. Description of changes in lifecycle                       [ ] Complete
-7. Standards applied (harmonised / other technical)          [ ] Complete
-8. EU declaration of conformity (Art. 48)                    [ ] Complete / [ ] Pending
-9. Post-market monitoring plan (Art. 72)                     [ ] Complete
+| Annex IV Element | Status |
+|---|---|
+| 1. General description (purpose, use case, version) | - [ ] Complete |
+| 2. Description of elements and development process | - [ ] Complete |
+| 3. Information on training, validation, testing data | - [ ] Complete |
+| 4. Monitoring, functioning, control information | - [ ] Complete |
+| 5. Risk management system (Art. 9) | - [ ] Complete |
+| 6. Description of changes in lifecycle | - [ ] Complete |
+| 7. Standards applied (harmonised / other technical) | - [ ] Complete |
+| 8. EU declaration of conformity (Art. 48) | - [ ] Complete / - [ ] Pending |
+| 9. Post-market monitoring plan (Art. 72) | - [ ] Complete |
 
-Provider has provided / institution has verified: [ ] YES  [ ] NO — action required
-```
+**Provider has provided / institution has verified:** - [ ] YES - [ ] NO — action required
 
 ---
 

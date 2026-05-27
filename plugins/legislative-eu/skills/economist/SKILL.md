@@ -133,15 +133,15 @@ the Commission's Better Regulation and competition assessment frameworks.
 
 ### 1. Cost-Benefit Analysis Summary Table
 
-```
 COST-BENEFIT ANALYSIS — SUMMARY
 Initiative:   [Title]
 Preferred option: [Option N]
 Time horizon: [N years]   Discount rate: [3% real]   Base year: [YYYY]
 
-─────────────────────────────────────────────────────────
-BENEFITS (NPV, EUR million, central estimate)
-─────────────────────────────────────────────────────────
+---
+
+### Benefits (NPV, EUR million, central estimate)
+
 [Benefit category 1 — e.g., reduced accident costs]:      €[X]M
 [Benefit category 2 — e.g., environmental externalities]: €[X]M
 [Benefit category 3 — e.g., reduced administrative cost]: €[X]M
@@ -149,9 +149,10 @@ BENEFITS (NPV, EUR million, central estimate)
 TOTAL BENEFITS (central):                                  €[X]M
 Sensitivity range (low/high):                             €[X]M – €[X]M
 
-─────────────────────────────────────────────────────────
-COSTS (NPV, EUR million, central estimate)
-─────────────────────────────────────────────────────────
+---
+
+### Costs (NPV, EUR million, central estimate)
+
 [Cost category 1 — e.g., one-off compliance (business)]: €[X]M
 [Cost category 2 — e.g., recurring compliance cost]:     €[X]M
 [Cost category 3 — e.g., public authority admin cost]:   €[X]M
@@ -159,112 +160,130 @@ COSTS (NPV, EUR million, central estimate)
 TOTAL COSTS (central):                                    €[X]M
 Sensitivity range (low/high):                            €[X]M – €[X]M
 
-─────────────────────────────────────────────────────────
-NET PRESENT VALUE (NPV)
-─────────────────────────────────────────────────────────
+---
+
+### Net Present Value (NPV)
+
 NPV (central):          €[X]M    [Positive → benefits exceed costs]
 NPV (low):              €[X]M
 NPV (high):             €[X]M
 Benefit-Cost Ratio:     [X.X]    [> 1 → intervention is economically justified]
 Payback period:         [N years]
 
-─────────────────────────────────────────────────────────
-KEY UNCERTAINTIES
-─────────────────────────────────────────────────────────
+---
+
+### Key Uncertainties
+
 [Parameter 1 — low/central/high values and NPV sensitivity]
 [Parameter 2 — ...]
 
-─────────────────────────────────────────────────────────
-DISTRIBUTIONAL EFFECTS
-─────────────────────────────────────────────────────────
+---
+
+### Distributional Effects
+
 Business (large): [Net impact — € / % turnover]
 SMEs:             [Net impact — € / % turnover — SME test result]
 Consumers:        [Price / quality / choice impact]
 Member states:    [Differential impacts — which MS gain/lose most]
 Public budgets:   [Net public sector impact]
-```
 
 ### 2. Market Failure Assessment
 
-```
 MARKET FAILURE ASSESSMENT — [POLICY AREA]
 
-1. MARKET STRUCTURE DESCRIPTION
-   [How is this market organised? Size, number of players, concentration (HHI),
-   entry barriers, vertical integration, regulatory environment.]
+---
 
-2. MARKET FAILURE IDENTIFICATION
-   □ EXTERNALITY: [Positive / Negative — description of the externality,
-     who bears the cost/receives the benefit, why the market does not internalise it]
-   □ PUBLIC GOOD: [Non-excludability / Non-rivalry — which aspects of the good
-     are public? Is there underprovision?]
-   □ INFORMATION ASYMMETRY: [Between which parties? Adverse selection? Moral hazard?
-     Does it lead to market failure or suboptimal outcomes?]
-   □ MARKET POWER / DOMINANT POSITION: [Is there market power? Can it be exercised?
-     What is the welfare loss?]
-   □ COORDINATION FAILURE / NETWORK EFFECTS: [Where individual actors cannot coordinate
-     to achieve a socially optimal outcome without a focal institution or standard]
+### 1. Market Structure Description
 
-3. MAGNITUDE AND SIGNIFICANCE
-   [Quantify the market failure where possible. What is the welfare loss (in €, %GDP,
-   or other relevant metric)? Why is it significant enough to justify regulatory action?]
+[How is this market organised? Size, number of players, concentration (HHI),
+entry barriers, vertical integration, regulatory environment.]
 
-4. WHY THE MARKET CANNOT SELF-CORRECT
-   [Explain why the market failure persists. Are there private solutions (contracts,
-   insurance, reputation) that partially address it? Why are they insufficient?]
+---
 
-5. REGULATORY RATIONALE
-   [Which type of intervention best addresses this market failure?
-   Price/quantity instrument? Information requirement? Standard-setting?
-   Public provision? Competition enforcement?]
-```
+### 2. Market Failure Identification
+
+- [ ] EXTERNALITY: [Positive / Negative — description of the externality,
+  who bears the cost/receives the benefit, why the market does not internalise it]
+- [ ] PUBLIC GOOD: [Non-excludability / Non-rivalry — which aspects of the good
+  are public? Is there underprovision?]
+- [ ] INFORMATION ASYMMETRY: [Between which parties? Adverse selection? Moral hazard?
+  Does it lead to market failure or suboptimal outcomes?]
+- [ ] MARKET POWER / DOMINANT POSITION: [Is there market power? Can it be exercised?
+  What is the welfare loss?]
+- [ ] COORDINATION FAILURE / NETWORK EFFECTS: [Where individual actors cannot coordinate
+  to achieve a socially optimal outcome without a focal institution or standard]
+
+---
+
+### 3. Magnitude and Significance
+
+[Quantify the market failure where possible. What is the welfare loss (in €, %GDP,
+or other relevant metric)? Why is it significant enough to justify regulatory action?]
+
+---
+
+### 4. Why the Market Cannot Self-Correct
+
+[Explain why the market failure persists. Are there private solutions (contracts,
+insurance, reputation) that partially address it? Why are they insufficient?]
+
+---
+
+### 5. Regulatory Rationale
+
+[Which type of intervention best addresses this market failure?
+Price/quantity instrument? Information requirement? Standard-setting?
+Public provision? Competition enforcement?]
 
 ### 3. European Semester Economic Assessment Note
 
-```
 EUROPEAN SEMESTER — COUNTRY ECONOMIC ASSESSMENT NOTE
 Country:        [Member State]
 Assessment:     [Spring Package / Country Report / CSR recommendation]
 Date:           [DD Month YYYY]
 DG ECFIN unit:  [Country unit]
 
-─────────────────────────────────────────────────────────
-1. MACROECONOMIC SITUATION
-─────────────────────────────────────────────────────────
+---
+
+### 1. Macroeconomic Situation
+
 GDP growth (real): [X.X%] — [above/below/at EU average of X.X%]
 Inflation (HICP):  [X.X%]
 Unemployment:      [X.X%] — [above/below NAIRU estimate of X.X%]
 Current account:   [X.X% GDP]
 Key risks:         [Upside/downside risks to the forecast]
 
-─────────────────────────────────────────────────────────
-2. FISCAL SITUATION
-─────────────────────────────────────────────────────────
+---
+
+### 2. Fiscal Situation
+
 General government balance:     [X.X% GDP] — [under/at/above MTO]
 Structural balance:             [X.X% of potential GDP]
 Cyclically-adjusted balance:    [X.X%]
 Debt/GDP ratio:                 [X.X%] — [trajectory: improving/deteriorating]
 EDP status:                     [Open / Not open — reference value: 3% deficit / 60% debt]
 
-─────────────────────────────────────────────────────────
-3. REFORM ASSESSMENT
-─────────────────────────────────────────────────────────
+---
+
+### 3. Reform Assessment
+
 [Assessment of implementation of previous CSR recommendations:
 Full / Substantial / Some / Limited / No progress — for each CSR]
 
-─────────────────────────────────────────────────────────
-4. DRAFT COUNTRY-SPECIFIC RECOMMENDATIONS (CSRs)
-─────────────────────────────────────────────────────────
+---
+
+### 4. Draft Country-Specific Recommendations (CSRs)
+
 CSR 1: [Fiscal — e.g., "Ensure fiscal adjustment consistent with the revised SGP path..."]
 CSR 2: [Structural — e.g., "Improve labour market participation for..."]
 CSR 3: [Investment — e.g., "Accelerate implementation of the RRP measure on..."]
 
-─────────────────────────────────────────────────────────
-5. ASSESSMENT RATIONALE
-─────────────────────────────────────────────────────────
+---
+
+### 5. Assessment Rationale
+
 [For each CSR: economic rationale, data sources, comparable countries,
 EU-level spillovers that justify a CSR rather than leaving it to national policy]
-```
 
 ---
 

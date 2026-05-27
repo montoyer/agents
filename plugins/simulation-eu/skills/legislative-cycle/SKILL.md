@@ -115,7 +115,6 @@ PHASE 6 — PUBLICATION
 
 ## Output Template
 
-```
 LEGISLATIVE CYCLE — [DOSSIER TITLE]
 Instrument: [Regulation / Directive / Decision]
 Legal basis: [TFEU Art. X] — Procedure: [OLP Art. 294 / SLP — specify]
@@ -123,9 +122,10 @@ Lead Commissioner: [Portfolio]
 Lead DG: [DG name]
 Simulated period: [YYYY–YYYY]
 
-══════════════════════════════════════════
-PHASE 1 — COMMISSION INITIATIVE
-══════════════════════════════════════════
+---
+
+### Phase 1 — Commission Initiative
+
 1a. Impact Assessment (SWD):
     [Key findings — preferred option — proportionality statement]
 
@@ -147,18 +147,20 @@ PHASE 1 — COMMISSION INITIATIVE
 
 OUTPUT: COM([YYYY]) [NNN] final transmitted to EP and Council.
 
-══════════════════════════════════════════
-PHASE 2 — EP FIRST READING
-══════════════════════════════════════════
+---
+
+### Phase 2 — EP First Reading
+
 Responsible committee: [ITRE / ENVI / LIBE / IMCO / etc.]
 Rapporteur: [political group]
 Key EP amendments: [List of significant EP additions/changes to Commission text]
 Political group dynamics: [Where the majority is built]
 EP first reading position: [Adopted by [N] votes for / [N] against]
 
-══════════════════════════════════════════
-PHASE 3 — COUNCIL FIRST READING
-══════════════════════════════════════════
+---
+
+### Phase 3 — Council First Reading
+
 Council configuration: [COMPET / ENVI / EPSCO / etc.]
 Key Council amendments: [List of significant Council divergences from Commission]
 QMV check: [Blocking minority risk — which member states / why]
@@ -166,27 +168,30 @@ Council position: [Adopted / Blocking minority — dossier stalled]
 
 [If EP and Council positions identical → Act adopted at Phase 3. Note this.]
 
-══════════════════════════════════════════
-PHASE 4 — TRILOGUE
-══════════════════════════════════════════
+---
+
+### Phase 4 — Trilogue
+
 Rounds: [N]
 Key fault lines: [List]
 [Round-by-round summary or direct to political agreement]
 
 Political agreement: [Date] / Breakdown: [Risk assessment]
 
-══════════════════════════════════════════
-PHASE 5–6 — FORMAL ADOPTION AND PUBLICATION
-══════════════════════════════════════════
+---
+
+### Phase 5–6 — Formal Adoption and Publication
+
 EP plenary vote: [N for / N against / N abstain]
 Council formal adoption: [QMV — blocking minority check]
 OJ publication: [OJ reference — L series]
 Entry into force: [Date — 20th day after OJ publication]
 Application date: [Date — if different from entry into force]
 
-══════════════════════════════════════════
-FINAL LEGISLATIVE ACT
-══════════════════════════════════════════
+---
+
+### Final Legislative Act
+
 [REGULATION / DIRECTIVE] ([EU]) [YEAR]/[NUMBER] OF THE EUROPEAN PARLIAMENT
 AND OF THE COUNCIL of [date] on [subject matter]
 
@@ -194,6 +199,5 @@ Key elements of the final text (vs. Commission proposal):
 - [What changed and why — EP wins / Council wins / compromise]
 
 [model knowledge — verify] for any specific current legislative procedure details.
----
-DRAFT — Simulation output. Not an official Commission position.
-```
+
+> **DRAFT** — Simulation output. Not an official Commission position.

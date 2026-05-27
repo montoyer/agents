@@ -71,40 +71,29 @@ drafted CDRs vulnerable to appeal.
 
 ## SMART Objectives Framework
 
-```
-SMART CRITERIA — APPLY TO EVERY OBJECTIVE
-─────────────────────────────────────────────────────────
-S — Specific:    What is the concrete output or deliverable?
-                 NOT: "Contribute to the unit's work on dossier X"
-                 YES: "Draft the Commission position paper on [topic] for the
-                      [Council WP meeting] by [date]"
+**Apply to every objective:**
 
-M — Measurable:  How will completion be determined?
-                 NOT: "Make progress on the legislative file"
-                 YES: "Complete the ISC contribution [by date] / Deliver the
-                      draft regulation to the HoU by [date] for first review"
+- **S — Specific:** What is the concrete output or deliverable?
+  - ✗ *Not:* "Contribute to the unit's work on dossier X"
+  - ✓ *Yes:* "Draft the Commission position paper on [topic] for the [Council WP meeting] by [date]"
 
-A — Achievable:  Is this within the staff member's control and capacity?
-                 Objectives must not depend entirely on external factors
-                 (e.g., Council approval, member state behaviour)
+- **M — Measurable:** How will completion be determined?
+  - ✗ *Not:* "Make progress on the legislative file"
+  - ✓ *Yes:* "Complete the ISC contribution [by date] / Deliver the draft regulation to the HoU by [date] for first review"
 
-R — Relevant:    Does the objective correspond to the staff member's
-                 actual function and grade?
-                 AD5 objective: drafting, analysis, coordination
-                 AD9+ objective: may include stakeholder management, strategy
+- **A — Achievable:** Is this within the staff member's control and capacity? Objectives must not depend entirely on external factors (e.g., Council approval, member state behaviour)
 
-T — Time-bound:  When should it be completed?
-                 Use absolute dates or known milestones, not "throughout the year"
-─────────────────────────────────────────────────────────
+- **R — Relevant:** Does the objective correspond to the staff member's actual function and grade?
+  - AD5 objective: drafting, analysis, coordination
+  - AD9+ objective: may include stakeholder management, strategy
 
-OBJECTIVE TYPES TO INCLUDE (mix for a complete CDR):
-□ Key deliverable objective — a specific output (report, draft, analysis)
-□ Process/quality objective — how the work is done (stakeholder engagement,
-  peer collaboration, quality of written output)
-□ Development objective — a competency or skill to develop (at least 1)
-□ Horizontal tasks objective — if the staff member has significant horizontal
-  responsibilities (ARES management, budget, training coordination)
-```
+- **T — Time-bound:** When should it be completed? Use absolute dates or known milestones, not "throughout the year"
+
+**Objective types to include (mix for a complete CDR):**
+- [ ] Key deliverable objective — a specific output (report, draft, analysis)
+- [ ] Process/quality objective — how the work is done (stakeholder engagement, peer collaboration, quality of written output)
+- [ ] Development objective — a competency or skill to develop (at least 1)
+- [ ] Horizontal tasks objective — if the staff member has significant horizontal responsibilities (ARES management, budget, training coordination)
 
 ---
 
@@ -150,48 +139,42 @@ OBJECTIVE TYPES TO INCLUDE (mix for a complete CDR):
 
 ### 1. SMART Objective (single objective)
 
-```
-OBJECTIVE [N] — [Short title]
+**OBJECTIVE [N] — [Short title]**
 
-Deliverable:
-[Precise description of the output. Example: "Draft the Commission's position
-paper on [topic] for the [Council WP configuration] working party session in
-[month YYYY], including the legal analysis of [specific issue] and options
-for the Commissioner's briefing."]
+**Deliverable:**
+[Precise description of the output. Example: "Draft the Commission's position paper on [topic] for the [Council WP configuration] working party session in [month YYYY], including the legal analysis of [specific issue] and options for the Commissioner's briefing."]
 
-Indicator of completion:
-[How completion will be assessed. Example: "Position paper delivered to HoU
-by [date], reviewed and cleared for the Council WP session. Quality indicator:
-HoU assessment that the paper meets the standards required for the Commissioner's
-briefing."]
+**Indicator of completion:**
+[How completion will be assessed. Example: "Position paper delivered to HoU by [date], reviewed and cleared for the Council WP session. Quality indicator: HoU assessment that the paper meets the standards required for the Commissioner's briefing."]
 
-Deadline / milestone:
-[Absolute date or named milestone. Example: "[DD Month YYYY] — delivery to HoU
-for first review; [DD Month YYYY] — cleared for WP session."]
+**Deadline / milestone:**
+[Absolute date or named milestone. Example: "[DD Month YYYY] — delivery to HoU for first review; [DD Month YYYY] — cleared for WP session."]
 
-Weight: [X]% of overall assessment (if weight-based system in use)
-```
+**Weight:** [X]% of overall assessment (if weight-based system in use)
+
+---
 
 ### 2. End-Year Appraisal — Appraiser's Assessment
 
-```
-APPRAISER'S ASSESSMENT — [Staff member name, grade, unit]
-Reference period: [DD Month YYYY] – [DD Month YYYY]
-Appraiser: [Name, title]
+**APPRAISER'S ASSESSMENT — [Staff member name, grade, unit]**
+**Reference period:** [DD Month YYYY] – [DD Month YYYY]
+**Appraiser:** [Name, title]
 
-─────────────────────────────────────────────────────────
-OBJECTIVES ASSESSMENT
-─────────────────────────────────────────────────────────
-Objective 1 — [Title]
-Completion status: □ Fully achieved  □ Substantially achieved  □ Partially  □ Not achieved
-Evidence: [What was delivered, when, to what quality standard]
-Contextual factors: [Any external constraints that affected delivery]
+---
+
+#### Objectives Assessment
+
+**Objective 1 — [Title]**
+**Completion status:** - [ ] Fully achieved - [ ] Substantially achieved - [ ] Partially - [ ] Not achieved
+**Evidence:** [What was delivered, when, to what quality standard]
+**Contextual factors:** [Any external constraints that affected delivery]
 
 [Repeat for each objective]
 
-─────────────────────────────────────────────────────────
-COMPETENCY ASSESSMENT
-─────────────────────────────────────────────────────────
+---
+
+#### Competency Assessment
+
 | Competency | Rating (1–5) | Evidence (specific, not generic) |
 |---|---|---|
 | Analysis and problem-solving | [N] | [Specific example] |
@@ -201,33 +184,32 @@ COMPETENCY ASSESSMENT
 | Learning and development | [N] | [Training, new skills applied] |
 | [Leadership — if managerial role] | [N] | [Team management example] |
 
-─────────────────────────────────────────────────────────
-OVERALL ASSESSMENT
-─────────────────────────────────────────────────────────
-Overall mark: □ Exceptional  □ Very Good  □ Good  □ Adequate  □ Unsatisfactory
+---
 
-Narrative:
+#### Overall Assessment
+
+**Overall mark:** - [ ] Exceptional - [ ] Very Good - [ ] Good - [ ] Adequate - [ ] Unsatisfactory
+
+**Narrative:**
 [3–5 sentences grounded in specific outputs and behaviours. Structure:
 1. Summary of main contributions during the period
 2. Specific strengths demonstrated
 3. Any areas for development (required if mark is Good or below)
 4. Forward-looking note for the next period]
 
-Promotion recommendation (if applicable): □ Yes □ No
-Merit points proposed: [N] (within grade range)
+**Promotion recommendation (if applicable):** - [ ] Yes - [ ] No
+**Merit points proposed:** [N] (within grade range)
 
-─────────────────────────────────────────────────────────
-DEVELOPMENT OBJECTIVE FOR NEXT PERIOD
-─────────────────────────────────────────────────────────
-[One specific development objective based on the appraisal. Example:
-"Strengthen [competency] by [specific action — training/shadowing/new responsibility]
-by [date]."]
+---
+
+#### Development Objective for Next Period
+
+[One specific development objective based on the appraisal. Example: "Strengthen [competency] by [specific action — training/shadowing/new responsibility] by [date]."]
 
 [review — HR sensitivity]
 [SR — verify current appraisal articles: Arts. 43–44 Staff Regulations]
-DRAFT — For review by the countersigning officer before finalisation in SYSPER.
-Not an official appraisal report until completed in SYSPER.
-```
+
+> **DRAFT** — For review by the countersigning officer before finalisation in SYSPER. Not an official appraisal report until completed in SYSPER.
 
 ---
 

@@ -115,173 +115,156 @@ in the name of the Secretary-General or the responsible Director-General.
 
 ## Exception Application Guide
 
-```
-EXCEPTION ASSESSMENT — [Document title / ref]
-Request ref:   ARES([YYYY])XXXXXXX
-Document ref:  [ARES ref / document ID]
-Requested by:  [name / ref — no identity needed for assessment]
+**EXCEPTION ASSESSMENT — [Document title / ref]**
+**Request ref:** ARES([YYYY])XXXXXXX
+**Document ref:** [ARES ref / document ID]
+**Requested by:** [name / ref — no identity needed for assessment]
 
-─── ART. 4(1)(b) — PRIVACY (most frequently invoked) ────────────────────────
-Does the document contain personal data of natural persons?   [ ] YES  [ ] NO
-  If YES: apply Art. 9 Regulation 2018/1725 (EUDPR) test:
-  (a) Is there a specific reason to transfer the personal data?    [ ] YES  [ ] NO
-  (b) Is there no reason to assume the data subjects' legitimate interests are prejudiced?
-                                                                    [ ] YES  [ ] NO
-  If both YES → disclose; if either NO → redact the personal data
+---
 
-  Names / functions of officials acting in a professional capacity:
-  → Officials' names in public-facing roles are generally NOT exempt (Bavarian Lager rule)
-  → Internal working-level names may be redacted if disclosure serves no purpose
+**Art. 4(1)(b) — Privacy (most frequently invoked)**
 
-─── ART. 4(2) — LEGAL ADVICE ────────────────────────────────────────────────
-Is this a Legal Service opinion, legal note, or legal analysis?  [ ] YES  [ ] NO
-  The exception protects the institution's interest in receiving frank legal advice.
-  BUT: the exception does not apply automatically to all Legal Service documents.
-  It applies where: (1) document is a legal opinion; (2) disclosure undermines that
-  interest; (3) no overriding public interest.
-  Legislative context: legal opinions on legislative proposals enjoy weaker protection
-  (Parliament v Council, C-353/99 P).
+Does the document contain personal data of natural persons? - [ ] YES - [ ] NO
 
-─── ART. 4(2) — INVESTIGATIONS ─────────────────────────────────────────────
-Is this document part of an ongoing OLAF investigation, infringement procedure,
-competition case, or State aid investigation?                    [ ] YES  [ ] NO
-  If YES: disclosure may undermine the investigation.
-  If procedure is closed: exception normally no longer applies.
-  Temporal scope: assess whether the investigation risk is current.
+If YES: apply Art. 9 Regulation 2018/1725 (EUDPR) test:
+- (a) Is there a specific reason to transfer the personal data? - [ ] YES - [ ] NO
+- (b) Is there no reason to assume the data subjects' legitimate interests are prejudiced? - [ ] YES - [ ] NO
 
-─── ART. 4(3) — DECISION-MAKING PROCESS ────────────────────────────────────
-Is a decision on this matter still pending?                      [ ] YES  [ ] NO
-  If YES: does disclosure seriously undermine the process?        [ ] YES  [ ] NO
-  This is a high threshold — "seriously" and "undermining", not mere inconvenience.
-  Impact assessments and preparatory documents: stronger presumption of access once
-  the legislative proposal is published.
+If both YES → disclose; if either NO → redact the personal data.
 
-─── OVERRIDING PUBLIC INTEREST ──────────────────────────────────────────────
+*Names / functions of officials acting in a professional capacity:*
+- Officials' names in public-facing roles are generally NOT exempt (Bavarian Lager rule)
+- Internal working-level names may be redacted if disclosure serves no purpose
+
+---
+
+**Art. 4(2) — Legal advice**
+
+Is this a Legal Service opinion, legal note, or legal analysis? - [ ] YES - [ ] NO
+
+The exception protects the institution's interest in receiving frank legal advice. BUT: the exception does not apply automatically to all Legal Service documents. It applies where: (1) document is a legal opinion; (2) disclosure undermines that interest; (3) no overriding public interest. Legislative context: legal opinions on legislative proposals enjoy weaker protection (Parliament v Council, C-353/99 P).
+
+---
+
+**Art. 4(2) — Investigations**
+
+Is this document part of an ongoing OLAF investigation, infringement procedure, competition case, or State aid investigation? - [ ] YES - [ ] NO
+
+If YES: disclosure may undermine the investigation. If procedure is closed: exception normally no longer applies. Temporal scope: assess whether the investigation risk is current.
+
+---
+
+**Art. 4(3) — Decision-making process**
+
+Is a decision on this matter still pending? - [ ] YES - [ ] NO
+If YES: does disclosure seriously undermine the process? - [ ] YES - [ ] NO
+
+This is a high threshold — "seriously" and "undermining", not mere inconvenience. Impact assessments and preparatory documents: stronger presumption of access once the legislative proposal is published.
+
+---
+
+**Overriding public interest**
+
 Even if an Art. 4(2)/(3) exception applies:
-Is there an overriding public interest in disclosure?            [ ] YES  [ ] NO
-  Recognised interests: legislative transparency; environmental information (Aarhus);
-  public health and safety; fundamental rights; democratic accountability.
-  If YES → disclose despite the exception.
+Is there an overriding public interest in disclosure? - [ ] YES - [ ] NO
 
-─── PARTIAL ACCESS ──────────────────────────────────────────────────────────
-Can meaningful access be granted to a redacted version?          [ ] YES  [ ] NO
-  If YES → mandatory to offer partial access (Art. 4(6))
-  Redaction principle: minimum necessary; preserve structure and context.
-```
+Recognised interests: legislative transparency; environmental information (Aarhus); public health and safety; fundamental rights; democratic accountability. If YES → disclose despite the exception.
+
+---
+
+**Partial access**
+
+Can meaningful access be granted to a redacted version? - [ ] YES - [ ] NO
+- If YES → mandatory to offer partial access (Art. 4(6))
+- Redaction principle: minimum necessary; preserve structure and context.
 
 ---
 
 ## Response Letter Templates
 
 ### Full Access
-```
-[Institutional letterhead]
-Re: Your request for access to documents — Ref. [ARES([YYYY])XXXXXXX]
-Date: [DD Month YYYY]
+
+*[Institutional letterhead]*
+**Re:** Your request for access to documents — Ref. [ARES([YYYY])XXXXXXX]
+**Date:** [DD Month YYYY]
 
 Dear [Name / "Sir or Madam"],
 
-Following your request of [date] for access to [document description], the European
-Commission has examined your request in accordance with Regulation (EC) No 1049/2001.
+Following your request of [date] for access to [document description], the European Commission has examined your request in accordance with Regulation (EC) No 1049/2001.
 
-We are pleased to grant you full access to the requested document(s), which you will
-find [enclosed / at the following link: [URL]].
+We are pleased to grant you full access to the requested document(s), which you will find [enclosed / at the following link: [URL]].
 
-[If a public register entry exists: The document is also available in the Commission's
-public document register at: register.ec.europa.eu]
+[If a public register entry exists: The document is also available in the Commission's public document register at: register.ec.europa.eu]
 
 Yours faithfully, [Director-General / Secretary-General]
-```
+
+---
 
 ### Partial Access with Redaction
-```
-Re: Your request for access to documents — Ref. [ARES([YYYY])XXXXXXX]
+
+**Re:** Your request for access to documents — Ref. [ARES([YYYY])XXXXXXX]
 
 Dear [Name],
 
-Following your request of [date], the Commission has examined [document description]
-in accordance with Regulation (EC) No 1049/2001.
+Following your request of [date], the Commission has examined [document description] in accordance with Regulation (EC) No 1049/2001.
 
 The Commission grants you partial access. The redacted version is attached.
 
 The following information has been withheld:
-  — [Description of redacted element 1]: protected under Art. 4(1)(b) of Regulation
-    1049/2001 (protection of privacy and integrity of natural persons), as the names
-    of [staff / individuals] constitute personal data within the meaning of Art. 3(1)
-    of Regulation 2018/1725 and their disclosure would not serve a specific purpose
-    proportionate to the privacy interference.
-  — [Description of redacted element 2]: protected under Art. 4(2), third indent
-    (inspections, investigations and audits), as the [investigation / procedure] is
-    currently ongoing and disclosure would seriously undermine it.
+- [Description of redacted element 1]: protected under Art. 4(1)(b) of Regulation 1049/2001 (protection of privacy and integrity of natural persons), as the names of [staff / individuals] constitute personal data within the meaning of Art. 3(1) of Regulation 2018/1725 and their disclosure would not serve a specific purpose proportionate to the privacy interference.
+- [Description of redacted element 2]: protected under Art. 4(2), third indent (inspections, investigations and audits), as the [investigation / procedure] is currently ongoing and disclosure would seriously undermine it.
 
-The Commission considers that there is no overriding public interest that would justify
-disclosure of the withheld information.
+The Commission considers that there is no overriding public interest that would justify disclosure of the withheld information.
 
-If you are not satisfied with this decision, you may within 15 working days submit a
-confirmatory application to the Secretary-General of the Commission
-(sg-acc-doc@ec.europa.eu). You may also complain to the European Ombudsman or bring
-proceedings before the Court of Justice.
+If you are not satisfied with this decision, you may within 15 working days submit a confirmatory application to the Secretary-General of the Commission (sg-acc-doc@ec.europa.eu). You may also complain to the European Ombudsman or bring proceedings before the Court of Justice.
 
 Yours faithfully, [Director-General]
-```
+
+---
 
 ### Refusal
-```
-Re: Your request for access to documents — Ref. [ARES([YYYY])XXXXXXX]
+
+**Re:** Your request for access to documents — Ref. [ARES([YYYY])XXXXXXX]
 
 Dear [Name],
 
-Following your request of [date] for access to [document description], the Commission
-has conducted a thorough examination in accordance with Regulation (EC) No 1049/2001.
+Following your request of [date] for access to [document description], the Commission has conducted a thorough examination in accordance with Regulation (EC) No 1049/2001.
 
 The Commission must decline your request. The document is protected by:
 
-Art. 4([X]) of Regulation 1049/2001 — [exception name]:
-[Specific explanation: why the exception applies; what harm disclosure would cause;
-why no overriding public interest prevails. Minimum 2 sentences per exception cited.
-Do not use boilerplate — tailor the justification to the specific document.]
+**Art. 4([X]) of Regulation 1049/2001 — [exception name]:**
+[Specific explanation: why the exception applies; what harm disclosure would cause; why no overriding public interest prevails. Minimum 2 sentences per exception cited. Do not use boilerplate — tailor the justification to the specific document.]
 
-[If Art. 4(3)]: The Commission also notes that the decision-making process on [matter]
-is ongoing. Premature disclosure of the document would seriously undermine the
-institution's ability to [deliberate freely / receive frank advice / reach a decision],
-without any demonstrated overriding public interest.
+[If Art. 4(3):] The Commission also notes that the decision-making process on [matter] is ongoing. Premature disclosure of the document would seriously undermine the institution's ability to [deliberate freely / receive frank advice / reach a decision], without any demonstrated overriding public interest.
 
-PARTIAL ACCESS: The Commission has considered whether partial access is possible
-pursuant to Art. 4(6). [Either: "No meaningful access can be granted given that the
-entire document falls within the exception." / "Partial access is granted to the
-attached redacted version."]
+**Partial access:** The Commission has considered whether partial access is possible pursuant to Art. 4(6). [Either: "No meaningful access can be granted given that the entire document falls within the exception." / "Partial access is granted to the attached redacted version."]
 
-FURTHER STEPS: If you are not satisfied with this decision, you may within 15 working
-days submit a confirmatory application addressed to the Secretary-General of the European
-Commission (sg-acc-doc@ec.europa.eu / SG-C-4, 1049 Brussels).
+**Further steps:** If you are not satisfied with this decision, you may within 15 working days submit a confirmatory application addressed to the Secretary-General of the European Commission (sg-acc-doc@ec.europa.eu / SG-C-4, 1049 Brussels).
 
-You may also address a complaint to the European Ombudsman (ombudsman.europa.eu) or
-bring proceedings before the Court of Justice of the EU pursuant to Art. 263 TFEU.
+You may also address a complaint to the European Ombudsman (ombudsman.europa.eu) or bring proceedings before the Court of Justice of the EU pursuant to Art. 263 TFEU.
 
 Yours faithfully, [Director-General]
 [review — legal sign-off required for refusals]
-```
 
 ---
 
 ## Deadline Tracker
 
-```
-ACCESS TO DOCUMENTS — DEADLINE SHEET
-Request ref:       ARES([YYYY])XXXXXXX
-Date of receipt:   [DD Month YYYY] (Working day 0)
-Initial deadline:  [DD Month YYYY] (Working day 15)
+**ACCESS TO DOCUMENTS — DEADLINE SHEET**
 
-Extension requested: [ ] YES — notified to applicant by: [DD Month YYYY]
-Extended deadline:   [DD Month YYYY] (Working day 30)
+**Request ref:** ARES([YYYY])XXXXXXX
+**Date of receipt:** [DD Month YYYY] (Working day 0)
+**Initial deadline:** [DD Month YYYY] (Working day 15)
 
-Third-party consultation: [ ] YES — sent [date]; response due [date]
-LIMITE / classified check: [ ] Checked — result: [N documents LIMITE / none]
+**Extension requested:** - [ ] YES — notified to applicant by: [DD Month YYYY]
+**Extended deadline:** [DD Month YYYY] (Working day 30)
 
-Confirmatory application received: [ ] YES — date: [DD Month YYYY]
-SG confirmatory deadline:          [DD Month YYYY] (Working day 15 from confirmatory)
-SG extended deadline:              [DD Month YYYY] (if extension used)
-```
+**Third-party consultation:** - [ ] YES — sent [date]; response due [date]
+**LIMITE / classified check:** - [ ] Checked — result: [N documents LIMITE / none]
+
+**Confirmatory application received:** - [ ] YES — date: [DD Month YYYY]
+**SG confirmatory deadline:** [DD Month YYYY] (Working day 15 from confirmatory)
+**SG extended deadline:** [DD Month YYYY] (if extension used)
 
 ---
 

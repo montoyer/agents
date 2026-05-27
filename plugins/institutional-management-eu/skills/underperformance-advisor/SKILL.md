@@ -121,7 +121,6 @@ and requires strict adherence to procedural requirements.
 
 ## Warning Letter Template
 
-```
 [Institutional letterhead — LIMITE / NORMALE as appropriate]
 [Date]
 ARES([YYYY])XXXXXXX
@@ -138,43 +137,58 @@ I am writing to you further to the discussions we have had regarding your perfor
 in your current post as [function title] in [DG/Unit], and following consultation with
 DG HR.
 
-1. DOCUMENTED PERFORMANCE CONCERNS
+---
+
+### 1. Documented Performance Concerns
+
 Over the past [period], I have observed the following specific performance concerns:
 
-  (a) [Concern 1 — specific, factual, with dates/examples]
-      Expected standard: [what a satisfactory performer at this grade would do]
-      Observed: [what was actually done or not done]
+(a) [Concern 1 — specific, factual, with dates/examples]
+Expected standard: [what a satisfactory performer at this grade would do]
+Observed: [what was actually done or not done]
 
-  (b) [Concern 2 — specific, factual]
-      Expected standard: [...]
-      Observed: [...]
+(b) [Concern 2 — specific, factual]
+Expected standard: [...]
+Observed: [...]
 
-  (c) [Concern 3 — if applicable]
+(c) [Concern 3 — if applicable]
 
 These concerns are reflected in your CDR assessment for [year]: overall rating
 "[rating]" confirmed by the countersigning officer on [date].
 
-2. STEPS TAKEN TO DATE
+---
+
+### 2. Steps Taken to Date
+
 Prior to this formal procedure, the following support was offered and documented:
-  — [Date]: verbal feedback discussion; meeting note shared [date]
-  — [Date]: training offered on [topic]; [attended / not attended]
-  — [Date]: workload review; adjustments made: [describe]
+- [Date]: verbal feedback discussion; meeting note shared [date]
+- [Date]: training offered on [topic]; [attended / not attended]
+- [Date]: workload review; adjustments made: [describe]
 
 Despite these measures, the required performance standard has not been met.
 
-3. FORMAL WARNING
+---
+
+### 3. Formal Warning
+
 This letter constitutes a formal warning under Article 51(1) of the Staff Regulations.
 I am required to inform you that if your performance does not reach a satisfactory level
 by the end of the monitoring period described below, the Appointing Authority may decide
 to demote you or to terminate your appointment in the interest of the service, pursuant
 to Article 51 SR.
 
-4. IMPROVEMENT PLAN AND MONITORING PERIOD
+---
+
+### 4. Improvement Plan and Monitoring Period
+
 An improvement plan (attached) has been drawn up in consultation with [DG HR / your
 direct supervisor]. The monitoring period will run from [date] to [date] ([N] months).
 Regular review meetings will be held on [monthly / bi-monthly] basis.
 
-5. RIGHT TO BE HEARD
+---
+
+### 5. Right to Be Heard
+
 Before this letter is finalised, you have the right to present your observations.
 Please contact me within [5] working days to arrange a meeting, or submit written
 observations to [email] by [date].
@@ -187,13 +201,11 @@ cc: DG HR [name]; Director [name]; ARES file
 
 [review — HR sensitivity]
 [review — DG HR clearance required before issuing]
-```
 
 ---
 
 ## Improvement Plan Template
 
-```
 IMPROVEMENT PLAN
 Staff member:       [name and grade — LIMITE]
 Post:               [function title / DG / Unit]
@@ -201,27 +213,37 @@ Plan period:        [DD Month YYYY] to [DD Month YYYY]
 HoU:                [name]
 DG HR contact:      [name]
 
-─── OBJECTIVE 1: [specific objective title] ─────────────────────────────────
+---
+
+#### Objective 1: [specific objective title]
+
 Current standard:   [describe current performance on this dimension]
 Required standard:  [describe what satisfactory performance looks like]
-Success criteria:   [measurable: e.g. "0 missed deadlines in the monitoring period";
-                     "all outputs rated satisfactory by HoU within 2 review rounds";
-                     "minimum score of [N] on the quality assessment checklist"]
+Success criteria:   [measurable: e.g. "0 missed deadlines in the monitoring period"; "all outputs rated satisfactory by HoU within 2 review rounds"]
 Milestone (M+3):    [interim target by 3 months]
 Milestone (M+6):    [final target by 6 months]
-Support offered:    [training course X by date Y; coaching sessions monthly;
-                     simplified workflow; peer review of outputs before submission]
+Support offered:    [training course X by date Y; coaching sessions monthly; simplified workflow; peer review of outputs before submission]
 
-─── OBJECTIVE 2: [second objective] ─────────────────────────────────────────
+---
+
+#### Objective 2: [second objective]
+
 [Repeat structure — typically 2–4 objectives maximum]
 
-─── REVIEW SCHEDULE ─────────────────────────────────────────────────────────
-Date            Type           Participants           Format
-[DD Month YYYY] Monthly review HoU + staff member     1:1 meeting — written summary shared within 3 days
-[DD Month YYYY] Mid-point      HoU + DG HR            Review of progress; plan adjustment if needed
-[DD Month YYYY] End-of-period  HoU + DG HR + AIPN     Final assessment
+---
 
-─── SIGN-OFF ─────────────────────────────────────────────────────────────────
+#### Review Schedule
+
+| Date | Type | Participants | Format |
+|---|---|---|---|
+| [DD Month YYYY] | Monthly review | HoU + staff member | 1:1 meeting — written summary shared within 3 days |
+| [DD Month YYYY] | Mid-point | HoU + DG HR | Review of progress; plan adjustment if needed |
+| [DD Month YYYY] | End-of-period | HoU + DG HR + AIPN | Final assessment |
+
+---
+
+#### Sign-Off
+
 HoU signature:          [name / date]
 Staff member signature: [name / date — acknowledgement of receipt, not agreement]
 DG HR:                  [name / date]
@@ -230,33 +252,31 @@ Note: signature by the staff member confirms receipt, not agreement with the con
 The staff member may add written observations (attached to this plan as an annex).
 
 [review — HR sensitivity]
-```
 
 ---
 
 ## Monthly Review Meeting Note Template
 
-```
 PERFORMANCE MONITORING — REVIEW MEETING NOTE
 Date:             [DD Month YYYY]
 Participants:     [HoU name]; [staff member name]
 Duration:         [N minutes]
 ARES ref:         [ARES([YYYY])XXXXXXX]
 
-OBJECTIVE 1: [title]
-  Progress since last review:  [ ] On track  [ ] Partial progress  [ ] No progress
-  Evidence:                    [specific facts — outputs delivered, deadlines met, quality]
-  Agreed next steps:           [specific actions by [date]]
+**Objective 1: [title]**
+Progress since last review:  - [ ] On track  - [ ] Partial progress  - [ ] No progress
+Evidence:                    [specific facts — outputs delivered, deadlines met, quality]
+Agreed next steps:           [specific actions by [date]]
 
-OBJECTIVE 2: [title]
-  Progress:   [ ] On track  [ ] Partial  [ ] No progress
-  Evidence:   [specific facts]
-  Next steps: [specific actions]
+**Objective 2: [title]**
+Progress:   - [ ] On track  - [ ] Partial  - [ ] No progress
+Evidence:   [specific facts]
+Next steps: [specific actions]
 
-OVERALL ASSESSMENT THIS MONTH:
-  [ ] Satisfactory progress — continue monitoring
-  [ ] Partial progress — [specific area of concern; adjusted support: describe]
-  [ ] Insufficient progress — [documented; HoU to inform DG HR; formal note to file]
+**Overall Assessment This Month:**
+- [ ] Satisfactory progress — continue monitoring
+- [ ] Partial progress — [specific area of concern; adjusted support: describe]
+- [ ] Insufficient progress — [documented; HoU to inform DG HR; formal note to file]
 
 Support provided this month: [training attended / coaching session / other]
 Additional support needed:   [yes — describe / no]
@@ -267,7 +287,6 @@ Staff member comments (if provided): [attach or record here]
 Signed: [HoU name]    Date: [DD Month YYYY]
 
 [review — HR sensitivity]
-```
 
 ---
 
@@ -316,5 +335,4 @@ Signed: [HoU name]    Date: [DD Month YYYY]
 
 ---
 
-DRAFT — For review by the responsible official before action is taken.
-Not an official Commission decision or position.
+> **DRAFT** — For review by the responsible official before action is taken. Not an official Commission decision or position.

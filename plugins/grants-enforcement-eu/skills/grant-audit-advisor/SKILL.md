@@ -95,140 +95,128 @@ do not remedy an audit finding.
 
 ## Audit Readiness Checklist
 
-```
-GRANT AUDIT READINESS CHECK
-Grant Agreement:  [Number]
-Programme:        [Horizon Europe / LIFE / CEF / ...]
-Beneficiary:      [Name]
-Audit periods:    [Years / reporting periods in scope]
-Prepared by:      [Name]   Date: [DD Month YYYY]
+**GRANT AUDIT READINESS CHECK**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-GRANT AGREEMENT AND AMENDMENTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Signed grant agreement — all pages, all annexes, all partners' signatures
-[ ] All amendments signed and filed — budget reallocations, partner changes,
-    period extensions, task modifications
-[ ] Work programme / Description of Action — version matching each reporting period
-[ ] Partnership agreement (if consortium) — signed, covers IP, liability, cost-sharing
+**Grant Agreement:** [Number]
+**Programme:** [Horizon Europe / LIFE / CEF / ...]
+**Beneficiary:** [Name]
+**Audit periods:** [Years / reporting periods in scope]
+**Prepared by:** [Name] — **Date:** [DD Month YYYY]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PERSONNEL COSTS (highest-risk category)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Employment contracts for all personnel claimed — in force during the eligible period
-[ ] Payslips / salary statements for each claimed person, each month
-[ ] Time records: timesheets signed by employee and supervisor; match hours claimed
-    in financial report
-[ ] Annual productive hours calculation documented (if using actual cost method)
-[ ] Monthly declared working hours consistent across all projects (> 100% = finding)
-[ ] Secondees: secondment agreement; home organisation's salary base documented
-[ ] Part-time staff: contract confirms part-time rate; hours prorated correctly
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SUBCONTRACTING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Each subcontract either authorised in GA Annex 1 or approved by Commission
-[ ] Procurement procedure documented: at least 3 quotes for contracts < threshold;
-    open tender for contracts above threshold
-[ ] Subcontract signed before work started (backdated contracts = finding)
-[ ] Subcontractor invoices: specific, reference the work performed, date, amount
-[ ] Subcontractor did not delegate core tasks of the action (GA prohibition)
-[ ] No subcontracting to consortium partners (these are internal costs — different treatment)
+#### Grant Agreement and Amendments
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-EQUIPMENT AND OTHER DIRECT COSTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Equipment: invoices + proof of payment; depreciation calculation if not 100% charged
-[ ] Equipment used for the action: proportion claimed matches actual use (usage log)
-[ ] Travel costs: mission orders, boarding passes / travel tickets, hotel receipts
-[ ] Conference / registration fees: proof of attendance; relevance to action documented
-[ ] All costs within the eligible period (start date to end date of the action)
+- [ ] Signed grant agreement — all pages, all annexes, all partners' signatures
+- [ ] All amendments signed and filed — budget reallocations, partner changes, period extensions, task modifications
+- [ ] Work programme / Description of Action — version matching each reporting period
+- [ ] Partnership agreement (if consortium) — signed, covers IP, liability, cost-sharing
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-INDIRECT COSTS / OVERHEADS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] If flat rate (25% HE): correctly calculated on eligible direct costs (excl. subcontracting)
-[ ] If actual overheads: allocation methodology documented; consistent with accounting system
+#### Personnel Costs *(highest-risk category)*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CERTIFICATE ON FINANCIAL STATEMENTS (CFS)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] CFS required if cumulative EU contribution > €325,000 (Horizon Europe threshold)
-[ ] CFS obtained from independent auditor — auditor independence confirmed
-[ ] CFS covers the correct reporting period and grant agreement
+- [ ] Employment contracts for all personnel claimed — in force during the eligible period
+- [ ] Payslips / salary statements for each claimed person, each month
+- [ ] Time records: timesheets signed by employee and supervisor; match hours claimed in financial report
+- [ ] Annual productive hours calculation documented (if using actual cost method)
+- [ ] Monthly declared working hours consistent across all projects (> 100% = finding)
+- [ ] Secondees: secondment agreement; home organisation's salary base documented
+- [ ] Part-time staff: contract confirms part-time rate; hours prorated correctly
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DOCUMENT RETENTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] All documents retained for 5 years after final payment (longer if under audit)
-[ ] Electronic documents: backed up; accessible; file format preserved (no proprietary lock-in)
-[ ] Paper documents: stored securely; not destroyed since grant agreement signature
+#### Subcontracting
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-GAPS IDENTIFIED / ACTIONS REQUIRED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Gap ref  Description                  Risk level   Action before audit   Responsible
-[G-1]    [Missing timesheets M3–M6]   HIGH         [Cannot reconstruct — flag to auditor]  [name]
-[G-2]    [No competitive quotes for   MEDIUM       [Document rationale for direct award]   [name]
-         subcontract €X]
-[G-3]    [Equipment usage log absent] LOW          [Prepare retroactive usage estimate — document basis] [name]
-```
+- [ ] Each subcontract either authorised in GA Annex 1 or approved by Commission
+- [ ] Procurement procedure documented: at least 3 quotes for contracts < threshold; open tender for contracts above threshold
+- [ ] Subcontract signed before work started (backdated contracts = finding)
+- [ ] Subcontractor invoices: specific, reference the work performed, date, amount
+- [ ] Subcontractor did not delegate core tasks of the action (GA prohibition)
+- [ ] No subcontracting to consortium partners (these are internal costs — different treatment)
+
+#### Equipment and Other Direct Costs
+
+- [ ] Equipment: invoices + proof of payment; depreciation calculation if not 100% charged
+- [ ] Equipment used for the action: proportion claimed matches actual use (usage log)
+- [ ] Travel costs: mission orders, boarding passes / travel tickets, hotel receipts
+- [ ] Conference / registration fees: proof of attendance; relevance to action documented
+- [ ] All costs within the eligible period (start date to end date of the action)
+
+#### Indirect Costs / Overheads
+
+- [ ] If flat rate (25% HE): correctly calculated on eligible direct costs (excl. subcontracting)
+- [ ] If actual overheads: allocation methodology documented; consistent with accounting system
+
+#### Certificate on Financial Statements (CFS)
+
+- [ ] CFS required if cumulative EU contribution > €325,000 (Horizon Europe threshold)
+- [ ] CFS obtained from independent auditor — auditor independence confirmed
+- [ ] CFS covers the correct reporting period and grant agreement
+
+#### Document Retention
+
+- [ ] All documents retained for 5 years after final payment (longer if under audit)
+- [ ] Electronic documents: backed up; accessible; file format preserved (no proprietary lock-in)
+- [ ] Paper documents: stored securely; not destroyed since grant agreement signature
+
+#### Gaps Identified / Actions Required
+
+| Gap ref | Description | Risk level | Action before audit | Responsible |
+|---|---|---|---|---|
+| [G-1] | [Missing timesheets M3–M6] | HIGH | Cannot reconstruct — flag to auditor | [name] |
+| [G-2] | [No competitive quotes for subcontract €X] | MEDIUM | Document rationale for direct award | [name] |
+| [G-3] | [Equipment usage log absent] | LOW | Prepare retroactive usage estimate — document basis | [name] |
 
 ---
 
 ## Preliminary Findings Rebuttal Template
 
-```
-REBUTTAL OF PRELIMINARY AUDIT FINDINGS
-Grant Agreement:  [Number]
-Audit authority:  [ ] ECA  [ ] IAS  [ ] Commission own-audit  [ ] Other: [name]
-Preliminary findings ref: [Report ref / date]
-Response deadline: [DD Month YYYY]
-Prepared by:      [Name / unit]   Date: [DD Month YYYY]
+**REBUTTAL OF PRELIMINARY AUDIT FINDINGS**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FINDING [N] — [Title as stated in preliminary report]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Finding summary:   [Quote or close paraphrase of the finding]
-Amount at stake:   €[X]   Correction proposed: [flat rate X% / 100% / item-by-item]
+**Grant Agreement:** [Number]
+**Audit authority:** - [ ] ECA - [ ] IAS - [ ] Commission own-audit - [ ] Other: [name]
+**Preliminary findings ref:** [Report ref / date]
+**Response deadline:** [DD Month YYYY]
+**Prepared by:** [Name / unit] — **Date:** [DD Month YYYY]
 
-Position:          [ ] ACCEPTED — no rebuttal; correction will be implemented
-                   [ ] PARTIALLY ACCEPTED — [specify accepted portion]
-                   [ ] CONTESTED — see below
+---
 
-Grounds for contestation:
-  Type:  [ ] Factual error  [ ] Legal interpretation  [ ] Evidence not considered
+#### Finding [N] — [Title as stated in preliminary report]
 
-  [Set out the argument in full. If factual error: identify the specific error and
-  provide correcting evidence. If legal interpretation: cite the GA article, the
-  programme's eligibility rules, or CJEU/General Court case law supporting the
-  Commission's / beneficiary's reading. Be specific — auditors are not persuaded
-  by general statements of good faith.]
+**Finding summary:** [Quote or close paraphrase of the finding]
+**Amount at stake:** €[X] — **Correction proposed:** [flat rate X% / 100% / item-by-item]
 
-Supporting evidence (annexed):
-  Annex [1]: [Description — e.g., "Timesheets for P3, months 3–6, signed by supervisor"]
-  Annex [2]: [Description — e.g., "Payroll extract confirming salary of €X in month M"]
+**Position:**
+- [ ] ACCEPTED — no rebuttal; correction will be implemented
+- [ ] PARTIALLY ACCEPTED — [specify accepted portion]
+- [ ] CONTESTED — see below
 
-Revised amount at stake (if partial contestation): €[X]
-Requested outcome: [Withdraw finding / Reduce correction to €X / Adjust correction rate]
+**Grounds for contestation:**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FINDING [N+1] — [...]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[Repeat structure]
+**Type:** - [ ] Factual error - [ ] Legal interpretation - [ ] Evidence not considered
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SUMMARY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Finding    Original amount    Position      Contested amount   Accepted amount
-[F-1]      €[X]               CONTESTED     €[X]              €0
-[F-2]      €[X]               ACCEPTED      —                 €[X]
-[F-3]      €[X]               PARTIAL       €[X]              €[X]
-─────────────────────────────────────────────────────────────────────────
-TOTAL      €[X]                             €[X]              €[X]
+[Set out the argument in full. If factual error: identify the specific error and provide correcting evidence. If legal interpretation: cite the GA article, the programme's eligibility rules, or CJEU/General Court case law supporting the Commission's / beneficiary's reading. Be specific — auditors are not persuaded by general statements of good faith.]
 
-[review — financial authorisation required before any correction is implemented]
-```
+**Supporting evidence (annexed):**
+- Annex [1]: [Description — e.g., "Timesheets for P3, months 3–6, signed by supervisor"]
+- Annex [2]: [Description — e.g., "Payroll extract confirming salary of €X in month M"]
+
+**Revised amount at stake (if partial contestation):** €[X]
+**Requested outcome:** [Withdraw finding / Reduce correction to €X / Adjust correction rate]
+
+#### Finding [N+1] — [...]
+
+[Repeat structure above for each finding.]
+
+---
+
+#### Summary
+
+| Finding | Original amount | Position | Contested amount | Accepted amount |
+|---|---|---|---|---|
+| [F-1] | €[X] | CONTESTED | €[X] | €0 |
+| [F-2] | €[X] | ACCEPTED | — | €[X] |
+| [F-3] | €[X] | PARTIAL | €[X] | €[X] |
+| **TOTAL** | **€[X]** | | **€[X]** | **€[X]** |
+
+`[review — financial authorisation required before any correction is implemented]`
 
 ---
 

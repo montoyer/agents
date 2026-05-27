@@ -75,7 +75,6 @@ Council on political disputes, while guardian of its own proposal's coherence.
 
 ## Four-Column Document Format
 
-```
 FOUR-COLUMN DOCUMENT — [PROPOSAL TITLE]
 COM([YYYY]) [N] final — [Short title]
 Trilogue round: [N]   Date of last update: [DD Month YYYY]
@@ -87,31 +86,31 @@ Legend:
   [COM]= Commission proposal text
   [≈]  = Compromise text under discussion (column 4)
   [✓]  = Agreed in previous round
-  [🔴] = Commission red line — not negotiable
-  [🟡] = Commission can accept with modification
-  [🟢] = Commission accepts as drafted
+  [RED LINE] = Commission red line — not negotiable
+  [ACCEPT IF AMENDED] = Commission can accept with modification
+  [ACCEPT] = Commission accepts as drafted
 
-─────────────────────────────────────────────────────────
-Article [N] — [Article title]
-─────────────────────────────────────────────────────────
-│ Col 1 — EP      │ Col 2 — Council │ Col 3 — COM    │ Col 4 — Compromise │
-│─────────────────│─────────────────│────────────────│────────────────────│
-│ [EP text]       │ [Council text]  │ [COM text]     │ [≈ text or OPEN]   │
-│                 │                 │                │ COM position: [🟢/🟡/🔴] │
-│                 │                 │                │ [Commission note if 🟡:  │
-│                 │                 │                │  acceptable if amended   │
-│                 │                 │                │  to read: "[text]"]      │
+---
 
-─────────────────────────────────────────────────────────
-Recital [N]
-─────────────────────────────────────────────────────────
+#### Article [N] — [Article title]
+
+| Col 1 — EP | Col 2 — Council | Col 3 — COM | Col 4 — Compromise |
+|---|---|---|---|
+| [EP text] | [Council text] | [COM text] | [≈ text or OPEN] |
+| | | | COM position: [ACCEPT / ACCEPT IF AMENDED / RED LINE] |
+| | | | [Commission note if ACCEPT IF AMENDED: acceptable if amended to read: "[text]"] |
+
+---
+
+#### Recital [N]
+
 [Same four-column format]
 
-─────────────────────────────────────────────────────────
-ANNEX [N] — [Title]
-─────────────────────────────────────────────────────────
+---
+
+#### Annex [N] — [Title]
+
 [Same four-column format]
-```
 
 ---
 
@@ -155,90 +154,95 @@ ANNEX [N] — [Title]
 
 ### 1. Pre-Round Mandate Brief (for Commissioner's cabinet)
 
-```
 TRILOGUE MANDATE BRIEF
 Proposal: [Short title] — COM([YYYY]) [N] final
 Trilogue round: [N]
 Date: [DD Month YYYY — meeting date]
 Lead DG: [DG XX]   Contact: [Name]
 
-─────────────────────────────────────────────────────────
-1. STATE OF PLAY (after round [N-1])
-─────────────────────────────────────────────────────────
-Agreed in previous rounds: [List articles/recitals marked ✓]
+---
+
+### 1. State of Play (after round [N-1])
+
+Agreed in previous rounds: [List articles/recitals marked agreed]
 Open provisions: [List — number of open articles/recitals]
 Key outstanding issues: [Top 3–5 political sticking points]
 
-─────────────────────────────────────────────────────────
-2. AGENDA FOR ROUND [N]
-─────────────────────────────────────────────────────────
+---
+
+### 2. Agenda for Round [N]
+
 Issues on the table: [List provisions to be negotiated]
 EP priority: [What the EP is pushing for]
 Council priority: [What the Council is pushing for]
 Commission position: [Commission's role — honest broker / guardian of proposal]
 
-─────────────────────────────────────────────────────────
-3. COMMISSION MANDATE — PROVISION BY PROVISION
-─────────────────────────────────────────────────────────
+---
+
+### 3. Commission Mandate — Provision by Provision
+
 Article [N]:
   Current compromise (col 4): [text or OPEN]
-  Commission opening position: [🟢 accept / 🟡 accept if amended / 🔴 reject]
-  If 🟡 — acceptable alternative: "[proposed text]"
-  If 🔴 — reason: [legal/policy reason — cite specific constraint]
+  Commission opening position: [ACCEPT / ACCEPT IF AMENDED / REJECT]
+  If ACCEPT IF AMENDED — acceptable alternative: "[proposed text]"
+  If REJECT — reason: [legal/policy reason — cite specific constraint]
   Fallback: [what Commission would accept as last resort, if any]
 
 [Repeat for each article on the agenda]
 
-─────────────────────────────────────────────────────────
-4. RED LINES SUMMARY
-─────────────────────────────────────────────────────────
-The following cannot be compromised without Commissioner/Director sign-off:
-□ [Provision] — because: [reason]
-□ [Provision] — because: [reason]
+---
 
-─────────────────────────────────────────────────────────
-5. RISK FLAGS
-─────────────────────────────────────────────────────────
-□ [Legal base drift risk in Art. X — Legal Service flagged]
-□ [Fundamental rights concern in Annex II — Charter check needed]
-□ [WTO inconsistency risk in Art. Y — DG TRADE review pending]
+### 4. Red Lines Summary
+
+The following cannot be compromised without Commissioner/Director sign-off:
+- [ ] [Provision] — because: [reason]
+- [ ] [Provision] — because: [reason]
+
+---
+
+### 5. Risk Flags
+
+- [ ] [Legal base drift risk in Art. X — Legal Service flagged]
+- [ ] [Fundamental rights concern in Annex II — Charter check needed]
+- [ ] [WTO inconsistency risk in Art. Y — DG TRADE review pending]
 
 [review — requires Commissioner cabinet clearance before trilogue session]
-DRAFT — Not an official Commission position.
-```
+
+> **DRAFT** — Not an official Commission position.
 
 ### 2. Post-Round Record (after each session)
 
-```
 TRILOGUE POST-ROUND RECORD
 Proposal: [Short title]
 Round: [N]   Date: [DD Month YYYY]
 Participants: EP — [Rapporteur + shadows]; Council — [Presidency + COREPER ref];
               Commission — [Lead DG representative(s)]
 
-─────────────────────────────────────────────────────────
-OUTCOMES BY PROVISION
-─────────────────────────────────────────────────────────
+---
+
+### Outcomes by Provision
+
 | Provision | Outcome | Text agreed / still OPEN | Who moved |
 |---|---|---|---|
-| Art. [N] | ✓ Agreed | [agreed text] | EP/Council/COM |
+| Art. [N] | Agreed | [agreed text] | EP/Council/COM |
 | Art. [N] | OPEN | [current col 4] | — |
 | Art. [N] | New proposal | [new text from EP/Council] | EP/Council |
 
-─────────────────────────────────────────────────────────
-OVERALL STATUS
-─────────────────────────────────────────────────────────
+---
+
+### Overall Status
+
 Provisions agreed: [N] / [Total]
-Political agreement: □ Reached  □ Not yet — next round: [date]
+Political agreement: - [ ] Reached  - [ ] Not yet — next round: [date]
 If reached: flag for legal-linguistic revision and formal first-reading votes
 
-─────────────────────────────────────────────────────────
-CABINET DEBRIEF
-─────────────────────────────────────────────────────────
+---
+
+### Cabinet Debrief
+
 Key Commission movements this round: [describe any col 3 → col 4 concessions]
-Authorisation used: □ Within mandate  □ Exceeded mandate — flag for HoU
+Authorisation used: - [ ] Within mandate  - [ ] Exceeded mandate — flag for HoU
 Issues to resolve before next round: [list]
-```
 
 ---
 

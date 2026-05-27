@@ -144,19 +144,19 @@ Third Countries / International Bodies
 
 ### Consultation Summary
 
-```
 SUMMARY OF RESPONSES TO THE PUBLIC CONSULTATION ON
 [TOPIC]
 
 Reference:   [COM/ARES reference if applicable]
-Format:      □ Open Public Consultation (OPC)  □ Targeted consultation
+Format:      - [ ] Open Public Consultation (OPC)  - [ ] Targeted consultation
 Period:      [DD Month YYYY] to [DD Month YYYY]
 Published:   Have Your Say portal
 Total responses: [N]
 
-═══════════════════════════════════════════
-1. OVERVIEW OF RESPONDENTS
-═══════════════════════════════════════════
+---
+
+### 1. Overview of Respondents
+
 | Category                    | Responses | % of total |
 |-----------------------------|-----------|------------|
 | Industry / Business assoc.  |           |            |
@@ -172,17 +172,17 @@ Total responses: [N]
 Geographic distribution: [Main member states represented]
 [model knowledge — verify with actual consultation data if available]
 
-═══════════════════════════════════════════
-2. KEY FINDINGS
-═══════════════════════════════════════════
+---
+
+### 2. Key Findings
 
 2.1 Problem definition
 Overall agreement with Commission's problem characterisation:
-  □ Strong agreement  □ Mixed  □ Majority disagree
+  - [ ] Strong agreement  - [ ] Mixed  - [ ] Majority disagree
 [Summary of stakeholder views on the problem — 3–5 sentences]
 
 2.2 Policy objectives
-Convergence on objectives: □ High  □ Medium  □ Low
+Convergence on objectives: - [ ] High  - [ ] Medium  - [ ] Low
 Key fault lines: [Where groups fundamentally disagree on what the measure
 should achieve]
 
@@ -202,12 +202,12 @@ Most widely preferred option overall: [Option X — reasoning]
 2.5 Social and environmental impacts
 [Summary]
 
-═══════════════════════════════════════════
-3. STAKEHOLDER POSITIONS BY GROUP
-═══════════════════════════════════════════
+---
 
-INDUSTRY / BUSINESS
-Overall position: □ Support  □ Neutral  □ Opposition
+### 3. Stakeholder Positions by Group
+
+#### Industry / Business
+Overall position: - [ ] Support  - [ ] Neutral  - [ ] Opposition
 Key concerns:
   1. [Concern — grounded in structural interest]
   2. [...]
@@ -215,41 +215,45 @@ Key concerns:
 Red lines: [Positions they cannot accept]
 Preferred option: [Option X — reasoning]
 
-TRADE UNIONS
-Overall position: □ Support  □ Neutral  □ Opposition
+#### Trade Unions
+Overall position: - [ ] Support  - [ ] Neutral  - [ ] Opposition
 [Same structure]
 
-CONSUMER ORGANISATIONS
+#### Consumer Organisations
 [Same structure]
 
-CIVIL SOCIETY / NGOs
+#### Civil Society / NGOs
 [Same structure]
 
-PUBLIC AUTHORITIES
+#### Public Authorities
 [Same structure — note if Council General Secretariat has circulated
 a position; note CoR position if available]
 
-═══════════════════════════════════════════
-4. POINTS OF CONVERGENCE
-═══════════════════════════════════════════
+---
+
+### 4. Points of Convergence
+
 - [Finding shared across stakeholder groups — specify which groups]
 - [...]
 
-═══════════════════════════════════════════
-5. POINTS OF DIVERGENCE
-═══════════════════════════════════════════
+---
+
+### 5. Points of Divergence
+
 - [Fault line — which groups are on each side and why]
 - [...]
 
-═══════════════════════════════════════════
-6. ISSUES RAISED OUTSIDE CONSULTATION SCOPE
-═══════════════════════════════════════════
+---
+
+### 6. Issues Raised Outside Consultation Scope
+
 - [Issue raised — raised by: which groups — Commission note: will/will not
   be addressed in the proposal and why]
 
-═══════════════════════════════════════════
-7. HOW THE COMMISSION WILL USE THESE RESULTS
-═══════════════════════════════════════════
+---
+
+### 7. How the Commission Will Use These Results
+
 The results of this consultation will feed into the impact assessment
 (SWD(YYYY) XXX) and the proposal for [type of act] on [topic].
 
@@ -261,11 +265,9 @@ proposal because: [reason]]
 
 [Repeat for each major concern]
 
----
-DRAFT — For review by an EU official before use. Not an official Commission position.
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.
 [model knowledge — verify all stakeholder position characterisations against
 actual consultation responses if a real consultation has been conducted]
-```
 
 ---
 

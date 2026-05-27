@@ -163,90 +163,94 @@ the current price is already high). In this case:
 
 ### Market Definition Analysis
 
-```
 RELEVANT MARKET DEFINITION ANALYSIS
 Case: [Reference]
 Product(s): [Description]
 Date: [DD Month YYYY]
 Analyst: [DG/Unit]
 
-─────────────────────────────────────────────────────────
-1. PRODUCT MARKET DEFINITION
-─────────────────────────────────────────────────────────
+---
+
+### 1. Product Market Definition
+
 Starting point — product(s) under investigation:
 [Precise technical and commercial description of the product(s)]
 
-DEMAND-SIDE SUBSTITUTABILITY
+**Demand-Side Substitutability**
+
 Candidate substitutes identified:
+
 | Product | Why candidate? | Evidence for/against substitutability |
 |---|---|---|
 | [Product B] | [End use / pricing / customer view] | [Evidence — source] |
 | [Product C] | [End use / pricing / customer view] | [Evidence — source] |
 
 SSNIP test result:
-  Starting price: [competitive price / current price — note if cellophane
-                  fallacy risk present]
-  5–10% price increase → would customers switch to:
-    [Product B]: □ Yes (significant switching) → include in market
-                 □ No (switching insufficient) → exclude
-    [Product C]: □ Yes / □ No
+Starting price: [competitive price / current price — note if cellophane fallacy risk present]
+5–10% price increase → would customers switch to:
+- [Product B]: - [ ] Yes (significant switching) → include in market
+               - [ ] No (switching insufficient) → exclude
+- [Product C]: - [ ] Yes / - [ ] No
 
-SUPPLY-SIDE SUBSTITUTABILITY
+**Supply-Side Substitutability**
+
 Can suppliers of other products readily switch to supplying [Product A]?
+
 | Potential supplier | Switching feasibility | Time / cost to switch |
 |---|---|---|
-| [Supplier type] | □ High □ Medium □ Low | [description] |
+| [Supplier type] | - [ ] High - [ ] Medium - [ ] Low | [description] |
 
-Supply-side conclusion: □ Expand product market to include [X]
-                         □ No supply-side expansion warranted
+Supply-side conclusion: - [ ] Expand product market to include [X]
+                        - [ ] No supply-side expansion warranted
 
-PRODUCT MARKET CONCLUSION:
+**Product Market Conclusion:**
 The relevant product market is: "[precise definition]"
 Rationale: [concise summary of why substitutes were included/excluded]
 
-─────────────────────────────────────────────────────────
-2. GEOGRAPHIC MARKET DEFINITION
-─────────────────────────────────────────────────────────
+---
+
+### 2. Geographic Market Definition
+
 Geographic scope under consideration: [EEA / EU / national / regional]
 
 Evidence assessed:
-□ Regulatory differences between areas: [describe — do different rules
-  prevent sourcing from other areas?]
-□ Transport costs and constraints: [significant / not significant]
-□ Pricing patterns: [prices uniform across EEA / significant differentials]
-□ Procurement practices: [national tenders / EU-wide tenders]
-□ Trade flows: [significant cross-border trade / limited]
+- [ ] Regulatory differences between areas: [describe — do different rules prevent sourcing from other areas?]
+- [ ] Transport costs and constraints: [significant / not significant]
+- [ ] Pricing patterns: [prices uniform across EEA / significant differentials]
+- [ ] Procurement practices: [national tenders / EU-wide tenders]
+- [ ] Trade flows: [significant cross-border trade / limited]
 
-GEOGRAPHIC MARKET CONCLUSION:
+**Geographic Market Conclusion:**
 The relevant geographic market is: [EEA-wide / EU-wide / national — specify]
 Rationale: [summary]
 
-─────────────────────────────────────────────────────────
-3. SPECIAL CONSIDERATIONS
-─────────────────────────────────────────────────────────
-□ Two-sided platform: [describe — which two sides? Are they in the same market?]
-□ Aftermarket: [primary market / aftermarket separate? — Hugin test]
-□ Digital market: [data advantages, network effects — how do they affect substitutability?]
-□ Innovation market: [R&D pipeline competition — beyond current products]
-□ Cellophane fallacy risk: □ Yes — starting price adjusted to [X]  □ No
+---
 
-─────────────────────────────────────────────────────────
-4. MARKET DEFINITION AND IMPLICATIONS
-─────────────────────────────────────────────────────────
-RELEVANT MARKET:
+### 3. Special Considerations
+
+- [ ] Two-sided platform: [describe — which two sides? Are they in the same market?]
+- [ ] Aftermarket: [primary market / aftermarket separate? — Hugin test]
+- [ ] Digital market: [data advantages, network effects — how do they affect substitutability?]
+- [ ] Innovation market: [R&D pipeline competition — beyond current products]
+- [ ] Cellophane fallacy risk: - [ ] Yes — starting price adjusted to [X]  - [ ] No
+
+---
+
+### 4. Market Definition and Implications
+
+**Relevant Market:**
 "[Product/service X] supplied to [customer type Y] in [geographic area Z]"
 
 Market share of [undertaking under review]: [X]% [source — year]
 Dominance threshold (Art. 102): > 50% strong presumption (AKZO); 40–50% possible
-Assessment: □ Presumptive dominance □ Possible dominance □ Not dominant
-            [Proceed to dominance analysis with structural factors]
+Assessment: - [ ] Presumptive dominance - [ ] Possible dominance - [ ] Not dominant
+[Proceed to dominance analysis with structural factors]
 
 [EUR-Lex — verify 2024 Market Definition Notice current version]
 [CJEU — verify case citations against Curia]
 [model knowledge — verify market share data against current industry sources]
-DRAFT — For review by a DG COMP case handler. Not an official Commission market
-definition finding.
-```
+
+> **DRAFT** — For review by a DG COMP case handler. Not an official Commission market definition finding.
 
 ---
 

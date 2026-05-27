@@ -97,13 +97,12 @@ complete the legal analysis section required by Art. 39(7)(b) EUDPR.
 - Could the task be performed with less or different personal data?
 
 **Output format:**
-```
-Legal basis: Art. 5(1)(a) EUDPR
-Enabling act: [Regulation/Decision/Treaty article]
-Task: [specific task or function authorised]
-Necessity: [why processing is necessary — no less restrictive alternative available]
+
+**Legal basis:** Art. 5(1)(a) EUDPR
+**Enabling act:** [Regulation/Decision/Treaty article]
+**Task:** [specific task or function authorised]
+**Necessity:** [why processing is necessary — no less restrictive alternative available]
 [EUR-Lex — verify current version]
-```
 
 ### Art. 5(1)(b) — Performance of a Contract
 
@@ -117,12 +116,11 @@ Necessity: [why processing is necessary — no less restrictive alternative avai
 - Pre-contractual processing: was it explicitly requested by the data subject?
 
 **Output format:**
-```
-Legal basis: Art. 5(1)(b) EUDPR
-Contract: [type of contract — employment, grant, procurement]
-Processing operation: [specific operation]
-Necessity: [why necessary for performance — alternative would prevent fulfilment of contract]
-```
+
+**Legal basis:** Art. 5(1)(b) EUDPR
+**Contract:** [type of contract — employment, grant, procurement]
+**Processing operation:** [specific operation]
+**Necessity:** [why necessary for performance — alternative would prevent fulfilment of contract]
 
 ### Other Art. 5(1) Bases (for reference)
 
@@ -137,63 +135,62 @@ Necessity: [why necessary for performance — alternative would prevent fulfilme
 
 ## Necessity and Proportionality Test
 
-```
-NECESSITY AND PROPORTIONALITY ANALYSIS
-Processing activity: [name]
-Legal basis: Art. 5(1)([X]) EUDPR
+**NECESSITY AND PROPORTIONALITY ANALYSIS**
+**Processing activity:** [name]
+**Legal basis:** Art. 5(1)([X]) EUDPR
 
-1. PURPOSE — Is the purpose of the processing:
-   (a) Specific (not vague or broadly framed)? [YES / NO — explain]
-   (b) Explicit (clearly stated in the DPIA)? [YES / NO — explain]
-   (c) Legitimate (authorised by the legal basis above)? [YES / NO — explain]
+**1. Purpose — Is the purpose of the processing:**
+- (a) Specific (not vague or broadly framed)? [YES / NO — explain]
+- (b) Explicit (clearly stated in the DPIA)? [YES / NO — explain]
+- (c) Legitimate (authorised by the legal basis above)? [YES / NO — explain]
 
-2. NECESSITY — Is the processing strictly necessary?
-   (a) Could the purpose be achieved without processing personal data? [YES / NO]
-   (b) Could the purpose be achieved with less personal data (data minimisation)? [YES / NO]
-   (c) Could a less privacy-intrusive means achieve the same result? [YES / NO]
-   Necessity conclusion: [SATISFIED / NOT SATISFIED — explain]
+**2. Necessity — Is the processing strictly necessary?**
+- (a) Could the purpose be achieved without processing personal data? [YES / NO]
+- (b) Could the purpose be achieved with less personal data (data minimisation)? [YES / NO]
+- (c) Could a less privacy-intrusive means achieve the same result? [YES / NO]
 
-3. PROPORTIONALITY — Is the processing proportionate?
-   (a) Volume of data: [assess — is it limited to what is strictly required?]
-   (b) Data categories: [are special categories avoided where not necessary?]
-   (c) Number of data subjects: [is scope limited to those whose data is needed?]
-   (d) Retention: [is retention period no longer than necessary?]
-   (e) Recipients: [is access limited to those with a need to know?]
-   Proportionality conclusion: [SATISFIED / NOT SATISFIED — explain]
+**Necessity conclusion:** [SATISFIED / NOT SATISFIED — explain]
 
-4. OVERALL LEGAL BASIS ASSESSMENT
-   Legal basis identified: [Art. 5(1)(X) EUDPR]
-   Necessity: [SATISFIED / NOT SATISFIED]
-   Proportionality: [SATISFIED / NOT SATISFIED]
-   Overall: [LAWFUL / REQUIRES ADJUSTMENT — specify adjustments needed]
-   
-   [review — DPO sign-off required] [EUR-Lex — verify current version]
-```
+**3. Proportionality — Is the processing proportionate?**
+- (a) Volume of data: [assess — is it limited to what is strictly required?]
+- (b) Data categories: [are special categories avoided where not necessary?]
+- (c) Number of data subjects: [is scope limited to those whose data is needed?]
+- (d) Retention: [is retention period no longer than necessary?]
+- (e) Recipients: [is access limited to those with a need to know?]
+
+**Proportionality conclusion:** [SATISFIED / NOT SATISFIED — explain]
+
+**4. Overall Legal Basis Assessment**
+
+**Legal basis identified:** [Art. 5(1)(X) EUDPR]
+**Necessity:** [SATISFIED / NOT SATISFIED]
+**Proportionality:** [SATISFIED / NOT SATISFIED]
+**Overall:** [LAWFUL / REQUIRES ADJUSTMENT — specify adjustments needed]
+
+[review — DPO sign-off required] [EUR-Lex — verify current version]
 
 ---
 
 ## Retention Period Legal Analysis
 
-```
-RETENTION ANALYSIS
-Data category: [name]
-Proposed retention: [period]
+**RETENTION ANALYSIS**
+**Data category:** [name]
+**Proposed retention:** [period]
 
-Legal basis for retention:
-[ ] Operational necessity — [explain why data needed for [N] months/years after activity ends]
-[ ] Legal obligation — [cite regulation/decision requiring retention]
-[ ] Archiving in public interest — [cite Commission Decision on archiving]
-[ ] Staff Regulations timeline — [cite relevant SR provision]
+**Legal basis for retention:**
+- [ ] Operational necessity — [explain why data needed for [N] months/years after activity ends]
+- [ ] Legal obligation — [cite regulation/decision requiring retention]
+- [ ] Archiving in public interest — [cite Commission Decision on archiving]
+- [ ] Staff Regulations timeline — [cite relevant SR provision]
 
-Storage limitation principle (Art. 4(1)(e) EUDPR):
-"No longer than necessary for the purposes for which the personal data are processed"
-Assessment: [Does proposed period satisfy this? Explain]
+**Storage limitation principle (Art. 4(1)(e) EUDPR):**
+*"No longer than necessary for the purposes for which the personal data are processed"*
+**Assessment:** [Does proposed period satisfy this? Explain]
 
-Deletion mechanism: [automated / manual — by whom, triggered by what event]
+**Deletion mechanism:** [automated / manual — by whom, triggered by what event]
 
-Conclusion: Retention of [N] [days/months/years] is [JUSTIFIED / NOT JUSTIFIED]
+**Conclusion:** Retention of [N] [days/months/years] is [JUSTIFIED / NOT JUSTIFIED]
 [review — DPO sign-off required]
-```
 
 ---
 

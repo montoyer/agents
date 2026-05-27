@@ -98,149 +98,136 @@ financial correction under the Commission's correction methodology.
 
 ## Exception Classification Guide
 
-```
-DIRECT AWARD EXCEPTION CLASSIFIER
-Intended exception:  [describe in plain language what the contracting authority wants]
-Estimated value:     €[X]   Duration: [N months]   Subject: [brief description]
-Assessed by:         [Name]   Date: [DD Month YYYY]
+**DIRECT AWARD EXCEPTION CLASSIFIER**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1 — IS THE VALUE BELOW THE LOW-VALUE THRESHOLD?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Estimated total value (incl. all renewals):   €[X]
-Very low value threshold (≤ €15,000):         [ ] YES — single price check sufficient
-Low value threshold (≤ €60,000 for services): [ ] YES — at least 3 price comparisons
-Above all thresholds:                         [ ] YES — must use Art. 164 exception
+**Intended exception:** [describe in plain language what the contracting authority wants]
+**Estimated value:** €[X] — **Duration:** [N months] — **Subject:** [brief description]
+**Assessed by:** [Name] — **Date:** [DD Month YYYY]
 
-Note: Contract splitting to remain below threshold is prohibited (Art. 164(4) FR).
-Has a related contract been awarded recently for a similar subject?  [ ] YES [flag risk]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 2 — WHICH EXCEPTION APPLIES? (for above-threshold contracts)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Art. 164(1)(c)/(d) FR — TECHNICAL REASONS / EXCLUSIVE RIGHTS
-    Conditions to verify:
-    (a) Is the technical incompatibility objective and documented?            [ ] YES  [ ] NO
-    (b) Has a market test confirmed no alternative supplier?                  [ ] YES  [ ] NO
-    (c) Is the exclusive right (patent, copyright, licence) documented?       [ ] YES  [ ] NO
-    (d) Could the need be redesigned to allow competition?                    [ ] NO   [ ] YES [barrier]
-    Assessment:  [ ] Exception justified  [ ] Exception NOT justified [competition required]
+#### Step 1 — Is the Value Below the Low-Value Threshold?
 
-[ ] Art. 164(1)(e) FR — EXTREME URGENCY (unforeseeable)
-    Conditions to verify:
-    (a) What was the unforeseeable event? Date: [date]    Description: [event]
-    (b) Was the urgency caused by the contracting authority's own failure to plan?
-                                                                              [ ] NO   [ ] YES [exception fails]
-    (c) Is a shortened competitive procedure (accelerated / direct negotiation) impossible?
-        Time available: [N days]   Minimum accelerated procedure: ~15 days for services
-                                                                              [ ] YES impossible [ ] NO [use accelerated]
-    (d) Is the direct award limited to what is strictly necessary?            [ ] YES  [ ] NO [reduce scope]
-    Assessment:  [ ] Exception justified  [ ] Exception NOT justified
+**Estimated total value (incl. all renewals):** €[X]
+- [ ] Very low value threshold (≤ €15,000): YES — single price check sufficient
+- [ ] Low value threshold (≤ €60,000 for services): YES — at least 3 price comparisons
+- [ ] Above all thresholds: YES — must use Art. 164 exception
 
-[ ] Art. 164(1)(f) FR — FOLLOW-ON / COMPLEMENTARY SERVICES
-    Conditions to verify:
-    (a) Are these additional services not included in the original contract?  [ ] YES  [ ] NO
-    (b) Were they unforeseeable at the time of the original award?            [ ] YES  [ ] NO
-    (c) Can they be technically separated without major inconvenience?        [ ] NO   [ ] YES [exception fails]
-    (d) Value of additional services as % of original:  [X%]   (must be ≤ 50%)
-                                                                              [ ] ≤ 50%  [ ] > 50% [fails]
-    Original contract ref and value: [ref] €[X]
-    Assessment:  [ ] Exception justified  [ ] Exception NOT justified
+*Note: Contract splitting to remain below threshold is prohibited (Art. 164(4) FR).*
+Has a related contract been awarded recently for a similar subject? - [ ] YES [flag risk]
 
-[ ] Interinstitutional framework contract / OIB contract
-    Framework contract ref: [Lot / contract reference]   Available capacity: [ ] YES  [ ] NO
-    Procedure used: [ ] Direct call-off  [ ] Mini-competition within framework
-    Assessment:  [ ] Valid use of framework  [ ] Framework exhausted / not applicable
+#### Step 2 — Which Exception Applies? *(for above-threshold contracts)*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OVERALL ASSESSMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] EXCEPTION JUSTIFIED — proceed with direct award; draft justification note
-[ ] EXCEPTION NOT JUSTIFIED — competitive procedure required; [accelerated / open / restricted]
-[ ] MARGINAL CASE — [describe concerns]; Legal Service / financial controller consultation recommended
-[ ] AUDIT RISK: [describe specific risk even if proceeding] — document mitigation
+**- [ ] Art. 164(1)(c)/(d) FR — Technical Reasons / Exclusive Rights**
 
-[review — financial authorisation required]
-```
+Conditions to verify:
+- (a) Is the technical incompatibility objective and documented? - [ ] YES - [ ] NO
+- (b) Has a market test confirmed no alternative supplier? - [ ] YES - [ ] NO
+- (c) Is the exclusive right (patent, copyright, licence) documented? - [ ] YES - [ ] NO
+- (d) Could the need be redesigned to allow competition? - [ ] NO - [ ] YES [barrier]
+
+**Assessment:** - [ ] Exception justified - [ ] Exception NOT justified [competition required]
+
+**- [ ] Art. 164(1)(e) FR — Extreme Urgency (unforeseeable)**
+
+Conditions to verify:
+- (a) What was the unforeseeable event? Date: [date] — Description: [event]
+- (b) Was the urgency caused by the contracting authority's own failure to plan? - [ ] NO - [ ] YES [exception fails]
+- (c) Is a shortened competitive procedure (accelerated / direct negotiation) impossible? Time available: [N days] — Minimum accelerated procedure: ~15 days for services — - [ ] YES impossible - [ ] NO [use accelerated]
+- (d) Is the direct award limited to what is strictly necessary? - [ ] YES - [ ] NO [reduce scope]
+
+**Assessment:** - [ ] Exception justified - [ ] Exception NOT justified
+
+**- [ ] Art. 164(1)(f) FR — Follow-On / Complementary Services**
+
+Conditions to verify:
+- (a) Are these additional services not included in the original contract? - [ ] YES - [ ] NO
+- (b) Were they unforeseeable at the time of the original award? - [ ] YES - [ ] NO
+- (c) Can they be technically separated without major inconvenience? - [ ] NO - [ ] YES [exception fails]
+- (d) Value of additional services as % of original: [X%] (must be ≤ 50%) - [ ] ≤ 50% - [ ] > 50% [fails]
+- Original contract ref and value: [ref] €[X]
+
+**Assessment:** - [ ] Exception justified - [ ] Exception NOT justified
+
+**- [ ] Interinstitutional framework contract / OIB contract**
+
+- Framework contract ref: [Lot / contract reference] — Available capacity: - [ ] YES - [ ] NO
+- Procedure used: - [ ] Direct call-off - [ ] Mini-competition within framework
+
+**Assessment:** - [ ] Valid use of framework - [ ] Framework exhausted / not applicable
+
+---
+
+#### Overall Assessment
+
+- [ ] **EXCEPTION JUSTIFIED** — proceed with direct award; draft justification note
+- [ ] **EXCEPTION NOT JUSTIFIED** — competitive procedure required; [accelerated / open / restricted]
+- [ ] **MARGINAL CASE** — [describe concerns]; Legal Service / financial controller consultation recommended
+- [ ] **AUDIT RISK:** [describe specific risk even if proceeding] — document mitigation
+
+`[review — financial authorisation required]`
 
 ---
 
 ## Justification Note Template
 
-```
-NEGOTIATED PROCEDURE WITHOUT PRIOR PUBLICATION — JUSTIFICATION NOTE
-Ref:             NP-[DG]-[YYYY]-[NNN]
-Date:            [DD Month YYYY]
-Contracting authority: [DG / Unit]
-Subject:         [Brief description of the contract]
-Estimated value: €[X] (excl. VAT)   Duration: [N months]   Proposed supplier: [Name]
+**NEGOTIATED PROCEDURE WITHOUT PRIOR PUBLICATION — JUSTIFICATION NOTE**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. DESCRIPTION OF THE NEED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[Describe the service/supply/works needed. Be specific about scope, deliverables,
-timeline. This section establishes what is being contracted and why it is needed
-now.]
+**Ref:** NP-[DG]-[YYYY]-[NNN]
+**Date:** [DD Month YYYY]
+**Contracting authority:** [DG / Unit]
+**Subject:** [Brief description of the contract]
+**Estimated value:** €[X] (excl. VAT) — **Duration:** [N months] — **Proposed supplier:** [Name]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2. LEGAL BASIS FOR THE DEROGATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Article invoked: Article [164(1)([X])] of Regulation (EU, Euratom) 2018/1046
-(Financial Regulation) — [short title of the exception]
+---
 
-[EUR-Lex — verify current article]
+**1. Description of the Need**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-3. FACTUAL BASIS FOR THE EXCEPTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[For URGENCY: Describe the unforeseeable event (with date), its impact on the
-contract timeline, why a competitive procedure is impossible even in accelerated
-form, and why the scope of the direct award is limited to the strictly necessary.]
+[Describe the service/supply/works needed. Be specific about scope, deliverables, timeline. This section establishes what is being contracted and why it is needed now.]
 
-[For SOLE SOURCE / TECHNICAL: Describe the technical requirement that makes only
-one supplier capable; describe the market test conducted; cite evidence of exclusive
-rights if applicable; confirm that the need cannot be redesigned to enable competition.]
+**2. Legal Basis for the Derogation**
 
-[For FOLLOW-ON: Reference the original contract (number, value, award date); describe
-the additional works/services and why they were unforeseeable; confirm technical
-inseparability; confirm the value is within the 50% ceiling.]
+**Article invoked:** Article [164(1)([X])] of Regulation (EU, Euratom) 2018/1046 (Financial Regulation) — [short title of the exception]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-4. MARKET CONSULTATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Market test conducted — date: [date]; result: [N suppliers contacted; N responded;
-    only [Name] confirmed capability to deliver] — see Annex [N]
-[ ] No market test conducted — reason: [extreme urgency made market test impossible /
-    exclusive rights documented — no alternative supplier can legally perform this]
-[ ] Price comparison — [N quotes obtained] — lowest qualifying price: €[X] (proposed supplier)
+`[EUR-Lex — verify current article]`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-5. WHY COMPETITION COULD NOT BE USED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[For urgency: confirm the minimum accelerated open procedure timeframe is X days,
-which is impossible given the deadline of [date].]
-[For technical reasons: confirm that rewriting the specifications to allow competition
-would require [N months] of technical redesign and would not meet the operational need.]
-[Confirm: the contracting authority did not create the urgency / technical constraint
-through its own lack of planning or action.]
+**3. Factual Basis for the Exception**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-6. CONCLUSION AND SIGN-OFF
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-The conditions of Article [164(1)(X)] FR are met. Direct award to [supplier name]
-at a price of €[X] (excl. VAT) for a duration of [N months] is justified.
+*For urgency:* Describe the unforeseeable event (with date), its impact on the contract timeline, why a competitive procedure is impossible even in accelerated form, and why the scope of the direct award is limited to the strictly necessary.
 
-This justification note is subject to financial controller / AOSD review before
-the contract is signed.
+*For sole source / technical:* Describe the technical requirement that makes only one supplier capable; describe the market test conducted; cite evidence of exclusive rights if applicable; confirm that the need cannot be redesigned to enable competition.
 
-Prepared by:   [Name / unit]   Date: [DD Month YYYY]
-Financial controller review: [ ] Approved  [ ] Objection raised [see annex]
-AOSD sign-off:  [Name]   Date: [DD Month YYYY]
-ABAC commitment ref: [to be assigned]
+*For follow-on:* Reference the original contract (number, value, award date); describe the additional works/services and why they were unforeseeable; confirm technical inseparability; confirm the value is within the 50% ceiling.
 
-[review — financial authorisation required before contract signature]
-[model knowledge — verify current FR thresholds; thresholds are revised periodically]
-```
+**4. Market Consultation**
+
+- [ ] Market test conducted — date: [date]; result: [N suppliers contacted; N responded; only [Name] confirmed capability to deliver] — see Annex [N]
+- [ ] No market test conducted — reason: [extreme urgency made market test impossible / exclusive rights documented — no alternative supplier can legally perform this]
+- [ ] Price comparison — [N quotes obtained] — lowest qualifying price: €[X] (proposed supplier)
+
+**5. Why Competition Could Not Be Used**
+
+*For urgency:* Confirm the minimum accelerated open procedure timeframe is X days, which is impossible given the deadline of [date].
+
+*For technical reasons:* Confirm that rewriting the specifications to allow competition would require [N months] of technical redesign and would not meet the operational need.
+
+Confirm: the contracting authority did not create the urgency / technical constraint through its own lack of planning or action.
+
+**6. Conclusion and Sign-Off**
+
+The conditions of Article [164(1)(X)] FR are met. Direct award to [supplier name] at a price of €[X] (excl. VAT) for a duration of [N months] is justified.
+
+This justification note is subject to financial controller / AOSD review before the contract is signed.
+
+| Role | Name | Date | Status |
+|---|---|---|---|
+| Prepared by | [Name / unit] | [DD Month YYYY] | |
+| Financial controller review | | | - [ ] Approved - [ ] Objection raised [see annex] |
+| AOSD sign-off | [Name] | [DD Month YYYY] | |
+| ABAC commitment ref | [to be assigned] | | |
+
+`[review — financial authorisation required before contract signature]`
+`[model knowledge — verify current FR thresholds; thresholds are revised periodically]`
 
 ---
 

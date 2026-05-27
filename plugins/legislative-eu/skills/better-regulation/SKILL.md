@@ -130,7 +130,6 @@ OVERALL REFIT RATING:
 
 ### Regulatory Fitness Check
 
-```
 REGULATORY FITNESS CHECK (REFIT)
 
 Legislation:        [Full title + OJ reference]
@@ -139,10 +138,11 @@ Date of adoption:   [Year]
 Date of this check: [DD Month YYYY]
 Evaluation period:  [YYYY–YYYY]
 
-─────────────────────────────────────────
-1. EFFECTIVENESS
-─────────────────────────────────────────
-Score: □ High  □ Medium  □ Low
+---
+
+### 1. Effectiveness
+
+Score: - [ ] High  - [ ] Medium  - [ ] Low
 
 Stated objectives: [From original recitals/IA]
 Evidence of achievement:
@@ -153,76 +153,81 @@ Gaps identified:
 Counterfactual assessment:
   [Would the problem have resolved without the legislation?]
 
-─────────────────────────────────────────
-2. EFFICIENCY
-─────────────────────────────────────────
-Score: □ High  □ Medium  □ Low
+---
+
+### 2. Efficiency
+
+Score: - [ ] High  - [ ] Medium  - [ ] Low
 
 Compliance costs (estimated):
   One-off:   EUR [X] [model knowledge — verify]
   Recurring: EUR [X]/year [model knowledge — verify]
-SME impact: □ Proportionate  □ Disproportionate — [specify]
+SME impact: - [ ] Proportionate  - [ ] Disproportionate — [specify]
 Administrative burden: [Assessment of reporting/record-keeping requirements]
 Simplification potential: [Specific provisions where burden could be reduced]
 
-─────────────────────────────────────────
-3. COHERENCE
-─────────────────────────────────────────
-Score: □ High  □ Medium  □ Low
+---
 
-Internal coherence: □ Coherent  □ Conflicts identified: [specify articles]
-External coherence: □ Coherent  □ Overlaps/conflicts with: [legislation]
+### 3. Coherence
+
+Score: - [ ] High  - [ ] Medium  - [ ] Low
+
+Internal coherence: - [ ] Coherent  - [ ] Conflicts identified: [specify articles]
+External coherence: - [ ] Coherent  - [ ] Overlaps/conflicts with: [legislation]
   [EUR-Lex — verify current version of cited legislation]
-International coherence: □ Compatible  □ WTO or convention issues: [specify]
-Green/digital transition fit: □ Fit  □ Issues: [specify provisions]
+International coherence: - [ ] Compatible  - [ ] WTO or convention issues: [specify]
+Green/digital transition fit: - [ ] Fit  - [ ] Issues: [specify provisions]
 
-─────────────────────────────────────────
-4. RELEVANCE
-─────────────────────────────────────────
-Score: □ High  □ Medium  □ Low
+---
 
-Objectives still appropriate? □ Yes  □ Partially  □ No
+### 4. Relevance
+
+Score: - [ ] High  - [ ] Medium  - [ ] Low
+
+Objectives still appropriate? - [ ] Yes  - [ ] Partially  - [ ] No
 Changes since adoption:
   [Technological / market / geopolitical changes affecting relevance]
-Fit for twin transition: □ Yes  □ Adaptation needed: [specify]
+Fit for twin transition: - [ ] Yes  - [ ] Adaptation needed: [specify]
 
-─────────────────────────────────────────
-5. EU ADDED VALUE
-─────────────────────────────────────────
-Score: □ High  □ Medium  □ Low
+---
 
-Would repeal fragment the single market? □ Yes  □ No
-Cross-border problems resolved? □ Yes  □ Partially  □ No
-Subsidiarity satisfied on current evidence? □ Yes  □ Questionable
+### 5. EU Added Value
 
-─────────────────────────────────────────
-OVERALL REFIT ASSESSMENT
-─────────────────────────────────────────
-Overall rating: □ Fit  □ Needs minor update  □ Needs significant revision
-                □ Consider repeal
+Score: - [ ] High  - [ ] Medium  - [ ] Low
+
+Would repeal fragment the single market? - [ ] Yes  - [ ] No
+Cross-border problems resolved? - [ ] Yes  - [ ] Partially  - [ ] No
+Subsidiarity satisfied on current evidence? - [ ] Yes  - [ ] Questionable
+
+---
+
+### Overall REFIT Assessment
+
+Overall rating: - [ ] Fit  - [ ] Needs minor update  - [ ] Needs significant revision
+                - [ ] Consider repeal
 
 Recommended action:
-  □ Maintain as is
-  □ Minor technical update (delegated/implementing act sufficient)
-  □ Targeted revision — focused legislative proposal on: [specify]
-  □ Comprehensive revision — new legislative proposal required
-  □ Repeal — requires separate IA on repeal consequences
+  - [ ] Maintain as is
+  - [ ] Minor technical update (delegated/implementing act sufficient)
+  - [ ] Targeted revision — focused legislative proposal on: [specify]
+  - [ ] Comprehensive revision — new legislative proposal required
+  - [ ] Repeal — requires separate IA on repeal consequences
 
-─────────────────────────────────────────
-SIMPLIFICATION OPPORTUNITIES (prioritised)
-─────────────────────────────────────────
+---
+
+### Simplification Opportunities (Prioritised)
+
 1. [Specific provision — burden — proposed simplification]
 2. [...]
 3. [...]
 
-─────────────────────────────────────────
-DATA SOURCES USED
-─────────────────────────────────────────
+---
+
+### Data Sources Used
+
 [List all data sources cited above with verification tags]
 
----
-DRAFT — For review by an EU official before use. Not an official Commission position.
-```
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.
 
 ---
 

@@ -115,7 +115,6 @@ not override each other.
 
 ## Output Template
 
-```
 COMMISSIONER FOR [PORTFOLIO]
 Supporting DG: [DG name]
 Treaty basis: [TFEU Art. X]
@@ -139,6 +138,5 @@ SUGGESTED NEXT STEP:
 
 [model knowledge — verify] for any factual claims about current political
 priorities or dossier status.
----
-DRAFT — Simulation output. Not an official Commission position.
-```
+
+> **DRAFT** — Simulation output. Not an official Commission position.

@@ -136,7 +136,6 @@ Is uniform application across all MS essential?
 
 ### Full Proposal Structure
 
-```
 EUROPEAN COMMISSION
 Brussels, [date]
 COM([year]) [number] final
@@ -149,9 +148,9 @@ on [subject matter]
 {SEC([year]) [number] final}
 {SWD([year]) [number] final/2}
 
-═══════════════════════════════════════════
-EXPLANATORY MEMORANDUM
-═══════════════════════════════════════════
+---
+
+### Explanatory Memorandum
 
 1. CONTEXT OF THE PROPOSAL
    [Background; reasons for action; link to Commission Work Programme]
@@ -172,9 +171,9 @@ EXPLANATORY MEMORANDUM
    5.1 Detailed explanation of specific provisions
        [Article-by-article or chapter-by-chapter explanation]
 
-═══════════════════════════════════════════
-DRAFT LEGISLATIVE TEXT
-═══════════════════════════════════════════
+---
+
+### Draft Legislative Text
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -204,9 +203,9 @@ Whereas:
 
 HAVE ADOPTED THIS REGULATION:
 
-─────────────────────────────────────────
-CHAPTER I — GENERAL PROVISIONS
-─────────────────────────────────────────
+---
+
+#### Chapter I — General Provisions
 
 Article 1 — Subject matter
 This Regulation establishes [...]
@@ -220,16 +219,16 @@ For the purposes of this Regulation, the following definitions apply:
 (1) '[term]' means [definition];
 (2) '[term]' means [definition];
 
-─────────────────────────────────────────
-CHAPTER II — [SUBSTANTIVE OBLIGATIONS]
-─────────────────────────────────────────
+---
+
+#### Chapter II — [Substantive Obligations]
 
 Article 4 — [Core obligation title]
 [...]
 
-─────────────────────────────────────────
-CHAPTER III — [GOVERNANCE AND ENFORCEMENT]
-─────────────────────────────────────────
+---
+
+#### Chapter III — [Governance and Enforcement]
 
 Article N — Competent authorities
 Article N+1 — Market surveillance
@@ -239,9 +238,9 @@ infringements of this Regulation and shall take all measures necessary
 to ensure that they are implemented. The penalties provided for shall
 be effective, proportionate and dissuasive.
 
-─────────────────────────────────────────
-CHAPTER IV — DELEGATED AND IMPLEMENTING ACTS
-─────────────────────────────────────────
+---
+
+#### Chapter IV — Delegated and Implementing Acts
 
 Article N+3 — Exercise of the delegation
 1. The power to adopt delegated acts is conferred on the Commission
@@ -258,9 +257,9 @@ Article N+4 — Committee procedure
 2. Where reference is made to this paragraph, Article [4/5] of
    Regulation (EU) No 182/2011 shall apply.
 
-─────────────────────────────────────────
-CHAPTER V — FINAL PROVISIONS
-─────────────────────────────────────────
+---
+
+#### Chapter V — Final Provisions
 
 Article N+5 — Transitional measures
 [...]
@@ -283,31 +282,25 @@ The President                      The President
 
 [ANNEXES — if applicable]
 
----
-DRAFT — For review by an EU official before use. Not an official Commission position.
+> **DRAFT** — For review by an EU official before use. Not an official Commission position.
 [EUR-Lex — verify current version of all cited legal acts]
 [review — legal uncertainty] if legal basis is contested
-```
 
 ### Quality Checklist
 
-```
-PRE-SUBMISSION DRAFTING CHECK
-
-□ Instrument choice justified (regulation vs. directive)
-□ Legal basis identified and correct (TFEU Art. + paragraph + subparagraph)
-□ Subsidiarity statement drafted (Art. 5(3) TEU)
-□ Proportionality statement drafted (Art. 5(4) TEU)
-□ All definitions provided in Art. 3 — no undefined terms in operative articles
-□ Chapter structure follows JPG convention
-□ Penalties article included (effective, proportionate, dissuasive formula)
-□ Delegated act empowerment cites Art. 290 TFEU with duration
-□ Implementing act empowerment cites Art. 291 TFEU + Regulation 182/2011
-□ Entry into force date set; application date stated if different
-□ Explanatory memorandum covers all five sections
-□ Fundamental rights recital identifies Charter rights engaged
-□ No 'shall' / 'must' confusion in operative text
-```
+- [ ] Instrument choice justified (regulation vs. directive)
+- [ ] Legal basis identified and correct (TFEU Art. + paragraph + subparagraph)
+- [ ] Subsidiarity statement drafted (Art. 5(3) TEU)
+- [ ] Proportionality statement drafted (Art. 5(4) TEU)
+- [ ] All definitions provided in Art. 3 — no undefined terms in operative articles
+- [ ] Chapter structure follows JPG convention
+- [ ] Penalties article included (effective, proportionate, dissuasive formula)
+- [ ] Delegated act empowerment cites Art. 290 TFEU with duration
+- [ ] Implementing act empowerment cites Art. 291 TFEU + Regulation 182/2011
+- [ ] Entry into force date set; application date stated if different
+- [ ] Explanatory memorandum covers all five sections
+- [ ] Fundamental rights recital identifies Charter rights engaged
+- [ ] No 'shall' / 'must' confusion in operative text
 
 ---
 

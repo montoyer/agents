@@ -152,36 +152,36 @@ BUDGET COMMITMENT (ABAC) ──► LEGAL COMMITMENT (contract/grant/decision)
 
 ### 1. Commitment Decision Checklist
 
-```
 COMMITMENT DECISION CHECKLIST
 Reference (ABAC):     [BUD/YYYY/NNNNN]
 DG / Unit:            [DG XX / Unit X.X]
 Budget line:          [XX.YYYYYYY]
 Amount:               €[amount]
-Type of commitment:   □ Individual  □ Global (framework)  □ Provisional
+Type of commitment:   - [ ] Individual  - [ ] Global (framework)  - [ ] Provisional
 Counterpart:          [Name — or "to be determined" for global commitment]
 Legal basis:          [Regulation / Decision / Contract reference]
 
-PRE-COMMITMENT CHECKLIST:                                     OK / N/A
-□ Available appropriations confirmed on BL (ABAC real-time check)
-□ Legal basis for expenditure exists
-□ Procurement procedure completed (if applicable) — reference: [CFT-XX]
-□ Grant/subsidy decision issued (if applicable) — reference: [...]
-□ Consistency with work programme / AMP output confirmed
-□ Supporting documents attached (procurement file / grant decision / agreement)
-□ Verification by financial initiator (name, date)
-□ Ex-ante control by verifier (if above threshold) (name, date)
-□ ABAC commitment recorded — transaction ID: [XXXXXXXX]
+**Pre-Commitment Checklist:**
+- [ ] Available appropriations confirmed on BL (ABAC real-time check)
+- [ ] Legal basis for expenditure exists
+- [ ] Procurement procedure completed (if applicable) — reference: [CFT-XX]
+- [ ] Grant/subsidy decision issued (if applicable) — reference: [...]
+- [ ] Consistency with work programme / AMP output confirmed
+- [ ] Supporting documents attached (procurement file / grant decision / agreement)
+- [ ] Verification by financial initiator (name, date)
+- [ ] Ex-ante control by verifier (if above threshold) (name, date)
+- [ ] ABAC commitment recorded — transaction ID: [XXXXXXXX]
 
-AUTHORISING OFFICER (AOSD / AOD):
-□ I confirm all pre-commitment conditions are met.
+**Authorising Officer (AOSD / AOD):**
+- [ ] I confirm all pre-commitment conditions are met.
+
 Signed: ___________________    Date: [DD Month YYYY]
 ABAC profile: [Role code]
-```
+
+---
 
 ### 2. Payment Validation Memo (Liquidation)
 
-```
 PAYMENT VALIDATION — LIQUIDATION MEMO
 Payment reference (ABAC): [PAY/YYYY/NNNNN]
 Contract / Grant ref:     [Reference]
@@ -192,32 +192,33 @@ Amount claimed:           €[amount]
 Amount validated:         €[amount]
 Payment deadline:         [DD Month YYYY] ([30/60] days from [event])
 
-VALIDATION CHECKLIST:
-□ Invoice matches the contract / grant agreement terms
-□ Services / deliverables / milestones confirmed as received / completed
-   → Confirmation from technical responsible: [name, date]
-□ Calculation of eligible amount verified:
-   □ Cost statement checked against eligible cost categories
-   □ Ineligible costs deducted: €[amount] — reason: [...]
-   □ Pre-financing deduction applied: €[amount] (if applicable)
-□ VAT treatment verified (EU institutions exempt from VAT — check if correctly excluded)
-□ Bank account matches contract (last verified: [date])
-□ No recovery/debit note outstanding against this beneficiary
-□ RAL impact noted — remaining commitment after payment: €[amount]
+**Validation Checklist:**
+- [ ] Invoice matches the contract / grant agreement terms
+- [ ] Services / deliverables / milestones confirmed as received / completed
+  → Confirmation from technical responsible: [name, date]
+- [ ] Calculation of eligible amount verified:
+  - [ ] Cost statement checked against eligible cost categories
+  - [ ] Ineligible costs deducted: €[amount] — reason: [...]
+  - [ ] Pre-financing deduction applied: €[amount] (if applicable)
+- [ ] VAT treatment verified (EU institutions exempt from VAT — check if correctly excluded)
+- [ ] Bank account matches contract (last verified: [date])
+- [ ] No recovery/debit note outstanding against this beneficiary
+- [ ] RAL impact noted — remaining commitment after payment: €[amount]
 
-FINANCIAL VERIFICATION (verifier):
+**Financial Verification (verifier):**
 Name: ___________    Date: [DD Month YYYY]
 
-PAYMENT AUTHORISATION (AOSD / AOD):
-□ Payment validated and authorised.
-□ Payment partially validated — amount authorised: €[amount] — reason: [...]
-□ Payment rejected — reason: [...]
+**Payment Authorisation (AOSD / AOD):**
+- [ ] Payment validated and authorised.
+- [ ] Payment partially validated — amount authorised: €[amount] — reason: [...]
+- [ ] Payment rejected — reason: [...]
+
 Signed: ___________________    Date: [DD Month YYYY]
-```
+
+---
 
 ### 3. Recovery Order — Initiation Note
 
-```
 RECOVERY ORDER — INITIATION
 Reference:      [REC/YYYY/NNNNN]
 DG / Unit:      [DG XX / Unit X.X]
@@ -225,69 +226,71 @@ Debtor:         [Name / Legal entity]
 Contract / grant: [Reference]
 Amount due:     €[amount]
 Currency:       EUR
-Reason for recovery:
-  □ Overpayment — amount paid exceeds validated eligible costs
-  □ Ineligible expenditure declared — [describe]
-  □ Undelivered service or milestone — [describe]
-  □ Other: [...]
 
-TIMELINE OF EVENTS:
+Reason for recovery:
+- [ ] Overpayment — amount paid exceeds validated eligible costs
+- [ ] Ineligible expenditure declared — [describe]
+- [ ] Undelivered service or milestone — [describe]
+- [ ] Other: [...]
+
+**Timeline of Events:**
 [Date]: [Payment made / cost claim submitted]
 [Date]: [Audit/verification finding — specify by whom]
 [Date]: [Contradictory procedure — right to be heard offered to debtor]
 [Date]: [Debtor response — or no response by deadline]
 [Date]: [Recovery decision — by AOD]
 
-STEP 1 — DEBIT NOTE:
+**Step 1 — Debit Note:**
 Debit note ref:    [DN-YYYY-NNN]
 Date issued:       [DD Month YYYY]
 Payment deadline:  [30 days from issue = DD Month YYYY]
 Amount:            €[amount] + interest if paid after [DD Month YYYY]
 
-STEP 2 — ABAC RECOVERY ORDER:
-□ ABAC recovery order recorded — transaction ID: [XXXXXXXX]
+**Step 2 — ABAC Recovery Order:**
+- [ ] ABAC recovery order recorded — transaction ID: [XXXXXXXX]
 
-STEP 3 — ESCALATION (if unpaid after deadline):
-□ Referred to DG BUDG Central Services for enforcement — [date]
-□ Set-off applied against pending payment — [date] [if applicable]
-□ Write-off procedure initiated — [date] [if applicable — requires formal decision]
+**Step 3 — Escalation (if unpaid after deadline):**
+- [ ] Referred to DG BUDG Central Services for enforcement — [date]
+- [ ] Set-off applied against pending payment — [date] [if applicable]
+- [ ] Write-off procedure initiated — [date] [if applicable — requires formal decision]
 
-ANTI-FRAUD NOTE:
-□ No indicators of fraud detected — treated as administrative irregularity
-□ Fraud indicators present — OLAF notified on [date] — ref: [OLAF ref]
-```
+**Anti-Fraud Note:**
+- [ ] No indicators of fraud detected — treated as administrative irregularity
+- [ ] Fraud indicators present — OLAF notified on [date] — ref: [OLAF ref]
+
+---
 
 ### 4. Year-End RAL Closure Note
 
-```
 YEAR-END RAL ANALYSIS — UNIT [XX]
 Budget year:   [YYYY]
 Date:          [DD Month YYYY]
 Prepared by:   [Name, AOD/AOSD]
 
-COMMITMENTS OUTSTANDING AS AT 31 DECEMBER [YYYY]:
+**Commitments Outstanding as at 31 December [YYYY]:**
+
 | BL | Commitment ref | Counterpart | Committed | Paid | RAL |
 |---|---|---|---|---|---|
 | [XX.YYYYYYY] | [ref] | [name] | €[x] | €[y] | €[z] |
 | ... | | | | | |
-TOTAL RAL: €[amount]
 
-ANALYSIS PER COMMITMENT:
+**TOTAL RAL:** €[amount]
+
+**Analysis per Commitment:**
 [For each open commitment — action recommended:]
-□ Keep open — pending invoice / milestone due in Q1 [YYYY+1] — estimated payment date: [...]
-□ Carry over — differentiated appropriations — automatic carry-over applies
-□ Carry over — non-differentiated — requires formal carry-over decision by [date]
-□ Decommit — service not delivered / contract terminated — decommitment amount: €[x]
+- [ ] Keep open — pending invoice / milestone due in Q1 [YYYY+1] — estimated payment date: [...]
+- [ ] Carry over — differentiated appropriations — automatic carry-over applies
+- [ ] Carry over — non-differentiated — requires formal carry-over decision by [date]
+- [ ] Decommit — service not delivered / contract terminated — decommitment amount: €[x]
 
 DECOMMITMENTS PROPOSED: €[total]
 CARRY-OVERS REQUESTED:  €[total]
 JUSTIFICATION: [Brief narrative]
 
-NEXT STEPS:
-□ Submit RAL analysis to DG BUDG by [internal deadline]
-□ Request carry-over decisions for non-diff appropriations — draft attached
-□ Update ABAC with decommitments by [31 January YYYY+1]
-```
+**Next Steps:**
+- [ ] Submit RAL analysis to DG BUDG by [internal deadline]
+- [ ] Request carry-over decisions for non-diff appropriations — draft attached
+- [ ] Update ABAC with decommitments by [31 January YYYY+1]
 
 ---
 
@@ -320,3 +323,7 @@ guidance), DG BUDG budget implementation guidance, OLAF reporting procedures, Co
 Anti-Fraud Strategy (CAFS), IAS audit methodology, Grant Management Manual, Procurement
 Manual, late payment rules (FR Art. 98 + Council Regulation 1150/2000), budget
 nomenclature and financial regulations per programme (HEU, ERDF, ESF+, etc.).
+
+---
+
+> **DRAFT** — For review by the responsible official before action is taken. Not an official Commission decision or position.

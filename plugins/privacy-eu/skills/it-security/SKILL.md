@@ -80,117 +80,116 @@ complete the risk assessment and security sections of the DPIA.
 
 ## CIA Threat Model Template
 
-```
-CIA THREAT ASSESSMENT
+**CIA Threat Assessment**
 System: [system name]
 Assessment date: [DD Month YYYY]
 Assessor: [function]
 
-─── CONFIDENTIALITY ─────────────────────────────────────────
-Threat                    Inherent  Existing measure       Residual
-Unauthorised access (ext) HIGH      MFA + role-based AC    MEDIUM
-Data breach via AI API    HIGH      DPA + TLS 1.3 + audit  MEDIUM
-Insider threat            MEDIUM    Access logs + reviews  LOW
-…
+**Confidentiality:**
 
-─── INTEGRITY ───────────────────────────────────────────────
-Threat                    Inherent  Existing measure       Residual
-Unauthorised modification MEDIUM    Audit trail + hash     LOW
-AI output tampering       MEDIUM    Human review step      LOW
-Data corruption (backup)  LOW       Daily backup + verify  LOW
-…
+| Threat | Inherent | Existing measure | Residual |
+|---|---|---|---|
+| Unauthorised access (ext) | HIGH | MFA + role-based AC | MEDIUM |
+| Data breach via AI API | HIGH | DPA + TLS 1.3 + audit | MEDIUM |
+| Insider threat | MEDIUM | Access logs + reviews | LOW |
+| […] | | | |
 
-─── AVAILABILITY ────────────────────────────────────────────
-Threat                    Inherent  Existing measure       Residual
-DoS / DDoS                MEDIUM    WAF + rate limiting    LOW
-Provider outage           MEDIUM    SLA + fallback proc.   LOW
-Data loss (no backup)     LOW       Automated backup       LOW
-…
+**Integrity:**
 
-OVERALL RESIDUAL RISK: [LOW / MEDIUM / HIGH]
-HIGH residual risks requiring DPO escalation: [list or "none"]
-```
+| Threat | Inherent | Existing measure | Residual |
+|---|---|---|---|
+| Unauthorised modification | MEDIUM | Audit trail + hash | LOW |
+| AI output tampering | MEDIUM | Human review step | LOW |
+| Data corruption (backup) | LOW | Daily backup + verify | LOW |
+| […] | | | |
+
+**Availability:**
+
+| Threat | Inherent | Existing measure | Residual |
+|---|---|---|---|
+| DoS / DDoS | MEDIUM | WAF + rate limiting | LOW |
+| Provider outage | MEDIUM | SLA + fallback proc. | LOW |
+| Data loss (no backup) | LOW | Automated backup | LOW |
+| […] | | | |
+
+**Overall residual risk:** [LOW / MEDIUM / HIGH]
+**HIGH residual risks requiring DPO escalation:** [list or "none"]
 
 ---
 
 ## STRIDE Analysis Template (per data flow)
 
-```
-STRIDE ANALYSIS — [Data flow: Source → Destination]
+**STRIDE Analysis — [Data flow: Source → Destination]**
 
-Threat category     Threat description              Risk    Mitigation
-Spoofing            [e.g. impersonation of user]    MED     [OAuth 2.0 / SSO]
-Tampering           [e.g. message content modified] LOW     [TLS + audit log]
-Repudiation         [e.g. user denies submission]   LOW     [Signed audit trail]
-Information Disc.   [e.g. API leaks data to 3rd p.] HIGH   [Data minimisation API]
-Denial of Service   [e.g. form spam attack]         MED     [Rate limiting + CAPTCHA]
-Elevation of Priv.  [e.g. user accesses others]     MED     [RBAC + session isolation]
-```
+| Threat category | Threat description | Risk | Mitigation |
+|---|---|---|---|
+| Spoofing | [e.g. impersonation of user] | MED | [OAuth 2.0 / SSO] |
+| Tampering | [e.g. message content modified] | LOW | [TLS + audit log] |
+| Repudiation | [e.g. user denies submission] | LOW | [Signed audit trail] |
+| Information Disclosure | [e.g. API leaks data to 3rd party] | HIGH | [Data minimisation API] |
+| Denial of Service | [e.g. form spam attack] | MED | [Rate limiting + CAPTCHA] |
+| Elevation of Privilege | [e.g. user accesses others' data] | MED | [RBAC + session isolation] |
 
 ---
 
 ## Transfer Impact Assessment (TIA) — Non-EU Provider
 
-```
-TRANSFER IMPACT ASSESSMENT (TIA)
+**Transfer Impact Assessment (TIA)**
 Transfer reference: [TIA-YYYY-NNN]
 Recipient: [provider name, country]
 Data transferred: [categories of personal data]
 Transfer mechanism: [Art. 25 EUDPR — adequacy decision / SCCs / BCRs / other]
 Date of assessment: [DD Month YYYY]
 
-1. LEGAL FRAMEWORK OF RECIPIENT COUNTRY
-   Adequacy decision (EUDPR Art. 25(3)) in force: YES / NO
-   If NO — applicable transfer mechanism: [SCCs / BCRs / specific derogation Art. 25(4)]
+**1. Legal Framework of Recipient Country**
+Adequacy decision (EUDPR Art. 25(3)) in force: YES / NO
+If NO — applicable transfer mechanism: [SCCs / BCRs / specific derogation Art. 25(4)]
 
-2. SURVEILLANCE AND ACCESS LAW ASSESSMENT
-   Primary surveillance laws: [e.g. FISA 702, EO 12333, CLOUD Act — US; equivalent for other countries]
-   Government access risk to EU data: [LOW / MEDIUM / HIGH]
-   Known EDPS guidance on this jurisdiction: [cite EDPS opinion if available]
-   [model knowledge — verify current EDPS and CJEU guidance]
+**2. Surveillance and Access Law Assessment**
+Primary surveillance laws: [e.g. FISA 702, EO 12333, CLOUD Act — US; equivalent for other countries]
+Government access risk to EU data: [LOW / MEDIUM / HIGH]
+Known EDPS guidance on this jurisdiction: [cite EDPS opinion if available]
+[model knowledge — verify current EDPS and CJEU guidance]
 
-3. CONTRACTUAL SAFEGUARDS REVIEW
-   DPA / SCCs in place: YES / NO
-   Contractual prohibition on government disclosure without notification: YES / NO
-   Provider transparency report available: YES / NO
-   Provider encryption of data at rest and in transit: YES / NO
-   Provider sub-processor list published: YES / NO
+**3. Contractual Safeguards Review**
+- DPA / SCCs in place: YES / NO
+- Contractual prohibition on government disclosure without notification: YES / NO
+- Provider transparency report available: YES / NO
+- Provider encryption of data at rest and in transit: YES / NO
+- Provider sub-processor list published: YES / NO
 
-4. ADDITIONAL TECHNICAL MEASURES ASSESSED
-   [ ] End-to-end encryption (controller holds keys — provider cannot access plaintext)
-   [ ] Pseudonymisation before transfer
-   [ ] Data minimisation (only non-identifying data transferred to AI inference endpoint)
-   [ ] Contractual deletion obligation within [N] days
+**4. Additional Technical Measures Assessed**
+- [ ] End-to-end encryption (controller holds keys — provider cannot access plaintext)
+- [ ] Pseudonymisation before transfer
+- [ ] Data minimisation (only non-identifying data transferred to AI inference endpoint)
+- [ ] Contractual deletion obligation within [N] days
 
-5. TIA CONCLUSION
-   [ ] Transfer may proceed — safeguards adequate; risk: LOW / MEDIUM
-   [ ] Transfer may proceed with additional measures — [specify measures required]
-   [ ] Transfer MUST NOT proceed — residual risk HIGH; no adequate safeguards available
-       → Escalate to DPO; consider EU-based alternative
+**5. TIA Conclusion**
+- [ ] Transfer may proceed — safeguards adequate; risk: LOW / MEDIUM
+- [ ] Transfer may proceed with additional measures — [specify measures required]
+- [ ] Transfer MUST NOT proceed — residual risk HIGH; no adequate safeguards available → Escalate to DPO; consider EU-based alternative
 
 [model knowledge — verify] [review — DPO sign-off required]
-```
 
 ---
 
 ## AI-Specific Threat Assessment
 
-```
-AI SECURITY THREAT ASSESSMENT
+**AI Security Threat Assessment**
 Module: [AI module name / provider]
 Model type: [LLM / classifier / NLP / other]
 
-Threat                  Description                      Risk    Mitigation
-Prompt injection        Malicious input hijacks model    HIGH    Input sanitisation; output filtering
-Model inversion         Training data reconstructed      MED     Differential privacy; no PII in training
-Membership inference    Query reveals if PII in training MED     Aggregate outputs only; rate limit
-Adversarial inputs      Manipulated inputs alter output  LOW     Input validation; anomaly detection
-Data poisoning          Training data compromised        LOW     Provenance controls; model audit
-Inference-time leakage  PII in prompt leaks to provider  HIGH    Data minimisation; redaction pre-API
-Output over-sharing     Model reveals PII in response    HIGH    Output filtering; human review gate
+| Threat | Description | Risk | Mitigation |
+|---|---|---|---|
+| Prompt injection | Malicious input hijacks model | HIGH | Input sanitisation; output filtering |
+| Model inversion | Training data reconstructed | MED | Differential privacy; no PII in training |
+| Membership inference | Query reveals if PII in training | MED | Aggregate outputs only; rate limit |
+| Adversarial inputs | Manipulated inputs alter output | LOW | Input validation; anomaly detection |
+| Data poisoning | Training data compromised | LOW | Provenance controls; model audit |
+| Inference-time leakage | PII in prompt leaks to provider | HIGH | Data minimisation; redaction pre-API |
+| Output over-sharing | Model reveals PII in response | HIGH | Output filtering; human review gate |
 
-OVERALL AI RISK CONTRIBUTION TO DPIA: [LOW / MEDIUM / HIGH]
-```
+**Overall AI risk contribution to DPIA:** [LOW / MEDIUM / HIGH]
 
 ---
 

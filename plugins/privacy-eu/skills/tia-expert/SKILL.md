@@ -100,153 +100,165 @@ concludes that the transfer must not proceed.
 
 ## TIA Report Template
 
-```
-TRANSFER IMPACT ASSESSMENT
-TIA reference:      TIA-[DG]-[YYYY]-[NNN]
+**Transfer Impact Assessment**
+TIA reference: TIA-[DG]-[YYYY]-[NNN]
 Date of assessment: [DD Month YYYY]
-Assessor:           [function / team]
-DPO sign-off:       [DPO name — date]
-RoPA ref:           ROPA-[ref]
-DPIA ref (if any):  DPIA-[ref]
+Assessor: [function / team]
+DPO sign-off: [DPO name — date]
+RoPA ref: ROPA-[ref]
+DPIA ref (if any): DPIA-[ref]
 
-─── 1. TRANSFER IDENTIFICATION ──────────────────────────────────────────────
-Recipient name:         [company / organisation]
-Recipient country:      [country]
-Recipient role:         [ ] Processor (Art. 29 EUDPR)  [ ] Controller  [ ] Joint controller
-Processing operations:  [describe what the recipient does with the data]
-Data categories:        [list — flag special categories Art. 10 EUDPR]
-Data subjects:          [categories — staff / citizens / contractors]
-Volume / frequency:     [approx. records; continuous / periodic / one-off]
-Purpose of transfer:    [specific purpose]
+---
 
-─── 2. TRANSFER MECHANISM (Art. 25 EUDPR) ───────────────────────────────────
-[ ] Art. 25(3) — Adequacy decision: [decision name / date — verify EUR-Lex]
-[ ] Art. 25(2)(a) — SCCs: [Commission decision ref — verify current version]
-[ ] Art. 25(2)(b) — BCRs: [EDPS approval ref]
-[ ] Art. 25(2)(c) — Approved code of conduct: [ref]
-[ ] Art. 25(4)(a) — Explicit consent (exceptional use only)
-[ ] Art. 25(4)(b) — Contract with data subject
-[ ] Art. 25(4)(d) — Important public interest (institutional use)
-[ ] Art. 25(4)(f) — Legitimate interests (narrow scope — verify with DPO)
+### 1. Transfer Identification
 
-Instrument signed / verified: [ ] YES  [ ] NO — action required
+Recipient name: [company / organisation]
+Recipient country: [country]
+Recipient role: - [ ] Processor (Art. 29 EUDPR)  - [ ] Controller  - [ ] Joint controller
+Processing operations: [describe what the recipient does with the data]
+Data categories: [list — flag special categories Art. 10 EUDPR]
+Data subjects: [categories — staff / citizens / contractors]
+Volume / frequency: [approx. records; continuous / periodic / one-off]
+Purpose of transfer: [specific purpose]
+
+---
+
+### 2. Transfer Mechanism (Art. 25 EUDPR)
+
+- [ ] Art. 25(3) — Adequacy decision: [decision name / date — verify EUR-Lex]
+- [ ] Art. 25(2)(a) — SCCs: [Commission decision ref — verify current version]
+- [ ] Art. 25(2)(b) — BCRs: [EDPS approval ref]
+- [ ] Art. 25(2)(c) — Approved code of conduct: [ref]
+- [ ] Art. 25(4)(a) — Explicit consent (exceptional use only)
+- [ ] Art. 25(4)(b) — Contract with data subject
+- [ ] Art. 25(4)(d) — Important public interest (institutional use)
+- [ ] Art. 25(4)(f) — Legitimate interests (narrow scope — verify with DPO)
+
+Instrument signed / verified: - [ ] YES  - [ ] NO — action required
 [EUR-Lex — verify current version of adequacy decision / SCCs]
 
-─── 3. LEGAL FRAMEWORK ASSESSMENT — RECIPIENT COUNTRY ───────────────────────
+---
+
+### 3. Legal Framework Assessment — Recipient Country
+
 Country: [name]
 
-3.1 RULE OF LAW AND INDEPENDENCE OF OVERSIGHT
-Judicial independence rating:         [HIGH / MEDIUM / LOW — source: [model knowledge — verify]]
-Independent data protection authority: [ ] YES  [ ] NO
-Redress mechanism for data subjects:  [ ] YES  [ ] NO
-EDPS / EDPB country assessment available: [ ] YES — [cite]  [ ] NO
+#### 3.1 Rule of Law and Independence of Oversight
 
-3.2 SURVEILLANCE AND GOVERNMENT ACCESS LAWS
+Judicial independence rating: [HIGH / MEDIUM / LOW — source: [model knowledge — verify]]
+Independent data protection authority: - [ ] YES  - [ ] NO
+Redress mechanism for data subjects: - [ ] YES  - [ ] NO
+EDPS / EDPB country assessment available: - [ ] YES — [cite]  - [ ] NO
+
+#### 3.2 Surveillance and Government Access Laws
+
 Primary surveillance legislation: [e.g. FISA § 702 and EO 12333 (US); Art. 177 PRC Cybersecurity Law (China)]
-Bulk / mass data collection authorised: [ ] YES  [ ] NO
-Law enforcement access without judicial warrant: [ ] YES  [ ] NO
-National security override of contractual obligations: [ ] YES  [ ] NO
+Bulk / mass data collection authorised: - [ ] YES  - [ ] NO
+Law enforcement access without judicial warrant: - [ ] YES  - [ ] NO
+National security override of contractual obligations: - [ ] YES  - [ ] NO
 
 Key risk indicators:
-  US jurisdiction:  [ ] FISA 702 risk  [ ] CLOUD Act risk  [ ] EO 12333 risk
-  Other:            [describe applicable surveillance exposure]
+- US jurisdiction: - [ ] FISA 702 risk  - [ ] CLOUD Act risk  - [ ] EO 12333 risk
+- Other: [describe applicable surveillance exposure]
 
-Government access risk rating: [ ] LOW  [ ] MEDIUM  [ ] HIGH
+Government access risk rating: - [ ] LOW  - [ ] MEDIUM  - [ ] HIGH
 [model knowledge — verify current legislative status and EDPS guidance]
 
-3.3 EQUIVALENCE ASSESSMENT
-Does the legal framework provide essentially equivalent protection to EUDPR? 
-[ ] YES — transfer mechanism alone is sufficient
-[ ] NO / UNCERTAIN — supplementary measures required (proceed to Section 4)
+#### 3.3 Equivalence Assessment
 
-─── 4. CONTRACTUAL SAFEGUARDS REVIEW ────────────────────────────────────────
-DPA / processor agreement in place:              [ ] YES  [ ] NO — REQUIRED
-SCCs included and unmodified:                    [ ] YES  [ ] NO / [ ] N/A
-Notification obligation on government access:    [ ] YES  [ ] NO
-Sub-processor list provided and assessed:        [ ] YES  [ ] NO
-Sub-processors in equivalent / adequacy country: [ ] YES  [ ] NO — assess each
-Provider transparency report published:          [ ] YES  [ ] NO
-Contractual prohibition on training on EU data:  [ ] YES  [ ] NO / [ ] N/A (AI providers)
-Deletion obligation within [N] days post-contract:[ ] YES  [ ] NO
+Does the legal framework provide essentially equivalent protection to EUDPR?
+- [ ] YES — transfer mechanism alone is sufficient
+- [ ] NO / UNCERTAIN — supplementary measures required (proceed to Section 4)
 
-─── 5. SUPPLEMENTARY MEASURES ───────────────────────────────────────────────
-(Complete only where Section 3.3 concluded NO / UNCERTAIN)
+---
 
-Technical measures assessed:
-  [ ] End-to-end encryption — controller holds decryption keys (provider cannot access plaintext)
-      Status: [ ] Implemented  [ ] Feasible  [ ] Not feasible — reason: [state]
-  [ ] Pseudonymisation before transfer — re-identification key held by controller in EU
-      Status: [ ] Implemented  [ ] Feasible  [ ] Not feasible
-  [ ] Data minimisation at API boundary — only non-identifying data sent to third country
-      Status: [ ] Implemented  [ ] Feasible  [ ] Not feasible
-  [ ] EU-only data processing — no personal data leaves EU/EEA region
-      Status: [ ] Implemented  [ ] Feasible  [ ] Not feasible (contractual / technical constraint)
+### 4. Contractual Safeguards Review
 
-Contractual measures assessed:
-  [ ] Enhanced government access notification clause (provider must challenge access orders)
-  [ ] Prohibition on compliance with foreign access orders without exhausting legal remedies
-  [ ] Annual transparency reporting obligation
+- [ ] DPA / processor agreement in place — REQUIRED
+- [ ] SCCs included and unmodified — - [ ] YES  - [ ] NO  - [ ] N/A
+- [ ] Notification obligation on government access — - [ ] YES  - [ ] NO
+- [ ] Sub-processor list provided and assessed — - [ ] YES  - [ ] NO
+- [ ] Sub-processors in equivalent / adequacy country — - [ ] YES  - [ ] NO — assess each
+- [ ] Provider transparency report published — - [ ] YES  - [ ] NO
+- [ ] Contractual prohibition on training on EU data — - [ ] YES  - [ ] NO  - [ ] N/A (AI providers)
+- [ ] Deletion obligation within [N] days post-contract — - [ ] YES  - [ ] NO
 
-Organisational measures assessed:
-  [ ] Access restricted to EU-based personnel of provider
-  [ ] Data localisation to EU-based data centres contractually guaranteed
-  [ ] Regular audit rights exercised by controller
+---
 
-─── 6. RESIDUAL RISK AND CONCLUSION ─────────────────────────────────────────
-Residual legal access risk (after all measures): [ ] LOW  [ ] MEDIUM  [ ] HIGH
+### 5. Supplementary Measures
 
-TIA CONCLUSION:
-[ ] ✅ TRANSFER MAY PROCEED
-    Basis: [adequate safeguards + mechanism; residual risk acceptable]
+*(Complete only where Section 3.3 concluded NO / UNCERTAIN)*
 
-[ ] ⚠️  TRANSFER MAY PROCEED — SUBJECT TO MANDATORY MEASURES
-    Required measures before transfer: [list specific measures]
-    Implementation deadline: [date]
-    Review date: [DD Month YYYY]
+**Technical measures assessed:**
+- [ ] End-to-end encryption — controller holds decryption keys (provider cannot access plaintext)
+  Status: - [ ] Implemented  - [ ] Feasible  - [ ] Not feasible — reason: [state]
+- [ ] Pseudonymisation before transfer — re-identification key held by controller in EU
+  Status: - [ ] Implemented  - [ ] Feasible  - [ ] Not feasible
+- [ ] Data minimisation at API boundary — only non-identifying data sent to third country
+  Status: - [ ] Implemented  - [ ] Feasible  - [ ] Not feasible
+- [ ] EU-only data processing — no personal data leaves EU/EEA region
+  Status: - [ ] Implemented  - [ ] Feasible  - [ ] Not feasible (contractual / technical constraint)
 
-[ ] ❌ TRANSFER MUST NOT PROCEED
-    Reason: [no adequate safeguards achievable; residual risk HIGH]
-    Action required: [identify EU-based alternative / escalate to DPO / Art. 40 prior consultation]
+**Contractual measures assessed:**
+- [ ] Enhanced government access notification clause (provider must challenge access orders)
+- [ ] Prohibition on compliance with foreign access orders without exhausting legal remedies
+- [ ] Annual transparency reporting obligation
+
+**Organisational measures assessed:**
+- [ ] Access restricted to EU-based personnel of provider
+- [ ] Data localisation to EU-based data centres contractually guaranteed
+- [ ] Regular audit rights exercised by controller
+
+---
+
+### 6. Residual Risk and Conclusion
+
+Residual legal access risk (after all measures): - [ ] LOW  - [ ] MEDIUM  - [ ] HIGH
+
+**TIA Conclusion:**
+
+- [ ] ✅ **Transfer may proceed** — adequate safeguards + mechanism; residual risk acceptable
+
+- [ ] ⚠️ **Transfer may proceed — subject to mandatory measures**
+  Required measures before transfer: [list specific measures]
+  Implementation deadline: [date]
+  Review date: [DD Month YYYY]
+
+- [ ] ❌ **Transfer must not proceed**
+  Reason: [no adequate safeguards achievable; residual risk HIGH]
+  Action required: [identify EU-based alternative / escalate to DPO / Art. 40 prior consultation]
 
 [review — DPO sign-off required]
-```
 
 ---
 
 ## High-Risk Jurisdiction Quick Reference
 
-```
-JURISDICTION RISK INDICATORS [model knowledge — verify current status and EDPS guidance]
+[model knowledge — verify current status and EDPS guidance]
 
-United States
-  Surveillance laws:  FISA § 702 (NSA access to non-US persons' data on US providers)
-                      EO 12333 (bulk collection abroad)
-                      CLOUD Act (US government can compel US providers for data held abroad)
-  Adequacy (EUDPR):   EU–US Data Privacy Framework (DPF) — Commission adequacy decision 2023
-                      Note: DPF covers GDPR; EUDPR-specific adequacy — verify EDPS position
-  Key risk:           FISA 702 and CLOUD Act exposure persists for non-DPF-certified providers
-  Supplementary:      E2E encryption (controller keys) materially reduces FISA/CLOUD Act risk
+**United States**
+- Surveillance laws: FISA § 702 (NSA access to non-US persons' data on US providers); EO 12333 (bulk collection abroad); CLOUD Act (US government can compel US providers for data held abroad)
+- Adequacy (EUDPR): EU–US Data Privacy Framework (DPF) — Commission adequacy decision 2023. Note: DPF covers GDPR; EUDPR-specific adequacy — verify EDPS position
+- Key risk: FISA 702 and CLOUD Act exposure persists for non-DPF-certified providers
+- Supplementary: E2E encryption (controller keys) materially reduces FISA/CLOUD Act risk
 
-China
-  Surveillance laws:  Cybersecurity Law Art. 177 (national security data access)
-                      Data Security Law (state access to data of national security relevance)
-                      Personal Information Protection Law (PIPL) — does not fully mirror EUDPR
-  Adequacy (EUDPR):   None
-  Key risk:           National security override is broad; no independent judicial oversight
-  Supplementary:      Data minimisation + pseudonymisation; EU-based processing preferred
+**China**
+- Surveillance laws: Cybersecurity Law Art. 177 (national security data access); Data Security Law (state access to data of national security relevance); Personal Information Protection Law (PIPL) — does not fully mirror EUDPR
+- Adequacy (EUDPR): None
+- Key risk: National security override is broad; no independent judicial oversight
+- Supplementary: Data minimisation + pseudonymisation; EU-based processing preferred
 
-United Kingdom (post-Brexit)
-  Adequacy (EUDPR):   EUDPR adequacy decision — verify current validity
-  Key risk:           Investigatory Powers Act (bulk surveillance) — EDPB has noted concerns
-  Risk rating:        MEDIUM — adequate for most transfers; reassess if adequacy lapses
+**United Kingdom (post-Brexit)**
+- Adequacy (EUDPR): EUDPR adequacy decision — verify current validity
+- Key risk: Investigatory Powers Act (bulk surveillance) — EDPB has noted concerns
+- Risk rating: MEDIUM — adequate for most transfers; reassess if adequacy lapses
 
-India
-  Adequacy (EUDPR):   None
-  Surveillance laws:  IT Act Section 69; no strong independent oversight
-  Risk rating:        HIGH without strong supplementary measures
+**India**
+- Adequacy (EUDPR): None
+- Surveillance laws: IT Act Section 69; no strong independent oversight
+- Risk rating: HIGH without strong supplementary measures
 
 Other countries: assess individually using EDPB recommendations and EDPS opinions.
-```
 
 ---
 

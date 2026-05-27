@@ -173,7 +173,6 @@ Q3 (Implementing Acts only): Which procedure?
 
 ### 1. Committee Opinion Record
 
-```
 COMMITTEE OPINION RECORD
 Committee:      [Full name of the committee]
 Meeting date:   [DD Month YYYY]
@@ -181,37 +180,36 @@ Agenda item:    [N — Draft [Delegated / Implementing] [Regulation / Decision] 
 Basic act:      [Regulation/Directive (EU) YYYY/NNN — Art. X (empowerment)]
 Ref. in Register: [Comitology Register document reference]
 
-DRAFT MEASURE CIRCULATED: [DD Month YYYY] — at least 14 days before meeting: □ Yes □ No
+DRAFT MEASURE CIRCULATED: [DD Month YYYY] — at least 14 days before meeting: - [ ] Yes - [ ] No
 
-VOTE RESULT:
-□ EXAMINATION PROCEDURE (Art. 5 Reg. 182/2011)
+Vote result:
+- [ ] EXAMINATION PROCEDURE (Art. 5 Reg. 182/2011)
   For: [N votes — representing [N] member states]
   Against: [N votes — representing [N] member states]
   Abstentions: [N votes]
   Result:
-  □ POSITIVE OPINION (QMV in favour — ≥ 55% MS representing ≥ 65% population)
-  □ NEGATIVE OPINION (QMV against)
-  □ NO OPINION (neither QMV for nor against)
+  - [ ] POSITIVE OPINION (QMV in favour — ≥ 55% MS representing ≥ 65% population)
+  - [ ] NEGATIVE OPINION (QMV against)
+  - [ ] NO OPINION (neither QMV for nor against)
 
-□ ADVISORY PROCEDURE (Art. 4 Reg. 182/2011)
-  Opinion: □ Favourable □ Unfavourable (majority of members present)
+- [ ] ADVISORY PROCEDURE (Art. 4 Reg. 182/2011)
+  Opinion: - [ ] Favourable - [ ] Unfavourable (majority of members present)
 
-MEMBER STATE POSITIONS (summary of main positions expressed):
+Member state positions (summary of main positions expressed):
 [MS or group]: [Position stated / reservations / abstention reason]
 
-─────────────────────────────────────────────────────────
-NEXT STEPS:
-□ Positive / Advisory favourable → Commission proceeds to adopt
-□ No opinion → Commission proceeds under Art. 5(4) [confirm basic act allows this]
-□ Negative opinion → Refer to Appeal Committee [date: DD Month YYYY]
-□ Adopt with modifications to address reservations — [specify modifications]
+---
 
-Publication in Comitology Register: □ Done [date] □ Pending [target date]
-```
+Next steps:
+- [ ] Positive / Advisory favourable → Commission proceeds to adopt
+- [ ] No opinion → Commission proceeds under Art. 5(4) [confirm basic act allows this]
+- [ ] Negative opinion → Refer to Appeal Committee [date: DD Month YYYY]
+- [ ] Adopt with modifications to address reservations — [specify modifications]
+
+Publication in Comitology Register: - [ ] Done [date] - [ ] Pending [target date]
 
 ### 2. Delegated Act — Notification Letter to EP and Council
 
-```
 EUROPEAN COMMISSION
 Brussels, [DD Month YYYY]
 C([YYYY]) [NNNN] final
@@ -242,11 +240,9 @@ ENCLOSURE: Commission Delegated [Regulation / Decision] of [date] — C([YYYY]) 
 
 [Registered in Comitology Register: [reference]]
 [Scrutiny period: [DD Month YYYY] – [DD Month YYYY] (extendable)]
-```
 
 ### 3. Appeal Committee Referral Note
 
-```
 REFERRAL TO APPEAL COMMITTEE
 Ref.: [Internal reference]
 Date: [DD Month YYYY]
@@ -257,7 +253,7 @@ Committee:     [Name of committee]
 Meeting date:  [DD Month YYYY]
 Opinion:       NEGATIVE — [vote record: For X / Against Y / Abstentions Z]
 
-GROUNDS FOR REFERRAL TO APPEAL COMMITTEE:
+Grounds for referral to Appeal Committee:
 Pursuant to Article 6 of Regulation (EU) No 182/2011, the Commission refers the
 draft measure to the Appeal Committee following a negative opinion from the [committee name].
 
@@ -267,13 +263,12 @@ legal obligation, urgency, or why the concerns raised by the negative opinion ar
 unfounded or addressed.]
 
 Modifications considered/made since committee meeting:
-□ No modifications — the draft is maintained as circulated to the committee.
-□ Modifications made: [describe changes — these do not require a new committee meeting
+- [ ] No modifications — the draft is maintained as circulated to the committee.
+- [ ] Modifications made: [describe changes — these do not require a new committee meeting
   if they are minor and address specific concerns]
 
 Next steps: Appeal Committee meeting to be scheduled by [SG Comitology Unit].
 Contact: [Name, tel, email]
-```
 
 ---
 

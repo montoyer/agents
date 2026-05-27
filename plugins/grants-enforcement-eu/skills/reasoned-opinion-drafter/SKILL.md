@@ -80,167 +80,136 @@ referral.
 
 ## Case Assessment Memo Template
 
-```
-INFRINGEMENT CASE ASSESSMENT — REASONED OPINION RECOMMENDATION
-Case reference:   INFR([YYYY])[NNNN]
-CHAP ref:         CHAP([YYYY])[NNNNN]
-Member state:     [MS]
-Directive/Reg:    [Full title + OJ reference]
-LFN sent:         [DD Month YYYY]   Observations received: [DD Month YYYY]
-Prepared by:      [DG / Unit / Name]   Date: [DD Month YYYY]
+**INFRINGEMENT CASE ASSESSMENT — REASONED OPINION RECOMMENDATION**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ALLEGATION-BY-ALLEGATION ASSESSMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Allegation     Provision      MS argument          Commission assessment  Outcome
-[A-1]          Art. [N]       [Summary of MS arg]  [Commission rebuttal]  MAINTAIN
-[A-2]          Art. [N+1]     [New measures cited] [Sufficient remedy]    WITHDRAW
-[A-3]          Art. [N+2]     [Partial compliance] [Partially accepted]   PARTIAL
+**Case reference:** INFR([YYYY])[NNNN]
+**CHAP ref:** CHAP([YYYY])[NNNNN]
+**Member state:** [MS]
+**Directive/Reg:** [Full title + OJ reference]
+**LFN sent:** [DD Month YYYY] — **Observations received:** [DD Month YYYY]
+**Prepared by:** [DG / Unit / Name] — **Date:** [DD Month YYYY]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-RECOMMENDATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Proceed to Reasoned Opinion on allegations: [A-1], [A-3 (partial)]
-[ ] Close the case — all allegations remedied
-[ ] Request further information from MS — deadline: [date]
+---
 
-Legal strength of maintained allegations:    [ ] Strong  [ ] Moderate  [ ] Weak
-Risk of CJEU failure if referred:           [ ] Low     [ ] Medium    [ ] High
-Legal Service clearance required:           [ ] Yes — [reason]  [ ] No
-Commissioner authorisation obtained:        [ ] Yes  [ ] Pending
+**Allegation-by-Allegation Assessment**
 
-[review — political judgement required]
-[review — Legal Service clearance required for novel legal arguments]
-```
+| Allegation | Provision | MS argument | Commission assessment | Outcome |
+|---|---|---|---|---|
+| [A-1] | Art. [N] | [Summary of MS arg] | [Commission rebuttal] | MAINTAIN |
+| [A-2] | Art. [N+1] | [New measures cited] | [Sufficient remedy] | WITHDRAW |
+| [A-3] | Art. [N+2] | [Partial compliance] | [Partially accepted] | PARTIAL |
+
+**Recommendation**
+
+- [ ] Proceed to Reasoned Opinion on allegations: [A-1], [A-3 (partial)]
+- [ ] Close the case — all allegations remedied
+- [ ] Request further information from MS — deadline: [date]
+
+| Assessment | Status |
+|---|---|
+| Legal strength of maintained allegations | - [ ] Strong - [ ] Moderate - [ ] Weak |
+| Risk of CJEU failure if referred | - [ ] Low - [ ] Medium - [ ] High |
+| Legal Service clearance required | - [ ] Yes — [reason] - [ ] No |
+| Commissioner authorisation obtained | - [ ] Yes - [ ] Pending |
+
+`[review — political judgement required]`
+`[review — Legal Service clearance required for novel legal arguments]`
 
 ---
 
 ## Reasoned Opinion — Full Template
 
-```
-[Commission letterhead]
-INFR([YYYY])[NNNN]
-[Classification: LIMITE]
+*[Commission letterhead]*
+**INFR([YYYY])[NNNN]**
+**LIMITE**
 
 [City], [DD Month YYYY]
 
-REASONED OPINION
-pursuant to Article 258(2) of the Treaty on the Functioning of the European Union
+**REASONED OPINION**
+*pursuant to Article 258(2) of the Treaty on the Functioning of the European Union*
 
 His/Her Excellency [Minister for Foreign Affairs / Permanent Representative]
-[Member State]
-[Address]
+[Member State] — [Address]
 
-Subject: Infringement of [Directive YYYY/NN/EU / Regulation (EU) YYYY/NN] —
-         [Short description of remaining breach]
+**Subject:** Infringement of [Directive YYYY/NN/EU / Regulation (EU) YYYY/NN] — [Short description of remaining breach]
 
 Your Excellency,
 
-─────────────────────────────────────────────────────
-1. PROCEDURAL BACKGROUND
-─────────────────────────────────────────────────────
-By letter of [LFN date], the European Commission sent [Member State] a Letter of
-Formal Notice pursuant to Article 258(1) TFEU concerning [brief description of
-breach]. The Commission alleged that [Member State] had [failed to transpose /
-incorrectly transposed / incorrectly applied] [Directive / Regulation] in respect
-of [provisions].
+**1. Procedural Background**
 
-[Member State] submitted observations by letter of [date]. [If no response: "No
-observations were received within the two-month period."]
+By letter of [LFN date], the European Commission sent [Member State] a Letter of Formal Notice pursuant to Article 258(1) TFEU concerning [brief description of breach]. The Commission alleged that [Member State] had [failed to transpose / incorrectly transposed / incorrectly applied] [Directive / Regulation] in respect of [provisions].
 
-The Commission has examined those observations carefully. For the reasons set out
-below, the Commission considers that [Member State] has not fully remedied the
-infringement.
+[Member State] submitted observations by letter of [date]. [If no response: "No observations were received within the two-month period."]
 
-[If some allegations are withdrawn:]
-The Commission notes that [Member State] [notified new transposition measures /
-provided information] that has led the Commission to withdraw the following
-allegations: [list withdrawn allegations]. The Commission acknowledges [Member
-State's] efforts in this respect.
+The Commission has examined those observations carefully. For the reasons set out below, the Commission considers that [Member State] has not fully remedied the infringement.
 
-─────────────────────────────────────────────────────
-2. LEGAL FRAMEWORK
-─────────────────────────────────────────────────────
-[Set out the relevant provisions of EU law that remain at issue. More detailed than
-the LFN — reference the specific paragraph or sentence of each provision.]
+[If some allegations are withdrawn:] The Commission notes that [Member State] [notified new transposition measures / provided information] that has led the Commission to withdraw the following allegations: [list withdrawn allegations]. The Commission acknowledges [Member State's] efforts in this respect.
 
-Article [N] of Directive [YYYY/NN/EU] requires Member States to:
-"[exact quote of the obligation]"
+**2. Legal Framework**
 
-[Continue for each provision remaining in dispute]
+[Set out the relevant provisions of EU law that remain at issue. More detailed than the LFN — reference the specific paragraph or sentence of each provision.]
 
-Article [transposition deadline article] required Member States to bring into force
-the necessary measures by [date].
+Article [N] of Directive [YYYY/NN/EU] requires Member States to: "[exact quote of the obligation]"
 
-─────────────────────────────────────────────────────
-3. MEMBER STATE'S OBSERVATIONS AND COMMISSION ASSESSMENT
-─────────────────────────────────────────────────────
-3.1 Article [N] of the Directive
+[Continue for each provision remaining in dispute.]
 
-Member State's argument: [Precise, fair summary of the MS position]
+Article [transposition deadline article] required Member States to bring into force the necessary measures by [date].
 
-Commission assessment: [The Commission does not accept this argument for the
-following reasons: ... Cite CJEU case law, the legislative history of the provision,
-or the plain text of the directive as appropriate. Be specific: explain why the
-national measure fails to meet the EU requirement.]
+**3. Member State's Observations and Commission Assessment**
 
-Conclusion on Article [N]: The allegation is maintained. [MS] has not demonstrated
-that [national measure] satisfies the requirements of Article [N].
+**3.1 Article [N] of the Directive**
 
-3.2 Article [N+1] of the Directive
+*Member State's argument:* [Precise, fair summary of the MS position]
 
-Member State's argument: [Summary]
+*Commission assessment:* [The Commission does not accept this argument for the following reasons: ... Cite CJEU case law, the legislative history of the provision, or the plain text of the directive as appropriate. Be specific: explain why the national measure fails to meet the EU requirement.]
 
-Commission assessment: [Analysis]
+*Conclusion on Article [N]:* The allegation is maintained. [MS] has not demonstrated that [national measure] satisfies the requirements of Article [N].
 
-Conclusion on Article [N+1]: [Maintain / Partially withdraw — explain]
+**3.2 Article [N+1] of the Directive**
 
-[Continue per allegation]
+*Member State's argument:* [Summary]
 
-─────────────────────────────────────────────────────
-4. CONCLUSION — THE COMMISSION'S DEFINITIVE POSITION
-─────────────────────────────────────────────────────
-For the foregoing reasons, the Commission considers that [Member State] has failed
-to fulfil its obligations under [Directive / Regulation] in respect of:
+*Commission assessment:* [Analysis]
 
-  (a) Article [N]: [one-sentence statement of the breach]
-  (b) Article [N+1]: [one-sentence statement — if partially maintained, specify
-      which aspects remain outstanding]
+*Conclusion on Article [N+1]:* [Maintain / Partially withdraw — explain]
 
-This constitutes an infringement of [Directive / Regulation (EU) YYYY/NN] and
-of Article 4(3) of the Treaty on European Union (principle of sincere cooperation).
+[Continue per allegation.]
 
-─────────────────────────────────────────────────────
-5. FORMAL INVITATION TO COMPLY
-─────────────────────────────────────────────────────
-The Commission calls upon [Member State] to take the measures necessary to comply
-with this Reasoned Opinion within a period of two months from the date of its receipt.
+**4. Conclusion — The Commission's Definitive Position**
 
-If [Member State] fails to comply with this Reasoned Opinion within that period,
-the Commission may refer the matter to the Court of Justice of the European Union
-pursuant to Article 258 TFEU. In the event of such a referral, the Commission may
-also request the Court to impose financial penalties pursuant to Article 260(3) TFEU
-[for failure to notify transposition measures].
+For the foregoing reasons, the Commission considers that [Member State] has failed to fulfil its obligations under [Directive / Regulation] in respect of:
+
+(a) Article [N]: [one-sentence statement of the breach]
+(b) Article [N+1]: [one-sentence statement — if partially maintained, specify which aspects remain outstanding]
+
+This constitutes an infringement of [Directive / Regulation (EU) YYYY/NN] and of Article 4(3) of the Treaty on European Union (principle of sincere cooperation).
+
+**5. Formal Invitation to Comply**
+
+The Commission calls upon [Member State] to take the measures necessary to comply with this Reasoned Opinion within a period of two months from the date of its receipt.
+
+If [Member State] fails to comply with this Reasoned Opinion within that period, the Commission may refer the matter to the Court of Justice of the European Union pursuant to Article 258 TFEU. In the event of such a referral, the Commission may also request the Court to impose financial penalties pursuant to Article 260(3) TFEU [for failure to notify transposition measures].
 
 Yours faithfully,
 
 [Commissioner for [Portfolio]]
-on behalf of the European Commission
+*on behalf of the European Commission*
 
-─────────────────────────────────────────────────────
-ANNEX — UPDATED CONCORDANCE TABLE (if applicable)
-─────────────────────────────────────────────────────
+---
+
+**Annex — Updated Concordance Table** *(if applicable)*
+
 | Directive provision | Requirement | National measure | LFN status | RO status |
 |---|---|---|---|---|
 | Art. [N] | [Requirement] | [National act] | Alleged non-conform | Maintained |
 | Art. [N+1] | [Requirement] | [New measure] | Alleged non-conform | Withdrawn |
 
-[EUR-Lex — verify current consolidated directive text before sending]
-[CJEU — verify case law citations on Curia before including]
-[review — requires Commissioner authorisation before sending]
-[review — Legal Service clearance required for novel legal arguments]
-DRAFT — Not an official Commission infringement document.
-```
+`[EUR-Lex — verify current consolidated directive text before sending]`
+`[CJEU — verify case law citations on Curia before including]`
+`[review — requires Commissioner authorisation before sending]`
+`[review — Legal Service clearance required for novel legal arguments]`
+
+> **DRAFT** — Not an official Commission infringement document.
 
 ---
 

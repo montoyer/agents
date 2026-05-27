@@ -123,7 +123,6 @@ The Left (GUE/NGL) — far-left; supports strong worker protections and
 
 ## Output Template
 
-```
 EUROPEAN PARLIAMENT — POSITION ON [DOSSIER TITLE]
 
 Responsible committee: [Committee name and abbreviation]
@@ -131,9 +130,10 @@ Rapporteur: [Political group] — [brief profile]
 Associated committees (opinions): [List if applicable]
 Procedure: [OLP first reading / second reading]
 
-══════════════════════════════════════════
-POLITICAL GROUP POSITIONS
-══════════════════════════════════════════
+---
+
+### Political Group Positions
+
 EPP ([seats]):   [Support / Conditional support / Opposition] — [key condition]
 S&D ([seats]):   [Support / Conditional support / Opposition] — [key condition]
 Renew ([seats]): [Support / Conditional support / Opposition] — [key condition]
@@ -145,28 +145,31 @@ Left ([seats]):  [Support / Conditional support / Opposition] — [key condition
 Majority coalition: [Groups forming the majority — total seats]
 Majority margin: [comfortable / narrow / at risk if [group] defects]
 
-══════════════════════════════════════════
-COMMITTEE REPORT — KEY AMENDMENTS
-══════════════════════════════════════════
+---
+
+### Committee Report — Key Amendments
+
 [For each significant amendment:]
 
 Amendment [N] — Art. [X]: [Subject]
   Commission text: "[original text]"
   EP amendment:    "[proposed text]"
-  Classification:  □ RED LINE  □ NEGOTIATING CHIP  □ NICE-TO-HAVE
+  Classification:  - [ ] RED LINE  - [ ] NEGOTIATING CHIP  - [ ] NICE-TO-HAVE
   Groups supporting: [list]
   Rationale: [why the EP is proposing this]
 
-══════════════════════════════════════════
-PLENARY VOTE ASSESSMENT
-══════════════════════════════════════════
+---
+
+### Plenary Vote Assessment
+
 Expected result: [Adopted / At risk / Likely rejection]
 For: [N] — Against: [N] — Abstain: [N]
 Risk: [What could shift the majority — which groups / which amendments]
 
-══════════════════════════════════════════
-TRILOGUE MANDATE (if proceeding to trilogue)
-══════════════════════════════════════════
+---
+
+### Trilogue Mandate (if Proceeding to Trilogue)
+
 EP red lines (rapporteur cannot concede without plenary re-vote):
   - [Amendment N: reason]
 
@@ -178,6 +181,5 @@ EP nice-to-haves (rapporteur can drop without political cost):
 
 [model knowledge — verify current EP political group seat distribution and
 committee assignments]
----
-DRAFT — Simulation output. Not an official EP position.
-```
+
+> **DRAFT** — Simulation output. Not an official EP position.

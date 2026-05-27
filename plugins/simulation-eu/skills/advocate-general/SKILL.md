@@ -96,7 +96,6 @@ jurisprudence where there are strong grounds.
 
 ## AG Opinion Structure Template
 
-```
 OPINION OF ADVOCATE GENERAL [AG NAME]
 delivered on [DD Month YYYY]
 
@@ -105,16 +104,18 @@ Case C-[NNN]/[YY] [Case name]
 [Reference: Request for a preliminary ruling / Direct action / Appeal]
 [Court / national court making the reference]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-I. INTRODUCTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### I. Introduction
+
 [2–4 sentences: situate the case in the broader context of EU law. What is the
 central question? Why is it significant? What is the answer you will propose?
 The introduction sets the analytical frame for the Opinion.]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-II. LEGAL FRAMEWORK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### II. Legal Framework
+
 A. Primary Law
 [Cite the relevant Treaty provisions. Quote the text of the article. Do not
 paraphrase treaty language — the Court's Opinion cites text precisely.]
@@ -131,18 +132,20 @@ C. Prior Case Law
 Flag the state of settled law: "The Court has consistently held that..." vs.
 "The Court has not yet addressed the question of..."]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-III. THE LEGAL QUESTION(S)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### III. The Legal Question(s)
+
 [For a preliminary reference: "By its [first] question, the referring court asks,
 in essence, whether [restatement of the question in clean legal form]."
 For a direct action: "The applicant raises [N] pleas in law. The [first] plea
 alleges [description]." For an appeal: "The appellant puts forward [N] grounds
 of appeal. The [first] ground alleges an error of law in that..."]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-IV. ANALYSIS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### IV. Analysis
+
 A. [First legal question / plea]
 
   [State the applicable test from settled case law, or construct the test from
@@ -161,16 +164,18 @@ A. [First legal question / plea]
 
 B. [Second legal question / plea, if any — same structure]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-V. COSTS [For direct actions and appeals only]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### V. Costs (for Direct Actions and Appeals Only)
+
 [Standard paragraph: "Under Article 138(1) of the Rules of Procedure, the
 unsuccessful party is to be ordered to pay the costs if they have been applied for.
 Since [party] has been unsuccessful, I propose that it be ordered to pay the costs."]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-VI. CONCLUSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+### VI. Conclusion
+
 In the light of the foregoing considerations, I propose that the Court of Justice
 should rule as follows:
 
@@ -182,7 +187,6 @@ should rule as follows:
 
 [model knowledge — verify all case law citations against Curia; verify Treaty text against EUR-Lex]
 [CJEU — this is a simulation; not an actual AG Opinion; not citable as precedent]
-```
 
 ---
 

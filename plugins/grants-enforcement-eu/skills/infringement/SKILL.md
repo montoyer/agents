@@ -171,97 +171,93 @@ in the initial Art. 258 referral — Commission standard practice since 2011.
 
 ### Infringement Assessment
 
-```
-INFRINGEMENT ASSESSMENT
+**INFRINGEMENT ASSESSMENT**
 
-Member State:           [Country]
-Issue:                  [Brief description]
-CHAP reference:         [CHAP(YYYY)XXXXX — if applicable]
-INFR case number:       [INFR(YYYY)XXXXX — if already opened]
-Legal basis of obligation: [TFEU Art. X / Directive XX/XX/EU Art. Y /
-                             Regulation XX/XX/EU Art. Z]
-Transposition deadline: [DD Month YYYY — if applicable]
-Date of assessment:     [DD Month YYYY]
-
-─────────────────────────────────────────
-1. NATURE OF INFRINGEMENT
-─────────────────────────────────────────
-Type:
-  □ Non-transposition (directive past deadline; no implementing measures notified)
-  □ Incorrect transposition (measures adopted but do not conform)
-  □ Misapplication / non-compliance (law correct; application defective)
-  □ Direct breach (violation of regulation / TFEU provision)
-
-Obligation breached:
-  [Precise statement of the legal obligation and its source]
-  [EUR-Lex — verify current version]
-
-Evidence:
-  Formal: [OJ transposition deadline publication / notified measures / ECJ judgment]
-  Factual: [National legislation text / administrative decisions / complaint details]
-  [model knowledge — verify] for any factual claims not derived from official sources
-
-─────────────────────────────────────────
-2. MEMBER STATE POSITION
-─────────────────────────────────────────
-□ No response received
-□ MS denies the breach: [Summary of MS arguments]
-□ MS has initiated remedial action: [Description and timeline]
-□ MS disputes the legal interpretation: [Summary]
-
-─────────────────────────────────────────
-3. COMMISSION LEGAL ASSESSMENT
-─────────────────────────────────────────
-[Analysis of whether the alleged breach constitutes a violation of EU law]
-[Address MS arguments if submitted]
-[Cite relevant CJEU case law: [CJEU — verify Curia reference]]
-
-CONCLUSION: □ Infringement established
-            □ Infringement not established — reason: [...]
-            □ Further evidence required: [specify what is needed]
-
-─────────────────────────────────────────
-4. PROCEDURAL STAGE AND RECOMMENDATION
-─────────────────────────────────────────
-Current stage: □ Pre-infringement  □ EU Pilot  □ LFN  □ RO
-               □ ECJ referral (Art. 258)  □ Art. 260 non-compliance
-
-Recommendation:
-  □ Close — infringement not established / MS has complied
-  □ EU Pilot — informal resolution; 10-week MS response window
-  □ LFN — formal notice of alleged infringement; 2-month MS response
-  □ RO — set out infringement in detail; 2-month compliance deadline
-  □ ECJ referral (Art. 258) — [review — Commissioner authorisation required]
-  □ Art. 260(2) referral — non-compliance with ECJ judgment
-  □ Art. 260(3) — include penalty request in initial referral (non-transposition)
-
-Deadline for member state response: [DD Month YYYY]
-
-─────────────────────────────────────────
-5. PENALTY ESTIMATE (Art. 260 — if applicable)
-─────────────────────────────────────────
-[Complete only if case is at or approaching ECJ/Art. 260 stage]
-
-Country factor for [MS]: [X] [model knowledge — verify current Commission Notice]
-Seriousness coefficient: [1–20] — justification: [...]
-Duration: [X months/years since LFN]
-
-Indicative daily penalty payment: EUR [X]/day [model knowledge — verify]
-Indicative lump sum: EUR [X] [model knowledge — verify]
-
-These figures are indicative. Actual penalty proposals require:
-  □ Director-level review
-  □ Commissioner cabinet review (if > EUR 50m)
-  □ College authorisation
+**Member State:** [Country]
+**Issue:** [Brief description]
+**CHAP reference:** [CHAP(YYYY)XXXXX — if applicable]
+**INFR case number:** [INFR(YYYY)XXXXX — if already opened]
+**Legal basis of obligation:** [TFEU Art. X / Directive XX/XX/EU Art. Y / Regulation XX/XX/EU Art. Z]
+**Transposition deadline:** [DD Month YYYY — if applicable]
+**Date of assessment:** [DD Month YYYY]
 
 ---
-DRAFT — For review by the responsible infringement officer before any action.
-[EUR-Lex — verify current version of all cited legal acts]
-[CJEU — verify Curia reference for all cited case law]
-[model knowledge — verify penalty coefficients against current Commission Notice]
-[review — Commissioner authorisation required] for ECJ referral recommendation
-Not an official Commission decision or infringement finding.
-```
+
+#### 1. Nature of Infringement
+
+**Type:**
+- [ ] Non-transposition (directive past deadline; no implementing measures notified)
+- [ ] Incorrect transposition (measures adopted but do not conform)
+- [ ] Misapplication / non-compliance (law correct; application defective)
+- [ ] Direct breach (violation of regulation / TFEU provision)
+
+**Obligation breached:** [Precise statement of the legal obligation and its source] `[EUR-Lex — verify current version]`
+
+**Evidence:**
+- *Formal:* [OJ transposition deadline publication / notified measures / ECJ judgment]
+- *Factual:* [National legislation text / administrative decisions / complaint details]
+- `[model knowledge — verify]` for any factual claims not derived from official sources
+
+#### 2. Member State Position
+
+- [ ] No response received
+- [ ] MS denies the breach: [Summary of MS arguments]
+- [ ] MS has initiated remedial action: [Description and timeline]
+- [ ] MS disputes the legal interpretation: [Summary]
+
+#### 3. Commission Legal Assessment
+
+[Analysis of whether the alleged breach constitutes a violation of EU law]
+
+[Address MS arguments if submitted]
+
+[Cite relevant CJEU case law: `[CJEU — verify Curia reference]`]
+
+**Conclusion:**
+- [ ] Infringement established
+- [ ] Infringement not established — reason: [...]
+- [ ] Further evidence required: [specify what is needed]
+
+#### 4. Procedural Stage and Recommendation
+
+**Current stage:**
+- [ ] Pre-infringement - [ ] EU Pilot - [ ] LFN - [ ] RO - [ ] ECJ referral (Art. 258) - [ ] Art. 260 non-compliance
+
+**Recommendation:**
+- [ ] Close — infringement not established / MS has complied
+- [ ] EU Pilot — informal resolution; 10-week MS response window
+- [ ] LFN — formal notice of alleged infringement; 2-month MS response
+- [ ] RO — set out infringement in detail; 2-month compliance deadline
+- [ ] ECJ referral (Art. 258) — `[review — Commissioner authorisation required]`
+- [ ] Art. 260(2) referral — non-compliance with ECJ judgment
+- [ ] Art. 260(3) — include penalty request in initial referral (non-transposition)
+
+**Deadline for member state response:** [DD Month YYYY]
+
+#### 5. Penalty Estimate (Art. 260 — if applicable)
+
+*Complete only if case is at or approaching ECJ/Art. 260 stage.*
+
+| Factor | Value |
+|---|---|
+| Country factor for [MS] | [X] `[model knowledge — verify current Commission Notice]` |
+| Seriousness coefficient | [1–20] — justification: [...] |
+| Duration | [X months/years since LFN] |
+| **Indicative daily penalty payment** | **EUR [X]/day** `[model knowledge — verify]` |
+| **Indicative lump sum** | **EUR [X]** `[model knowledge — verify]` |
+
+These figures are indicative. Actual penalty proposals require:
+- [ ] Director-level review
+- [ ] Commissioner cabinet review (if > EUR 50m)
+- [ ] College authorisation
+
+---
+> **DRAFT** — For review by the responsible infringement officer before any action.
+> `[EUR-Lex — verify current version of all cited legal acts]`
+> `[CJEU — verify Curia reference for all cited case law]`
+> `[model knowledge — verify penalty coefficients against current Commission Notice]`
+> `[review — Commissioner authorisation required]` for ECJ referral recommendation.
+> Not an official Commission decision or infringement finding.
 
 ---
 

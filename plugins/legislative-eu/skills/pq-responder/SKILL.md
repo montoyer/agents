@@ -138,7 +138,6 @@ WHAT NOT TO SAY:
 
 ### 1. Written Question Response (Rule 138)
 
-```
 RESPONSE TO WRITTEN QUESTION [E-XXXX/YYYY]
 by [MEP Name], [Political Group], [Member State]
 Subject: [Subject line of the question]
@@ -166,16 +165,12 @@ by the Honourable Member falls primarily within the competence of the Member Sta
 The Commission [can/cannot] take action under [legal basis] but encourages/calls
 on Member States to [specific action]."]
 
----
+> **DRAFT** — For review by the responsible Commissioner's cabinet before submission. Not an official Commission position.
 [review — cleared lines required before sending to EP]
 [model knowledge — verify any cited figures or legislative references against EUR-Lex]
-DRAFT — For review by the responsible Commissioner's cabinet before submission.
-Not an official Commission position.
-```
 
 ### 2. Priority Question Response (Rule 139)
 
-```
 RESPONSE TO PRIORITY QUESTION [P-XXXX/YYYY]
 by [MEP Name]
 Subject: [Subject]
@@ -185,27 +180,23 @@ Answer given by [Commissioner Name] on behalf of the European Commission
 Use plain, spoken language without EU jargon. Same three-paragraph structure but
 tighter. End with one clear forward-looking sentence the Commissioner can read.]
 
----
+> **DRAFT** — Not an official Commission position.
 [review — cleared lines required]
 [review — plenary delivery — Commissioner cabinet to approve phrasing]
-DRAFT — Not an official Commission position.
-```
 
 ### 3. PQ Tracking Note (for the assistant / DHoU)
 
-```
 PQ TRACKING — [DG / Unit]
 Week of: [DD Month YYYY]
 
 | PQ ref | MEP | Subject | Commissioner | Lead DG | Deadline | Status | Risk |
 |---|---|---|---|---|---|---|---|
-| E-XXXX | [Name] | [Subject] | [Commissioner] | [DG] | [DD/MM] | 🟢 Drafting | — |
-| P-XXXX | [Name] | [Subject] | [Commissioner] | [DG] | [DD/MM] | 🟡 Cabinet | Late risk |
-| E-XXXX | [Name] | [Subject] | [Commissioner] | [DG] | [DD/MM] | 🔴 Overdue | Escalate |
+| E-XXXX | [Name] | [Subject] | [Commissioner] | [DG] | [DD/MM] | Drafting | — |
+| P-XXXX | [Name] | [Subject] | [Commissioner] | [DG] | [DD/MM] | Cabinet | Late risk |
+| E-XXXX | [Name] | [Subject] | [Commissioner] | [DG] | [DD/MM] | Overdue | Escalate |
 
 Actions required:
-□ [Action — owner — by when]
-```
+- [ ] [Action — owner — by when]
 
 ---
 

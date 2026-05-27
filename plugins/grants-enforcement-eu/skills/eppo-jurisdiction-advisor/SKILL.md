@@ -110,70 +110,71 @@ correction procedures interact with EPPO criminal proceedings.
 
 ## EPPO Jurisdiction Assessment
 
-```
-EPPO JURISDICTION ASSESSMENT
-File reference:     [Grant Agreement / Procurement / other ref]
-Assessed by:        [Name / unit]   Date: [DD Month YYYY]
-Confidentiality:    LIMITE
+**EPPO JURISDICTION ASSESSMENT**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1 — MATERIAL JURISDICTION: IS THIS A PIF OFFENCE?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Suspected offence:     [Description of the suspected conduct]
-PIF classification:
-  [ ] Fraud against EU expenditure (Directive 2017/1371, Art. 3)
-  [ ] VAT fraud — cross-border, ≥2 MS (Art. 3(2)(d))
-  [ ] Corruption — EU/MS official (Art. 4)
-  [ ] Misappropriation of EU funds (Art. 4(3))
-  [ ] Money laundering (Art. 4(1))
-  [ ] Ancillary offence — inextricably linked to above  [ ] YES  [ ] NO
-  [ ] Not a PIF offence → OLAF/national authorities; EPPO has no jurisdiction
+**File reference:** [Grant Agreement / Procurement / other ref]
+**Assessed by:** [Name / unit] — **Date:** [DD Month YYYY]
+**Confidentiality:** LIMITE
 
-Threshold met?
-  EU expenditure fraud: damage ≥ €10,000?          [ ] YES  [ ] NO  [ ] Unclear (est. €[X])
-  VAT fraud: amount ≥ €10,000,000?                  [ ] YES  [ ] NO  [ ] Unclear
-  Note: Below threshold → EPPO may decline; OLAF refers to national prosecutors
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 2 — TERRITORIAL JURISDICTION: PARTICIPATING MS?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Location of suspect(s) / entity:     [Country]
-Is that MS a participating MS?       [ ] YES  [ ] NO [refer to national prosecutor]
-Other MS involved:                   [Countries]
-All in participating MS?             [ ] YES  [ ] MIXED [see note]
+#### Step 1 — Material Jurisdiction: Is This a PIF Offence?
 
-Mixed jurisdiction note: Where offence spans participating and non-participating MS,
-EPPO investigates the participating-MS elements; national prosecutors handle the rest.
-Coordination mechanism: EPPO may request non-participating MS national prosecutors
-to conduct investigations on its behalf (Art. 105 Regulation 2017/1939).
+**Suspected offence:** [Description of the suspected conduct]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 3 — OLAF STATUS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OLAF investigation already open?     [ ] YES (iOLAF ref: [ref])  [ ] NO
-If YES: has OLAF referred to EPPO?   [ ] YES  [ ] NO [OLAF must refer if EPPO jurisdiction]
-Commission parallel procedure:       [ ] Administrative correction ongoing
-                                     [ ] Suspended pending OLAF/EPPO
-                                     [ ] Not yet initiated
+**PIF classification:**
+- [ ] Fraud against EU expenditure (Directive 2017/1371, Art. 3)
+- [ ] VAT fraud — cross-border, ≥2 MS (Art. 3(2)(d))
+- [ ] Corruption — EU/MS official (Art. 4)
+- [ ] Misappropriation of EU funds (Art. 4(3))
+- [ ] Money laundering (Art. 4(1))
+- [ ] Ancillary offence — inextricably linked to above: - [ ] YES - [ ] NO
+- [ ] Not a PIF offence → OLAF/national authorities; EPPO has no jurisdiction
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 4 — CONCLUSION AND ACTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] EPPO JURISDICTION ESTABLISHED — refer via OLAF immediately
-[ ] EPPO jurisdiction possible — refer to OLAF for assessment
-[ ] EPPO jurisdiction NOT established — OLAF / national prosecutor pathway
-    Reason: [ ] Not a PIF offence  [ ] Below threshold  [ ] Non-participating MS only
+**Threshold met?**
 
-Immediate actions:
-  [ ] Notify OLAF via iOLAF portal — date: [date]
-  [ ] Suspend pending payments to the subject — Art. 131(3) FR
-  [ ] Evidence hold — preserve all documents from [date]
-  [ ] Suspend administrative correction procedure pending EPPO/OLAF outcome
-  [ ] Notify HoU and Director — amount at stake: €[X]
+| Offence type | Threshold | Met? |
+|---|---|---|
+| EU expenditure fraud | Damage ≥ €10,000 | - [ ] YES - [ ] NO - [ ] Unclear (est. €[X]) |
+| VAT fraud | Amount ≥ €10,000,000 | - [ ] YES - [ ] NO - [ ] Unclear |
 
-[review — Legal Service consultation required before any decision affecting EPPO-related files]
-[review — political judgement required if amount > €1m or politically sensitive beneficiary]
-```
+*Note: Below threshold → EPPO may decline; OLAF refers to national prosecutors.*
+
+#### Step 2 — Territorial Jurisdiction: Participating MS?
+
+**Location of suspect(s) / entity:** [Country]
+**Is that MS a participating MS?** - [ ] YES - [ ] NO [refer to national prosecutor]
+**Other MS involved:** [Countries]
+**All in participating MS?** - [ ] YES - [ ] MIXED [see note]
+
+*Mixed jurisdiction note: Where offence spans participating and non-participating MS, EPPO investigates the participating-MS elements; national prosecutors handle the rest. Coordination mechanism: EPPO may request non-participating MS national prosecutors to conduct investigations on its behalf (Art. 105 Regulation 2017/1939).*
+
+#### Step 3 — OLAF Status
+
+**OLAF investigation already open?** - [ ] YES (iOLAF ref: [ref]) - [ ] NO
+**If YES: has OLAF referred to EPPO?** - [ ] YES - [ ] NO [OLAF must refer if EPPO jurisdiction]
+
+**Commission parallel procedure:**
+- [ ] Administrative correction ongoing
+- [ ] Suspended pending OLAF/EPPO
+- [ ] Not yet initiated
+
+#### Step 4 — Conclusion and Action
+
+- [ ] **EPPO JURISDICTION ESTABLISHED** — refer via OLAF immediately
+- [ ] **EPPO jurisdiction possible** — refer to OLAF for assessment
+- [ ] **EPPO jurisdiction NOT established** — OLAF / national prosecutor pathway
+  - Reason: - [ ] Not a PIF offence - [ ] Below threshold - [ ] Non-participating MS only
+
+**Immediate actions:**
+- [ ] Notify OLAF via iOLAF portal — date: [date]
+- [ ] Suspend pending payments to the subject — Art. 131(3) FR
+- [ ] Evidence hold — preserve all documents from [date]
+- [ ] Suspend administrative correction procedure pending EPPO/OLAF outcome
+- [ ] Notify HoU and Director — amount at stake: €[X]
+
+`[review — Legal Service consultation required before any decision affecting EPPO-related files]`
+`[review — political judgement required if amount > €1m or politically sensitive beneficiary]`
 
 ---
 

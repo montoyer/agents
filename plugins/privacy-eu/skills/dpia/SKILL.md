@@ -74,9 +74,9 @@ determination is the final output.
 
 ## Output Structure — DPIA Report (Art. 39(7) EUDPR)
 
-```
-════════════════════════════════════════════════════════
-DATA PROTECTION IMPACT ASSESSMENT
+---
+
+**Data Protection Impact Assessment**
 Regulation (EU) 2018/1725 — Article 39
 
 Processing activity: [name]
@@ -84,12 +84,11 @@ Reference: DPIA-[YYYY]-[NNN]
 Controller: [EU institution / DG / Unit]
 Date: [DD Month YYYY]
 Status: DRAFT — pending DPO sign-off
-════════════════════════════════════════════════════════
 
-┌─────────────────────────────────────────────────────┐
-│ §0 — DPO THRESHOLD SCREENING                        │
-│ Author: Data Protection Officer                     │
-└─────────────────────────────────────────────────────┘
+---
+
+### §0 — DPO Threshold Screening
+*Author: Data Protection Officer*
 
 Art. 39(1) EUDPR threshold:
 Processing description (summary): [...]
@@ -98,193 +97,187 @@ General test (Art. 39(1)): [assessment]
 DPO determination: DPIA MANDATORY / DPIA RECOMMENDED / NOT REQUIRED
 Basis: [reasoning]
 
+---
 
-┌─────────────────────────────────────────────────────┐
-│ §1 — TECHNICAL DESCRIPTION [Art. 39(7)(a) EUDPR]   │
-│ Author: IT Project Manager                          │
-└─────────────────────────────────────────────────────┘
+### §1 — Technical Description (Art. 39(7)(a) EUDPR)
+*Author: IT Project Manager*
 
-1.1 System Overview
-    Name: [system name]
-    Purpose: [concise purpose statement]
-    Deployment: [environment — EU cloud / on-premise / hybrid]
+**1.1 System Overview**
+Name: [system name]
+Purpose: [concise purpose statement]
+Deployment: [environment — EU cloud / on-premise / hybrid]
 
-1.2 Data Categories and Data Subjects
-    [Table: category | sensitivity | volume | data subjects]
+**1.2 Data Categories and Data Subjects**
+[Table: category | sensitivity | volume | data subjects]
 
-1.3 Data Flow Description
-    Collection: [source → input mechanism]
-    Processing: [operations performed, including AI steps]
-    Storage: [location, controller vs. processor, encryption]
-    Recipients: [internal + external]
-    Deletion: [trigger + mechanism]
+**1.3 Data Flow Description**
+Collection: [source → input mechanism]
+Processing: [operations performed, including AI steps]
+Storage: [location, controller vs. processor, encryption]
+Recipients: [internal + external]
+Deletion: [trigger + mechanism]
 
-1.4 Third-Party Processors
-    [Table: processor | function | location | EU? | DPA? | transfer mechanism]
+**1.4 Third-Party Processors**
+[Table: processor | function | location | EU? | DPA? | transfer mechanism]
 
-1.5 AI Module (if applicable)
-    Module: [name / provider]
-    Model type: [LLM / classifier / other]
-    Input / Output: [data in → output used for]
-    Human oversight: [mechanism]
-    AI Act risk tier: [PROHIBITED / HIGH-RISK / LIMITED / MINIMAL]
-    Transfer: [EU/EEA? if not: TIA reference]
+**1.5 AI Module (if applicable)**
+Module: [name / provider]
+Model type: [LLM / classifier / other]
+Input / Output: [data in → output used for]
+Human oversight: [mechanism]
+AI Act risk tier: [PROHIBITED / HIGH-RISK / LIMITED / MINIMAL]
+Transfer: [EU/EEA? if not: TIA reference]
 
-1.6 Retention Schedule
-    [Table: category | retention | legal basis | deletion mechanism]
+**1.6 Retention Schedule**
+[Table: category | retention | legal basis | deletion mechanism]
 
-1.7 Access Control Summary
-    [Table: role | access type | MFA? | logged?]
+**1.7 Access Control Summary**
+[Table: role | access type | MFA? | logged?]
 
 [model knowledge — verify architecture details against actual system documentation]
 
+---
 
-┌─────────────────────────────────────────────────────┐
-│ §2 — LEGAL ANALYSIS [Art. 39(7)(b) EUDPR]          │
-│ Author: Legal Officer                               │
-└─────────────────────────────────────────────────────┘
+### §2 — Legal Analysis (Art. 39(7)(b) EUDPR)
+*Author: Legal Officer*
 
-2.1 Legal Basis
-    Basis: Art. 5(1)([X]) EUDPR
-    Enabling act: [regulation / decision / treaty article]
-    [EUR-Lex — verify current version]
+**2.1 Legal Basis**
+Basis: Art. 5(1)([X]) EUDPR
+Enabling act: [regulation / decision / treaty article]
+[EUR-Lex — verify current version]
 
-2.2 Necessity Analysis
-    Purpose: [specific, explicit, legitimate — assessed]
-    Necessity: [SATISFIED / NOT SATISFIED — reasoning]
+**2.2 Necessity Analysis**
+Purpose: [specific, explicit, legitimate — assessed]
+Necessity: [SATISFIED / NOT SATISFIED — reasoning]
 
-2.3 Proportionality Analysis
-    Data volume: [assessment]
-    Categories: [assessment — special categories? Art. 10?]
-    Retention: [assessment]
-    Recipients: [assessment]
-    Proportionality: [SATISFIED / NOT SATISFIED — reasoning]
+**2.3 Proportionality Analysis**
+Data volume: [assessment]
+Categories: [assessment — special categories? Art. 10?]
+Retention: [assessment]
+Recipients: [assessment]
+Proportionality: [SATISFIED / NOT SATISFIED — reasoning]
 
-2.4 Special Categories (Art. 10 EUDPR)
-    Special categories present: YES / NO
-    [If YES: category | Art. 10(2) exception | reasoning]
+**2.4 Special Categories (Art. 10 EUDPR)**
+Special categories present: YES / NO
+[If YES: category | Art. 10(2) exception | reasoning]
 
-2.5 Automated Decisions (Art. 24 EUDPR)
-    Solely automated decisions present: YES / NO
-    [If YES: description | legal basis | human review mechanism]
+**2.5 Automated Decisions (Art. 24 EUDPR)**
+Solely automated decisions present: YES / NO
+[If YES: description | legal basis | human review mechanism]
 
-2.6 Purpose Limitation (Art. 4(1)(b) EUDPR)
-    Original purpose: [statement]
-    Further processing: [compatible / not applicable]
+**2.6 Purpose Limitation (Art. 4(1)(b) EUDPR)**
+Original purpose: [statement]
+Further processing: [compatible / not applicable]
 
-2.7 Data Subject Rights
-    [Table: right (Arts. 17–24) | implementable? | derogation needed?]
+**2.7 Data Subject Rights**
+[Table: right (Arts. 17–24) | implementable? | derogation needed?]
 
-2.8 Legal Basis — Overall Assessment
-    Conclusion: [LAWFUL / REQUIRES ADJUSTMENT]
-    [review — DPO sign-off required]
+**2.8 Legal Basis — Overall Assessment**
+Conclusion: [LAWFUL / REQUIRES ADJUSTMENT]
+[review — DPO sign-off required]
 
+---
 
-┌─────────────────────────────────────────────────────┐
-│ §3 — SECURITY & RISK ASSESSMENT [Art. 39(7)(c)–(d)]│
-│ Author: IT Security Officer                         │
-└─────────────────────────────────────────────────────┘
+### §3 — Security & Risk Assessment (Art. 39(7)(c)–(d))
+*Author: IT Security Officer*
 
-3.1 CIA Threat Model
+**3.1 CIA Threat Model**
 
-    CONFIDENTIALITY
-    [Table: threat | inherent risk | measure | residual risk]
+*Confidentiality*
+[Table: threat | inherent risk | measure | residual risk]
 
-    INTEGRITY
-    [Table: threat | inherent risk | measure | residual risk]
+*Integrity*
+[Table: threat | inherent risk | measure | residual risk]
 
-    AVAILABILITY
-    [Table: threat | inherent risk | measure | residual risk]
+*Availability*
+[Table: threat | inherent risk | measure | residual risk]
 
-3.2 AI-Specific Threats (if AI module present)
-    [Table: threat | risk | mitigation | residual]
+**3.2 AI-Specific Threats (if AI module present)**
+[Table: threat | risk | mitigation | residual]
 
-3.3 Transfer Impact Assessment (if non-EU/EEA transfer)
-    TIA reference: [TIA-YYYY-NNN]
-    Recipient: [provider / country]
-    Transfer mechanism: [Art. 25 EUDPR basis]
-    Surveillance law exposure: [LOW / MEDIUM / HIGH]
-    Additional measures: [list]
-    TIA conclusion: [MAY PROCEED / WITH CONDITIONS / MUST NOT PROCEED]
-    [model knowledge — verify] [review — DPO sign-off required]
+**3.3 Transfer Impact Assessment (if non-EU/EEA transfer)**
+TIA reference: [TIA-YYYY-NNN]
+Recipient: [provider / country]
+Transfer mechanism: [Art. 25 EUDPR basis]
+Surveillance law exposure: [LOW / MEDIUM / HIGH]
+Additional measures: [list]
+TIA conclusion: [MAY PROCEED / WITH CONDITIONS / MUST NOT PROCEED]
+[model knowledge — verify] [review — DPO sign-off required]
 
-3.4 Security Measures Summary
-    Encryption at rest: [YES/NO — standard]
-    Encryption in transit: [YES/NO — standard]
-    MFA: [YES/NO]
-    Audit logs: [YES/NO — retention: N months]
-    Incident response plan: [YES/NO]
-    AI: input sanitisation, output filtering, training-data prohibition: [YES/NO/N-A]
+**3.4 Security Measures Summary**
+- Encryption at rest: [YES/NO — standard]
+- Encryption in transit: [YES/NO — standard]
+- MFA: [YES/NO]
+- Audit logs: [YES/NO — retention: N months]
+- Incident response plan: [YES/NO]
+- AI: input sanitisation, output filtering, training-data prohibition: [YES/NO/N-A]
 
-3.5 Residual Risk Summary
-    [Table: risk area | inherent | measures | residual]
-    Overall residual risk: [LOW / MEDIUM / HIGH]
-    HIGH residual risks: [list or "NONE"]
+**3.5 Residual Risk Summary**
+[Table: risk area | inherent | measures | residual]
+Overall residual risk: [LOW / MEDIUM / HIGH]
+HIGH residual risks: [list or "NONE"]
 
+---
 
-┌─────────────────────────────────────────────────────┐
-│ §4 — DPO ASSESSMENT AND SIGN-OFF                    │
-│ Author: Data Protection Officer                     │
-└─────────────────────────────────────────────────────┘
+### §4 — DPO Assessment and Sign-Off
+*Author: Data Protection Officer*
 
-4.1 DPIA Completeness Check (Art. 39(7) EUDPR)
-    [✓/✗] §1 — Systematic description of processing (Art. 39(7)(a))
-    [✓/✗] §2 — Necessity and proportionality (Art. 39(7)(b))
-    [✓/✗] §3 — Risk assessment: likelihood and severity (Art. 39(7)(c))
-    [✓/✗] §3 — Measures to address risks (Art. 39(7)(d))
-    [✓/✗] §2.7 — Data subject rights implementation (Art. 39(7)(e))
-    [✓/✗] §2.1 — Legal basis identified (Art. 39(7)(f))
-    [✓/✗] §4 — DPO consultation recorded (Art. 39(7)(g))
+**4.1 DPIA Completeness Check (Art. 39(7) EUDPR)**
+- [✓/✗] §1 — Systematic description of processing (Art. 39(7)(a))
+- [✓/✗] §2 — Necessity and proportionality (Art. 39(7)(b))
+- [✓/✗] §3 — Risk assessment: likelihood and severity (Art. 39(7)(c))
+- [✓/✗] §3 — Measures to address risks (Art. 39(7)(d))
+- [✓/✗] §2.7 — Data subject rights implementation (Art. 39(7)(e))
+- [✓/✗] §2.1 — Legal basis identified (Art. 39(7)(f))
+- [✓/✗] §4 — DPO consultation recorded (Art. 39(7)(g))
 
-4.2 Risk Consolidation
-    Residual risk (security): [LOW / MEDIUM / HIGH]
-    Legal basis adequacy: [SATISFIED / REQUIRES ADJUSTMENT]
-    Outstanding concerns: [list or "NONE"]
+**4.2 Risk Consolidation**
+Residual risk (security): [LOW / MEDIUM / HIGH]
+Legal basis adequacy: [SATISFIED / REQUIRES ADJUSTMENT]
+Outstanding concerns: [list or "NONE"]
 
-4.3 DPO Opinion
-    [ ] FAVOURABLE — Processing may proceed
-    [ ] FAVOURABLE WITH CONDITIONS — [list conditions]
-    [ ] UNFAVOURABLE — Processing must not proceed; see §4.2
+**4.3 DPO Opinion**
+- [ ] FAVOURABLE — Processing may proceed
+- [ ] FAVOURABLE WITH CONDITIONS — [list conditions]
+- [ ] UNFAVOURABLE — Processing must not proceed; see §4.2
 
 DPO signature / date: _______________ (to be signed by institutional DPO)
 
 [review — DPO sign-off required]
 
+---
 
-┌─────────────────────────────────────────────────────┐
-│ §5 — EDPS PRIOR CONSULTATION [Art. 40 EUDPR]        │
-│ Author: EDPS Assessment Agent                       │
-└─────────────────────────────────────────────────────┘
+### §5 — EDPS Prior Consultation (Art. 40 EUDPR)
+*Author: EDPS Assessment Agent*
 
-5.1 Art. 40 Trigger Assessment
-    Residual risk level: [from §3.5]
-    New type of processing: [YES / NO]
-    Established safeguards available: [YES / NO]
-    DPO has identified adequate mitigations: [YES / NO]
+**5.1 Art. 40 Trigger Assessment**
+Residual risk level: [from §3.5]
+New type of processing: [YES / NO]
+Established safeguards available: [YES / NO]
+DPO has identified adequate mitigations: [YES / NO]
 
-5.2 Determination
-    [ ] PRIOR CONSULTATION NOT REQUIRED
-        Reasoning: Residual risk is [LOW/MEDIUM]; mitigations are adequate; processing
-        is not of a novel type with unresolved high-risk characteristics.
+**5.2 Determination**
 
-    [ ] PRIOR CONSULTATION REQUIRED (Art. 40(1) EUDPR)
-        Reasoning: [Residual risk HIGH / novel processing type / no established safeguard]
-        Action: Controller must consult EDPS before commencing processing.
-        DPIA dossier to submit: §§1–4 of this document + processor contracts + TIA.
-        Estimated EDPS response time: 8 weeks standard; 14 weeks for complex cases
-        [model knowledge — verify current EDPS processing timelines]
+- [ ] **PRIOR CONSULTATION NOT REQUIRED**
+  Reasoning: Residual risk is [LOW/MEDIUM]; mitigations are adequate; processing is not of a novel type with unresolved high-risk characteristics.
 
-5.3 Informal EDPS Consultation (Art. 40(3) EUDPR)
-    Where prior consultation is not mandatory but legal uncertainty remains:
-    [ ] Informal consultation recommended — [describe uncertainty]
-    [ ] Not required
+- [ ] **PRIOR CONSULTATION REQUIRED (Art. 40(1) EUDPR)**
+  Reasoning: [Residual risk HIGH / novel processing type / no established safeguard]
+  Action: Controller must consult EDPS before commencing processing.
+  DPIA dossier to submit: §§1–4 of this document + processor contracts + TIA.
+  Estimated EDPS response time: 8 weeks standard; 14 weeks for complex cases
+  [model knowledge — verify current EDPS processing timelines]
+
+**5.3 Informal EDPS Consultation (Art. 40(3) EUDPR)**
+Where prior consultation is not mandatory but legal uncertainty remains:
+- [ ] Informal consultation recommended — [describe uncertainty]
+- [ ] Not required
 
 [EDPS — verify opinion reference] [review — DPO sign-off required]
 
-════════════════════════════════════════════════════════
-END OF DPIA REPORT
-════════════════════════════════════════════════════════
-```
+---
+
+*End of DPIA Report*
 
 ---
 

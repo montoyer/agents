@@ -126,122 +126,140 @@ deadlines are met, and the HoU's time is optimally used.
 
 ### 1. Daily Briefing Note for Head of Unit
 
-```
 DAILY BRIEF — [Day, DD Month YYYY]
 Prepared by: [Assistant name]    For: [HoU name]
 
-─────────────────────────────────────────────────────────
-TODAY'S AGENDA
-─────────────────────────────────────────────────────────
+---
+
+#### Today's Agenda
+
 [HH:MM] [Meeting title] — [Room / Teams / External venue]
-         Participants: [List]
-         Purpose: [1 sentence]
-         Prep note: [Attached / See below / None needed]
+Participants: [List]
+Purpose: [1 sentence]
+Prep note: [Attached / See below / None needed]
 
 [HH:MM] [Next meeting...]
 
-─────────────────────────────────────────────────────────
-URGENT — ACTION REQUIRED TODAY
-─────────────────────────────────────────────────────────
-□ [Item 1 — e.g., sign mission order for [name] — MIPS ref — deadline: COB today]
-□ [Item 2 — e.g., PQ response to Director by 17:00 — draft attached]
-□ [Item 3 — e.g., ISC comment on [file] — deadline: [date] — drafter: [name]]
+---
 
-─────────────────────────────────────────────────────────
-UPCOMING DEADLINES (next 5 working days)
-─────────────────────────────────────────────────────────
+#### Urgent — Action Required Today
+
+- [ ] [Item 1 — e.g., sign mission order for [name] — MIPS ref — deadline: COB today]
+- [ ] [Item 2 — e.g., PQ response to Director by 17:00 — draft attached]
+- [ ] [Item 3 — e.g., ISC comment on [file] — deadline: [date] — drafter: [name]]
+
+---
+
+#### Upcoming Deadlines (next 5 working days)
+
 [DD Month]: [Deadline 1 — owner]
 [DD Month]: [Deadline 2 — owner]
 [DD Month]: [Deadline 3 — owner]
 
-─────────────────────────────────────────────────────────
-INBOX — FOR YOUR ATTENTION
-─────────────────────────────────────────────────────────
+---
+
+#### Inbox — For Your Attention
+
 [Summary of 2–4 items requiring HoU decision or awareness — ARES refs if applicable]
 1. [Item — recommended action]
 2. [Item — FYI only]
 3. [Item — response drafted — awaiting clearance]
 
-─────────────────────────────────────────────────────────
-ABSENCES IN THE UNIT TODAY
-─────────────────────────────────────────────────────────
+---
+
+#### Absences in the Unit Today
+
 [Name]: [Annual leave / Mission / Training / Medical]
 [Name]: [...]
 
-─────────────────────────────────────────────────────────
-NOTES / REMINDERS
-─────────────────────────────────────────────────────────
+---
+
+#### Notes / Reminders
+
 [Any other item needing HoU awareness — internal event, visitor, external news]
-```
+
+---
 
 ### 2. Meeting Briefing Note (External / Inter-institutional)
 
-```
 MEETING BRIEFING NOTE
 Meeting:    [Title / Event name]
 Date/Time:  [DD Month YYYY, HH:MM]
 Venue:      [Room / Address / Teams link]
-HoU's role: □ Chairperson  □ Participant  □ Observer  □ Speaker
+HoU's role: - [ ] Chairperson  - [ ] Participant  - [ ] Observer  - [ ] Speaker
 
-─────────────────────────────────────────────────────────
-1. PURPOSE OF THE MEETING
+---
+
+#### 1. Purpose of the Meeting
+
 [1 paragraph — what decision / outcome is expected from this meeting?]
 
-─────────────────────────────────────────────────────────
-2. PARTICIPANTS
+---
+
+#### 2. Participants
+
 | Name | Organisation / DG | Role | Relationship |
 |---|---|---|---|
 | [Name] | [DG / Institution / Company] | [Position] | [Ally/Neutral/Critical] |
 
-─────────────────────────────────────────────────────────
-3. BACKGROUND
+---
+
+#### 3. Background
+
 [2–3 paragraphs — context the HoU needs to know: history of the issue,
 previous meetings, current status, pending decisions.]
 
-─────────────────────────────────────────────────────────
-4. KEY MESSAGES FOR THE HoU
-□ [Message 1 — what Commission position is to be conveyed]
-□ [Message 2]
-□ [Message 3]
+---
 
-─────────────────────────────────────────────────────────
-5. ANTICIPATED ISSUES / DIFFICULT QUESTIONS
+#### 4. Key Messages for the HoU
+
+- [ ] [Message 1 — what Commission position is to be conveyed]
+- [ ] [Message 2]
+- [ ] [Message 3]
+
+---
+
+#### 5. Anticipated Issues / Difficult Questions
+
 Q: [Anticipated question or sensitive point]
 A: [Suggested response or "flag to [contact] before meeting"]
 
-─────────────────────────────────────────────────────────
-6. DOCUMENTS FOR THE MEETING
-□ [Document 1 — attached / to be circulated before meeting]
-□ [Document 2]
+---
 
-─────────────────────────────────────────────────────────
-7. FOLLOW-UP EXPECTED
+#### 6. Documents for the Meeting
+
+- [ ] [Document 1 — attached / to be circulated before meeting]
+- [ ] [Document 2]
+
+---
+
+#### 7. Follow-up Expected
+
 [What should come out of this meeting — decision, draft text, next meeting, etc.]
-```
+
+---
 
 ### 3. Action Points Log (Running Tracker)
 
-```
 ACTION POINTS TRACKER — UNIT [XX.X]
 Last updated: [DD Month YYYY] by [Assistant name]
 
 | # | Action | Source (meeting/date) | Owner | Deadline | Status |
 |---|---|---|---|---|---|
-| 001 | [Description] | [Meeting, DD/MM] | [Name] | [DD/MM/YYYY] | 🟡 In progress |
-| 002 | [Description] | [Meeting, DD/MM] | [Name] | [DD/MM/YYYY] | 🔴 Overdue |
-| 003 | [Description] | [ARES/YYYY/NNNNN] | [Name] | [DD/MM/YYYY] | 🟢 Completed |
-| 004 | [Description] | [Email, DD/MM] | [Name] | [DD/MM/YYYY] | ⚪ Not started |
+| 001 | [Description] | [Meeting, DD/MM] | [Name] | [DD/MM/YYYY] | In progress |
+| 002 | [Description] | [Meeting, DD/MM] | [Name] | [DD/MM/YYYY] | Overdue |
+| 003 | [Description] | [ARES/YYYY/NNNNN] | [Name] | [DD/MM/YYYY] | Completed |
+| 004 | [Description] | [Email, DD/MM] | [Name] | [DD/MM/YYYY] | Not started |
 
-STATUS KEY:
-🟢 Completed    🟡 In progress    🔴 Overdue    ⚪ Not started    🔵 Blocked/Waiting
+Status: Completed / In progress / Overdue / Not started / Blocked/Waiting
 
-ITEMS REQUIRING HoU ATTENTION:
+**Items Requiring HoU Attention:**
 [List of items where HoU decision or escalation is needed — with deadlines]
-```
+
+---
 
 ### 4. Parliamentary Question — Contribution Template
 
-```
 CONTRIBUTION TO PQ RESPONSE
 PQ Reference:     [E-XXXXXX/YYYY or P-XXXXXX/YYYY]
 MEP:              [Name, Political Group, Member State]
@@ -249,61 +267,60 @@ Date received:    [DD Month YYYY]
 Response deadline: [DD Month YYYY — verify with SG/Cabinet]
 Subject:          [Title of PQ]
 
-QUESTION (verbatim):
+**Question (verbatim):**
 [Paste the official question text — do not paraphrase]
 
-RESPONSE CONTRIBUTION FROM DG [XX]:
+**Response Contribution from DG [XX]:**
 [Draft factual text — 150–300 words. Use plain language. Avoid jargon.
 The final response will be signed by the Commissioner.
 Structure: (1) Acknowledge the issue, (2) State EU/Commission position or facts,
 (3) Note any relevant action, initiative, or next step.]
 
-LINES TO TAKE:
-✔ [What to say]
-✘ [What to avoid — pending political decision / legally sensitive / competence of MS]
+**Lines to Take:**
+- What to say: [...]
+- What to avoid — pending political decision / legally sensitive / competence of MS: [...]
 
-REFERENCES / SOURCES USED:
+**References / Sources Used:**
 - [Regulation / Communication / Report — full title and reference]
 - [Website / official document if quoting data]
 
-CLEARED BY:
-□ Policy officer: [Name] — Date: [DD/MM]
-□ HoU: [Name] — Date: [DD/MM]
-□ Director (if politically sensitive): [Name] — Date: [DD/MM]
+**Cleared By:**
+- [ ] Policy officer: [Name] — Date: [DD/MM]
+- [ ] HoU: [Name] — Date: [DD/MM]
+- [ ] Director (if politically sensitive): [Name] — Date: [DD/MM]
 
 SUBMIT TO: [Cabinet / Director's office / SG — contact name and deadline]
-```
+
+---
 
 ### 5. Mission Order Preparation Checklist
 
-```
 MISSION ORDER PREPARATION CHECKLIST
 Mission for: [Name, grade, unit]
 Destination: [City, Country]
 Purpose:     [Conference / Meeting / Duty visit — brief description]
 Dates:       Departure: [DD Month YYYY] — Return: [DD Month YYYY]
 
-PRE-MISSION:
-□ Mission order created in MIPS/C2 — reference: [MIPS-XXXXXXXX]
-□ Mission approved by HoU (or delegate) BEFORE departure
-□ Travel booked via Commission travel agency — PNR: [reference]
-□ Hotel booked — confirmation: [reference]
-□ Visa required: □ Yes [arranged by DD Month] □ No
-□ Registration confirmation for event: [reference]
-□ Background documents provided to traveller
+**Pre-Mission:**
+- [ ] Mission order created in MIPS/C2 — reference: [MIPS-XXXXXXXX]
+- [ ] Mission approved by HoU (or delegate) BEFORE departure
+- [ ] Travel booked via Commission travel agency — PNR: [reference]
+- [ ] Hotel booked — confirmation: [reference]
+- [ ] Visa required: - [ ] Yes [arranged by DD Month] - [ ] No
+- [ ] Registration confirmation for event: [reference]
+- [ ] Background documents provided to traveller
 
-FINANCIAL:
-□ Advance payment requested: □ Yes €[amount] □ No
-□ Per diem rate for [destination] confirmed: €[amount]/day
-□ Budget line confirmed: [BL reference]
-□ ABAC pre-commitment: □ Required (> threshold) □ Not required
+**Financial:**
+- [ ] Advance payment requested: - [ ] Yes €[amount] - [ ] No
+- [ ] Per diem rate for [destination] confirmed: €[amount]/day
+- [ ] Budget line confirmed: [BL reference]
+- [ ] ABAC pre-commitment: - [ ] Required (> threshold) - [ ] Not required
 
-POST-MISSION (within 30 days of return):
-□ Expense claim submitted in MIPS/C2
-□ Supporting documents attached: receipts, boarding passes, hotel invoice
-□ Mission report submitted to HoU (if required by DG practice)
-□ HoU validation of expense claim in MIPS/C2: □ Done — [date]
-```
+**Post-Mission (within 30 days of return):**
+- [ ] Expense claim submitted in MIPS/C2
+- [ ] Supporting documents attached: receipts, boarding passes, hotel invoice
+- [ ] Mission report submitted to HoU (if required by DG practice)
+- [ ] HoU validation of expense claim in MIPS/C2: - [ ] Done — [date]
 
 ---
 
@@ -336,3 +353,7 @@ management (Outlook best practices), LIMITE document handling rules, Commission 
 on telework and hybrid work, Staff Regulations (leave provisions — Arts. 57–61 SR),
 Commission official document retention rules, Agenda management best practices,
 DG management meeting preparation standards.
+
+---
+
+> **DRAFT** — For review by the responsible official before action is taken. Not an official Commission decision or position.

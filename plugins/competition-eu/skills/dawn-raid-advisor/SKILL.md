@@ -129,7 +129,6 @@ investigative perspective.
 
 ## Inspection Log Template
 
-```
 COMPETITION INSPECTION — LOG
 Date:             [DD Month YYYY]
 Premises:         [Address]
@@ -138,48 +137,55 @@ DG COMP ref:      [inspection decision ref]
 Undertaking:      [Legal entity name]
 Legal observer:   [Name, firm]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-INSPECTION DECISION VERIFICATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ ] Decision produced and examined — copy obtained
-[ ] Addressed to correct legal entity: [entity name matches]
-[ ] Signed by DG COMP Director-General
-[ ] Subject matter and purpose identified: [brief description]
-[ ] Legal basis: [ ] Art. 20 Reg. 1/2003  [ ] Art. 21  [ ] Art. 13 EUMR
-[ ] Powers specified in decision: [ ] Access premises [ ] Access records [ ] IT
-    [ ] Sealing [ ] Oral explanations
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DOCUMENT / IT ACCESS LOG
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Time    Document / file accessed            Action taken           LPP claimed?
-[HH:MM] [Description]                      [Copied / Noted]       [ ] YES  [ ] NO
-[HH:MM] [Description]                      [Sealed envelope]      [ ] YES — privileged
-[HH:MM] [IT forensic image — workstation:] [Image taken]          [Flagged files: list]
+### Inspection Decision Verification
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ORAL EXPLANATIONS RECORD
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Time    Employee questioned    Question asked              Answer given / deferred
-[HH:MM] [Name / role]          [Summary of question]       [Answer / "deferred — written response"]
+- [ ] Decision produced and examined — copy obtained
+- [ ] Addressed to correct legal entity: [entity name matches]
+- [ ] Signed by DG COMP Director-General
+- [ ] Subject matter and purpose identified: [brief description]
+- [ ] Legal basis: - [ ] Art. 20 Reg. 1/2003  - [ ] Art. 21  - [ ] Art. 13 EUMR
+- [ ] Powers specified in decision: - [ ] Access premises - [ ] Access records - [ ] IT
+  - [ ] Sealing - [ ] Oral explanations
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-LPP CLAIMS — SEALED ENVELOPE RECORD
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Document ref    Description              Privilege basis           Inspector response
-[ref]           [Document description]   [External counsel comms]  [ ] Accepted — sealed
-[ref]           [Document description]   [LPP asserted]            [ ] Disputed — escalate to DG COMP
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CLOSE OF INSPECTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Document / IT Access Log
+
+| Time | Document / file accessed | Action taken | LPP claimed? |
+|---|---|---|---|
+| [HH:MM] | [Description] | [Copied / Noted] | - [ ] YES  - [ ] NO |
+| [HH:MM] | [Description] | [Sealed envelope] | - [ ] YES — privileged |
+| [HH:MM] | [IT forensic image — workstation:] | [Image taken] | [Flagged files: list] |
+
+---
+
+### Oral Explanations Record
+
+| Time | Employee questioned | Question asked | Answer given / deferred |
+|---|---|---|---|
+| [HH:MM] | [Name / role] | [Summary of question] | [Answer / "deferred — written response"] |
+
+---
+
+### LPP Claims — Sealed Envelope Record
+
+| Document ref | Description | Privilege basis | Inspector response |
+|---|---|---|---|
+| [ref] | [Document description] | [External counsel comms] | - [ ] Accepted — sealed |
+| [ref] | [Document description] | [LPP asserted] | - [ ] Disputed — escalate to DG COMP |
+
+---
+
+### Close of Inspection
+
 Time inspection concluded:   [HH:MM]
-Post-inspection document received from Commission:  [ ] YES (copy filed)  [ ] NO (request pending)
-Seals applied overnight:  [ ] YES — location: [room/IT]  [ ] NO
-Litigation hold issued:   [ ] YES — date: [date]  Scope: [describe]
+Post-inspection document received from Commission:  - [ ] YES (copy filed)  - [ ] NO (request pending)
+Seals applied overnight:  - [ ] YES — location: [room/IT]  - [ ] NO
+Litigation hold issued:   - [ ] YES — date: [date]  Scope: [describe]
 
 [review — external legal counsel must review this log before any further communication with DG COMP]
-```
 
 ---
 
@@ -226,5 +232,4 @@ Litigation hold issued:   [ ] YES — date: [date]  Scope: [describe]
 
 ---
 
-DRAFT — For review by a Competition lawyer or Legal Service lawyer before use.
-Not an official Commission position.
+> **DRAFT** — For review by a Competition lawyer or Legal Service lawyer before use. Not an official Commission position.

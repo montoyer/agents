@@ -131,91 +131,99 @@ deficiency generates exposure across a population of operations.
 
 ## Financial Correction Assessment Template
 
-```
-FINANCIAL CORRECTION ASSESSMENT — COHESION FUND
-Programme:        [CCI code] [Programme title]
-Fund:             [ ] ERDF  [ ] ESF+  [ ] CF  [ ] JTF  [ ] EMFAF
-MS / Region:      [Member state / region]
-Audit source:     [ ] AA annual control report  [ ] Commission audit  [ ] ECA  [ ] OLAF
-Finding:          [Description of the management/control system deficiency or operation-level error]
-Expenditure at risk: €[X]   Certified expenditure in scope: €[X]
-Assessed by:      [Name / DG REGIO / DG EMPL unit]   Date: [DD Month YYYY]
+**FINANCIAL CORRECTION ASSESSMENT — COHESION FUND**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CLASSIFICATION OF THE DEFICIENCY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Deficiency type:
-  [ ] Management and control system — key requirement [N] — category [1/2/3/4]
-  [ ] Public procurement irregularity — [single tender / no publication / conflict of interest / ...]
-  [ ] Eligibility irregularity — [operation / beneficiary / cost outside scope]
-  [ ] State aid irregularity — [unlawful aid / incompatible aid]
-  [ ] Performance irregularity — [milestone not met]
+**Programme:** [CCI code] [Programme title]
+**Fund:** - [ ] ERDF - [ ] ESF+ - [ ] CF - [ ] JTF - [ ] EMFAF
+**MS / Region:** [Member state / region]
+**Audit source:** - [ ] AA annual control report - [ ] Commission audit - [ ] ECA - [ ] OLAF
+**Finding:** [Description of the management/control system deficiency or operation-level error]
+**Expenditure at risk:** €[X] — **Certified expenditure in scope:** €[X]
+**Assessed by:** [Name / DG REGIO / DG EMPL unit] — **Date:** [DD Month YYYY]
 
-CPR flat-rate correction table reference:
-  Applicable table: [Commission Implementing Regulation ref / CPR Annex X]
-  Applicable flat rate: [5% / 10% / 25% / 100%]
-  Basis: [severity classification — [minor / significant / serious] deficiency]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CORRECTION CALCULATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Method:   [ ] Flat rate on affected expenditure  [ ] Item-by-item  [ ] Extrapolation
-Total expenditure subject to correction:   €[X]
-Flat rate applied:                          [X%]
-Gross correction:                           €[X]
-Already corrected by MA before certification: €[X]
-Net Commission correction:                  €[X]
+#### Classification of the Deficiency
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CONTRADICTORY PROCEDURE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Preliminary findings sent to MS:   [date]   Deadline for response: [date]
-MS response received:              [ ] YES [date]  [ ] NO (deadline expired)
-MS response assessment:            [ ] Accepted (correction reduced to €[X])
-                                   [ ] Not accepted (original correction maintained)
-                                   [ ] Partially accepted (correction revised to €[X])
+**Deficiency type:**
+- [ ] Management and control system — key requirement [N] — category [1/2/3/4]
+- [ ] Public procurement irregularity — [single tender / no publication / conflict of interest / ...]
+- [ ] Eligibility irregularity — [operation / beneficiary / cost outside scope]
+- [ ] State aid irregularity — [unlawful aid / incompatible aid]
+- [ ] Performance irregularity — [milestone not met]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-IMPLEMENTING DECISION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Final correction:                  €[X]
-Commission implementing decision:  [ ] Required (>€5m or politically sensitive)
-                                   [ ] Standard — net deduction from next payment application
-Recovery from MS:                  [ ] Via deduction from next payment  [ ] Recovery order
+**CPR flat-rate correction table reference:**
+- **Applicable table:** [Commission Implementing Regulation ref / CPR Annex X]
+- **Applicable flat rate:** [5% / 10% / 25% / 100%]
+- **Basis:** [severity classification — minor / significant / serious deficiency]
 
-[review — financial authorisation required]
-[EUR-Lex — verify current CPR flat-rate correction tables and implementing regulations]
-```
+#### Correction Calculation
+
+**Method:** - [ ] Flat rate on affected expenditure - [ ] Item-by-item - [ ] Extrapolation
+
+| Item | Amount |
+|---|---|
+| Total expenditure subject to correction | €[X] |
+| Flat rate applied | [X%] |
+| Gross correction | €[X] |
+| Already corrected by MA before certification | €[X] |
+| **Net Commission correction** | **€[X]** |
+
+#### Contradictory Procedure
+
+**Preliminary findings sent to MS:** [date] — **Deadline for response:** [date]
+**MS response received:** - [ ] YES [date] - [ ] NO (deadline expired)
+
+**MS response assessment:**
+- [ ] Accepted (correction reduced to €[X])
+- [ ] Not accepted (original correction maintained)
+- [ ] Partially accepted (correction revised to €[X])
+
+#### Implementing Decision
+
+**Final correction:** €[X]
+**Commission implementing decision:**
+- [ ] Required (>€5m or politically sensitive)
+- [ ] Standard — net deduction from next payment application
+
+**Recovery from MS:** - [ ] Via deduction from next payment - [ ] Recovery order
+
+`[review — financial authorisation required]`
+`[EUR-Lex — verify current CPR flat-rate correction tables and implementing regulations]`
 
 ---
 
 ## n+3 Decommitment Risk Monitor
 
-```
-DECOMMITMENT RISK MONITOR — [Programme CCI]   [Fund]
-Programming year N: [YYYY]   Decommitment deadline: 31 December [YYYY+3]
+**DECOMMITMENT RISK MONITOR — [Programme CCI] — [Fund]**
 
-Annual commitment (year N):          €[X]
-Advances paid:                       €[X]
-Certified expenditure to date:       €[X]
-─────────────────────────────────────────────────────────────────────────
-Amount at decommitment risk:         €[X]   (commitment − advances − certified exp.)
-Decommitment risk level:             [ ] HIGH (>25% of annual commitment at risk)
-                                     [ ] MEDIUM (10–25%)
-                                     [ ] LOW (<10%)
+**Programming year N:** [YYYY] — **Decommitment deadline:** 31 December [YYYY+3]
 
-Required certification by [date]:    €[X]
-Current monthly certification rate:  €[X]
-Months remaining:                    [N]
-Projected certification by deadline: €[X]
-Gap to be covered:                   €[X]
+| Item | Amount |
+|---|---|
+| Annual commitment (year N) | €[X] |
+| Advances paid | €[X] |
+| Certified expenditure to date | €[X] |
+| **Amount at decommitment risk** (commitment − advances − certified exp.) | **€[X]** |
 
-Recommended action:
-  [ ] Accelerate MA verification and certification of pending applications
-  [ ] Identify operations ready for certification — pipeline: €[X]
-  [ ] Escalate to MS managing authority — formal warning letter
-  [ ] Commission monitoring visit recommended
-```
+**Decommitment risk level:**
+- [ ] HIGH (>25% of annual commitment at risk)
+- [ ] MEDIUM (10–25%)
+- [ ] LOW (<10%)
+
+| Projection item | Value |
+|---|---|
+| Required certification by [date] | €[X] |
+| Current monthly certification rate | €[X] |
+| Months remaining | [N] |
+| Projected certification by deadline | €[X] |
+| **Gap to be covered** | **€[X]** |
+
+**Recommended action:**
+- [ ] Accelerate MA verification and certification of pending applications
+- [ ] Identify operations ready for certification — pipeline: €[X]
+- [ ] Escalate to MS managing authority — formal warning letter
+- [ ] Commission monitoring visit recommended
 
 ---
 

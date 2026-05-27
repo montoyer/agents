@@ -122,75 +122,89 @@ and every comparison method selection explained in the disclosure document.
 
 ## Normal Value Construction Worksheet
 
-```
-NORMAL VALUE CALCULATION — [Exporter name] — PCN [code]
-Investigation period:    [Date range]
-All values in:           [Currency] per unit of measurement: [kg / unit / m² / ...]
+**NORMAL VALUE CALCULATION — [Exporter name] — PCN [code]**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1 — DOMESTIC SALES REPRESENTATIVENESS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total export volume to EU (this PCN):    [X] units
-5% threshold:                             [X × 5%] units
-Domestic sales volume (this PCN):        [X] units
-Representative?                           [ ] YES (≥ 5%)  [ ] NO (<5%) → construct NV
+**Investigation period:** [Date range] — **All values in:** [Currency] per [kg / unit / m² / ...]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 2 — ORDINARY COURSE OF TRADE TEST
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WA domestic price (this PCN):            [currency] [X] / unit
-WA unit cost of production (this PCN):   [currency] [X] / unit
-Volume above cost / total volume:        [X%]
-OCT result:
-  [ ] ≥ 80% above cost → use all domestic sales    NV = WA of all: [X]
-  [ ] 10%–80% above cost → use only above-cost     NV = WA above-cost: [X]
-  [ ] < 10% above cost → construct NV
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 3 — CONSTRUCTED NORMAL VALUE (if triggered)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Direct materials:                        [X] / unit
-Direct labour:                           [X] / unit
-Manufacturing overhead (allocated):      [X] / unit
-─────────────────────────────────────────────────────────────────────────
-Cost of Production (COP):               [X] / unit
+#### Step 1 — Domestic Sales Representativeness
 
-SGA (basis: [exporter's records / industry average]):  [X] / unit  ([Y%] of COP)
-Profit (basis: [domestic sales / industry / other]):   [X] / unit  ([Y%] of COP)
-─────────────────────────────────────────────────────────────────────────
-CONSTRUCTED NORMAL VALUE:               [X] / unit
+| Item | Value |
+|---|---|
+| Total export volume to EU (this PCN) | [X] units |
+| 5% threshold | [X × 5%] units |
+| Domestic sales volume (this PCN) | [X] units |
+| Representative? | - [ ] YES (≥ 5%) — [ ] NO (<5%) → construct NV |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ADJUSTMENTS APPLIED (Art. 2(10))
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Adjustment type         Sub-§    Applied to    Amount    Verified?
-Physical characteristics (a)    NV / EP      [X]       [ ] YES  [ ] NO
-Transport               (e)     EP            [X]       [ ] YES  [ ] NO
-Credit costs            (g)     NV / EP      [X]       [ ] YES  [ ] NO
-[Other adjustments]             [NV/EP]      [X]       [ ] YES  [ ] NO
+---
 
-Adjusted NV:     [X] / unit
-Adjusted EP:     [X] / unit
+#### Step 2 — Ordinary Course of Trade Test
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DUMPING MARGIN
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Method:     [ ] WA-WA  [ ] T-T  [ ] WA-T (targeted dumping — justify separately)
-Margin (this PCN):  (Adj. NV − Adj. EP) / Adj. EP × 100% = [X%]
+| Item | Value |
+|---|---|
+| WA domestic price (this PCN) | [currency] [X] / unit |
+| WA unit cost of production (this PCN) | [currency] [X] / unit |
+| Volume above cost / total volume | [X%] |
 
-Weighted overall margin (all PCNs):  [X%]
-De minimis check (< 2%):            [ ] Above de minimis  [ ] De minimis → nil duty
+**OCT result:**
+- [ ] ≥ 80% above cost → use all domestic sales — NV = WA of all: [X]
+- [ ] 10%–80% above cost → use only above-cost sales — NV = WA above-cost: [X]
+- [ ] < 10% above cost → construct NV
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-LESSER DUTY RULE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Dumping margin:         [X%]
-Injury margin:          ([Target price − CIF import price] / CIF) × 100% = [X%]
-Applicable duty rate:   MIN(dumping margin, injury margin) = [X%]
+---
 
-[WTO — verify ADA Art. 2.4 and 2.4.2 compliance with the chosen comparison method]
-[model knowledge — verify current Commission NME country list and approved analogue countries]
-```
+#### Step 3 — Constructed Normal Value *(if triggered)*
+
+| Cost component | Per unit |
+|---|---|
+| Direct materials | [X] |
+| Direct labour | [X] |
+| Manufacturing overhead (allocated) | [X] |
+| **Cost of Production (COP)** | **[X]** |
+| SGA *(basis: [exporter's records / industry average])* | [X] ([Y%] of COP) |
+| Profit *(basis: [domestic sales / industry / other])* | [X] ([Y%] of COP) |
+| **Constructed Normal Value** | **[X] / unit** |
+
+---
+
+#### Adjustments Applied (Art. 2(10))
+
+| Adjustment type | Sub-§ | Applied to | Amount | Verified? |
+|---|---|---|---|---|
+| Physical characteristics | (a) | NV / EP | [X] | - [ ] YES — [ ] NO |
+| Transport | (e) | EP | [X] | - [ ] YES — [ ] NO |
+| Credit costs | (g) | NV / EP | [X] | - [ ] YES — [ ] NO |
+| [Other adjustments] | [ ] | [NV/EP] | [X] | - [ ] YES — [ ] NO |
+
+**Adjusted NV:** [X] / unit — **Adjusted EP:** [X] / unit
+
+---
+
+#### Dumping Margin
+
+**Comparison method:**
+- [ ] WA-WA — [ ] T-T — [ ] WA-T *(targeted dumping — justify separately)*
+
+**Margin (this PCN):** (Adj. NV − Adj. EP) / Adj. EP × 100% = **[X%]**
+
+**Weighted overall margin (all PCNs):** [X%]
+
+**De minimis check (< 2%):**
+- [ ] Above de minimis — [ ] De minimis → nil duty
+
+---
+
+#### Lesser Duty Rule
+
+| | Value |
+|---|---|
+| Dumping margin | [X%] |
+| Injury margin | ([Target price − CIF import price] / CIF) × 100% = [X%] |
+| **Applicable duty rate** | **MIN(dumping margin, injury margin) = [X%]** |
+
+`[WTO — verify ADA Art. 2.4 and 2.4.2 compliance with the chosen comparison method]`
+`[model knowledge — verify current Commission NME country list and approved analogue countries]`
 
 ---
 
